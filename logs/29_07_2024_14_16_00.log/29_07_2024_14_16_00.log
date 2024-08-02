@@ -1,0 +1,457 @@
+[2024-07-29 14:16:29,549]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:29,549]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:29,568]283INFO-Saved image to debug_image_21.jpg in RGB format
+[2024-07-29 14:16:32,084]308INFO-Request processing time: 2.56 seconds
+[2024-07-29 14:16:32,096]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:32,097]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:32,102]283INFO-Saved image to debug_image_24.jpg in RGB format
+[2024-07-29 14:16:32,386]308INFO-Request processing time: 0.30 seconds
+[2024-07-29 14:16:32,394]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:32,394]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:32,400]283INFO-Saved image to debug_image_27.jpg in RGB format
+[2024-07-29 14:16:32,601]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:32,609]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:32,610]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:32,615]283INFO-Saved image to debug_image_30.jpg in RGB format
+[2024-07-29 14:16:32,849]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:16:32,862]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:32,862]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:32,873]283INFO-Saved image to debug_image_33.jpg in RGB format
+[2024-07-29 14:16:33,170]308INFO-Request processing time: 0.32 seconds
+[2024-07-29 14:16:33,177]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:33,177]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:33,181]283INFO-Saved image to debug_image_36.jpg in RGB format
+[2024-07-29 14:16:33,492]308INFO-Request processing time: 0.32 seconds
+[2024-07-29 14:16:33,497]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:33,497]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:33,502]283INFO-Saved image to debug_image_39.jpg in RGB format
+[2024-07-29 14:16:33,731]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:33,741]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:33,741]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:33,748]283INFO-Saved image to debug_image_42.jpg in RGB format
+[2024-07-29 14:16:34,041]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:16:34,048]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:34,048]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:34,052]283INFO-Saved image to debug_image_45.jpg in RGB format
+[2024-07-29 14:16:34,550]308INFO-Request processing time: 0.51 seconds
+[2024-07-29 14:16:34,559]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:34,559]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:34,564]283INFO-Saved image to debug_image_48.jpg in RGB format
+[2024-07-29 14:16:34,813]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:16:34,819]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:34,820]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:34,848]283INFO-Saved image to debug_image_51.jpg in RGB format
+[2024-07-29 14:16:35,081]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:16:35,089]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:35,089]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:35,113]283INFO-Saved image to debug_image_54.jpg in RGB format
+[2024-07-29 14:16:35,404]308INFO-Request processing time: 0.32 seconds
+[2024-07-29 14:16:35,411]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:35,411]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:35,428]283INFO-Saved image to debug_image_57.jpg in RGB format
+[2024-07-29 14:16:35,624]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:35,629]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:35,629]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:35,632]283INFO-Saved image to debug_image_60.jpg in RGB format
+[2024-07-29 14:16:35,831]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:35,837]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:35,838]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:35,842]283INFO-Saved image to debug_image_63.jpg in RGB format
+[2024-07-29 14:16:36,044]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:36,054]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:36,054]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:36,070]283INFO-Saved image to debug_image_66.jpg in RGB format
+[2024-07-29 14:16:36,287]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:36,293]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:36,293]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:36,296]283INFO-Saved image to debug_image_69.jpg in RGB format
+[2024-07-29 14:16:36,532]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:36,538]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:36,538]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:36,545]283INFO-Saved image to debug_image_72.jpg in RGB format
+[2024-07-29 14:16:36,733]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:36,739]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:36,739]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:36,743]283INFO-Saved image to debug_image_75.jpg in RGB format
+[2024-07-29 14:16:36,931]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:36,938]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:36,940]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:36,948]283INFO-Saved image to debug_image_78.jpg in RGB format
+[2024-07-29 14:16:37,175]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:37,181]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:37,182]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:37,183]283INFO-Saved image to debug_image_81.jpg in RGB format
+[2024-07-29 14:16:37,377]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:37,383]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:37,383]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:37,385]283INFO-Saved image to debug_image_84.jpg in RGB format
+[2024-07-29 14:16:37,591]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:37,600]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:37,600]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:37,617]283INFO-Saved image to debug_image_87.jpg in RGB format
+[2024-07-29 14:16:37,808]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:37,816]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:37,816]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:37,822]283INFO-Saved image to debug_image_90.jpg in RGB format
+[2024-07-29 14:16:38,008]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:38,016]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:38,016]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:38,020]283INFO-Saved image to debug_image_93.jpg in RGB format
+[2024-07-29 14:16:38,227]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:38,232]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:38,232]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:38,238]283INFO-Saved image to debug_image_96.jpg in RGB format
+[2024-07-29 14:16:38,497]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:16:38,506]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:38,506]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:38,512]283INFO-Saved image to debug_image_99.jpg in RGB format
+[2024-07-29 14:16:38,695]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:16:38,700]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:38,700]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:38,700]283INFO-Saved image to debug_image_102.jpg in RGB format
+[2024-07-29 14:16:38,903]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:38,909]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:38,909]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:38,909]283INFO-Saved image to debug_image_105.jpg in RGB format
+[2024-07-29 14:16:39,092]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:16:39,097]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:39,097]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:39,102]283INFO-Saved image to debug_image_108.jpg in RGB format
+[2024-07-29 14:16:39,281]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:16:39,290]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:39,290]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:39,297]283INFO-Saved image to debug_image_111.jpg in RGB format
+[2024-07-29 14:16:39,556]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:16:39,561]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:39,562]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:39,564]283INFO-Saved image to debug_image_114.jpg in RGB format
+[2024-07-29 14:16:39,754]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:39,760]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:39,760]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:39,762]283INFO-Saved image to debug_image_117.jpg in RGB format
+[2024-07-29 14:16:39,930]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:16:39,935]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:39,935]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:39,944]283INFO-Saved image to debug_image_120.jpg in RGB format
+[2024-07-29 14:16:40,162]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:16:40,168]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:40,168]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:40,173]283INFO-Saved image to debug_image_123.jpg in RGB format
+[2024-07-29 14:16:40,385]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:40,390]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:40,390]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:40,395]283INFO-Saved image to debug_image_126.jpg in RGB format
+[2024-07-29 14:16:40,586]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:40,592]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:40,593]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:40,599]283INFO-Saved image to debug_image_129.jpg in RGB format
+[2024-07-29 14:16:40,794]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:40,802]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:40,802]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:40,804]283INFO-Saved image to debug_image_132.jpg in RGB format
+[2024-07-29 14:16:41,038]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:41,044]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:41,044]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:41,047]283INFO-Saved image to debug_image_135.jpg in RGB format
+[2024-07-29 14:16:41,248]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:41,255]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:41,255]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:41,258]283INFO-Saved image to debug_image_138.jpg in RGB format
+[2024-07-29 14:16:41,448]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:41,457]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:41,457]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:41,460]283INFO-Saved image to debug_image_141.jpg in RGB format
+[2024-07-29 14:16:41,736]308INFO-Request processing time: 0.29 seconds
+[2024-07-29 14:16:41,744]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:41,745]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:41,751]283INFO-Saved image to debug_image_144.jpg in RGB format
+[2024-07-29 14:16:41,939]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:16:41,945]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:41,945]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:41,949]283INFO-Saved image to debug_image_147.jpg in RGB format
+[2024-07-29 14:16:42,166]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:16:42,172]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:42,172]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:42,176]283INFO-Saved image to debug_image_150.jpg in RGB format
+[2024-07-29 14:16:42,401]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:16:42,409]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:42,409]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:42,409]283INFO-Saved image to debug_image_153.jpg in RGB format
+[2024-07-29 14:16:42,612]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:42,618]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:42,618]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:42,627]283INFO-Saved image to debug_image_156.jpg in RGB format
+[2024-07-29 14:16:42,943]308INFO-Request processing time: 0.33 seconds
+[2024-07-29 14:16:42,948]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:42,948]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:42,955]283INFO-Saved image to debug_image_159.jpg in RGB format
+[2024-07-29 14:16:43,286]308INFO-Request processing time: 0.34 seconds
+[2024-07-29 14:16:43,293]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:43,293]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:43,302]283INFO-Saved image to debug_image_162.jpg in RGB format
+[2024-07-29 14:16:43,542]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:16:43,552]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:43,552]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:43,556]283INFO-Saved image to debug_image_165.jpg in RGB format
+[2024-07-29 14:16:43,760]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:43,765]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:43,765]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:43,771]283INFO-Saved image to debug_image_168.jpg in RGB format
+[2024-07-29 14:16:44,111]308INFO-Request processing time: 0.35 seconds
+[2024-07-29 14:16:44,119]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:44,119]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:44,122]283INFO-Saved image to debug_image_171.jpg in RGB format
+[2024-07-29 14:16:44,385]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:16:44,390]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:44,390]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:44,401]283INFO-Saved image to debug_image_174.jpg in RGB format
+[2024-07-29 14:16:44,595]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:44,600]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:44,600]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:44,600]283INFO-Saved image to debug_image_177.jpg in RGB format
+[2024-07-29 14:16:44,817]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:44,823]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:44,824]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:44,828]283INFO-Saved image to debug_image_180.jpg in RGB format
+[2024-07-29 14:16:45,073]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:16:45,088]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:45,088]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:45,108]283INFO-Saved image to debug_image_183.jpg in RGB format
+[2024-07-29 14:16:45,430]308INFO-Request processing time: 0.35 seconds
+[2024-07-29 14:16:45,438]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:45,438]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:45,442]283INFO-Saved image to debug_image_186.jpg in RGB format
+[2024-07-29 14:16:45,657]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:45,663]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:45,663]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:45,667]283INFO-Saved image to debug_image_189.jpg in RGB format
+[2024-07-29 14:16:45,864]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:45,869]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:45,870]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:45,872]283INFO-Saved image to debug_image_192.jpg in RGB format
+[2024-07-29 14:16:46,086]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:46,094]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:46,094]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:46,109]283INFO-Saved image to debug_image_195.jpg in RGB format
+[2024-07-29 14:16:46,333]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:16:46,341]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:46,341]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:46,349]283INFO-Saved image to debug_image_198.jpg in RGB format
+[2024-07-29 14:16:46,591]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:16:46,592]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:46,592]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:46,623]283INFO-Saved image to debug_image_201.jpg in RGB format
+[2024-07-29 14:16:46,842]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:16:46,844]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:46,851]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:46,858]283INFO-Saved image to debug_image_204.jpg in RGB format
+[2024-07-29 14:16:47,051]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:47,060]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:47,060]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:47,066]283INFO-Saved image to debug_image_207.jpg in RGB format
+[2024-07-29 14:16:47,523]308INFO-Request processing time: 0.47 seconds
+[2024-07-29 14:16:47,530]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:47,531]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:47,535]283INFO-Saved image to debug_image_210.jpg in RGB format
+[2024-07-29 14:16:47,790]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:16:47,792]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:47,792]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:47,802]283INFO-Saved image to debug_image_213.jpg in RGB format
+[2024-07-29 14:16:48,162]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:16:48,171]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:48,171]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:48,178]283INFO-Saved image to debug_image_216.jpg in RGB format
+[2024-07-29 14:16:48,454]308INFO-Request processing time: 0.29 seconds
+[2024-07-29 14:16:48,457]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:48,457]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:48,474]283INFO-Saved image to debug_image_219.jpg in RGB format
+[2024-07-29 14:16:48,835]308INFO-Request processing time: 0.38 seconds
+[2024-07-29 14:16:48,842]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:48,842]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:48,849]283INFO-Saved image to debug_image_222.jpg in RGB format
+[2024-07-29 14:16:49,179]308INFO-Request processing time: 0.34 seconds
+[2024-07-29 14:16:49,183]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:49,188]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:49,192]283INFO-Saved image to debug_image_225.jpg in RGB format
+[2024-07-29 14:16:49,495]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:16:49,503]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:49,503]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:49,520]283INFO-Saved image to debug_image_228.jpg in RGB format
+[2024-07-29 14:16:49,863]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:16:49,870]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:49,870]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:49,876]283INFO-Saved image to debug_image_231.jpg in RGB format
+[2024-07-29 14:16:50,149]308INFO-Request processing time: 0.29 seconds
+[2024-07-29 14:16:50,155]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:50,155]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:50,160]283INFO-Saved image to debug_image_234.jpg in RGB format
+[2024-07-29 14:16:50,460]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:16:50,468]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:50,469]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:50,473]283INFO-Saved image to debug_image_237.jpg in RGB format
+[2024-07-29 14:16:50,684]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:50,696]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:50,696]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:50,703]283INFO-Saved image to debug_image_240.jpg in RGB format
+[2024-07-29 14:16:51,048]308INFO-Request processing time: 0.36 seconds
+[2024-07-29 14:16:51,054]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:51,054]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:51,055]283INFO-Saved image to debug_image_243.jpg in RGB format
+[2024-07-29 14:16:51,403]308INFO-Request processing time: 0.36 seconds
+[2024-07-29 14:16:51,403]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:51,403]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:51,417]283INFO-Saved image to debug_image_246.jpg in RGB format
+[2024-07-29 14:16:51,840]308INFO-Request processing time: 0.44 seconds
+[2024-07-29 14:16:51,850]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:51,850]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:51,856]283INFO-Saved image to debug_image_249.jpg in RGB format
+[2024-07-29 14:16:52,150]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:16:52,159]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:52,159]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:52,161]283INFO-Saved image to debug_image_252.jpg in RGB format
+[2024-07-29 14:16:52,364]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:52,372]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:52,372]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:52,382]283INFO-Saved image to debug_image_255.jpg in RGB format
+[2024-07-29 14:16:52,584]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:52,589]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:52,589]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:52,602]283INFO-Saved image to debug_image_258.jpg in RGB format
+[2024-07-29 14:16:52,831]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:16:52,838]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:52,838]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:52,846]283INFO-Saved image to debug_image_261.jpg in RGB format
+[2024-07-29 14:16:53,061]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:16:53,067]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:53,067]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:53,067]283INFO-Saved image to debug_image_264.jpg in RGB format
+[2024-07-29 14:16:53,271]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:53,273]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:53,273]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:53,281]283INFO-Saved image to debug_image_267.jpg in RGB format
+[2024-07-29 14:16:53,480]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:53,486]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:53,487]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:53,490]283INFO-Saved image to debug_image_270.jpg in RGB format
+[2024-07-29 14:16:53,702]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:53,711]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:53,711]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:53,714]283INFO-Saved image to debug_image_273.jpg in RGB format
+[2024-07-29 14:16:53,911]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:53,918]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:53,918]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:53,922]283INFO-Saved image to debug_image_276.jpg in RGB format
+[2024-07-29 14:16:54,219]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:16:54,229]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:54,229]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:54,235]283INFO-Saved image to debug_image_279.jpg in RGB format
+[2024-07-29 14:16:54,459]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:54,474]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:54,474]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:54,478]283INFO-Saved image to debug_image_282.jpg in RGB format
+[2024-07-29 14:16:54,672]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:54,681]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:54,682]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:54,686]283INFO-Saved image to debug_image_285.jpg in RGB format
+[2024-07-29 14:16:54,910]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:16:54,916]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:54,917]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:54,924]283INFO-Saved image to debug_image_288.jpg in RGB format
+[2024-07-29 14:16:55,141]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:16:55,147]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:55,147]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:55,173]283INFO-Saved image to debug_image_291.jpg in RGB format
+[2024-07-29 14:16:55,435]308INFO-Request processing time: 0.29 seconds
+[2024-07-29 14:16:55,446]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:55,446]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:55,452]283INFO-Saved image to debug_image_294.jpg in RGB format
+[2024-07-29 14:16:55,694]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:16:55,702]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:55,702]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:55,708]283INFO-Saved image to debug_image_297.jpg in RGB format
+[2024-07-29 14:16:55,937]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:55,947]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:55,947]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:55,953]283INFO-Saved image to debug_image_300.jpg in RGB format
+[2024-07-29 14:16:56,197]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:16:56,203]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:56,203]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:56,210]283INFO-Saved image to debug_image_303.jpg in RGB format
+[2024-07-29 14:16:56,467]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:16:56,476]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:56,477]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:56,480]283INFO-Saved image to debug_image_306.jpg in RGB format
+[2024-07-29 14:16:56,690]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:16:56,696]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:56,696]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:56,699]283INFO-Saved image to debug_image_309.jpg in RGB format
+[2024-07-29 14:16:56,871]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:16:56,877]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:56,877]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:56,880]283INFO-Saved image to debug_image_312.jpg in RGB format
+[2024-07-29 14:16:57,045]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:16:57,051]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:57,051]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:57,054]283INFO-Saved image to debug_image_315.jpg in RGB format
+[2024-07-29 14:16:57,212]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:16:57,221]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:57,221]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:57,225]283INFO-Saved image to debug_image_318.jpg in RGB format
+[2024-07-29 14:16:57,443]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:16:57,451]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:57,452]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:57,462]283INFO-Saved image to debug_image_321.jpg in RGB format
+[2024-07-29 14:16:57,832]308INFO-Request processing time: 0.39 seconds
+[2024-07-29 14:16:57,837]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:57,837]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:57,842]283INFO-Saved image to debug_image_324.jpg in RGB format
+[2024-07-29 14:16:58,042]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:58,050]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:58,050]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:58,053]283INFO-Saved image to debug_image_327.jpg in RGB format
+[2024-07-29 14:16:58,279]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:58,290]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:58,290]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:58,296]283INFO-Saved image to debug_image_330.jpg in RGB format
+[2024-07-29 14:16:58,489]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:16:58,495]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:58,495]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:58,498]283INFO-Saved image to debug_image_333.jpg in RGB format
+[2024-07-29 14:16:58,786]308INFO-Request processing time: 0.30 seconds
+[2024-07-29 14:16:58,791]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:58,791]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:58,797]283INFO-Saved image to debug_image_336.jpg in RGB format
+[2024-07-29 14:16:59,027]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:59,034]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:59,035]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:59,038]283INFO-Saved image to debug_image_339.jpg in RGB format
+[2024-07-29 14:16:59,215]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:16:59,225]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:59,225]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:59,229]283INFO-Saved image to debug_image_342.jpg in RGB format
+[2024-07-29 14:16:59,375]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:16:59,381]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:59,382]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:59,385]283INFO-Saved image to debug_image_345.jpg in RGB format
+[2024-07-29 14:16:59,554]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:16:59,559]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:59,559]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:59,562]283INFO-Saved image to debug_image_348.jpg in RGB format
+[2024-07-29 14:16:59,791]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:16:59,798]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:16:59,798]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:16:59,802]283INFO-Saved image to debug_image_351.jpg in RGB format
+[2024-07-29 14:17:00,038]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:17:00,045]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:17:00,045]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:17:00,109]283INFO-Saved image to debug_image_354.jpg in RGB format
+[2024-07-29 14:17:00,272]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:17:00,278]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:17:00,278]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:17:00,315]283INFO-Saved image to debug_image_357.jpg in RGB format
+[2024-07-29 14:17:00,467]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:17:00,473]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:17:00,473]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:17:00,477]283INFO-Saved image to debug_image_360.jpg in RGB format
+[2024-07-29 14:17:00,628]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:17:00,631]337INFO-WebSocket disconnected

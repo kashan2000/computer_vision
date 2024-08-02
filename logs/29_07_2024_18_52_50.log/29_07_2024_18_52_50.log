@@ -1,0 +1,202 @@
+[2024-07-29 18:53:39,592]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:39,595]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:43,843]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:43,855]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:43,855]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:44,261]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:44,274]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:44,275]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:44,699]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:44,706]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:44,706]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:44,990]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:44,996]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:44,996]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:45,308]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:45,319]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:45,319]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:45,672]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:45,680]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:45,681]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:46,060]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:46,064]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:46,066]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:46,307]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:46,315]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:46,315]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:46,534]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:46,540]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:46,540]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:46,906]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:46,915]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:46,915]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:47,251]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:47,259]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:47,259]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:47,541]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:47,547]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:47,547]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:47,947]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:47,952]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:47,952]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:48,341]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:48,352]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:48,352]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:48,691]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:48,699]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:48,700]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:48,985]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:48,994]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:48,994]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:49,468]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:49,475]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:49,475]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:49,856]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:49,866]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:49,867]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:50,122]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:50,129]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:50,129]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:50,423]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:50,430]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:50,430]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:50,828]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:50,836]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:50,837]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:51,122]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:51,131]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:51,131]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:51,422]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:51,436]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:51,438]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:51,702]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:51,709]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:51,709]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:51,985]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:51,993]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:51,993]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:52,295]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:52,301]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:52,301]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:52,596]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:52,605]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:52,605]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:52,874]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:52,880]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:52,880]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:53,222]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:53,230]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:53,230]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:53,542]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:53,548]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:53,548]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:53,976]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:53,985]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:53,985]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:54,297]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:54,305]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:54,306]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:56,530]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:56,538]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:56,538]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:56,931]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:56,939]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:56,940]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:57,462]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:57,467]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:57,468]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:57,940]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:57,949]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:57,949]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:58,221]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:58,228]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:58,228]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:58,696]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:58,705]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:58,705]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:59,069]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:59,076]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:59,076]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:59,384]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:59,394]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:59,394]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:53:59,725]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:53:59,737]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:53:59,738]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:00,140]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:00,148]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:00,148]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:00,444]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:00,452]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:00,452]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:00,740]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:00,748]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:00,748]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:00,980]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:00,988]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:00,988]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:01,254]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:01,262]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:01,262]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:01,566]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:01,574]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:01,574]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:01,915]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:01,925]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:01,925]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:02,244]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:02,249]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:02,249]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:02,540]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:02,548]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:02,548]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:02,833]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:02,840]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:02,840]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:03,138]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:03,144]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:03,144]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:03,572]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:03,582]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:03,582]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:04,207]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:04,214]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:04,214]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:04,526]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:04,537]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:04,537]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:04,905]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:04,911]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:04,911]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:05,279]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:05,288]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:05,288]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:05,623]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:05,630]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:05,631]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:05,952]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:05,959]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:05,959]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:06,265]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:06,272]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:06,272]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:06,609]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:06,619]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:06,619]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:06,915]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:06,923]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:06,923]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:07,164]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:07,169]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:07,169]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:07,464]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:07,466]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:07,466]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:07,793]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:07,799]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:07,799]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:08,100]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:08,111]272INFO-Image dimensions: 720x480x3
+[2024-07-29 18:54:08,111]273INFO-Expected dimensions: 720x480
+[2024-07-29 18:54:08,359]319ERROR-Error processing frame: cannot access local variable 'prev_count' where it is not associated with a value
+[2024-07-29 18:54:08,361]337INFO-WebSocket disconnected

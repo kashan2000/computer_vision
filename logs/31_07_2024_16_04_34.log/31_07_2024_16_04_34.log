@@ -1,0 +1,72 @@
+[2024-07-31 16:06:33,372]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:33,381]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:35,617]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:35,617]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:35,969]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:35,970]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,126]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,127]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,208]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,208]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,322]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,322]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,452]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,452]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,590]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,590]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,668]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,668]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,753]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,754]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,851]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,851]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:36,942]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:36,942]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,011]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,011]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,091]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,091]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,177]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,178]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,298]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,298]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,390]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,390]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,479]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,479]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,550]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,550]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,611]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,611]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,671]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,671]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,737]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,737]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,803]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,803]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,866]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,867]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,932]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,932]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:37,998]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:37,998]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:38,072]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:38,072]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:38,139]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:06:38,140]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:06:40,553]128INFO-WebSocket disconnected
+[2024-07-31 16:23:40,223]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:23:40,228]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:23:46,794]112ERROR-Error processing frame: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 1036800 bytes in function 'cv::OutOfMemoryError'
+
+[2024-07-31 16:23:46,803]112ERROR-Error processing frame: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 1036800 bytes in function 'cv::OutOfMemoryError'
+
+[2024-07-31 16:23:46,803]112ERROR-Error processing frame: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 1036800 bytes in function 'cv::OutOfMemoryError'
+
+[2024-07-31 16:23:46,813]112ERROR-Error processing frame: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 1036800 bytes in function 'cv::OutOfMemoryError'
+
+[2024-07-31 16:23:46,813]112ERROR-Error processing frame: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 1036800 bytes in function 'cv::OutOfMemoryError'
+
+[2024-07-31 16:23:46,826]66INFO-Image dimensions: 720x480x3
+[2024-07-31 16:23:46,826]67INFO-Expected dimensions: 720x480
+[2024-07-31 16:24:01,800]128INFO-WebSocket disconnected

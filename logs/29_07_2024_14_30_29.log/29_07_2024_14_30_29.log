@@ -1,0 +1,1719 @@
+[2024-07-29 14:30:56,342]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:56,342]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:58,238]308INFO-Request processing time: 1.91 seconds
+[2024-07-29 14:30:58,247]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:58,247]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:58,462]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:30:58,468]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:58,468]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:58,670]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:30:58,677]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:58,677]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:58,883]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:30:58,891]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:58,891]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:59,076]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:30:59,081]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:59,082]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:59,256]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:30:59,261]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:59,262]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:59,465]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:30:59,472]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:59,472]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:59,654]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:30:59,662]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:59,662]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:30:59,841]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:30:59,847]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:30:59,848]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:00,058]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:00,065]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:00,065]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:00,273]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:00,281]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:00,281]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:00,476]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:00,482]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:00,482]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:00,664]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:00,671]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:00,671]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:00,855]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:00,869]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:00,869]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:01,094]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:31:01,107]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:01,107]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:01,288]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:01,294]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:01,295]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:01,500]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:01,505]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:01,506]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:01,703]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:01,711]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:01,711]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:01,908]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:01,916]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:01,917]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:02,129]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:02,136]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:02,136]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:02,305]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:02,311]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:02,311]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:02,516]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:02,524]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:02,524]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:02,726]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:02,731]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:02,732]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:02,979]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:02,985]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:02,985]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:03,178]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:03,183]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:03,183]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:03,376]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:03,383]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:03,383]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:03,584]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:03,590]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:03,590]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:03,795]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:03,800]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:03,800]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:04,011]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:04,020]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:04,020]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:04,215]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:04,220]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:04,221]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:04,416]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:04,422]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:04,423]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:04,592]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:04,599]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:04,599]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:04,796]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:04,806]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:04,806]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:04,997]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:05,003]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:05,004]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:05,204]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:05,209]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:05,210]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:05,403]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:05,409]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:05,409]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:05,600]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:05,608]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:05,608]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:05,787]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:05,793]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:05,793]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:05,964]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:05,970]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:05,971]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:06,196]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:06,205]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:06,205]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:06,403]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:06,409]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:06,409]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:06,613]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:06,619]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:06,619]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:06,804]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:06,810]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:06,811]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:06,999]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:07,007]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:07,008]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:07,177]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:07,183]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:07,184]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:07,385]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:07,391]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:07,391]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:07,568]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:07,575]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:07,575]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:07,754]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:07,764]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:07,765]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:07,959]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:07,964]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:07,965]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:08,132]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:08,138]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:08,138]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:08,340]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:08,349]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:08,349]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:08,575]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:08,582]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:08,583]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:08,782]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:08,788]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:08,788]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:08,996]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:09,001]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:09,002]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:09,165]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:09,173]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:09,173]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:09,349]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:09,355]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:09,355]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:09,559]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:09,565]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:09,566]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:09,748]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:09,756]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:09,756]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:09,952]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:09,957]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:09,957]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:10,152]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:10,159]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:10,159]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:10,454]308INFO-Request processing time: 0.30 seconds
+[2024-07-29 14:31:10,460]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:10,460]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:10,698]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:31:10,707]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:10,707]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:10,947]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:10,956]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:10,956]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:11,244]308INFO-Request processing time: 0.30 seconds
+[2024-07-29 14:31:11,251]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:11,251]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:11,578]308INFO-Request processing time: 0.33 seconds
+[2024-07-29 14:31:11,584]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:11,584]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:11,829]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:11,840]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:11,840]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:12,146]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:31:12,158]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:12,158]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:12,430]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:31:12,437]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:12,438]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:12,753]308INFO-Request processing time: 0.32 seconds
+[2024-07-29 14:31:12,764]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:12,764]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:12,976]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:12,985]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:12,986]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:13,232]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:13,242]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:13,242]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:13,425]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:13,434]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:13,434]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:13,832]308INFO-Request processing time: 0.41 seconds
+[2024-07-29 14:31:13,840]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:13,840]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:14,091]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:31:14,099]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:14,100]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:14,353]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:31:14,360]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:14,361]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:14,567]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:14,573]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:14,573]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:14,768]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:14,775]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:14,776]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:15,018]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:15,025]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:15,025]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:15,283]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:31:15,288]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:15,288]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:15,510]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:15,520]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:15,520]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:15,733]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:15,738]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:15,739]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:15,975]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:31:15,981]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:15,981]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:16,223]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:16,230]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:16,231]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:16,439]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:16,447]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:16,448]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:16,676]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:31:16,682]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:16,683]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:16,885]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:16,891]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:16,891]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:17,164]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:31:17,176]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:17,177]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:17,381]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:17,387]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:17,387]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:17,584]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:17,592]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:17,592]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:17,780]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:17,786]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:17,786]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:17,980]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:17,989]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:17,989]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:18,195]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:18,202]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:18,202]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:18,407]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:18,414]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:18,414]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:18,663]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:31:18,670]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:18,670]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:18,842]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:18,859]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:18,860]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:19,060]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:19,067]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:19,068]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:19,286]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:19,289]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:19,294]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:19,494]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:19,507]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:19,507]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:19,714]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:19,722]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:19,722]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:19,900]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:19,920]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:19,920]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:20,113]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:20,121]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:20,121]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:20,344]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:20,352]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:20,352]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:20,569]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:20,576]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:20,576]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:20,772]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:20,777]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:20,777]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:20,962]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:20,968]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:20,968]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:21,144]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:21,153]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:21,153]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:21,336]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:21,341]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:21,341]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:21,512]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:21,529]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:21,529]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:21,727]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:21,736]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:21,736]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:21,976]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:21,984]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:21,985]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:22,165]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:22,173]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:22,174]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:22,357]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:22,363]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:22,363]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:22,555]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:22,563]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:22,563]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:22,787]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:22,789]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:22,789]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:22,995]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:23,003]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:23,003]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:23,208]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:23,217]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:23,217]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:23,391]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:23,409]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:23,409]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:23,596]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:23,603]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:23,605]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:23,805]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:23,812]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:23,812]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:23,991]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:24,001]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:24,001]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:24,188]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:24,206]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:24,206]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:24,395]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:24,400]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:24,400]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:24,589]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:24,593]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:24,593]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:24,765]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:24,765]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:24,765]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:24,966]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:24,975]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:24,975]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:25,221]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:31:25,228]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:25,229]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:25,501]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:31:25,515]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:25,515]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:25,800]308INFO-Request processing time: 0.29 seconds
+[2024-07-29 14:31:25,803]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:25,803]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:26,116]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:31:26,123]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:26,123]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:26,485]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:31:26,492]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:26,492]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:26,798]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:31:26,806]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:26,806]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:27,080]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:31:27,087]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:27,087]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:27,355]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:31:27,360]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:27,360]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:27,562]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:27,569]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:27,569]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:27,769]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:27,777]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:27,777]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:27,990]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:27,997]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:27,997]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:28,214]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:28,220]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:28,220]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:28,448]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:28,458]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:28,458]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:28,670]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:28,677]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:28,677]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:28,886]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:28,892]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:28,893]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:29,071]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:29,074]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:29,074]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:29,240]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:29,262]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:29,262]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:29,442]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:29,449]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:29,449]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:29,637]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:29,643]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:29,643]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:29,840]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:29,840]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:29,840]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:30,022]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:30,027]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:30,027]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:30,195]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:30,202]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:30,203]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:30,392]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:30,399]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:30,399]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:30,586]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:30,595]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:30,595]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:30,781]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:30,799]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:30,799]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:31,052]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:31:31,056]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:31,056]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:31,245]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:31,252]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:31,252]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:31,448]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:31,458]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:31,459]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:31,649]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:31,656]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:31,657]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:31,924]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:31:31,949]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:31,949]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:32,257]308INFO-Request processing time: 0.32 seconds
+[2024-07-29 14:31:32,272]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:32,272]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:32,464]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:32,471]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:32,473]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:32,651]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:32,659]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:32,659]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:32,860]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:32,868]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:32,868]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:33,157]308INFO-Request processing time: 0.30 seconds
+[2024-07-29 14:31:33,173]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:33,174]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:33,388]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:33,399]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:33,399]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:33,668]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:31:33,683]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:33,683]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:34,052]308INFO-Request processing time: 0.38 seconds
+[2024-07-29 14:31:34,058]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:34,058]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:34,267]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:34,276]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:34,276]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:34,469]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:34,478]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:34,478]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:34,675]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:34,675]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:34,675]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:34,904]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:31:34,920]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:34,920]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:35,328]308INFO-Request processing time: 0.42 seconds
+[2024-07-29 14:31:35,335]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:35,335]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:35,532]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:35,538]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:35,538]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:35,703]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:35,708]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:35,710]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:35,858]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:31:35,874]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:35,874]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:36,033]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:36,033]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:36,033]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:36,226]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:36,234]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:36,234]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:36,426]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:36,431]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:36,431]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:36,617]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:36,625]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:36,625]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:36,818]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:36,826]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:36,826]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:37,075]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:31:37,087]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:37,087]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:37,446]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:31:37,463]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:37,464]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:37,785]308INFO-Request processing time: 0.33 seconds
+[2024-07-29 14:31:37,796]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:37,796]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:38,057]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:31:38,063]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:38,063]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:38,275]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:38,282]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:38,282]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:38,484]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:38,493]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:38,493]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:38,695]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:38,702]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:38,702]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:38,901]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:38,907]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:38,907]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:39,056]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:31:39,077]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:39,077]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:39,237]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:39,237]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:39,237]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:39,398]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:39,398]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:39,398]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:39,581]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:39,587]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:39,587]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:39,772]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:39,777]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:39,777]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:39,946]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:39,946]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:39,946]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:40,112]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:40,112]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:40,112]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:40,280]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:40,286]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:40,286]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:40,444]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:40,444]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:40,444]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:40,634]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:40,634]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:40,634]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:40,815]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:40,820]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:40,820]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:40,977]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:40,996]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:40,997]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:41,142]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:41,162]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:41,162]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:41,312]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:41,331]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:41,331]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:41,497]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:41,503]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:41,503]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:41,663]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:41,672]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:41,672]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:41,820]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:31:41,820]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:41,820]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:41,999]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:41,999]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:41,999]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:42,241]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:31:42,250]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:42,250]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:42,446]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:42,455]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:42,455]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:42,618]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:42,624]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:42,624]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:42,773]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:42,773]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:42,773]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:42,949]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:42,957]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:42,957]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:43,114]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:43,130]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:43,130]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:43,304]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:43,311]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:43,311]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:43,492]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:43,499]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:43,500]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:43,681]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:43,690]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:43,690]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:43,868]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:43,877]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:43,877]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:44,197]308INFO-Request processing time: 0.33 seconds
+[2024-07-29 14:31:44,197]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:44,197]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:44,412]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:44,437]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:44,437]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:44,648]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:31:44,660]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:44,660]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:44,856]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:44,865]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:44,865]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:45,226]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:31:45,244]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:45,245]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:45,601]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:31:45,632]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:45,632]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:45,969]308INFO-Request processing time: 0.35 seconds
+[2024-07-29 14:31:45,977]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:45,977]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:46,177]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:46,184]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:46,184]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:46,366]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:46,373]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:46,374]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:46,537]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:46,545]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:46,545]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:46,708]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:46,713]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:46,713]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:46,917]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:46,926]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:46,926]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:47,196]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:31:47,205]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:47,206]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:47,393]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:47,400]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:47,401]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:47,582]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:47,584]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:47,584]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:47,734]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:31:47,755]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:47,755]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:47,946]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:47,954]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:47,955]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:48,115]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:48,121]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:48,121]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:48,293]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:48,298]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:48,298]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:48,472]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:48,491]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:48,491]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:48,669]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:48,676]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:48,677]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:48,846]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:48,853]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:48,853]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:49,054]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:49,062]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:49,062]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:49,250]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:49,299]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:49,299]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:49,485]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:49,490]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:49,490]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:49,665]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:49,665]339ERROR-An error occurred: Expecting value: line 1 column 1 (char 0)
+[2024-07-29 14:31:51,822]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:51,822]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:53,802]308INFO-Request processing time: 1.99 seconds
+[2024-07-29 14:31:53,816]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:53,816]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:54,020]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:54,028]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:54,028]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:54,203]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:54,211]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:54,211]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:54,406]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:54,415]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:54,416]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:54,616]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:31:54,623]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:54,623]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:54,789]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:54,795]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:54,796]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:55,162]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:31:55,172]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:55,172]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:55,503]308INFO-Request processing time: 0.34 seconds
+[2024-07-29 14:31:55,519]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:55,519]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:55,692]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:55,713]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:55,713]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:55,883]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:55,889]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:55,890]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:56,054]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:56,060]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:56,060]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:56,234]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:56,240]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:56,241]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:56,397]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:56,397]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:56,397]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:56,562]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:56,562]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:56,562]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:56,735]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:56,747]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:56,747]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:56,900]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:56,917]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:56,918]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:57,087]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:57,094]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:57,094]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:57,273]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:57,280]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:57,280]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:57,456]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:57,468]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:57,468]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:57,636]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:57,643]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:57,643]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:57,798]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:57,816]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:57,817]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:57,987]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:57,996]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:57,996]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:58,159]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:58,164]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:58,164]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:58,342]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:58,349]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:58,349]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:58,502]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:31:58,521]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:58,521]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:58,680]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:58,685]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:58,685]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:58,851]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:58,865]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:58,865]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:59,039]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:59,042]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:59,042]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:59,220]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:59,228]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:59,228]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:59,409]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:31:59,409]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:59,409]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:59,607]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:31:59,613]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:59,613]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:59,793]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:31:59,793]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:59,793]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:31:59,968]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:31:59,968]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:31:59,968]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:00,138]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:00,156]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:00,156]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:00,314]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:00,314]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:00,314]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:00,545]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:32:00,551]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:00,552]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:00,738]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:00,747]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:00,748]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:00,921]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:00,929]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:00,929]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:01,106]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:01,113]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:01,113]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:01,284]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:01,295]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:01,295]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:01,462]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:01,468]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:01,468]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:01,664]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:01,671]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:01,671]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:01,840]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:01,847]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:01,847]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:02,004]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:32:02,023]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:02,023]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:02,212]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:02,220]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:02,220]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:02,376]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:32:02,393]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:02,393]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:02,579]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:02,586]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:02,586]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:02,778]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:02,778]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:02,778]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:02,972]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:02,981]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:02,981]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:03,159]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:03,168]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:03,168]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:03,349]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:03,360]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:03,360]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:03,528]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:03,543]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:03,543]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:03,800]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:32:03,815]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:03,815]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:04,020]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:04,027]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:04,027]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:04,204]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:04,212]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:04,212]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:04,625]308INFO-Request processing time: 0.42 seconds
+[2024-07-29 14:32:04,625]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:04,625]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:05,037]308INFO-Request processing time: 0.41 seconds
+[2024-07-29 14:32:05,054]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:05,054]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:05,299]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:32:05,309]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:05,309]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:05,475]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:05,480]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:05,480]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:05,664]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:05,671]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:05,671]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:05,879]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:05,884]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:05,884]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:06,125]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:32:06,137]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:06,137]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:06,362]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:32:06,371]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:06,371]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:06,563]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:06,572]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:06,572]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:06,745]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:06,750]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:06,750]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:06,915]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:06,925]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:06,925]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:07,099]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:07,105]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:07,107]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:07,301]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:07,309]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:07,309]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:07,531]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:32:07,545]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:07,545]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:07,704]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:07,715]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:07,715]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:07,888]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:07,896]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:07,896]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:08,088]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:08,094]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:08,095]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:08,288]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:08,293]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:08,293]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:08,473]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:08,481]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:08,481]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:08,638]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:32:08,643]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:08,643]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:08,818]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:08,830]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:08,830]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:09,005]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:09,014]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:09,014]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:09,185]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:09,193]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:09,193]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:09,409]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:09,416]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:09,416]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:09,627]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:09,636]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:09,637]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:10,124]308INFO-Request processing time: 0.49 seconds
+[2024-07-29 14:32:10,140]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:10,140]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:10,646]308INFO-Request processing time: 0.52 seconds
+[2024-07-29 14:32:10,654]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:10,654]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:11,332]308INFO-Request processing time: 0.69 seconds
+[2024-07-29 14:32:11,344]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:11,344]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:11,659]308INFO-Request processing time: 0.33 seconds
+[2024-07-29 14:32:11,668]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:11,668]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:11,901]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:32:11,906]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:11,907]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:12,310]308INFO-Request processing time: 0.41 seconds
+[2024-07-29 14:32:12,317]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:12,317]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:12,553]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:32:12,562]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:12,562]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:12,749]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:12,758]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:12,758]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:12,959]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:12,967]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:12,967]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:13,286]308INFO-Request processing time: 0.33 seconds
+[2024-07-29 14:32:13,299]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:13,299]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:13,504]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:13,515]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:13,515]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:13,701]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:13,709]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:13,709]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:14,029]308INFO-Request processing time: 0.33 seconds
+[2024-07-29 14:32:14,036]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:14,036]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:14,292]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:32:14,302]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:14,302]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:14,497]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:14,504]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:14,504]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:14,845]308INFO-Request processing time: 0.35 seconds
+[2024-07-29 14:32:14,881]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:14,881]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:15,170]308INFO-Request processing time: 0.32 seconds
+[2024-07-29 14:32:15,177]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:15,177]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:15,396]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:32:15,409]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:15,409]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:15,655]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:32:15,662]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:15,662]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:15,892]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:32:15,900]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:15,900]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:16,194]308INFO-Request processing time: 0.30 seconds
+[2024-07-29 14:32:16,201]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:16,201]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:16,462]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:32:16,470]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:16,470]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:16,858]308INFO-Request processing time: 0.39 seconds
+[2024-07-29 14:32:16,865]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:16,865]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:17,275]308INFO-Request processing time: 0.42 seconds
+[2024-07-29 14:32:17,285]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:17,286]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:17,589]308INFO-Request processing time: 0.31 seconds
+[2024-07-29 14:32:17,600]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:17,600]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:17,961]308INFO-Request processing time: 0.37 seconds
+[2024-07-29 14:32:17,968]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:17,968]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:18,316]308INFO-Request processing time: 0.35 seconds
+[2024-07-29 14:32:18,324]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:18,324]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:18,617]308INFO-Request processing time: 0.30 seconds
+[2024-07-29 14:32:18,625]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:18,626]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:18,877]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:32:18,886]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:18,886]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:19,086]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:19,092]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:19,092]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:19,268]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:19,274]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:19,274]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:19,473]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:19,480]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:19,481]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:19,690]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:19,702]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:19,703]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:19,891]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:19,899]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:19,900]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:20,103]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:20,110]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:20,110]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:20,315]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:20,327]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:20,327]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:20,597]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:32:20,615]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:20,615]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:20,853]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:32:20,859]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:20,859]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:21,048]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:21,054]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:21,055]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:21,211]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:32:21,220]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:21,220]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:21,419]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:21,426]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:21,426]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:21,612]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:21,619]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:21,619]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:21,829]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:21,844]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:21,844]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:22,031]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:22,037]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:22,037]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:22,236]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:22,245]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:22,245]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:22,438]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:22,445]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:22,445]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:22,633]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:22,647]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:22,647]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:22,836]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:22,842]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:22,842]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:23,049]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:23,057]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:23,057]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:23,274]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:23,281]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:23,281]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:23,462]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:23,472]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:23,472]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:23,680]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:23,688]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:23,688]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:23,863]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:23,871]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:23,871]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:24,110]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:32:24,120]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:24,120]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:24,285]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:24,292]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:24,292]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:24,476]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:24,482]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:24,483]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:24,670]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:24,676]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:24,676]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:24,863]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:24,874]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:24,874]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:25,050]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:25,057]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:25,057]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:25,237]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:25,243]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:25,244]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:25,436]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:25,445]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:25,446]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:25,640]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:25,646]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:25,646]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:25,805]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:32:25,812]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:25,812]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:26,000]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:26,008]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:26,008]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:26,241]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:32:26,252]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:26,252]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:26,494]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:32:26,501]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:26,501]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:26,686]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:26,693]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:26,693]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:26,880]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:26,888]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:26,888]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:27,057]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:27,066]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:27,067]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:27,257]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:27,263]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:27,264]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:27,521]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:32:27,528]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:27,528]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:27,721]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:27,731]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:27,731]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:27,927]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:27,933]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:27,933]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:28,127]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:28,134]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:28,134]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:28,326]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:28,333]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:28,333]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:28,548]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:28,556]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:28,556]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:28,756]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:28,763]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:28,763]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:28,962]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:28,969]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:28,969]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:29,177]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:29,188]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:29,188]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:29,368]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:29,376]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:29,376]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:29,589]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:29,598]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:29,598]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:29,804]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:29,812]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:29,813]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:29,997]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:30,006]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:30,006]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:30,221]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:30,231]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:30,232]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:30,503]308INFO-Request processing time: 0.28 seconds
+[2024-07-29 14:32:30,511]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:30,511]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:30,694]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:30,702]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:30,703]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:30,930]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:32:30,942]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:30,943]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:31,128]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:31,134]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:31,134]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:31,329]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:31,336]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:31,336]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:31,527]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:31,536]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:31,536]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:31,723]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:31,730]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:31,730]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:31,938]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:31,948]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:31,948]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:32,124]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:32,132]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:32,132]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:32,293]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:32,302]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:32,302]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:32,504]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:32,511]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:32,512]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:32,799]308INFO-Request processing time: 0.29 seconds
+[2024-07-29 14:32:32,805]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:32,805]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:33,009]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:33,016]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:33,017]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:33,222]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:33,231]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:33,231]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:33,412]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:33,418]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:33,419]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:33,597]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:33,604]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:33,604]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:33,774]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:33,784]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:33,784]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:33,961]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:33,968]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:33,968]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:34,169]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:34,178]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:34,179]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:34,388]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:34,395]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:34,396]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:34,600]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:34,610]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:34,610]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:34,801]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:34,808]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:34,808]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:35,007]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:35,014]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:35,015]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:35,188]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:35,199]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:35,199]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:35,399]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:35,405]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:35,405]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:35,577]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:35,584]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:35,584]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:35,752]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:35,759]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:35,759]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:35,927]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:35,936]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:35,936]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:36,104]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:36,111]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:36,111]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:36,288]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:36,295]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:36,295]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:36,520]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:32:36,526]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:36,526]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:36,700]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:36,709]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:36,710]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:36,880]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:36,888]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:36,888]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:37,117]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:32:37,124]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:37,124]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:37,290]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:37,299]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:37,299]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:37,487]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:37,494]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:37,494]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:37,674]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:37,696]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:37,696]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:37,869]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:37,875]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:37,875]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:38,043]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:38,054]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:38,054]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:38,262]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:32:38,268]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:38,268]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:38,435]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:38,441]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:38,441]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:38,631]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:38,643]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:38,643]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:38,813]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:38,819]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:38,820]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:38,998]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:39,018]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:39,018]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:39,186]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:39,192]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:39,192]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:39,353]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:39,362]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:39,362]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:39,522]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:39,528]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:39,528]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:39,697]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:39,704]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:39,704]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:39,892]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:39,901]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:39,901]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:40,078]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:40,087]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:40,087]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:40,252]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:40,259]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:40,259]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:40,441]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:40,447]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:40,447]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:40,629]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:40,640]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:40,640]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:40,832]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:40,839]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:40,839]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:41,039]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:41,045]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:41,045]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:41,248]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:41,255]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:41,255]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:41,446]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:41,455]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:41,455]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:41,645]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:32:41,651]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:41,651]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:41,850]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:41,856]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:41,856]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:42,051]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:42,061]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:42,061]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:42,264]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:42,271]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:42,271]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:42,465]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:42,473]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:42,473]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:42,675]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:42,682]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:42,682]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:42,848]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:42,858]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:42,858]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:43,027]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:43,035]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:43,035]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:43,240]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:32:43,247]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:43,248]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:43,415]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:43,423]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:43,423]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:43,592]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:43,600]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:43,601]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:43,767]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:43,774]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:43,774]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:43,970]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:43,977]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:43,977]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:44,165]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:44,174]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:44,174]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:44,372]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:44,380]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:44,380]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:44,543]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:44,551]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:44,551]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:44,717]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:44,723]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:44,723]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:44,891]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:32:44,900]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:44,901]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:45,075]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:45,082]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:45,082]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:45,254]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:32:45,261]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:45,261]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:45,452]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:45,464]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:32:45,465]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:32:45,654]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:32:45,655]339ERROR-An error occurred: Expecting value: line 1 column 1 (char 0)
+[2024-07-29 14:35:41,046]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:35:41,050]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:35:59,315]308INFO-Request processing time: 18.29 seconds
+[2024-07-29 14:35:59,324]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:35:59,324]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:35:59,474]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:35:59,481]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:35:59,481]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:35:59,628]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:35:59,654]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:35:59,654]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:35:59,839]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:35:59,847]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:35:59,847]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:35:59,994]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:35:59,999]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:00,000]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:00,206]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:36:00,211]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:00,212]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:00,354]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:36:00,361]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:00,361]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:00,512]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:00,539]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:00,539]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:00,687]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:36:00,693]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:00,693]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:00,868]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:00,874]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:00,874]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:01,050]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:01,060]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:01,060]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:01,242]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:36:01,248]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:01,248]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:01,442]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:36:01,448]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:01,448]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:01,626]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:01,637]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:01,637]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:01,807]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:01,813]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:01,813]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:01,973]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:01,978]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:01,978]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:02,127]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:36:02,141]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:02,142]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:02,299]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:02,307]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:02,307]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:02,463]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:02,469]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:02,469]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:02,619]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:36:02,624]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:02,625]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:02,774]308INFO-Request processing time: 0.15 seconds
+[2024-07-29 14:36:02,790]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:02,790]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:02,957]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:02,964]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:02,964]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:03,117]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:03,123]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:03,123]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:03,279]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:03,285]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:03,285]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:03,440]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:03,451]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:03,451]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:03,679]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:36:03,716]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:03,716]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:03,891]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:36:03,897]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:03,897]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:04,077]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:04,085]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:04,085]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:04,295]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:36:04,301]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:04,302]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:04,518]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:36:04,524]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:04,524]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:04,704]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:36:04,710]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:04,710]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:04,877]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:04,885]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:04,885]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:05,108]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:36:05,115]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:05,115]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:05,296]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:36:05,302]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:05,302]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:05,474]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:05,483]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:05,484]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:05,686]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:36:05,693]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:05,694]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:05,868]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:05,873]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:05,874]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:06,074]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:36:06,081]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:06,081]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:06,283]308INFO-Request processing time: 0.21 seconds
+[2024-07-29 14:36:06,293]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:06,293]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:06,481]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:36:06,487]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:06,487]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:06,707]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:36:06,713]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:06,713]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:06,968]308INFO-Request processing time: 0.26 seconds
+[2024-07-29 14:36:06,976]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:06,976]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:07,149]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:07,156]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:07,156]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:07,328]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:07,335]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:07,335]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:07,515]308INFO-Request processing time: 0.19 seconds
+[2024-07-29 14:36:07,523]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:07,524]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:07,674]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:07,682]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:07,682]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:07,831]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:07,837]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:07,837]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:08,001]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:08,007]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:08,007]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:08,268]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:36:08,278]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:08,278]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:08,519]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:36:08,546]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:08,546]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:08,773]308INFO-Request processing time: 0.23 seconds
+[2024-07-29 14:36:08,780]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:08,780]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:09,023]308INFO-Request processing time: 0.25 seconds
+[2024-07-29 14:36:09,040]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:09,040]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:09,370]308INFO-Request processing time: 0.34 seconds
+[2024-07-29 14:36:09,377]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:09,377]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:09,636]308INFO-Request processing time: 0.27 seconds
+[2024-07-29 14:36:09,643]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:09,643]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:09,877]308INFO-Request processing time: 0.24 seconds
+[2024-07-29 14:36:09,883]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:09,883]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:10,076]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:36:10,084]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:10,084]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:10,302]308INFO-Request processing time: 0.22 seconds
+[2024-07-29 14:36:10,310]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:10,310]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:10,487]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:10,493]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:10,493]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:10,644]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:10,653]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:10,653]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:10,815]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:10,820]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:10,821]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:10,973]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:10,978]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:10,978]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:11,135]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:11,140]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:11,141]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:11,295]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:11,304]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:11,304]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:11,461]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:11,467]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:11,467]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:11,618]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:11,625]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:11,625]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:11,787]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:11,793]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:11,794]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:11,960]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:11,969]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:11,969]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:12,127]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:12,133]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:12,133]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:12,297]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:12,303]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:12,303]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:12,467]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:12,473]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:12,473]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:12,632]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:12,640]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:12,640]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:12,795]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:12,801]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:12,801]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:12,958]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:12,964]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:12,964]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:13,127]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:13,135]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:13,135]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:13,312]308INFO-Request processing time: 0.18 seconds
+[2024-07-29 14:36:13,318]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:13,318]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:13,474]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:13,480]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:13,480]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:13,642]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:13,648]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:13,648]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:13,807]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:13,815]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:13,815]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:13,970]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:13,975]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:13,976]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:14,136]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:14,143]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:14,143]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:14,300]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:14,306]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:14,306]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:14,502]308INFO-Request processing time: 0.20 seconds
+[2024-07-29 14:36:14,512]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:14,512]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:14,673]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:14,678]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:14,678]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:14,841]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:14,847]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:14,848]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:15,000]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:15,005]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:15,005]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:15,163]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:15,172]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:15,172]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:15,331]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:15,336]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:15,336]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:15,499]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:15,506]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:15,506]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:15,672]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:15,677]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:15,678]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:15,841]308INFO-Request processing time: 0.17 seconds
+[2024-07-29 14:36:15,849]272INFO-Image dimensions: 720x480x3
+[2024-07-29 14:36:15,849]273INFO-Expected dimensions: 720x480
+[2024-07-29 14:36:16,003]308INFO-Request processing time: 0.16 seconds
+[2024-07-29 14:36:16,146]337INFO-WebSocket disconnected

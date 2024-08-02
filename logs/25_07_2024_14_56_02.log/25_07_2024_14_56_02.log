@@ -1,0 +1,1502 @@
+[2024-07-25 14:56:33,329]220INFO-Received data: {"frame":"zs/Mzs/MzNDMzNDMz9DNz9DNzdHNzdHNz9DNz9DNz9DNz9DNz9DNzs/Mz9DN0NHOz9DPz9DPz9DNzs/Mz9DNz9DNz9...
+[2024-07-25 14:56:33,334]121INFO-Processing frame 3
+[2024-07-25 14:56:33,342]144INFO-Array size: 2764800
+[2024-07-25 14:56:33,342]145INFO-Expected size: 2764800
+[2024-07-25 14:56:33,342]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:33,367]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:35,390]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:35,391]202INFO-Request processing time: 2.06 seconds
+[2024-07-25 14:56:35,916]220INFO-Received data: {"frame":"6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6Ofl6ejm6e...
+[2024-07-25 14:56:35,918]121INFO-Processing frame 69
+[2024-07-25 14:56:35,925]144INFO-Array size: 2764800
+[2024-07-25 14:56:35,925]145INFO-Expected size: 2764800
+[2024-07-25 14:56:35,925]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:35,930]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:36,081]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:36,081]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:36,559]220INFO-Received data: {"frame":"5uXj5+bk5ufk5ufk5+bk5+bk5ujj5ujj5+bk5+bk5ujj5ujj5+bk5+bk5+nk5+nk5+jl5+jl5ujj5ujj5ufk5+jl5+...
+[2024-07-25 14:56:36,563]121INFO-Processing frame 81
+[2024-07-25 14:56:36,570]144INFO-Array size: 2764800
+[2024-07-25 14:56:36,572]145INFO-Expected size: 2764800
+[2024-07-25 14:56:36,572]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:36,576]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:36,758]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:36,760]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:56:37,248]220INFO-Received data: {"frame":"5uXj5+bk5+fj5+fj5+bk5+bk5+fj5+fj6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6O...
+[2024-07-25 14:56:37,251]121INFO-Processing frame 90
+[2024-07-25 14:56:37,260]144INFO-Array size: 2764800
+[2024-07-25 14:56:37,260]145INFO-Expected size: 2764800
+[2024-07-25 14:56:37,260]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:37,264]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:37,420]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:37,456]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:56:38,055]220INFO-Received data: {"frame":"5uXj5uXj5+bk5uXj5uXj5+bk5+fj5+fj5+bk5+bk5+fj5+fj5+bk5+bk5+bk5+bk5+bk5+bk5ubi5+fj5+bk5+bk5u...
+[2024-07-25 14:56:38,058]121INFO-Processing frame 105
+[2024-07-25 14:56:38,065]144INFO-Array size: 2764800
+[2024-07-25 14:56:38,066]145INFO-Expected size: 2764800
+[2024-07-25 14:56:38,066]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:38,071]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:38,218]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:38,218]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:38,742]220INFO-Received data: {"frame":"5uXj5+bk5+bk5+bk5+bk5+bk6Ofl6Ofl5+bk6Ofl5+bk5+bk5+bk6Ofl6Ofl6Ofl5+bk6Ofl6Ofl6Ofl6Ofl6Ofl6O...
+[2024-07-25 14:56:38,745]121INFO-Processing frame 117
+[2024-07-25 14:56:38,752]144INFO-Array size: 2764800
+[2024-07-25 14:56:38,752]145INFO-Expected size: 2764800
+[2024-07-25 14:56:38,752]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:38,756]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:38,900]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:38,900]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:39,365]220INFO-Received data: {"frame":"5ufk5ufk5ufk5ufk5ufk5ufk5ufk5ebj5ebj5ebj5ebj5ebj5ebj5ufk5ufk5ufk5+bk5+bk5ufk5ufk5+bk5+bk5u...
+[2024-07-25 14:56:39,369]121INFO-Processing frame 126
+[2024-07-25 14:56:39,375]144INFO-Array size: 2764800
+[2024-07-25 14:56:39,375]145INFO-Expected size: 2764800
+[2024-07-25 14:56:39,375]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:39,380]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:39,569]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:39,569]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:56:40,011]220INFO-Received data: {"frame":"5uXj5uXj5ubi5ubi5uXj5+bk5+bk5+bk5+bk5+bk5+fj5+fj5+bk5+bk5+fj5ubi5+bk5+bk6Ojk6Ojk5+bk5+bk5+...
+[2024-07-25 14:56:40,011]121INFO-Processing frame 135
+[2024-07-25 14:56:40,011]144INFO-Array size: 2764800
+[2024-07-25 14:56:40,011]145INFO-Expected size: 2764800
+[2024-07-25 14:56:40,011]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:40,027]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:40,168]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:41,084]202INFO-Request processing time: 1.07 seconds
+[2024-07-25 14:56:41,667]220INFO-Received data: {"frame":"5+bk5+bk5+fj5+fj6Ofl6Ofl6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6enl6Ojk6O...
+[2024-07-25 14:56:41,667]121INFO-Processing frame 174
+[2024-07-25 14:56:41,683]144INFO-Array size: 2764800
+[2024-07-25 14:56:41,683]145INFO-Expected size: 2764800
+[2024-07-25 14:56:41,683]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:41,683]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:41,857]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:41,861]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:56:42,357]220INFO-Received data: {"frame":"5uXj5uXj5+fj5+fj5+bk5+bk5ujj5ujj5+bk5+bk5+nk5+nk6Ofl6Ofl5+nk5ujj5+bk6Ofl5ujj5+nk6Ojk6Ojk5+...
+[2024-07-25 14:56:42,357]121INFO-Processing frame 186
+[2024-07-25 14:56:42,373]144INFO-Array size: 2764800
+[2024-07-25 14:56:42,373]145INFO-Expected size: 2764800
+[2024-07-25 14:56:42,373]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:42,373]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:42,510]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:42,515]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:43,008]220INFO-Received data: {"frame":"5ubi5ubi5+fj5+fj5+fj5+fj5+nk5+nk6Ojk6Ojk6Ojk6Ojk5+fj6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6O...
+[2024-07-25 14:56:43,009]121INFO-Processing frame 198
+[2024-07-25 14:56:43,021]144INFO-Array size: 2764800
+[2024-07-25 14:56:43,022]145INFO-Expected size: 2764800
+[2024-07-25 14:56:43,022]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:43,022]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:43,198]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:43,202]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:56:43,730]220INFO-Received data: {"frame":"5+bk5+bk5ubi5+fj6Ofl6Ofl6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6ejm6ejm6enl6enl6ejm6ejm6e...
+[2024-07-25 14:56:43,737]121INFO-Processing frame 210
+[2024-07-25 14:56:43,746]144INFO-Array size: 2764800
+[2024-07-25 14:56:43,746]145INFO-Expected size: 2764800
+[2024-07-25 14:56:43,747]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:43,752]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:43,913]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:43,921]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:56:44,399]220INFO-Received data: {"frame":"5uXj5+bk5+fj5+fj5+bk5+bk5+fj5+fj5+bk5+bk5+fj5+fj6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ofl6Ofl6O...
+[2024-07-25 14:56:44,399]121INFO-Processing frame 222
+[2024-07-25 14:56:44,415]144INFO-Array size: 2764800
+[2024-07-25 14:56:44,415]145INFO-Expected size: 2764800
+[2024-07-25 14:56:44,415]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:44,415]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:44,558]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:44,564]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:45,074]220INFO-Received data: {"frame":"5+bk5+bk5+fj5+fj6Ofl6Ofl6Ojk5+fj5+bk5+bk5+fj6Ojk6Ojk6Ojk6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ojk6Ojk5u...
+[2024-07-25 14:56:45,074]121INFO-Processing frame 231
+[2024-07-25 14:56:45,074]144INFO-Array size: 2764800
+[2024-07-25 14:56:45,074]145INFO-Expected size: 2764800
+[2024-07-25 14:56:45,074]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:45,090]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:45,249]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:45,249]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:56:45,730]220INFO-Received data: {"frame":"5ufk5ebj5efi5ujj5ujj5ujj5ujj5ujj5ujj5ujj5ujj5ujj5ujj5ujj5ujj5+nk6Ofl5+bk6Ojk6Ojk6Ojk6Ojk5+...
+[2024-07-25 14:56:45,730]121INFO-Processing frame 243
+[2024-07-25 14:56:45,746]144INFO-Array size: 2764800
+[2024-07-25 14:56:45,746]145INFO-Expected size: 2764800
+[2024-07-25 14:56:45,746]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:45,746]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:45,898]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:45,911]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:56:46,483]220INFO-Received data: {"frame":"5eXh5ubi5+fj5+fj5+fj5+fj5ujj5ujj5+fj5+fj5+fj5+fj5+fj6Ojk6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6ejm6Ofl6O...
+[2024-07-25 14:56:46,499]121INFO-Processing frame 255
+[2024-07-25 14:56:46,499]144INFO-Array size: 2764800
+[2024-07-25 14:56:46,499]145INFO-Expected size: 2764800
+[2024-07-25 14:56:46,499]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:46,499]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:46,670]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:46,670]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:56:47,226]220INFO-Received data: {"frame":"6Ofl5+bk5ubi5+fj5+bk6Ofl6Ojk6Ojk6Ojk6Ojk5+fj6Ojk6Ojk6Ojk6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ojk6Ojk6O...
+[2024-07-25 14:56:47,232]121INFO-Processing frame 267
+[2024-07-25 14:56:47,239]144INFO-Array size: 2764800
+[2024-07-25 14:56:47,243]145INFO-Expected size: 2764800
+[2024-07-25 14:56:47,243]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:47,250]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:47,436]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:47,436]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:56:47,988]220INFO-Received data: {"frame":"5+fj5+fj5+fj6Ojk5+fj6Ojk5+fj6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6O...
+[2024-07-25 14:56:47,988]121INFO-Processing frame 282
+[2024-07-25 14:56:47,988]144INFO-Array size: 2764800
+[2024-07-25 14:56:47,988]145INFO-Expected size: 2764800
+[2024-07-25 14:56:47,988]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:48,004]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:48,135]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:48,147]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:48,720]220INFO-Received data: {"frame":"5+bk5+bk5+fj5+fj5+bk5+bk6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6enl6enl6enl6Ojk6Ojk6ejm6ejm6O...
+[2024-07-25 14:56:48,720]121INFO-Processing frame 294
+[2024-07-25 14:56:48,720]144INFO-Array size: 2764800
+[2024-07-25 14:56:48,720]145INFO-Expected size: 2764800
+[2024-07-25 14:56:48,720]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:48,735]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:48,862]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:48,876]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:49,378]220INFO-Received data: {"frame":"5+fj5+fj5+fj6Ojk6Ojk6Ojk6Ojk5+fj6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6O...
+[2024-07-25 14:56:49,378]121INFO-Processing frame 306
+[2024-07-25 14:56:49,394]144INFO-Array size: 2764800
+[2024-07-25 14:56:49,394]145INFO-Expected size: 2764800
+[2024-07-25 14:56:49,394]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:49,394]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:49,617]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:49,631]202INFO-Request processing time: 0.25 seconds
+[2024-07-25 14:56:50,084]220INFO-Received data: {"frame":"5+bk5+bk6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk5+bk6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6O...
+[2024-07-25 14:56:50,099]121INFO-Processing frame 318
+[2024-07-25 14:56:50,099]144INFO-Array size: 2764800
+[2024-07-25 14:56:50,099]145INFO-Expected size: 2764800
+[2024-07-25 14:56:50,099]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:50,115]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:50,253]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:50,260]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:50,705]220INFO-Received data: {"frame":"6Ojk5+fj5+fj6Ojk6Ojk6Ojk6Ojk6enl6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6Ojk6O...
+[2024-07-25 14:56:50,705]121INFO-Processing frame 327
+[2024-07-25 14:56:50,721]144INFO-Array size: 2764800
+[2024-07-25 14:56:50,721]145INFO-Expected size: 2764800
+[2024-07-25 14:56:50,721]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:50,721]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:50,865]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:50,865]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:51,384]220INFO-Received data: {"frame":"5+jl5+jl5ufk5+jl5+jl5+jl5+jl5+jl6Ofl6Ofl5+nk5+nk6Ofl6Ofl6ejm6ejm6ejm6ejm6Ofl6Ofl6ejm6ejm6e...
+[2024-07-25 14:56:51,399]121INFO-Processing frame 339
+[2024-07-25 14:56:51,410]144INFO-Array size: 2764800
+[2024-07-25 14:56:51,410]145INFO-Expected size: 2764800
+[2024-07-25 14:56:51,410]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:51,413]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:51,630]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:51,630]202INFO-Request processing time: 0.23 seconds
+[2024-07-25 14:56:52,083]220INFO-Received data: {"frame":"5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl6Ofl6ejm6Ofl6Ofl6ejm6Ofl6e...
+[2024-07-25 14:56:52,098]121INFO-Processing frame 351
+[2024-07-25 14:56:52,098]144INFO-Array size: 2764800
+[2024-07-25 14:56:52,098]145INFO-Expected size: 2764800
+[2024-07-25 14:56:52,098]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:52,098]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:52,244]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:52,255]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:52,806]220INFO-Received data: {"frame":"5+bk5+bk5ufk5ufk5+bk6Ofl5ufk5+jl6Ofl6Ofl5+jl5+jl6Ofl6Ofl5+jl5+jl5+bk6Ofl5+jl5ufk6Ofl6Ofl5+...
+[2024-07-25 14:56:52,806]121INFO-Processing frame 363
+[2024-07-25 14:56:52,806]144INFO-Array size: 2764800
+[2024-07-25 14:56:52,806]145INFO-Expected size: 2764800
+[2024-07-25 14:56:52,806]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:52,822]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:52,983]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:52,984]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:56:53,474]220INFO-Received data: {"frame":"6Ofl6Ofl6Ojk6enl6ejm6ejm6enl6enl6ejm6ejm6enl6enl6ejm6ejm6enl6enl6ejm6ejm6enl6enl6ejm6ejm6e...
+[2024-07-25 14:56:53,474]121INFO-Processing frame 375
+[2024-07-25 14:56:53,488]144INFO-Array size: 2764800
+[2024-07-25 14:56:53,488]145INFO-Expected size: 2764800
+[2024-07-25 14:56:53,488]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:53,488]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:53,668]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:53,685]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:56:54,120]220INFO-Received data: {"frame":"6Ofl6Ofl6Ojk6enl6ejm6Ofl6Ojk6Ojk6ejm6ejm6Ojk6enl6ejm6ejm6enl6enl6ejm6Ofl6ejm6ejm6ejm6ejm6e...
+[2024-07-25 14:56:54,120]121INFO-Processing frame 384
+[2024-07-25 14:56:54,135]144INFO-Array size: 2764800
+[2024-07-25 14:56:54,135]145INFO-Expected size: 2764800
+[2024-07-25 14:56:54,135]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:54,135]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:54,402]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:54,406]202INFO-Request processing time: 0.29 seconds
+[2024-07-25 14:56:54,925]220INFO-Received data: {"frame":"6Ofl5+bk5ujj5+nk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6ejm6ejm6ejm6ejm6ejm6ejm6O...
+[2024-07-25 14:56:54,925]121INFO-Processing frame 396
+[2024-07-25 14:56:54,939]144INFO-Array size: 2764800
+[2024-07-25 14:56:54,939]145INFO-Expected size: 2764800
+[2024-07-25 14:56:54,939]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:54,946]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:55,216]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:55,217]202INFO-Request processing time: 0.29 seconds
+[2024-07-25 14:56:55,768]220INFO-Received data: {"frame":"5+bk5+bk5ujj5+nk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6Ojk6Ojk6Ofl6Ofl6enl6enl6Ofl6ejm6Orl6Orl6ejm6ejm6O...
+[2024-07-25 14:56:55,768]121INFO-Processing frame 414
+[2024-07-25 14:56:55,783]144INFO-Array size: 2764800
+[2024-07-25 14:56:55,783]145INFO-Expected size: 2764800
+[2024-07-25 14:56:55,783]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:55,783]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:55,952]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:55,966]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:56:56,445]220INFO-Received data: {"frame":"5eTi5OPh4+Xg5Obh5eTi5eTi5Obh5Obh5eTi5eTi5Obh5Obh5eTi5eTi5Obh5Obh5ebj5ebj5ebj5OXi5uXj5uXj5e...
+[2024-07-25 14:56:56,460]121INFO-Processing frame 426
+[2024-07-25 14:56:56,460]144INFO-Array size: 2764800
+[2024-07-25 14:56:56,460]145INFO-Expected size: 2764800
+[2024-07-25 14:56:56,460]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:56,460]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:56,606]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:56,616]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:56:57,113]220INFO-Received data: {"frame":"+fv2+fv2+fv2+fv2+vz3+vz3+vz3+/34+vz3+vz3+vz3+vz3+vz3+vz3+vz3+vz3+vz3+vz3+/34+/34+/34+/34+/...
+[2024-07-25 14:56:57,113]121INFO-Processing frame 435
+[2024-07-25 14:56:57,113]144INFO-Array size: 2764800
+[2024-07-25 14:56:57,113]145INFO-Expected size: 2764800
+[2024-07-25 14:56:57,113]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:57,129]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:57,275]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:57,286]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:56:57,733]220INFO-Received data: {"frame":"9fbz9fbz9fbz9fbz9fbz9fbz9fbz9fbz9fbz9fbz9vf09vf09vf09/j19vf09vf09vf09vf09vf09/j19/j19/j19/...
+[2024-07-25 14:56:57,733]121INFO-Processing frame 444
+[2024-07-25 14:56:57,749]144INFO-Array size: 2764800
+[2024-07-25 14:56:57,749]145INFO-Expected size: 2764800
+[2024-07-25 14:56:57,749]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:57,749]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:57,891]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:57,902]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:56:58,338]220INFO-Received data: {"frame":"//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//7+//...
+[2024-07-25 14:56:58,342]121INFO-Processing frame 453
+[2024-07-25 14:56:58,350]144INFO-Array size: 2764800
+[2024-07-25 14:56:58,350]145INFO-Expected size: 2764800
+[2024-07-25 14:56:58,350]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:58,355]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:58,591]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:58,592]202INFO-Request processing time: 0.25 seconds
+[2024-07-25 14:56:59,140]220INFO-Received data: {"frame":"7O3s6+zr7O3s7O3s7O3s7O3s7O3s7O3s7O3s7O3s7e7t7O3s7O3s7O3s7e7t7e7t7e7t7e7t7O3s7O3s7e7t7e7t7e...
+[2024-07-25 14:56:59,148]121INFO-Processing frame 465
+[2024-07-25 14:56:59,156]144INFO-Array size: 2764800
+[2024-07-25 14:56:59,156]145INFO-Expected size: 2764800
+[2024-07-25 14:56:59,156]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:59,163]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:56:59,412]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:56:59,413]202INFO-Request processing time: 0.27 seconds
+[2024-07-25 14:56:59,976]220INFO-Received data: {"frame":"7Ovp7Ovp7O3q6+zp7ezq7ezq7O3q7O3q7ezq7ezq7O3q7O3q7Ovp7ezq7O3q7O3q7ezq7ezq7O7p7O7p7ezq7ezq7O...
+[2024-07-25 14:56:59,978]121INFO-Processing frame 480
+[2024-07-25 14:56:59,987]144INFO-Array size: 2764800
+[2024-07-25 14:56:59,988]145INFO-Expected size: 2764800
+[2024-07-25 14:56:59,988]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:56:59,994]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:00,245]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:00,246]202INFO-Request processing time: 0.27 seconds
+[2024-07-25 14:57:00,793]220INFO-Received data: {"frame":"7e7t7e7t7e7r7O3q7e7t7e7t7e7r7e7r7e7t7e7t7e7r7e7r7e7t7e7t7e7r7e7r7e7t7u/u7u/u7u/u7u/u7u/u7u...
+[2024-07-25 14:57:00,793]121INFO-Processing frame 495
+[2024-07-25 14:57:00,799]144INFO-Array size: 2764800
+[2024-07-25 14:57:00,799]145INFO-Expected size: 2764800
+[2024-07-25 14:57:00,799]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:00,807]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:00,968]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:00,968]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:01,542]220INFO-Received data: {"frame":"3t/g3t/g3ODg3ODg3ODg3ODg3ODg3ODg3ODg3eHh3eHh3eHh3ODg3ODg3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3e...
+[2024-07-25 14:57:01,543]121INFO-Processing frame 507
+[2024-07-25 14:57:01,549]144INFO-Array size: 2764800
+[2024-07-25 14:57:01,549]145INFO-Expected size: 2764800
+[2024-07-25 14:57:01,549]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:01,563]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:01,861]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:01,862]202INFO-Request processing time: 0.32 seconds
+[2024-07-25 14:57:02,357]220INFO-Received data: {"frame":"5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl5+jl6Onm5+jl5+jl5+jl5+jl5+jl5+jl5+jl6Onm6Onm6ern6e...
+[2024-07-25 14:57:02,372]121INFO-Processing frame 522
+[2024-07-25 14:57:02,372]144INFO-Array size: 2764800
+[2024-07-25 14:57:02,372]145INFO-Expected size: 2764800
+[2024-07-25 14:57:02,372]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:02,385]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:02,613]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:02,617]202INFO-Request processing time: 0.24 seconds
+[2024-07-25 14:57:02,619]220INFO-Received data: ping...
+[2024-07-25 14:57:02,627]224ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 14:57:02,627]225ERROR-Received invalid JSON: ping...
+[2024-07-25 14:57:03,167]220INFO-Received data: {"frame":"3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHf3eHh3eHh3eHf3eHf3+Dh4OHi3u...
+[2024-07-25 14:57:03,175]121INFO-Processing frame 537
+[2024-07-25 14:57:03,181]144INFO-Array size: 2764800
+[2024-07-25 14:57:03,181]145INFO-Expected size: 2764800
+[2024-07-25 14:57:03,181]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:03,188]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:03,455]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:03,458]202INFO-Request processing time: 0.28 seconds
+[2024-07-25 14:57:04,009]220INFO-Received data: {"frame":"3t3d3t3d3t/c3t/c397c4N/d3+Dd3+Dd397e397e3t/c3t/c4N/d397c3t/c3+Dd397e397e3t/c3t/c397e397e3+...
+[2024-07-25 14:57:04,011]121INFO-Processing frame 552
+[2024-07-25 14:57:04,028]144INFO-Array size: 2764800
+[2024-07-25 14:57:04,028]145INFO-Expected size: 2764800
+[2024-07-25 14:57:04,029]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:04,034]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:04,306]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:04,309]202INFO-Request processing time: 0.30 seconds
+[2024-07-25 14:57:04,776]220INFO-Received data: {"frame":"397e3t3d3d7b3d7b397c397c3d7b3t/c397c397c3t/c3t/c397c397c3t/c3t/c397c397c3t/c3+Dd397c397c3t...
+[2024-07-25 14:57:04,776]121INFO-Processing frame 567
+[2024-07-25 14:57:04,802]144INFO-Array size: 2764800
+[2024-07-25 14:57:04,802]145INFO-Expected size: 2764800
+[2024-07-25 14:57:04,802]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:04,806]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:05,225]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:05,225]202INFO-Request processing time: 0.45 seconds
+[2024-07-25 14:57:05,705]220INFO-Received data: {"frame":"3d7d3d7d3d7b3d7b3d7d3d7d3d7b3t/c3t/e3t/e3t/c3t/c3+Df3+Df3t/c3t/c3+Df3t/e3d7b3t/c3t/e3d7d3t...
+[2024-07-25 14:57:05,705]121INFO-Processing frame 585
+[2024-07-25 14:57:05,720]144INFO-Array size: 2764800
+[2024-07-25 14:57:05,720]145INFO-Expected size: 2764800
+[2024-07-25 14:57:05,720]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:05,720]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:05,886]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:05,886]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:06,389]220INFO-Received data: {"frame":"4N/f4N/f3+Dd3+Dd397e4N/f3+Dd3+Dd4N/f4N/f3+Dd3+Dd4N/f4eDg4OHe4OHe4eDg4eDg4OHe4OHe4eDg4eDg4e...
+[2024-07-25 14:57:06,389]121INFO-Processing frame 594
+[2024-07-25 14:57:06,402]144INFO-Array size: 2764800
+[2024-07-25 14:57:06,402]145INFO-Expected size: 2764800
+[2024-07-25 14:57:06,402]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:06,407]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:06,570]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:06,570]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:07,024]220INFO-Received data: {"frame":"3t/e3t/e3t/e3t/e3+Df3+Df3t/e3+Df3+Df3+Df3+Df3t/e3t/e3t/e3+Df3+Df3+Df3+Df3+Df3+Df3+Df3+Df3e...
+[2024-07-25 14:57:07,040]121INFO-Processing frame 609
+[2024-07-25 14:57:07,040]144INFO-Array size: 2764800
+[2024-07-25 14:57:07,040]145INFO-Expected size: 2764800
+[2024-07-25 14:57:07,040]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:07,040]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:07,204]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:07,208]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:07,798]220INFO-Received data: {"frame":"3+Df3+Df3+Dd3+Dd3+Df3+Df3+Dd3+Dd3+Df3+Df3+Dd3+Dd3+Df3+Df3+Dd4OHe4OHg4OHg3+Dd4OHe4OHg3+Df3+...
+[2024-07-25 14:57:07,809]121INFO-Processing frame 621
+[2024-07-25 14:57:07,823]144INFO-Array size: 2764800
+[2024-07-25 14:57:07,824]145INFO-Expected size: 2764800
+[2024-07-25 14:57:07,824]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:07,833]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:08,215]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:08,232]202INFO-Request processing time: 0.42 seconds
+[2024-07-25 14:57:08,737]220INFO-Received data: {"frame":"3t/e3t/e3t/e3t/e3t/e3t/e3t/e3t/e3+Df3+Df3t/e3t/e3+Df3+Df3+Df3+Df3+Df3+Df3+Df3+Df3+Df3+Df3+...
+[2024-07-25 14:57:08,742]121INFO-Processing frame 639
+[2024-07-25 14:57:08,745]144INFO-Array size: 2764800
+[2024-07-25 14:57:08,745]145INFO-Expected size: 2764800
+[2024-07-25 14:57:08,745]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:08,745]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:08,966]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:08,973]202INFO-Request processing time: 0.23 seconds
+[2024-07-25 14:57:09,403]220INFO-Received data: {"frame":"3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3u...
+[2024-07-25 14:57:09,418]121INFO-Processing frame 651
+[2024-07-25 14:57:09,426]144INFO-Array size: 2764800
+[2024-07-25 14:57:09,426]145INFO-Expected size: 2764800
+[2024-07-25 14:57:09,426]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:09,431]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:09,667]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:09,667]202INFO-Request processing time: 0.25 seconds
+[2024-07-25 14:57:10,188]220INFO-Received data: {"frame":"3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3uLi3uLi3eHh3eHh3uLi3uLi3eHh3eHh3uLi3uLi3uLi3eHh3e...
+[2024-07-25 14:57:10,188]121INFO-Processing frame 663
+[2024-07-25 14:57:10,195]144INFO-Array size: 2764800
+[2024-07-25 14:57:10,195]145INFO-Expected size: 2764800
+[2024-07-25 14:57:10,195]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:10,202]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:10,390]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:10,396]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:57:10,931]220INFO-Received data: {"frame":"3d7f3d7f3d7f3N3e3N3e3d7f3N3e3d7f3d7f3d7f3d7f3d7f3d7f3d7f3d7f3d7f29/f29/f29/f29/f29/f29/f29...
+[2024-07-25 14:57:10,931]121INFO-Processing frame 678
+[2024-07-25 14:57:10,931]144INFO-Array size: 2764800
+[2024-07-25 14:57:10,931]145INFO-Expected size: 2764800
+[2024-07-25 14:57:10,931]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:10,947]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:11,091]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:11,091]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:11,611]220INFO-Received data: {"frame":"9vf09vf09/n09/n09/j1+Pn2+Pn2+Pn2+Pn2+Pn2+Pn2+fr3+Pn2+fr3+fr3+fr3+fr3+fr3+fr3+fr3+vv4+fr3+v...
+[2024-07-25 14:57:11,611]121INFO-Processing frame 687
+[2024-07-25 14:57:11,627]144INFO-Array size: 2764800
+[2024-07-25 14:57:11,627]145INFO-Expected size: 2764800
+[2024-07-25 14:57:11,627]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:11,627]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:11,796]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:11,796]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:12,191]220INFO-Received data: {"frame":"8fLv8fLv7/Tu7/Tu8fLv8vPw8vPw8vPw8/Tx8/Tx8/Tx8/Tx9PXy9PXy8vby8vby8/Tx9PXy9PXy9PXy9PXy9PXy9f...
+[2024-07-25 14:57:12,191]121INFO-Processing frame 696
+[2024-07-25 14:57:12,191]144INFO-Array size: 2764800
+[2024-07-25 14:57:12,191]145INFO-Expected size: 2764800
+[2024-07-25 14:57:12,191]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:12,207]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:12,364]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:12,374]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:12,719]220INFO-Received data: {"frame":"5enn5enn5enl5enl5enn5uro5uro5uro5+vp5+vp5+vn5+vn6Ozo6Ozo6Ozo6Ozo6uvo6uvo6e3p6e3p6uvq6+zr6e...
+[2024-07-25 14:57:12,735]121INFO-Processing frame 705
+[2024-07-25 14:57:12,735]144INFO-Array size: 2764800
+[2024-07-25 14:57:12,735]145INFO-Expected size: 2764800
+[2024-07-25 14:57:12,735]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:12,735]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:12,928]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:12,930]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:57:13,346]220INFO-Received data: {"frame":"zcvEzcvEzcvEzszFz83Gz83Gz83Gz83G0M7J0M7J0M7H0M7H0M7J0c/K0c/I0c/I0c/K0c/K0tDL0tDL0tDL09HM0t...
+[2024-07-25 14:57:13,346]121INFO-Processing frame 717
+[2024-07-25 14:57:13,362]144INFO-Array size: 2764800
+[2024-07-25 14:57:13,362]145INFO-Expected size: 2764800
+[2024-07-25 14:57:13,362]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:13,362]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:13,546]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:13,546]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:57:13,988]220INFO-Received data: {"frame":"n417nox6nY16nIx5nYt5nox6no57n498n498n498n498no57n417nox6nY16no57oI58oI58n498n498n417n417no...
+[2024-07-25 14:57:13,988]121INFO-Processing frame 729
+[2024-07-25 14:57:14,004]144INFO-Array size: 2764800
+[2024-07-25 14:57:14,004]145INFO-Expected size: 2764800
+[2024-07-25 14:57:14,004]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:14,004]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:14,188]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:14,188]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:57:14,655]220INFO-Received data: {"frame":"gG5gfmxefmxef21ff21fgG5ggG1hgW5igm1igm1igm9jgm9jgWxjgGtigGtggWxhgWxhgWxhgG1hf2xggG1hgG1hf2...
+[2024-07-25 14:57:14,655]121INFO-Processing frame 741
+[2024-07-25 14:57:14,655]144INFO-Array size: 2764800
+[2024-07-25 14:57:14,655]145INFO-Expected size: 2764800
+[2024-07-25 14:57:14,655]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:14,671]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:14,850]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:57:15,308]220INFO-Received data: {"frame":"mYZymodznIl1nYp2n4x4n4x4not3nYp2nIh3nIh3not3not3not3nYp2nYp2nYp2nYl4nYl4nYl4nYl4nIh3nIh3nY...
+[2024-07-25 14:57:15,308]121INFO-Processing frame 750
+[2024-07-25 14:57:15,323]144INFO-Array size: 2764800
+[2024-07-25 14:57:15,323]145INFO-Expected size: 2764800
+[2024-07-25 14:57:15,323]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:15,323]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:15,475]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:15,481]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:16,014]220INFO-Received data: {"frame":"zL+1zL+1zsG3zsG3zsG3zsG3zsG3zsG3zsG3zsG3zMK3y8G2y8C4y8C4y8G2y8G2y8C4zMG5zMG5zMG5zMG5zMG5zM...
+[2024-07-25 14:57:16,014]121INFO-Processing frame 762
+[2024-07-25 14:57:16,030]144INFO-Array size: 2764800
+[2024-07-25 14:57:16,030]145INFO-Expected size: 2764800
+[2024-07-25 14:57:16,030]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:16,030]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:16,169]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:16,169]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:16,643]220INFO-Received data: {"frame":"6dbK6dbK6dbK6NXJ6dbK6dbK6dbK6NXJ6dbK6NXJ6NXJ6NXJ6NXJ6dbK6dbK6dbK6dbK6dbK6dbK6dbK6dbK6dbK6t...
+[2024-07-25 14:57:16,643]121INFO-Processing frame 771
+[2024-07-25 14:57:16,643]144INFO-Array size: 2764800
+[2024-07-25 14:57:16,643]145INFO-Expected size: 2764800
+[2024-07-25 14:57:16,643]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:16,658]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:16,814]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:17,408]220INFO-Received data: {"frame":"PEE7PEE7PkM7P0Q8QUZAQUZAQkQ/QkQ/QkQ/Q0VAQUZAQEU/P0Q+PkM9PkM9QEU/QkNARUZDS0xJSUpHTEtJU1JQUV...
+[2024-07-25 14:57:17,408]121INFO-Processing frame 783
+[2024-07-25 14:57:17,408]144INFO-Array size: 2764800
+[2024-07-25 14:57:17,408]145INFO-Expected size: 2764800
+[2024-07-25 14:57:17,408]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:17,424]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:17,558]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:17,568]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:18,080]220INFO-Received data: {"frame":"OkJBOEA/NkA+OEJAOkJBOkJBOkJBOUFAOUFANz8+OUFAOUFAO0NCOUFAN0E/NkA+Nj49NDw7NT08OkJBOkI/OkI/O0...
+[2024-07-25 14:57:18,080]121INFO-Processing frame 795
+[2024-07-25 14:57:18,080]144INFO-Array size: 2764800
+[2024-07-25 14:57:18,080]145INFO-Expected size: 2764800
+[2024-07-25 14:57:18,080]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:18,096]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:18,240]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:18,240]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:18,728]220INFO-Received data: {"frame":"W0oddGM2mnoppoY1uZc+s5E4rIw9uJhJpYQzfl0MgWUaf2MYhndKZlcqDxUPFx0XHyQcHiMbHiQeHyUfHiMfHyQgHy...
+[2024-07-25 14:57:18,743]121INFO-Processing frame 807
+[2024-07-25 14:57:18,743]144INFO-Array size: 2764800
+[2024-07-25 14:57:18,743]145INFO-Expected size: 2764800
+[2024-07-25 14:57:18,743]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:18,743]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:18,883]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:18,883]202INFO-Request processing time: 0.14 seconds
+[2024-07-25 14:57:19,351]220INFO-Received data: {"frame":"e3x7xcbFtre4tre4t7i5t7i5uLi8uLi8uLi8uLi8uLi8ubm9uLi8ubm9ubm9ubm9ubm9ubm9urq+ubm9ubm9urq+ur...
+[2024-07-25 14:57:19,351]121INFO-Processing frame 816
+[2024-07-25 14:57:19,367]144INFO-Array size: 2764800
+[2024-07-25 14:57:19,367]145INFO-Expected size: 2764800
+[2024-07-25 14:57:19,367]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:19,367]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:19,519]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:19,520]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:19,985]220INFO-Received data: {"frame":"KTU/JzM9JjI6LDhAKTZBJzQ/MD1IQk9aR1RfRVJdN0VOKzlCJjM+IzA7KTdAKjhBLDdDLDdDLDlEKzhDKjVBLDdDLD...
+[2024-07-25 14:57:20,000]121INFO-Processing frame 828
+[2024-07-25 14:57:20,000]144INFO-Array size: 2764800
+[2024-07-25 14:57:20,000]145INFO-Expected size: 2764800
+[2024-07-25 14:57:20,000]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:20,000]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:20,140]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:20,149]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:57:20,632]220INFO-Received data: {"frame":"LDM3GB8jCRASDhUXEhYZFRkcFBkZFRoaExgYFBkZExgYExgYDxYYERgaDxcWEBgXDhYVEBgXEhoZEBgXERkYERkYDx...
+[2024-07-25 14:57:20,632]121INFO-Processing frame 837
+[2024-07-25 14:57:20,648]144INFO-Array size: 2764800
+[2024-07-25 14:57:20,648]145INFO-Expected size: 2764800
+[2024-07-25 14:57:20,648]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:20,648]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:20,787]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:20,801]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:21,341]220INFO-Received data: {"frame":"DxMRDxMRDhIQCw8NExQTGxwbHCAcFBgUISIhOTo5FxsbBgoKEBQXEhYZDxMWERUYDREWDhIXEBQXERUYERUaEhYbEx...
+[2024-07-25 14:57:21,341]121INFO-Processing frame 849
+[2024-07-25 14:57:21,341]144INFO-Array size: 2764800
+[2024-07-25 14:57:21,341]145INFO-Expected size: 2764800
+[2024-07-25 14:57:21,341]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:21,356]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:21,501]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:21,510]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:22,118]220INFO-Received data: {"frame":"DxMRFRkXGBwaFRkXFhoYGBwaGx8bGh4aGB0ZFxwYERYSDRIOKzAsQUZCLTUwHCQfFRoaGh8fHiMjISYmICQnISUoIC...
+[2024-07-25 14:57:22,118]121INFO-Processing frame 861
+[2024-07-25 14:57:22,134]144INFO-Array size: 2764800
+[2024-07-25 14:57:22,134]145INFO-Expected size: 2764800
+[2024-07-25 14:57:22,134]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:22,134]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:22,264]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:22,277]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:22,842]220INFO-Received data: {"frame":"FhsVGB0XGyAaGR4YGxsTHh4WISAWIB8VIR4UIB0THBwUGxsTFxcRFBQOEhQPERMOEhEPExIQExQRExQREhMQEhMQDh...
+[2024-07-25 14:57:22,842]121INFO-Processing frame 873
+[2024-07-25 14:57:22,858]144INFO-Array size: 2764800
+[2024-07-25 14:57:22,858]145INFO-Expected size: 2764800
+[2024-07-25 14:57:22,858]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:22,858]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:23,006]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:23,516]220INFO-Received data: {"frame":"IyEeIR8cIR8aIR8aIB4bHx0aIx8aIR0YIBwXIh4ZHxsUIR0WIR0YIBwXHhoTHhoTHhoVHhoVHhwVHRsUHBgTHRkUHB...
+[2024-07-25 14:57:23,891]121INFO-Processing frame 885
+[2024-07-25 14:57:23,891]144INFO-Array size: 2764800
+[2024-07-25 14:57:23,891]145INFO-Expected size: 2764800
+[2024-07-25 14:57:23,891]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:23,907]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:24,062]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:24,062]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:24,540]220INFO-Received data: {"frame":"GhoWGhoWHBwYGxsXGRkVGBgUGRkVGRkVFRQSFhUTExQREhMQEhMQEhMQExQRDxANDg8ODxAPDxANDxANDREPDhIQCg...
+[2024-07-25 14:57:24,540]121INFO-Processing frame 906
+[2024-07-25 14:57:24,540]144INFO-Array size: 2764800
+[2024-07-25 14:57:24,540]145INFO-Expected size: 2764800
+[2024-07-25 14:57:24,540]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:24,556]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:24,691]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:24,691]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:57:25,185]220INFO-Received data: {"frame":"FRUcFhYdExYbEhUaFBccFRgdFxseIiYpHSQoHSQoHygsHicrHSYqICktIywwJS4yJC0xGSImFyAkFh8jFB0hKjM3Lz...
+[2024-07-25 14:57:25,185]121INFO-Processing frame 915
+[2024-07-25 14:57:25,201]144INFO-Array size: 2764800
+[2024-07-25 14:57:25,201]145INFO-Expected size: 2764800
+[2024-07-25 14:57:25,201]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:25,206]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:25,349]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:25,353]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:25,971]220INFO-Received data: {"frame":"EBQXERUYDxQUERYWDxMWEBQXEBUVERYWDhIVERUYERUYEhYZERgcExoeERgcHCMnHSYpFyAjGSMnHScrGyQoGiMnGy...
+[2024-07-25 14:57:25,971]121INFO-Processing frame 927
+[2024-07-25 14:57:25,971]144INFO-Array size: 2764800
+[2024-07-25 14:57:25,971]145INFO-Expected size: 2764800
+[2024-07-25 14:57:25,971]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:25,987]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:26,144]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:26,144]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:26,657]220INFO-Received data: {"frame":"EhUYERQXFRkcGBwfGR0gHSEkHiUpHSQoGiEmGyInGyQoGSImGSImGCElGiMnGyQoHCIqGyEpGyQoGyQoGyEpGyEpHS...
+[2024-07-25 14:57:26,657]121INFO-Processing frame 939
+[2024-07-25 14:57:26,673]144INFO-Array size: 2764800
+[2024-07-25 14:57:26,673]145INFO-Expected size: 2764800
+[2024-07-25 14:57:26,673]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:26,673]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:26,808]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:26,824]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:27,335]220INFO-Received data: {"frame":"ExcaEhYZEhYZERUYDhIVFBgbERYWDhMTDxIVDxIVBgsLAQYGBwYIHRweYF9fj46OpqaqpKSogYaGXWJiLzY6LzY6R1...
+[2024-07-25 14:57:27,351]121INFO-Processing frame 951
+[2024-07-25 14:57:27,351]144INFO-Array size: 2764800
+[2024-07-25 14:57:27,351]145INFO-Expected size: 2764800
+[2024-07-25 14:57:27,351]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:27,351]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:27,487]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:27,487]202INFO-Request processing time: 0.14 seconds
+[2024-07-25 14:57:28,056]220INFO-Received data: {"frame":"ExccExccEhYZERUYDhIVDBATEBUVFRoaExYZDRATDBATERUYFBcaExYZExcXExcXEhYZExcaExcaEhYZEhYZEhYZEB...
+[2024-07-25 14:57:28,056]121INFO-Processing frame 957
+[2024-07-25 14:57:28,063]144INFO-Array size: 2764800
+[2024-07-25 14:57:28,063]145INFO-Expected size: 2764800
+[2024-07-25 14:57:28,063]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:28,071]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:28,321]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:28,323]202INFO-Request processing time: 0.27 seconds
+[2024-07-25 14:57:28,872]220INFO-Received data: {"frame":"IysyIioxISkwIysyICktGyQoGyQoHCUpGiMnHicrHSYqHCUpGyQoHicrHCUpGCElHSQpHyYrGSAkHSQoOT1CTVFWam...
+[2024-07-25 14:57:28,877]121INFO-Processing frame 972
+[2024-07-25 14:57:28,887]144INFO-Array size: 2764800
+[2024-07-25 14:57:28,887]145INFO-Expected size: 2764800
+[2024-07-25 14:57:28,887]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:28,895]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:29,041]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:29,041]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:29,594]220INFO-Received data: {"frame":"HCUuHCUuHCgwGycvHSYvHSYvICkyICkyJC02ICkyHygxISozICgzIio1IykxIykxHiQsICYuHiInPUFGjoyRnJqfnJ...
+[2024-07-25 14:57:29,594]121INFO-Processing frame 984
+[2024-07-25 14:57:29,609]144INFO-Array size: 2764800
+[2024-07-25 14:57:29,609]145INFO-Expected size: 2764800
+[2024-07-25 14:57:29,609]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:29,609]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:29,753]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:29,753]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:30,311]220INFO-Received data: {"frame":"Ly8zgoKGoZ+klZOYmZecmJabmJabl5Wal5WcmJadmZeenJqhm5efm5efmpifmpifnJignZmhnJqhnJqhnZmhnZmhnJ...
+[2024-07-25 14:57:30,311]121INFO-Processing frame 996
+[2024-07-25 14:57:30,311]144INFO-Array size: 2764800
+[2024-07-25 14:57:30,311]145INFO-Expected size: 2764800
+[2024-07-25 14:57:30,311]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:30,327]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:30,483]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:30,484]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:31,073]220INFO-Received data: {"frame":"Hio0HSkzHCgwGiYuGiYuHioyHSkxHCgwHygxISozISoxICkwKS83KjA4JiowKS0zLi4yXV1he3p8jYyOl5WclpSbjI...
+[2024-07-25 14:57:31,073]121INFO-Processing frame 1008
+[2024-07-25 14:57:31,073]144INFO-Array size: 2764800
+[2024-07-25 14:57:31,073]145INFO-Expected size: 2764800
+[2024-07-25 14:57:31,073]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:31,089]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:31,223]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:31,231]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:31,762]220INFO-Received data: {"frame":"Gx8iGx8iGB8jFx4iFh0fFh0fFx4gFx4gGSAiGiEjExocFRweHiIlGh4hDxMWAwcKGh4jQ0dMhYiNjZCVjIqPhYOIfn...
+[2024-07-25 14:57:31,762]121INFO-Processing frame 1020
+[2024-07-25 14:57:31,778]144INFO-Array size: 2764800
+[2024-07-25 14:57:31,778]145INFO-Expected size: 2764800
+[2024-07-25 14:57:31,778]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:31,778]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:31,917]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:31,917]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:57:32,063]220INFO-Received data: ping...
+[2024-07-25 14:57:32,063]224ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 14:57:32,063]225ERROR-Received invalid JSON: ping...
+[2024-07-25 14:57:32,547]220INFO-Received data: {"frame":"JSEnWFRaa2dtc291enZ8enZ8bWtwS0lOJCInDQsQCw4TCw4TEhkbGiEjFBsdFRweGR0gGx8iGx8iGh4hGR0gGR0gFR...
+[2024-07-25 14:57:32,547]121INFO-Processing frame 1032
+[2024-07-25 14:57:32,547]144INFO-Array size: 2764800
+[2024-07-25 14:57:32,547]145INFO-Expected size: 2764800
+[2024-07-25 14:57:32,547]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:32,563]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:32,726]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:32,727]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:33,254]220INFO-Received data: {"frame":"EBsZEBsZFB4cEx0bExsaFR0cFhsbFRoaGBwcGBwcGBkYFhcWGRgYGRgYGhgVGxkWZ2RadnNpaWdZWlhKFg8BDAUAPz...
+[2024-07-25 14:57:33,254]121INFO-Processing frame 1044
+[2024-07-25 14:57:33,269]144INFO-Array size: 2764800
+[2024-07-25 14:57:33,269]145INFO-Expected size: 2764800
+[2024-07-25 14:57:33,269]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:33,269]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:33,431]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:33,959]220INFO-Received data: {"frame":"HCAjGx8iHCAjGx8iGx8iGx8iFh0hGSAkGiElGiElFh0fFBsdGh4hGR0gGB8hGiEjGiEjGB8hFR4fEhscFR4fChMUJj...
+[2024-07-25 14:57:33,959]121INFO-Processing frame 1056
+[2024-07-25 14:57:33,975]144INFO-Array size: 2764800
+[2024-07-25 14:57:33,975]145INFO-Expected size: 2764800
+[2024-07-25 14:57:33,975]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:33,975]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:34,112]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:34,112]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:57:34,682]220INFO-Received data: {"frame":"FhsZFBkXEBUTEhcVFRkVDxMPBQkFCw8LVlZOlJSMqaeVpqSSko98gH1qhoRyjIp4gYFzYmJUcHFld3hsenx1e312X2...
+[2024-07-25 14:57:34,682]121INFO-Processing frame 1068
+[2024-07-25 14:57:34,697]144INFO-Array size: 2764800
+[2024-07-25 14:57:34,697]145INFO-Expected size: 2764800
+[2024-07-25 14:57:34,697]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:34,697]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:34,843]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:34,849]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:35,349]220INFO-Received data: {"frame":"EhIYGBgeHSAjHyIlExEWGxkeRUVJZWVpZWVpPz9DAAYIDBMVGB8hGSAiGB8hGSAiGh4hGx8iHCEhFxwcGyAgGyAgHC...
+[2024-07-25 14:57:35,349]121INFO-Processing frame 1080
+[2024-07-25 14:57:35,349]144INFO-Array size: 2764800
+[2024-07-25 14:57:35,349]145INFO-Expected size: 2764800
+[2024-07-25 14:57:35,349]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:35,365]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:35,604]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:35,605]202INFO-Request processing time: 0.26 seconds
+[2024-07-25 14:57:36,124]220INFO-Received data: {"frame":"LTA1EhUaERUYGBwfHCAgHCAgGyAgGyAgHCAgGx8fGyAgGyAgHCEhGyAgHCEhHSIiGyAgGB0dJioqISUlFhcUEhMQER...
+[2024-07-25 14:57:36,124]121INFO-Processing frame 1092
+[2024-07-25 14:57:36,139]144INFO-Array size: 2764800
+[2024-07-25 14:57:36,139]145INFO-Expected size: 2764800
+[2024-07-25 14:57:36,139]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:36,139]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:36,294]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:36,310]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:57:36,895]220INFO-Received data: {"frame":"X2NjWFxcQ0dMIycsAQUKBAgNDBATCg4RGRwfFxodFRkcFxseFRkcFRkcFh0fFh0fGR0gGBwfFR0cFh4dGR0gGR0gFh...
+[2024-07-25 14:57:36,899]121INFO-Processing frame 1104
+[2024-07-25 14:57:36,905]144INFO-Array size: 2764800
+[2024-07-25 14:57:36,905]145INFO-Expected size: 2764800
+[2024-07-25 14:57:36,905]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:36,905]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:37,049]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:37,055]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:37,613]220INFO-Received data: {"frame":"FRkeEBQZDxMYFBgdGBwcGh4eFhoaDxMTFxgZCgsMBgMCJSIhbGplcW9qY2FeW1lWLCspCQgGDAwIEBAMICAcVVVRa2...
+[2024-07-25 14:57:37,618]121INFO-Processing frame 1116
+[2024-07-25 14:57:37,626]144INFO-Array size: 2764800
+[2024-07-25 14:57:37,626]145INFO-Expected size: 2764800
+[2024-07-25 14:57:37,626]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:37,633]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:37,877]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:37,887]202INFO-Request processing time: 0.27 seconds
+[2024-07-25 14:57:38,390]220INFO-Received data: {"frame":"LC8yNzo9XF9iYWRnbGxwdHR4goGDh4aIj4yPlpOWmJWYnZqdnpuenZqdnZqdnZqdnpuen5yfnpuen5yfoJ2gn5yfnp...
+[2024-07-25 14:57:38,390]121INFO-Processing frame 1131
+[2024-07-25 14:57:38,390]144INFO-Array size: 2764800
+[2024-07-25 14:57:38,390]145INFO-Expected size: 2764800
+[2024-07-25 14:57:38,390]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:38,406]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:38,542]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:38,557]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:39,073]220INFO-Received data: {"frame":"qaesqqitqqitqqitq6muq6muq6murKqvrauwq6muq6qsq6qsqqitq6muqaiqq6qsr62yrqyxrauwrKqvrauwrauwrq...
+[2024-07-25 14:57:39,073]121INFO-Processing frame 1143
+[2024-07-25 14:57:39,088]144INFO-Array size: 2764800
+[2024-07-25 14:57:39,088]145INFO-Expected size: 2764800
+[2024-07-25 14:57:39,088]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:39,088]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:39,314]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:39,320]202INFO-Request processing time: 0.25 seconds
+[2024-07-25 14:57:39,880]220INFO-Received data: {"frame":"ZWwzZWwzY2wyZG0zYWgvY2oxZGsyY2oxY2oxY2oxYGcuY2oxZ2wzZWoxZmsyam82Z203Z203Zmw2Zmw2Zm00Zm00aG...
+[2024-07-25 14:57:39,880]121INFO-Processing frame 1158
+[2024-07-25 14:57:39,895]144INFO-Array size: 2764800
+[2024-07-25 14:57:39,895]145INFO-Expected size: 2764800
+[2024-07-25 14:57:39,895]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:39,895]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:40,028]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:40,028]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:57:40,613]220INFO-Received data: {"frame":"b3M9a285aG82aG82am44am44am82aW41aW03aW03aGw2aGw2aGw2Zmo0ZWoxZmsyY2oxYWgvZWwzZm00ZWwzZGsyZG...
+[2024-07-25 14:57:40,613]121INFO-Processing frame 1170
+[2024-07-25 14:57:40,629]144INFO-Array size: 2764800
+[2024-07-25 14:57:40,629]145INFO-Expected size: 2764800
+[2024-07-25 14:57:40,629]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:40,629]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:40,778]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:40,778]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:41,344]220INFO-Received data: {"frame":"sq62sq62sq62sa21sa2zr6uxrKiur6uxtbCzsq2wqKOiqaSjX2Q1XWIzbHA+bXE/a24/aWw9Z203a3E7d3tFfYFLd3...
+[2024-07-25 14:57:41,344]121INFO-Processing frame 1182
+[2024-07-25 14:57:41,359]144INFO-Array size: 2764800
+[2024-07-25 14:57:41,359]145INFO-Expected size: 2764800
+[2024-07-25 14:57:41,359]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:41,359]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:41,576]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:41,577]202INFO-Request processing time: 0.23 seconds
+[2024-07-25 14:57:42,148]220INFO-Received data: {"frame":"oaWGfIBhbXFKcHRNfYFYeHxTdnhNdnhNdXhKdnlLam9AZ2w9ZWg5Zmk6Y2g5ZGk6ZWw8Ymk5XWY1WmMyW2IyXGMzYG...
+[2024-07-25 14:57:42,151]121INFO-Processing frame 1197
+[2024-07-25 14:57:42,161]144INFO-Array size: 2764800
+[2024-07-25 14:57:42,161]145INFO-Expected size: 2764800
+[2024-07-25 14:57:42,161]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:42,167]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:42,367]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:42,367]202INFO-Request processing time: 0.22 seconds
+[2024-07-25 14:57:42,890]220INFO-Received data: {"frame":"anBEanBEZ24/Z24/Zmo/Zmo/Y2k9aW9DZmo/Z2tAZGs7Ymk5Ymc4Ymc4X2Y2X2Y2X2c0YGg1YGg1YGg1Ymg2Ymg2ZW...
+[2024-07-25 14:57:42,890]121INFO-Processing frame 1209
+[2024-07-25 14:57:42,906]144INFO-Array size: 2764800
+[2024-07-25 14:57:42,910]145INFO-Expected size: 2764800
+[2024-07-25 14:57:42,910]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:42,911]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:43,044]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:43,044]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:57:43,640]220INFO-Received data: {"frame":"vrjBubO8uLC3urK5ubS3tbCzsbClgoF2aGlIbG1Mam1KaGtIbHBFdHhNbHFCaG0+a25AbXBCbXJEam9BaGs8Z2o7Y2...
+[2024-07-25 14:57:43,647]121INFO-Processing frame 1221
+[2024-07-25 14:57:43,655]144INFO-Array size: 2764800
+[2024-07-25 14:57:43,656]145INFO-Expected size: 2764800
+[2024-07-25 14:57:43,656]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:43,662]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:43,846]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:43,858]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:57:44,323]220INFO-Received data: {"frame":"ubS3ubS3tbK1s7Czsq62s6+3sq62s6+3sa21sKy0sa2zsa2zs7Czsq+ysK2uqqeonZqPiIV6ZGQ8aWlBdXVPaGhCbn...
+[2024-07-25 14:57:44,323]121INFO-Processing frame 1233
+[2024-07-25 14:57:44,323]144INFO-Array size: 2764800
+[2024-07-25 14:57:44,323]145INFO-Expected size: 2764800
+[2024-07-25 14:57:44,323]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:44,339]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:44,563]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:44,565]202INFO-Request processing time: 0.24 seconds
+[2024-07-25 14:57:45,239]220INFO-Received data: {"frame":"a3BCam9BaW4/b3RFZWo7Ymc4Ymk5YWg4YGc3YWg4Ymo3YWk2YWg4Y2o6Y2o6ZWw8ZGo4aG48X2UzZWs5Y2k3ZWs5ZW...
+[2024-07-25 14:57:45,239]121INFO-Processing frame 1248
+[2024-07-25 14:57:45,252]144INFO-Array size: 2764800
+[2024-07-25 14:57:45,252]145INFO-Expected size: 2764800
+[2024-07-25 14:57:45,252]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:45,257]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:45,415]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:45,428]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:45,983]220INFO-Received data: {"frame":"dXVLc3NJc3ZIeHtNfX9UfX9UeX5Qc3hKam0/c3ZIeH1Pa3BCam9AaG0+aG0+aW4/aW89aW89Z207ZGo4Ymg2YGY0YG...
+[2024-07-25 14:57:45,983]121INFO-Processing frame 1260
+[2024-07-25 14:57:45,999]144INFO-Array size: 2764800
+[2024-07-25 14:57:45,999]145INFO-Expected size: 2764800
+[2024-07-25 14:57:45,999]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:45,999]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:46,148]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:46,148]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:46,675]220INFO-Received data: {"frame":"tbS0tbS0tLOxs7Kwrq6qpqaidn1YZGtGZ29EbXVKbXNHb3VJbnVFbXREcnpHaXE+ZGo4Zmw6Zmw4Zmw4Zmw6Y2k3Ym...
+[2024-07-25 14:57:46,675]121INFO-Processing frame 1272
+[2024-07-25 14:57:46,675]144INFO-Array size: 2764800
+[2024-07-25 14:57:46,675]145INFO-Expected size: 2764800
+[2024-07-25 14:57:46,675]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:46,691]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:46,854]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:46,855]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:47,439]220INFO-Received data: {"frame":"o14jo14jol0go14hol0io14jo14jo14jpF4jpmAlpmEmpWAlo14jo14jpWAlpWAlpmEmpmEmpmEmpmEmpF8kpmEmqW...
+[2024-07-25 14:57:47,439]121INFO-Processing frame 1284
+[2024-07-25 14:57:47,455]144INFO-Array size: 2764800
+[2024-07-25 14:57:47,455]145INFO-Expected size: 2764800
+[2024-07-25 14:57:47,455]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:47,455]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:47,600]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:47,600]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:48,064]220INFO-Received data: {"frame":"nFkhnFkhnFkhnVoin1wkoF0ln1win1wioVsioVsioFohoFohoVsiolwjoV4koF0jolwjoVsinlshoF0joV8joV8jom...
+[2024-07-25 14:57:48,080]121INFO-Processing frame 1296
+[2024-07-25 14:57:48,080]144INFO-Array size: 2764800
+[2024-07-25 14:57:48,080]145INFO-Expected size: 2764800
+[2024-07-25 14:57:48,080]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:48,080]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:48,261]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:48,261]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:57:48,742]220INFO-Received data: {"frame":"DhgcGCImIy0xLTc7MTpBNT5FNkJKOkZOR1BZR1BZPkpQP0tRRE1URk9WTFheUFxiTlxjTFphVGVrTl9lT1thUV1jU1...
+[2024-07-25 14:57:48,742]121INFO-Processing frame 1305
+[2024-07-25 14:57:48,742]144INFO-Array size: 2764800
+[2024-07-25 14:57:48,742]145INFO-Expected size: 2764800
+[2024-07-25 14:57:48,742]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:48,742]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:48,889]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:48,900]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:49,412]220INFO-Received data: {"frame":"qKepqaiqq6qspaSmqqmrqqmrq6qsrq2vqqitr62ysbCyrayurq2vrKutrq2vrayuqaiqqqmrqKeprq2vsK+xrayusb...
+[2024-07-25 14:57:49,412]121INFO-Processing frame 1314
+[2024-07-25 14:57:49,427]144INFO-Array size: 2764800
+[2024-07-25 14:57:49,427]145INFO-Expected size: 2764800
+[2024-07-25 14:57:49,427]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:49,427]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:49,577]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:49,577]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:50,140]220INFO-Received data: {"frame":"qqqwqqqwq6uvrKywrKyyq6uxq6uvqqquqqqwrKyyq6uvrKywq6uxqqqwra2xrKywq6uvq6uvra6vrq+wrq+ura6trK...
+[2024-07-25 14:57:50,155]121INFO-Processing frame 1329
+[2024-07-25 14:57:50,155]144INFO-Array size: 2764800
+[2024-07-25 14:57:50,155]145INFO-Expected size: 2764800
+[2024-07-25 14:57:50,155]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:50,155]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:50,427]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:50,460]202INFO-Request processing time: 0.31 seconds
+[2024-07-25 14:57:51,001]220INFO-Received data: {"frame":"SFAdTVUiVFwpWWEuU1oqU1oqVVwsV14uWmExWWAwWF8vWmExXGM0XmU2XWQ0W2IyWmExW2IyXWY1YGk4Y2o6XGMzWW...
+[2024-07-25 14:57:51,017]121INFO-Processing frame 1344
+[2024-07-25 14:57:51,021]144INFO-Array size: 2764800
+[2024-07-25 14:57:51,021]145INFO-Expected size: 2764800
+[2024-07-25 14:57:51,021]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:51,037]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:51,238]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:51,238]202INFO-Request processing time: 0.22 seconds
+[2024-07-25 14:57:51,754]220INFO-Received data: {"frame":"srC3qKatqqitsa+0qaesr62yrqyxsK6zsK6zr62ytbS2sK+xtbK1paKlvLm4v7y7sayvzcjLfoBvPT8uRUooRkspSk...
+[2024-07-25 14:57:51,754]121INFO-Processing frame 1356
+[2024-07-25 14:57:51,769]144INFO-Array size: 2764800
+[2024-07-25 14:57:51,769]145INFO-Expected size: 2764800
+[2024-07-25 14:57:51,769]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:51,769]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:51,909]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:51,909]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:57:52,498]220INFO-Received data: {"frame":"trK4rKiusrGzpqWntrS5r62yqaiqsbCyqaWrsa2zrKmsuLW4s66xr6qtuLW2kY6Pt7Wyj42KKCoNQkQnU1U4VVc6Q0...
+[2024-07-25 14:57:52,498]121INFO-Processing frame 1368
+[2024-07-25 14:57:52,498]144INFO-Array size: 2764800
+[2024-07-25 14:57:52,498]145INFO-Expected size: 2764800
+[2024-07-25 14:57:52,498]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:52,513]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:52,668]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:52,669]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:53,321]220INFO-Received data: {"frame":"pJ6kp6GnqKSqqKSqq6WrrKasrKiur6uxtK60s62ztLC2t7O5ubW7ubW7t7O5tbG3trC4ubO7vLa+vLa+u7W9urS8tr...
+[2024-07-25 14:57:53,321]121INFO-Processing frame 1383
+[2024-07-25 14:57:53,337]144INFO-Array size: 2764800
+[2024-07-25 14:57:53,337]145INFO-Expected size: 2764800
+[2024-07-25 14:57:53,337]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:53,337]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:53,487]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:53,493]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:57:54,129]220INFO-Received data: {"frame":"oJyirKius6+1s6+1wb3Dr6uxtLC2s6+1vbe9urS6t7S3tLG0p6GnzsjOqqSqzMbMv7m/wbvBuLC3tq61tKyztq61vb...
+[2024-07-25 14:57:54,129]121INFO-Processing frame 1395
+[2024-07-25 14:57:54,129]144INFO-Array size: 2764800
+[2024-07-25 14:57:54,129]145INFO-Expected size: 2764800
+[2024-07-25 14:57:54,129]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:54,144]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:54,265]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:54,276]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:57:54,924]220INFO-Received data: {"frame":"oJuer6qtqaSnqaSnpqCmp6GnqqWoq6apqaOpqKKoqaappaKlp6SnpqOmqKWoqqeqqqSqr6mvrKasr6mvqaWrqaWrp6...
+[2024-07-25 14:57:54,933]121INFO-Processing frame 1410
+[2024-07-25 14:57:54,947]144INFO-Array size: 2764800
+[2024-07-25 14:57:54,947]145INFO-Expected size: 2764800
+[2024-07-25 14:57:54,947]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:54,968]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:55,278]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:55,278]202INFO-Request processing time: 0.35 seconds
+[2024-07-25 14:57:55,752]220INFO-Received data: {"frame":"WllbWVhaWVhYWllZWVhaVlVXVlVVVVRUVlVXV1ZYVlVVVFNTVVRWVlVXVlVVVFNTVlVVWVhYWVhYWVhYV1ZWVlVVVl...
+[2024-07-25 14:57:55,752]121INFO-Processing frame 1425
+[2024-07-25 14:57:55,768]144INFO-Array size: 2764800
+[2024-07-25 14:57:55,768]145INFO-Expected size: 2764800
+[2024-07-25 14:57:55,768]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:55,768]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:56,039]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:56,040]202INFO-Request processing time: 0.29 seconds
+[2024-07-25 14:57:56,508]220INFO-Received data: {"frame":"3NLXy8HGmZiaWVhaUVBSV1ZYVFNTUlFRUlFRUE9PU1JSU1JSUlFRUlFRU1JSU1JSUlFRUVBQUE9PUE9PT05OTk1NTk...
+[2024-07-25 14:57:56,514]121INFO-Processing frame 1437
+[2024-07-25 14:57:56,521]144INFO-Array size: 2764800
+[2024-07-25 14:57:56,521]145INFO-Expected size: 2764800
+[2024-07-25 14:57:56,521]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:56,528]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:56,714]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:56,715]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:57:57,195]220INFO-Received data: {"frame":"UE1OUU5PUVBQUE9PUU5PUk9QUU5NT0xLT0xNUE1OT0xNTElKTElKTUpLT0xNT0xNT0xPUU5RVFNVUlFTVFFUVFFUVV...
+[2024-07-25 14:57:57,195]121INFO-Processing frame 1446
+[2024-07-25 14:57:57,211]144INFO-Array size: 2764800
+[2024-07-25 14:57:57,211]145INFO-Expected size: 2764800
+[2024-07-25 14:57:57,211]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:57,211]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:57,403]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:57,403]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:57:57,987]220INFO-Received data: {"frame":"P0A/RUZFR0hHRkdGUE1MUk9OVVNQamhlko+Osa6twL65xcO+xMK9xMK9ysjB0M7H1tLL1dHK1M/G3NfO5+Hb7efh8u...
+[2024-07-25 14:57:57,993]121INFO-Processing frame 1458
+[2024-07-25 14:57:58,000]144INFO-Array size: 2764800
+[2024-07-25 14:57:58,000]145INFO-Expected size: 2764800
+[2024-07-25 14:57:58,000]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:58,016]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:58,454]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:58,458]202INFO-Request processing time: 0.46 seconds
+[2024-07-25 14:57:58,958]220INFO-Received data: {"frame":"c3NtdHRud3dzeXl1e3h3e3h3eXp7dXZ3c3JydXR0gX98jIqHh4aGiYiIh4aIhoWHQ0dMBwsQCw8UERUaEBQZEBQZER...
+[2024-07-25 14:57:58,958]121INFO-Processing frame 1476
+[2024-07-25 14:57:58,974]144INFO-Array size: 2764800
+[2024-07-25 14:57:58,974]145INFO-Expected size: 2764800
+[2024-07-25 14:57:58,974]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:58,974]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:57:59,160]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:57:59,164]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:57:59,918]220INFO-Received data: {"frame":"DxMWEBQXDxYYDxYYEhkbDBMVCRASDhUXEhseHicqQkZMZmpwYGZuICYuHCQrWmJpVF1mX2hxN0BEAgsPAwcMCw8ULD...
+[2024-07-25 14:57:59,933]121INFO-Processing frame 1488
+[2024-07-25 14:57:59,933]144INFO-Array size: 2764800
+[2024-07-25 14:57:59,933]145INFO-Expected size: 2764800
+[2024-07-25 14:57:59,933]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:57:59,933]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:00,119]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:00,129]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:58:00,712]220INFO-Received data: {"frame":"Q0tUPERNLDxGJTU/HCw7GCg3GSs5HC48JzU+KjhBLDU8JC00ExwgCxQYDhUZDBMXERUaEhYbFRkeFBgdFhkeFBccFB...
+[2024-07-25 14:58:00,712]121INFO-Processing frame 1500
+[2024-07-25 14:58:00,728]144INFO-Array size: 2764800
+[2024-07-25 14:58:00,728]145INFO-Expected size: 2764800
+[2024-07-25 14:58:00,728]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:00,728]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:00,899]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:00,899]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:01,384]220INFO-Received data: {"frame":"ERgcEhkdERgcDxYaEBQZEhYbDxYaDhUZDxYaERgcEhkdEhkdFBsfExoeEBcbDhUZDxgcDxgcEBkdERoeFRwhFh0iGS...
+[2024-07-25 14:58:01,384]121INFO-Processing frame 1512
+[2024-07-25 14:58:01,400]144INFO-Array size: 2764800
+[2024-07-25 14:58:01,400]145INFO-Expected size: 2764800
+[2024-07-25 14:58:01,400]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:01,400]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:01,570]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:01,576]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:02,051]220INFO-Received data: {"frame":"ERUaERUaERUaFBgdExccEBQZEBcZEhkbDhIXEhYbHiUnMzo8FhofFRkeFRkcDBATBwsOEBQXFRkcFRkcFhkcFhkcFh...
+[2024-07-25 14:58:02,067]121INFO-Processing frame 1521
+[2024-07-25 14:58:02,067]144INFO-Array size: 2764800
+[2024-07-25 14:58:02,067]145INFO-Expected size: 2764800
+[2024-07-25 14:58:02,067]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:02,067]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:02,238]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:02,239]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:02,242]220INFO-Received data: ping...
+[2024-07-25 14:58:02,242]224ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 14:58:02,242]225ERROR-Received invalid JSON: ping...
+[2024-07-25 14:58:02,756]220INFO-Received data: {"frame":"DxMWERUYERUYERUYEhYZERUYERUYEhYZFBcaExYZExYZFBcaExYZEhUYExYZFhkcEBMWFRgbGRwfFRgbFRQWFBMVNj...
+[2024-07-25 14:58:02,756]121INFO-Processing frame 1533
+[2024-07-25 14:58:02,756]144INFO-Array size: 2764800
+[2024-07-25 14:58:02,756]145INFO-Expected size: 2764800
+[2024-07-25 14:58:02,756]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:02,771]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:02,938]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:02,947]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:03,531]220INFO-Received data: {"frame":"oVwhol0iol0gol0gpF8kpF8kpF8ipF8ipF8ipF8io14ho14hpF8ipmEkpmEipWAhpmEkpWAjpmEipWAhpmEipWAhpW...
+[2024-07-25 14:58:03,547]121INFO-Processing frame 1545
+[2024-07-25 14:58:03,547]144INFO-Array size: 2764800
+[2024-07-25 14:58:03,547]145INFO-Expected size: 2764800
+[2024-07-25 14:58:03,547]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:03,547]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:03,715]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:03,726]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:04,215]220INFO-Received data: {"frame":"xsTJxcPIxcTGxsXHxsXHxcTGxMS+w8O9vryss7GhpqSHpqSHp6aGp6aGpaSCpaSCpKN/pqWBpaV/o6N9oaF7oqJ8oq...
+[2024-07-25 14:58:04,215]121INFO-Processing frame 1557
+[2024-07-25 14:58:04,231]144INFO-Array size: 2764800
+[2024-07-25 14:58:04,231]145INFO-Expected size: 2764800
+[2024-07-25 14:58:04,231]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:04,231]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:04,400]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:04,401]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:04,879]220INFO-Received data: {"frame":"uLa+ube/ubnAubnAvLrCvLrCvb3Evb3EvrzEv73Fvr7Fv7/Gv73Fv73Fvr7Fvr7Fv73Fv73FwMDHwMDHwb/HwL7Gvr...
+[2024-07-25 14:58:04,895]121INFO-Processing frame 1569
+[2024-07-25 14:58:04,895]144INFO-Array size: 2764800
+[2024-07-25 14:58:04,895]145INFO-Expected size: 2764800
+[2024-07-25 14:58:04,895]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:04,895]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:05,073]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:05,074]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:05,702]220INFO-Received data: {"frame":"g4lVgIZSgIZSgohUgIZSgIZShYlVhYlVhIhUhYlVhIhUhYlVhYlVhYlVhYtVh41XiI9Wh45ViZJXipNYipJbjJRdjp...
+[2024-07-25 14:58:05,702]121INFO-Processing frame 1581
+[2024-07-25 14:58:05,702]144INFO-Array size: 2764800
+[2024-07-25 14:58:05,702]145INFO-Expected size: 2764800
+[2024-07-25 14:58:05,702]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:05,718]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:05,875]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:05,875]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:06,346]220INFO-Received data: {"frame":"fIhafopcfopcfopcfItge4pfeotfeotfeIlhd4hgdolld4pmdolod4ppc4psdYxudItxdItxdI12dI12dIx5do57d4...
+[2024-07-25 14:58:06,346]121INFO-Processing frame 1593
+[2024-07-25 14:58:06,346]144INFO-Array size: 2764800
+[2024-07-25 14:58:06,346]145INFO-Expected size: 2764800
+[2024-07-25 14:58:06,346]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:06,362]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:06,517]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:06,517]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:07,077]220INFO-Received data: {"frame":"Xn1WXXxVXHtUXHtUXHtWXHtWXHtWWXhTWHZUWHZUVXZXVXZXVnZZVnZZU3VZVXdbV3hhV3hhVndhVXZgV3pjV3pjVn...
+[2024-07-25 14:58:07,077]121INFO-Processing frame 1605
+[2024-07-25 14:58:07,077]144INFO-Array size: 2764800
+[2024-07-25 14:58:07,077]145INFO-Expected size: 2764800
+[2024-07-25 14:58:07,077]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:07,092]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:07,264]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:07,265]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:07,820]220INFO-Received data: {"frame":"0dDF0dDF0tHG09LH09LI09LI1NPJ1dTK1dPM1tTN1tTN19XO19XQ19XQ2NbR2NbR2dfS2dfS2tjT2tjT29nW29nW29...
+[2024-07-25 14:58:07,835]121INFO-Processing frame 1617
+[2024-07-25 14:58:07,835]144INFO-Array size: 2764800
+[2024-07-25 14:58:07,835]145INFO-Expected size: 2764800
+[2024-07-25 14:58:07,835]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:07,851]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:08,087]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:08,088]202INFO-Request processing time: 0.25 seconds
+[2024-07-25 14:58:08,561]220INFO-Received data: {"frame":"8uff8uff8uff8uff8+jg8+jg8+jg8+jg8+jg8+jg8+jg8+jg8+jg8+jg8+jg8+jg8uff8uff8ebe8ebe8ebf8OXe7+...
+[2024-07-25 14:58:08,561]121INFO-Processing frame 1629
+[2024-07-25 14:58:08,561]144INFO-Array size: 2764800
+[2024-07-25 14:58:08,561]145INFO-Expected size: 2764800
+[2024-07-25 14:58:08,561]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:08,577]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:08,730]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:08,731]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:09,247]220INFO-Received data: {"frame":"c15KdmFNdmFNdmFNdF9LdWBMc15KdWBMdV9OdmBPdl9Mdl9Md19Pdl5OdV5Ldl9Mdl5Od19Pd2BNeGFOeGBQeGBQeW...
+[2024-07-25 14:58:09,247]121INFO-Processing frame 1641
+[2024-07-25 14:58:09,262]144INFO-Array size: 2764800
+[2024-07-25 14:58:09,262]145INFO-Expected size: 2764800
+[2024-07-25 14:58:09,262]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:09,262]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:09,431]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:09,446]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:58:10,023]220INFO-Received data: {"frame":"cmFWcF9Ub15TcF9UbFtQbVxRbVxPb15RcV5ScF1RbVxRallOYU1IZ1NOYlBKXkxGW0pIWklHVEhET0M/TkI+Sz87RT...
+[2024-07-25 14:58:10,023]121INFO-Processing frame 1653
+[2024-07-25 14:58:10,039]144INFO-Array size: 2764800
+[2024-07-25 14:58:10,039]145INFO-Expected size: 2764800
+[2024-07-25 14:58:10,039]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:10,039]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:10,204]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:10,205]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:10,723]220INFO-Received data: {"frame":"LzM5MDQ6MTU6MDQ5MDQ5MTU6MTU6MjY7Mzc8Mzc8NDg+NTk/NTk/Mzc9NTk/NjpANTg+MzY8NDg+NDg+NTg+NDc9NT...
+[2024-07-25 14:58:10,723]121INFO-Processing frame 1665
+[2024-07-25 14:58:10,723]144INFO-Array size: 2764800
+[2024-07-25 14:58:10,723]145INFO-Expected size: 2764800
+[2024-07-25 14:58:10,723]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:10,738]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:10,895]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:10,896]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:11,370]220INFO-Received data: {"frame":"dHN/dnWBd3aAd3aAd3aAeXiCeHh/eXmAeXaBdnN+enqBenqBeXmAeXmAeXmAeXmAfX2EenqBd3qAd3qAe3uCeXmAf3...
+[2024-07-25 14:58:11,386]121INFO-Processing frame 1677
+[2024-07-25 14:58:11,386]144INFO-Array size: 2764800
+[2024-07-25 14:58:11,386]145INFO-Expected size: 2764800
+[2024-07-25 14:58:11,386]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:11,386]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:11,599]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:11,606]202INFO-Request processing time: 0.22 seconds
+[2024-07-25 14:58:12,089]220INFO-Received data: {"frame":"cW1zm5edt7a4wsHDxsbKw8PHubzBrK+0lJSbfHyDY2FoWVdeV1deSUlQX2BhhIWGpaSktLOzrK+0mZyhZWhuPUBGQE...
+[2024-07-25 14:58:12,089]121INFO-Processing frame 1689
+[2024-07-25 14:58:12,105]144INFO-Array size: 2764800
+[2024-07-25 14:58:12,105]145INFO-Expected size: 2764800
+[2024-07-25 14:58:12,105]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:12,105]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:12,264]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:12,268]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:58:12,841]220INFO-Received data: {"frame":"Oz9CPEBDOj8/Nzw8Oz8/PUFBPj8+P0A/QUA+Pz48Pj88Ojs4MTIvNDUyPD06Ojs4Nzg3OTo5ODw6ODw6PT49PD08Pj...
+[2024-07-25 14:58:12,841]121INFO-Processing frame 1701
+[2024-07-25 14:58:12,841]144INFO-Array size: 2764800
+[2024-07-25 14:58:12,841]145INFO-Expected size: 2764800
+[2024-07-25 14:58:12,841]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:12,857]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:13,017]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:13,017]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:13,514]220INFO-Received data: {"frame":"HxwbHxwbHxwbIh8eIh8eIR4dHx4cIB8dISAeJCMhHyAdHR4bGxwbGxwbGxwbGBkYGRoZGxwbHB0cHR4dHyAfHh8eGB...
+[2024-07-25 14:58:13,514]121INFO-Processing frame 1713
+[2024-07-25 14:58:13,521]144INFO-Array size: 2764800
+[2024-07-25 14:58:13,528]145INFO-Expected size: 2764800
+[2024-07-25 14:58:13,528]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:13,528]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:13,695]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:13,712]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:58:14,259]220INFO-Received data: {"frame":"FxgVGBkWGBkWGRoXGxoYHBsZGhwXGBoVGBcVFxYUGRoXGRoXGRoXGhsYGxoYGRgWGBcVGRgWHBkYGRYVGRgWGRgWGR...
+[2024-07-25 14:58:14,259]121INFO-Processing frame 1725
+[2024-07-25 14:58:14,275]144INFO-Array size: 2764800
+[2024-07-25 14:58:14,275]145INFO-Expected size: 2764800
+[2024-07-25 14:58:14,275]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:14,275]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:14,431]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:14,431]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:14,943]220INFO-Received data: {"frame":"HBwYGhoWGxsVGhoUHBwYHBwYHBwYGxsXGhgVGRcUGhoWGxsXFhUTGRgWGxsXHx8bHh0bFhUTGBcVFhUTGRgWHBsZGR...
+[2024-07-25 14:58:14,943]121INFO-Processing frame 1737
+[2024-07-25 14:58:14,959]144INFO-Array size: 2764800
+[2024-07-25 14:58:14,959]145INFO-Expected size: 2764800
+[2024-07-25 14:58:14,959]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:14,959]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:15,133]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:15,137]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:15,660]220INFO-Received data: {"frame":"HBsZHBsZGRgWGBcVHBsZHh0bHx8bHBwYHRsYHRsYGhoWFxcTGBcVGRgWFxYUGBcVGRkVGBgUGBgUGhoWGxsXGxsXGh...
+[2024-07-25 14:58:15,660]121INFO-Processing frame 1749
+[2024-07-25 14:58:15,660]144INFO-Array size: 2764800
+[2024-07-25 14:58:15,660]145INFO-Expected size: 2764800
+[2024-07-25 14:58:15,660]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:15,676]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:15,849]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:15,850]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:16,385]220INFO-Received data: {"frame":"gWRTgWRTf2JPgWRRfWBNhGdUg2dUgmZTfmdSf2hTf2lYf2lYfGZZemRXcWBTbVxPYFNJVUg+PTgvLyohHxsWFxMODw...
+[2024-07-25 14:58:16,385]121INFO-Processing frame 1761
+[2024-07-25 14:58:16,401]144INFO-Array size: 2764800
+[2024-07-25 14:58:16,401]145INFO-Expected size: 2764800
+[2024-07-25 14:58:16,401]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:16,401]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:16,568]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:16,569]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:17,108]220INFO-Received data: {"frame":"b2dbKSEVCQkDGhoUIyMfJCQgIiEfJCMhIiEfIiEfJiUjIiEfIiEfIiEfIiEfIyIgIyIgIiEfIyMfIyMfIiEfIiEfIy...
+[2024-07-25 14:58:17,108]121INFO-Processing frame 1773
+[2024-07-25 14:58:17,129]144INFO-Array size: 2764800
+[2024-07-25 14:58:17,129]145INFO-Expected size: 2764800
+[2024-07-25 14:58:17,129]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:17,133]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:17,292]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:17,293]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:17,822]220INFO-Received data: {"frame":"sKarsKarrqertK2xta6ys6ywta6yvLW5rqSpsqittaisq56ioIaEj3Vzm3Beondlqn1mq35nonhin3Vfs5+Sw6+is6...
+[2024-07-25 14:58:17,822]121INFO-Processing frame 1785
+[2024-07-25 14:58:17,822]144INFO-Array size: 2764800
+[2024-07-25 14:58:17,822]145INFO-Expected size: 2764800
+[2024-07-25 14:58:17,822]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:17,838]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:18,000]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:18,000]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:18,578]220INFO-Received data: {"frame":"qKivqqqxq6uyqqqxqqqxqqqxq6uyrKyzra20rKyzq6uyq6uyq6uyra20rKyzra20rKyzrKyzrKyzrq61rq61r6+2r6...
+[2024-07-25 14:58:18,578]121INFO-Processing frame 1797
+[2024-07-25 14:58:18,594]144INFO-Array size: 2764800
+[2024-07-25 14:58:18,594]145INFO-Expected size: 2764800
+[2024-07-25 14:58:18,594]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:18,594]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:18,762]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:18,773]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:58:19,228]220INFO-Received data: {"frame":"q6izq6izqaaxqaaxq6izq6izrKm0q6izrKm2rKm2q6izq6izrKm0rKm0raq1rKm0q6izq6izrKm0rqu2raq1rqu2r6...
+[2024-07-25 14:58:19,228]121INFO-Processing frame 1809
+[2024-07-25 14:58:19,244]144INFO-Array size: 2764800
+[2024-07-25 14:58:19,244]145INFO-Expected size: 2764800
+[2024-07-25 14:58:19,244]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:19,244]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:19,411]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:19,412]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:20,014]220INFO-Received data: {"frame":"N0BENj9DN0BEOUJGOkJJOkJJPERLO0NKPEJMPEJMO0NMO0NMOUFMOUFMPUVQP0dSQEZSP0VRPkROPUNNPUNPO0FNOD...
+[2024-07-25 14:58:20,025]121INFO-Processing frame 1821
+[2024-07-25 14:58:20,025]144INFO-Array size: 2764800
+[2024-07-25 14:58:20,025]145INFO-Expected size: 2764800
+[2024-07-25 14:58:20,025]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:20,025]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:20,286]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:20,287]202INFO-Request processing time: 0.26 seconds
+[2024-07-25 14:58:20,799]220INFO-Received data: {"frame":"SEpXXV9sipKbjpafqLG8W2RvaXaBKjdCMzpHJCs4LzdAOkJLPkFKPD9IPD9IPUBJO0FJPUNLOkFGO0JHQkVOP0JLP0...
+[2024-07-25 14:58:20,799]121INFO-Processing frame 1836
+[2024-07-25 14:58:20,812]144INFO-Array size: 2764800
+[2024-07-25 14:58:20,813]145INFO-Expected size: 2764800
+[2024-07-25 14:58:20,813]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:20,820]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:21,119]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:21,125]202INFO-Request processing time: 0.33 seconds
+[2024-07-25 14:58:21,634]220INFO-Received data: {"frame":"MjhANDpCNjxENDpCNDpCNTtDNTtDNTtDMzlBNTtDNjxENz1FODtGNzpFODtGNzpFOTxHODtGOTxFOj1GOD5GNz1FLj...
+[2024-07-25 14:58:21,637]121INFO-Processing frame 1851
+[2024-07-25 14:58:21,646]144INFO-Array size: 2764800
+[2024-07-25 14:58:21,646]145INFO-Expected size: 2764800
+[2024-07-25 14:58:21,648]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:21,654]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:21,945]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:21,951]202INFO-Request processing time: 0.31 seconds
+[2024-07-25 14:58:22,459]220INFO-Received data: {"frame":"NzpDNThBNzpDODtENzpDNThBNjlCNzpDMzY/MTQ9NjlCNjlCNjlCNjlCNjlCNzpDNTtDNTtDNj1CNj1CODtEODtENj...
+[2024-07-25 14:58:22,466]121INFO-Processing frame 1866
+[2024-07-25 14:58:22,480]144INFO-Array size: 2764800
+[2024-07-25 14:58:22,480]145INFO-Expected size: 2764800
+[2024-07-25 14:58:22,480]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:22,488]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:22,853]202INFO-Request processing time: 0.39 seconds
+[2024-07-25 14:58:23,501]220INFO-Received data: {"frame":"MC85MC85LTA2LzI4LjE6LjE6LDI6LDI6LDI6LDI6LjQ8LzU9KzE5KjA4LDU5LTY6Ljc7LTY6Ljc7Ljc7LTY6LTY6LT...
+[2024-07-25 14:58:23,501]121INFO-Processing frame 1887
+[2024-07-25 14:58:23,509]144INFO-Array size: 2764800
+[2024-07-25 14:58:23,509]145INFO-Expected size: 2764800
+[2024-07-25 14:58:23,509]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:23,521]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:23,903]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:23,903]202INFO-Request processing time: 0.40 seconds
+[2024-07-25 14:58:24,403]220INFO-Received data: {"frame":"LjE8LC86TVZfcnuEh5Cbg4yXho6XfYWOcHd8bHN4dX6ChI2RhYyRiI+UZ2txlJiekZSdpKewkJagg4mTcHaCSU9bBw...
+[2024-07-25 14:58:24,410]121INFO-Processing frame 1908
+[2024-07-25 14:58:24,418]144INFO-Array size: 2764800
+[2024-07-25 14:58:24,418]145INFO-Expected size: 2764800
+[2024-07-25 14:58:24,418]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:24,424]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:24,761]202INFO-Request processing time: 0.35 seconds
+[2024-07-25 14:58:25,291]220INFO-Received data: {"frame":"KCwsW19fipGWhYyRh42ZV11pMTxIFSAsGiItFBwnGB4oHSMtIigyJCo0JSs1Jiw2KDA5LTU+SlJbXmZvanJ7a3N8c3...
+[2024-07-25 14:58:25,292]121INFO-Processing frame 1923
+[2024-07-25 14:58:25,299]144INFO-Array size: 2764800
+[2024-07-25 14:58:25,299]145INFO-Expected size: 2764800
+[2024-07-25 14:58:25,299]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:25,306]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:25,491]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:25,491]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:58:26,077]220INFO-Received data: {"frame":"LjE8LzI9LzI7LjE6LjE6LjE6KzE5LDI6MDM8MjU+MjY8Mzc9Mzc9NTk/NTk/NTk/MjY8MTU7MDc8LzY7LjI4KS0zMz...
+[2024-07-25 14:58:26,084]121INFO-Processing frame 1938
+[2024-07-25 14:58:26,091]144INFO-Array size: 2764800
+[2024-07-25 14:58:26,091]145INFO-Expected size: 2764800
+[2024-07-25 14:58:26,091]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:26,098]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:26,257]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:26,258]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:26,809]220INFO-Received data: {"frame":"Ki40Ki40Ki02Ky43LC84LjE6LjI4LzM5LjE6LC84LTE3LTE3LjE6LjE6LjI4LjI4LDA2LjI4LTQ5LTQ5LTQ5KjE2Kj...
+[2024-07-25 14:58:26,809]121INFO-Processing frame 1950
+[2024-07-25 14:58:26,825]144INFO-Array size: 2764800
+[2024-07-25 14:58:26,825]145INFO-Expected size: 2764800
+[2024-07-25 14:58:26,825]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:26,825]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:27,029]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:27,030]202INFO-Request processing time: 0.22 seconds
+[2024-07-25 14:58:27,497]220INFO-Received data: {"frame":"LTY6KTI2KTI2JzA0KDE1KTI2KzQ4KzQ4KjM3KzQ4LDQ7KzM6KjA4JCoyJy01KS83LzU9LjQ8KzI3KjE2KzE5LDI6Lj...
+[2024-07-25 14:58:27,497]121INFO-Processing frame 1962
+[2024-07-25 14:58:27,512]144INFO-Array size: 2764800
+[2024-07-25 14:58:27,512]145INFO-Expected size: 2764800
+[2024-07-25 14:58:27,512]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:27,512]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:27,667]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:27,678]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:28,226]220INFO-Received data: {"frame":"LjI4LzM5LTQ5LjU6MDQ6LTE3KzI3MDc8MjY7MTU6KjE1Jy4yNT1EYWlweIGIgouSbnZ/SVFaHiYvHiYvIykxLjQ8Fx...
+[2024-07-25 14:58:28,226]121INFO-Processing frame 1974
+[2024-07-25 14:58:28,241]144INFO-Array size: 2764800
+[2024-07-25 14:58:28,241]145INFO-Expected size: 2764800
+[2024-07-25 14:58:28,241]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:28,241]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:28,424]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:28,424]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:58:28,929]220INFO-Received data: {"frame":"Nz1FOT9HOT9HNz1FNzpFNjlENzpDOj1GOz1IOTtGNzpFODtGPD5JPkBLPkBNPT9MOz5LOTxJOTxJODtIOj1KPD9MPU...
+[2024-07-25 14:58:28,929]121INFO-Processing frame 1986
+[2024-07-25 14:58:28,929]144INFO-Array size: 2764800
+[2024-07-25 14:58:28,929]145INFO-Expected size: 2764800
+[2024-07-25 14:58:28,929]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:28,945]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:29,126]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:29,141]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:58:29,655]220INFO-Received data: {"frame":"Pj5FOztCQ0NKQ0NKQkJJRUVMQkVKQkVKQ0ZLQ0ZLRUVLQEBGPTtCSUdOW1hbgn+CmZOZnpieoJqiopykopykoJqinp...
+[2024-07-25 14:58:29,655]121INFO-Processing frame 1998
+[2024-07-25 14:58:29,670]144INFO-Array size: 2764800
+[2024-07-25 14:58:29,670]145INFO-Expected size: 2764800
+[2024-07-25 14:58:29,670]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:29,670]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:29,841]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:29,841]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:30,415]220INFO-Received data: {"frame":"LTE2LTE2LzM4LzM4MzY7MTQ5KCswLzI3Li40R0dNXV1jZWVraGhuZ2dtZmZsaWlvamhvbGpxbGpxa2lwbWtybmxzb2...
+[2024-07-25 14:58:30,415]121INFO-Processing frame 2010
+[2024-07-25 14:58:30,415]144INFO-Array size: 2764800
+[2024-07-25 14:58:30,415]145INFO-Expected size: 2764800
+[2024-07-25 14:58:30,415]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:30,431]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:30,602]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:30,603]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:31,175]220INFO-Received data: {"frame":"uamYuqqZva2avq6bva2cva2cvrCdwLKfw7OixLSjwLKhwbOixLSlxbWmxripx7mqybqtybqtyLmsyLmsx7quybywy7...
+[2024-07-25 14:58:31,175]121INFO-Processing frame 2022
+[2024-07-25 14:58:31,191]144INFO-Array size: 2764800
+[2024-07-25 14:58:31,191]145INFO-Expected size: 2764800
+[2024-07-25 14:58:31,191]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:31,191]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:31,399]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:31,400]202INFO-Request processing time: 0.22 seconds
+[2024-07-25 14:58:31,856]220INFO-Received data: {"frame":"sK62sK62r621sK62tLK6tLK6trS7tbO6t7O8t7O8trK7t7O8uLS9ubW+ubW+ura/ura/ura/urjAurjAvbnBvrrCvL...
+[2024-07-25 14:58:31,872]121INFO-Processing frame 2034
+[2024-07-25 14:58:31,872]144INFO-Array size: 2764800
+[2024-07-25 14:58:31,872]145INFO-Expected size: 2764800
+[2024-07-25 14:58:31,872]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:31,872]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:32,052]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:32,053]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:32,104]220INFO-Received data: ping...
+[2024-07-25 14:58:32,104]224ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 14:58:32,104]225ERROR-Received invalid JSON: ping...
+[2024-07-25 14:58:32,573]220INFO-Received data: {"frame":"KysxKSkvKSktKCgsLCwyKysxKSktKSktKiouJSUpJSgrJCcqGx4hLjE0XV1hW1tfWFZbWlhdXFpfXVtgX11iXVtgXF...
+[2024-07-25 14:58:32,588]121INFO-Processing frame 2046
+[2024-07-25 14:58:32,588]144INFO-Array size: 2764800
+[2024-07-25 14:58:32,588]145INFO-Expected size: 2764800
+[2024-07-25 14:58:32,588]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:32,588]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:32,757]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:32,773]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:33,331]220INFO-Received data: {"frame":"Gx8fHSEhHSEfHSEfHCAgHCAgHyAfHyAfHh8gHh8gHSEfHiIgICEiISIjHiIiHyMjHSEhHiIiHiIiICQkISQnIiUoIS...
+[2024-07-25 14:58:33,331]121INFO-Processing frame 2058
+[2024-07-25 14:58:33,346]144INFO-Array size: 2764800
+[2024-07-25 14:58:33,346]145INFO-Expected size: 2764800
+[2024-07-25 14:58:33,346]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:33,346]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:33,515]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:33,516]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:33,988]220INFO-Received data: {"frame":"bmFVfG9jhHprhnxth31uiH5viYFxioJyiX9yiX9yi4F0jYN2kYR6kIN5jYN2jIJ1joR5kIZ7kop8kop8k4l8lYt+lo...
+[2024-07-25 14:58:33,988]121INFO-Processing frame 2070
+[2024-07-25 14:58:34,004]144INFO-Array size: 2764800
+[2024-07-25 14:58:34,004]145INFO-Expected size: 2764800
+[2024-07-25 14:58:34,004]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:34,004]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:34,174]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:34,174]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:34,688]220INFO-Received data: {"frame":"LC80LC80Ki0yKCswKysvLi4yMjEzMC8xLSotMi8yPDc6V1JVjYaKkYqOk4+Vi4eNjIaMkYuRhYGHjYmPko6WlJCYkY...
+[2024-07-25 14:58:34,688]121INFO-Processing frame 2082
+[2024-07-25 14:58:34,688]144INFO-Array size: 2764800
+[2024-07-25 14:58:34,688]145INFO-Expected size: 2764800
+[2024-07-25 14:58:34,688]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:34,703]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:34,877]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:34,877]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:35,431]220INFO-Received data: {"frame":"gn6HiYWOi4eQjIiRi4eQjYmSjYmSjoqTjoqTjYmSjoyUjoyUkIyVko6Xk5GZkpCYl5Wdl5Wdk5GZlJKalJKalJKalZ...
+[2024-07-25 14:58:35,431]121INFO-Processing frame 2094
+[2024-07-25 14:58:35,446]144INFO-Array size: 2764800
+[2024-07-25 14:58:35,446]145INFO-Expected size: 2764800
+[2024-07-25 14:58:35,446]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:35,446]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:35,618]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:35,623]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:36,160]220INFO-Received data: {"frame":"LionKCQhLysoS0dEVlFQbmloeHNyenV0iIOGioWIiYWLi4eNjIiQjIiQi4mQkI6Vk5GYkpCXj42Uj42Uj42VkI6WkI...
+[2024-07-25 14:58:36,166]121INFO-Processing frame 2106
+[2024-07-25 14:58:36,174]144INFO-Array size: 2764800
+[2024-07-25 14:58:36,174]145INFO-Expected size: 2764800
+[2024-07-25 14:58:36,174]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:36,183]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:36,355]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:36,355]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:36,969]220INFO-Received data: {"frame":"iYeOioiPkpCXj42UjIqRioiPiYeOi4mQjoyTioiPi4mQjoyTkI6VkpCXk4+VkIySlI6WlI6WlIyThHyDel5ZcFRPgV...
+[2024-07-25 14:58:36,974]121INFO-Processing frame 2121
+[2024-07-25 14:58:36,984]144INFO-Array size: 2764800
+[2024-07-25 14:58:36,984]145INFO-Expected size: 2764800
+[2024-07-25 14:58:36,984]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:36,993]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:37,292]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:37,292]202INFO-Request processing time: 0.32 seconds
+[2024-07-25 14:58:37,764]220INFO-Received data: {"frame":"Hh4iHh4iHR0hHh4iHx8jICAkGR0dEhYWGRkdISElKCgsLCwwNDM1NTQ2ODg8PT1BQ0FGRkRJRkRJR0VKR0VKR0VKRU...
+[2024-07-25 14:58:37,765]121INFO-Processing frame 2136
+[2024-07-25 14:58:37,772]144INFO-Array size: 2764800
+[2024-07-25 14:58:37,772]145INFO-Expected size: 2764800
+[2024-07-25 14:58:37,772]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:37,785]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:38,140]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:38,140]202INFO-Request processing time: 0.38 seconds
+[2024-07-25 14:58:38,682]220INFO-Received data: {"frame":"HR0hHR0hGx8fHSEhHx8jHh4iHh4iHh4iICAkICAkICAkIyMnISElGhoeHR0hHh4iHhwhHBofHh4iLy8zSEZLRkRJR0...
+[2024-07-25 14:58:38,688]121INFO-Processing frame 2151
+[2024-07-25 14:58:38,695]144INFO-Array size: 2764800
+[2024-07-25 14:58:38,695]145INFO-Expected size: 2764800
+[2024-07-25 14:58:38,695]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:38,703]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:38,942]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:38,945]202INFO-Request processing time: 0.26 seconds
+[2024-07-25 14:58:39,529]220INFO-Received data: {"frame":"joyRjYuQjoyRj42Sk5GWk5GWlJKXlJKXlpKamJScmpifmZeel5WdmJaelpScmJaelZObmZefm5mhmpigmpigm5mhnJ...
+[2024-07-25 14:58:39,536]121INFO-Processing frame 2169
+[2024-07-25 14:58:39,543]144INFO-Array size: 2764800
+[2024-07-25 14:58:39,543]145INFO-Expected size: 2764800
+[2024-07-25 14:58:39,543]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:39,549]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:39,877]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:39,877]202INFO-Request processing time: 0.34 seconds
+[2024-07-25 14:58:40,411]220INFO-Received data: {"frame":"l5OblpKalJCYlZGZmZGYm5OaoJGSn5CRoIiEmYF9iGpeimxgkGxbjGhXimVRimVRkGlUj2hTkmtUk2xVk2lVlGpWmW...
+[2024-07-25 14:58:40,411]121INFO-Processing frame 2187
+[2024-07-25 14:58:40,417]144INFO-Array size: 2764800
+[2024-07-25 14:58:40,417]145INFO-Expected size: 2764800
+[2024-07-25 14:58:40,417]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:40,425]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:40,791]202INFO-Request processing time: 0.38 seconds
+[2024-07-25 14:58:41,514]220INFO-Received data: {"frame":"pKGknpuen5uhn5uhn5ujnpqip6OprqqwqaWtpaGpqqauqKSspqKqpqKqpaGppKCoopyko52lpqCoqqSsq6WuqKKrnJ...
+[2024-07-25 14:58:41,521]121INFO-Processing frame 2205
+[2024-07-25 14:58:41,528]144INFO-Array size: 2764800
+[2024-07-25 14:58:41,528]145INFO-Expected size: 2764800
+[2024-07-25 14:58:41,528]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:41,535]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:41,702]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:41,709]202INFO-Request processing time: 0.19 seconds
+[2024-07-25 14:58:42,327]220INFO-Received data: {"frame":"mJaem5mhm5mhoZ+noZ+no6Gpn52ko6Gop6OrrKiwqqauramxqqaurKiwnJigqaWtqqauq6evpKCor6uzrKiwrKiwpq...
+[2024-07-25 14:58:42,333]121INFO-Processing frame 2220
+[2024-07-25 14:58:42,341]144INFO-Array size: 2764800
+[2024-07-25 14:58:42,341]145INFO-Expected size: 2764800
+[2024-07-25 14:58:42,341]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:42,348]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:42,571]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:42,571]202INFO-Request processing time: 0.24 seconds
+[2024-07-25 14:58:43,086]220INFO-Received data: {"frame":"mpOTlo+PmpSSm5WTnpiWoJqYopyYopyYpJuaqJ+eqaCdpJuYrqShsqilsKekrqWisKeksqmmtayptayptKuotKuosq...
+[2024-07-25 14:58:43,098]121INFO-Processing frame 2232
+[2024-07-25 14:58:43,098]144INFO-Array size: 2764800
+[2024-07-25 14:58:43,098]145INFO-Expected size: 2764800
+[2024-07-25 14:58:43,098]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:43,098]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:43,246]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:43,246]202INFO-Request processing time: 0.15 seconds
+[2024-07-25 14:58:43,764]220INFO-Received data: {"frame":"a2xrdnd2aWppZGVkZ2Zmd3Z2f36AfXx+enl7gYCCgYCCfXx+goGDhYSGgYCAgYCAhoGCiYSFjomKjYiJkIuMlI+Qj4...
+[2024-07-25 14:58:43,764]121INFO-Processing frame 2244
+[2024-07-25 14:58:43,780]144INFO-Array size: 2764800
+[2024-07-25 14:58:43,780]145INFO-Expected size: 2764800
+[2024-07-25 14:58:43,780]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:43,780]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:43,964]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:43,975]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:58:44,447]220INFO-Received data: {"frame":"houliY6oio+nio+niYqihoefioeUioeUkYaHlImKmIyImIyIlYmFjYF9i4J/kIeElYyLlYyLkYqKopubopubnJWVnJ...
+[2024-07-25 14:58:44,447]121INFO-Processing frame 2256
+[2024-07-25 14:58:44,447]144INFO-Array size: 2764800
+[2024-07-25 14:58:44,447]145INFO-Expected size: 2764800
+[2024-07-25 14:58:44,447]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:44,462]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:44,631]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:44,631]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:45,238]220INFO-Received data: {"frame":"a1dKalZJbVlMbFhLalZJblpNcFxNb1tMblpLa1dIbFhJa1dIcFpLb1lKa1hMcF1RcmNaRjcuDAYAIhwWKSckLConKi...
+[2024-07-25 14:58:45,238]121INFO-Processing frame 2268
+[2024-07-25 14:58:45,254]144INFO-Array size: 2764800
+[2024-07-25 14:58:45,254]145INFO-Expected size: 2764800
+[2024-07-25 14:58:45,254]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:45,254]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:45,405]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:45,409]202INFO-Request processing time: 0.17 seconds
+[2024-07-25 14:58:45,951]220INFO-Received data: {"frame":"rqadraWcrqadrqadr6efs6ujs6ujtKykta2ltKyktKumtq2ot66pt66pt7Grt7GruLKuubOvuLSxubWyurW0urW0ur...
+[2024-07-25 14:58:45,951]121INFO-Processing frame 2280
+[2024-07-25 14:58:45,967]144INFO-Array size: 2764800
+[2024-07-25 14:58:45,967]145INFO-Expected size: 2764800
+[2024-07-25 14:58:45,967]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:45,967]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:46,111]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:46,111]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:58:46,687]220INFO-Received data: {"frame":"xr20xr20xr20xr20yr+4zMG6zsO7z8S8z8S9z8S908jA1MnB1crD1svE18zE2M3F18zF2c7H187F187F2s/I2s/I2d...
+[2024-07-25 14:58:46,687]121INFO-Processing frame 2292
+[2024-07-25 14:58:46,687]144INFO-Array size: 2764800
+[2024-07-25 14:58:46,687]145INFO-Expected size: 2764800
+[2024-07-25 14:58:46,687]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:46,703]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:47,034]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:47,035]202INFO-Request processing time: 0.35 seconds
+[2024-07-25 14:58:47,569]220INFO-Received data: {"frame":"3dba2dLW39ja3dbY4Nnb4Nnb4tvd4Nnb4drc4tvd4drc5N3f5N3f5d7g6+Tk9/Dw49na6N7f5dvc6N7f5dvc8Obn7e...
+[2024-07-25 14:58:47,569]121INFO-Processing frame 2310
+[2024-07-25 14:58:47,584]144INFO-Array size: 2764800
+[2024-07-25 14:58:47,584]145INFO-Expected size: 2764800
+[2024-07-25 14:58:47,584]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:47,591]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:47,748]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:47,748]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:48,265]220INFO-Received data: {"frame":"1tDW0szSzsjO0MrQ1MzT1c3U087R2NPW3dba29TY3NXZ3NXZ29TY3NXZ29TY2tPX29TY29TY3dbY3tfZ3tfb39jc4N...
+[2024-07-25 14:58:48,281]121INFO-Processing frame 2322
+[2024-07-25 14:58:48,281]144INFO-Array size: 2764800
+[2024-07-25 14:58:48,281]145INFO-Expected size: 2764800
+[2024-07-25 14:58:48,281]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:48,296]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:48,433]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:48,440]202INFO-Request processing time: 0.16 seconds
+[2024-07-25 14:58:49,044]220INFO-Received data: {"frame":"zMfKzcjLzMfKzsnM0s3Q0s3Q087R1M/S087R1dDT1tHU1tHU1tHU2dTX2tXY3Nfa29bZ29bZ2tXY29bZ3tfb3NXZ3N...
+[2024-07-25 14:58:49,047]121INFO-Processing frame 2334
+[2024-07-25 14:58:49,058]144INFO-Array size: 2764800
+[2024-07-25 14:58:49,058]145INFO-Expected size: 2764800
+[2024-07-25 14:58:49,058]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:49,067]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:49,411]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:49,412]202INFO-Request processing time: 0.36 seconds
+[2024-07-25 14:58:49,975]220INFO-Received data: {"frame":"tbO4rauwu7m+tbO4ycXLwLzCwb7BzsvOwrzCw73Dw73DyMLIv7m/zMbMzsrQwr7Ew73DycPJ2tXY0s3Q5N7kycPJ08...
+[2024-07-25 14:58:49,979]121INFO-Processing frame 2352
+[2024-07-25 14:58:49,986]144INFO-Array size: 2764800
+[2024-07-25 14:58:49,986]145INFO-Expected size: 2764800
+[2024-07-25 14:58:49,986]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:49,986]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:50,276]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:50,276]202INFO-Request processing time: 0.30 seconds
+[2024-07-25 14:58:50,836]220INFO-Received data: {"frame":"uLK7trC5tLC5tLC5tbG6tbG6sKy1sa22tbG6trK7u7fAu7fAubW+uLS9u7e/trK6uLS8tbG5t7O7uLS8vLjAubW9uL...
+[2024-07-25 14:58:50,843]121INFO-Processing frame 2370
+[2024-07-25 14:58:50,851]144INFO-Array size: 2764800
+[2024-07-25 14:58:50,851]145INFO-Expected size: 2764800
+[2024-07-25 14:58:50,851]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:50,859]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:51,077]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:51,084]202INFO-Request processing time: 0.24 seconds
+[2024-07-25 14:58:51,632]220INFO-Received data: {"frame":"jI6XgoSNcHJ7YGJrWFdhXVxmb3J4dnl/fX2EfHyDfHyDf3+GenmDeXiCfHyDf3+GenmDeXiCfn6Fg4OKh4WNg4GJgo...
+[2024-07-25 14:58:51,632]121INFO-Processing frame 2385
+[2024-07-25 14:58:51,646]144INFO-Array size: 2764800
+[2024-07-25 14:58:51,646]145INFO-Expected size: 2764800
+[2024-07-25 14:58:51,646]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:51,646]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:51,834]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:51,834]202INFO-Request processing time: 0.20 seconds
+[2024-07-25 14:58:52,368]220INFO-Received data: {"frame":"VlliVlliVVlfU1ddVVhhVVhhV1pjWl1mW11mWVtkVVlfWFxiW11mWlxlWVxiWl1jWl1jXWBmX2NpX2NpaGtxZmlvYm...
+[2024-07-25 14:58:52,375]121INFO-Processing frame 2397
+[2024-07-25 14:58:52,382]144INFO-Array size: 2764800
+[2024-07-25 14:58:52,382]145INFO-Expected size: 2764800
+[2024-07-25 14:58:52,382]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:52,389]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:52,584]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:52,584]202INFO-Request processing time: 0.21 seconds
+[2024-07-25 14:58:53,059]220INFO-Received data: {"frame":"QUFFQUFFQUFFQUFFQUFFQUFFQEBEPz9DR0dNRUVLSkpQS0tRR0dORERLRERKRkZMR0dNSEhOQkVKPkFGQ0NHRUVJRU...
+[2024-07-25 14:58:53,059]121INFO-Processing frame 2409
+[2024-07-25 14:58:53,059]144INFO-Array size: 2764800
+[2024-07-25 14:58:53,059]145INFO-Expected size: 2764800
+[2024-07-25 14:58:53,059]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:53,075]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:53,241]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:53,242]202INFO-Request processing time: 0.18 seconds
+[2024-07-25 14:58:53,672]220INFO-Received data: {"frame":"qXdtqXdtqXhurHtxqHhwp3dvonVwm25pcVpcWUJEPzI0RTg6Rzw/Rzw/TEBAUkZGd0pFg1ZRolRMplhQplVMpFNKo1...
+[2024-07-25 14:58:53,672]121INFO-Processing frame 2418
+[2024-07-25 14:58:53,687]144INFO-Array size: 2764800
+[2024-07-25 14:58:53,688]145INFO-Expected size: 2764800
+[2024-07-25 14:58:53,688]146INFO-Image dimensions: 1280x720
+[2024-07-25 14:58:53,694]164INFO-Saved image to debug_image.jpg in rgb format
+[2024-07-25 14:58:53,910]108ERROR-An error occurred in processing the video: index 0 is out of bounds for dimension 0 with size 0
+[2024-07-25 14:58:53,910]202INFO-Request processing time: 0.24 seconds
+[2024-07-25 14:58:54,247]236ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)

@@ -1,0 +1,849 @@
+[2024-07-25 15:21:08,462]221INFO-Received data: {"frame":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...
+[2024-07-25 15:21:08,468]121INFO-Processing frame 3
+[2024-07-25 15:21:08,473]144INFO-Array size: 921600
+[2024-07-25 15:21:08,473]145INFO-Expected size: 2764800
+[2024-07-25 15:21:08,473]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:08,473]212ERROR-Error processing frame 3: Size of the image data does not match the expected size
+[2024-07-25 15:21:08,694]221INFO-Received data: {"frame":"cW9ubW9wcHBxcnJycXFwcHBwcnJycXJycXJzcnJyc3Jyc3R0dHNycnN0dHN0dXV1c3Jzc3Nzc3N0dXR1dXV2d3h3dX...
+[2024-07-25 15:21:08,696]121INFO-Processing frame 6
+[2024-07-25 15:21:08,698]144INFO-Array size: 921600
+[2024-07-25 15:21:08,698]145INFO-Expected size: 2764800
+[2024-07-25 15:21:08,698]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:08,698]212ERROR-Error processing frame 6: Size of the image data does not match the expected size
+[2024-07-25 15:21:08,958]221INFO-Received data: {"frame":"cXFwb3FycXFxcHBxcXFxc3R0c3JycnN0dXV1dXR0dHR1dnd3d3Z1dXV1dnd2dnd3d3l4eHh4ent6eXl5eXl5e3t7e3...
+[2024-07-25 15:21:08,959]121INFO-Processing frame 9
+[2024-07-25 15:21:08,961]144INFO-Array size: 921600
+[2024-07-25 15:21:08,961]145INFO-Expected size: 2764800
+[2024-07-25 15:21:08,961]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:08,961]212ERROR-Error processing frame 9: Size of the image data does not match the expected size
+[2024-07-25 15:21:09,249]221INFO-Received data: {"frame":"pJ6ZlZOPi4qMjpOVmJmbnJ6en6CfnJaRjYmGg312dHl8fX+BgoKDhIaFhYWHiIiIh4WGh4uNjIuLiIOChIF7d3Rzcn...
+[2024-07-25 15:21:09,250]121INFO-Processing frame 15
+[2024-07-25 15:21:09,253]144INFO-Array size: 921600
+[2024-07-25 15:21:09,253]145INFO-Expected size: 2764800
+[2024-07-25 15:21:09,253]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:09,253]212ERROR-Error processing frame 15: Size of the image data does not match the expected size
+[2024-07-25 15:21:09,442]221INFO-Received data: {"frame":"cnBpZmhpaWlrbm5uaWReWVZTUlFUYGx5fXZ2f3+AfnNrd3d5cWBWVFFOT09PT09QUVBQUVBRUVBPUFBTVVZVWltYV1...
+[2024-07-25 15:21:09,443]121INFO-Processing frame 18
+[2024-07-25 15:21:09,446]144INFO-Array size: 921600
+[2024-07-25 15:21:09,446]145INFO-Expected size: 2764800
+[2024-07-25 15:21:09,446]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:09,446]212ERROR-Error processing frame 18: Size of the image data does not match the expected size
+[2024-07-25 15:21:09,683]221INFO-Received data: {"frame":"UE5OTk5PT05JREpMS0hHRkpKSklEQ0JCQ0JCPT4+QEJDQkJDQUBBQ0NFRUVFRUdHSEtNTVdkbnR+gIGBgYOFiIiIho...
+[2024-07-25 15:21:09,684]121INFO-Processing frame 21
+[2024-07-25 15:21:09,687]144INFO-Array size: 921600
+[2024-07-25 15:21:09,687]145INFO-Expected size: 2764800
+[2024-07-25 15:21:09,687]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:09,687]212ERROR-Error processing frame 21: Size of the image data does not match the expected size
+[2024-07-25 15:21:09,919]221INFO-Received data: {"frame":"MC4wMjIxMTEyNDc3Nzk7PD0/QEFCQUFDRUNDQ0RDQD49PTs6NzUwMC4tLi4uLy0tLS0vMDAxMzM0NDc4OjxAQkRGRk...
+[2024-07-25 15:21:09,920]121INFO-Processing frame 24
+[2024-07-25 15:21:09,922]144INFO-Array size: 921600
+[2024-07-25 15:21:09,922]145INFO-Expected size: 2764800
+[2024-07-25 15:21:09,922]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:09,922]212ERROR-Error processing frame 24: Size of the image data does not match the expected size
+[2024-07-25 15:21:10,135]221INFO-Received data: {"frame":"PTw9Pj48PD4/QD88Ozw7OTg4ODg7PD08Ozo6OTk7OTg4ODc3ODg2NTUzNDc1NjY3NzY1NTQ0MzMzMzM0MjIzNDY3Nj...
+[2024-07-25 15:21:10,136]121INFO-Processing frame 27
+[2024-07-25 15:21:10,139]144INFO-Array size: 921600
+[2024-07-25 15:21:10,139]145INFO-Expected size: 2764800
+[2024-07-25 15:21:10,139]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:10,139]212ERROR-Error processing frame 27: Size of the image data does not match the expected size
+[2024-07-25 15:21:10,327]221INFO-Received data: {"frame":"iYmKiouLioqLjIyMjY6Pj46PlJWZnaCjpqirra+wrrK2tre3ubq8vcDExcTDv7i0rqmmpJ+dm5iYmZmWlZaWlZKVlp...
+[2024-07-25 15:21:10,328]121INFO-Processing frame 30
+[2024-07-25 15:21:10,330]144INFO-Array size: 921600
+[2024-07-25 15:21:10,330]145INFO-Expected size: 2764800
+[2024-07-25 15:21:10,330]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:10,330]212ERROR-Error processing frame 30: Size of the image data does not match the expected size
+[2024-07-25 15:21:10,542]221INFO-Received data: {"frame":"gH+AgIGBgYGBgICAgICCg4OCgoODg4ODhISCgoODg4WFhoWFhoaHhoeHh4iHhoiIiYmJiYqLi42Ni4uMjI+RlJeYnK...
+[2024-07-25 15:21:10,543]121INFO-Processing frame 33
+[2024-07-25 15:21:10,545]144INFO-Array size: 921600
+[2024-07-25 15:21:10,545]145INFO-Expected size: 2764800
+[2024-07-25 15:21:10,545]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:10,545]212ERROR-Error processing frame 33: Size of the image data does not match the expected size
+[2024-07-25 15:21:10,755]221INFO-Received data: {"frame":"ZGZnZ2hpaGhoaGdnaGlqampqamlpaWlqa2tra2ppaWpsbGxsbWxrbW5tbGxsbG5ucG5tbm9vcHBvcHBwcHFxcXBwcH...
+[2024-07-25 15:21:10,757]121INFO-Processing frame 36
+[2024-07-25 15:21:10,760]144INFO-Array size: 921600
+[2024-07-25 15:21:10,760]145INFO-Expected size: 2764800
+[2024-07-25 15:21:10,760]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:10,760]212ERROR-Error processing frame 36: Size of the image data does not match the expected size
+[2024-07-25 15:21:10,997]221INFO-Received data: {"frame":"XFteXl1eXVtcXVxcXl9fX15eX2BeXl5dXFpdXl9eXl9gYmFfXl1dXWBhYmNiYmFhYWFhYWFhY2RkY2JiY2NjZGRlZm...
+[2024-07-25 15:21:10,998]121INFO-Processing frame 39
+[2024-07-25 15:21:11,000]144INFO-Array size: 921600
+[2024-07-25 15:21:11,000]145INFO-Expected size: 2764800
+[2024-07-25 15:21:11,001]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:11,001]212ERROR-Error processing frame 39: Size of the image data does not match the expected size
+[2024-07-25 15:21:11,193]221INFO-Received data: {"frame":"YWFgX2FhX19gYGBgXl5fYGBhYF9fYGBfYGFgYGFiY2NkZGNjYmNkZGVkY2JjYmRlZWVmZWVmZmdpaGZmaGhoamhoaW...
+[2024-07-25 15:21:11,195]121INFO-Processing frame 42
+[2024-07-25 15:21:11,197]144INFO-Array size: 921600
+[2024-07-25 15:21:11,198]145INFO-Expected size: 2764800
+[2024-07-25 15:21:11,198]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:11,198]212ERROR-Error processing frame 42: Size of the image data does not match the expected size
+[2024-07-25 15:21:11,399]221INFO-Received data: {"frame":"W1pbXV1cXVxcXFxdXVtcXF1fXlxdX2BfX19gYF5hYGFhYmNjY2JhYWNkY2JiZGNjZGRlZWNjY2RlZWVmZmZnZ2ZnZW...
+[2024-07-25 15:21:11,400]121INFO-Processing frame 45
+[2024-07-25 15:21:11,402]144INFO-Array size: 921600
+[2024-07-25 15:21:11,402]145INFO-Expected size: 2764800
+[2024-07-25 15:21:11,402]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:11,402]212ERROR-Error processing frame 45: Size of the image data does not match the expected size
+[2024-07-25 15:21:11,599]221INFO-Received data: {"frame":"WFteXl1dXl1eX2BhYF5dXl5eXV5gX2BgYGFfX2FhYmFhYmJkY2NjY2NjYWFiZGVlZGRjY2NjZGZmZmlpaGlpaGZnaW...
+[2024-07-25 15:21:11,600]121INFO-Processing frame 48
+[2024-07-25 15:21:11,603]144INFO-Array size: 921600
+[2024-07-25 15:21:11,603]145INFO-Expected size: 2764800
+[2024-07-25 15:21:11,603]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:11,603]212ERROR-Error processing frame 48: Size of the image data does not match the expected size
+[2024-07-25 15:21:11,764]221INFO-Received data: {"frame":"XV1eX2BfX19gX15eX19fYWFgYGBfX19fYWJhYV9fYWBgYGBhYWFjYmJiY2NjZGRkZGRkY2NlZWZmaGhnZWZoZ2dmZm...
+[2024-07-25 15:21:11,765]121INFO-Processing frame 51
+[2024-07-25 15:21:11,767]144INFO-Array size: 921600
+[2024-07-25 15:21:11,767]145INFO-Expected size: 2764800
+[2024-07-25 15:21:11,767]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:11,767]212ERROR-Error processing frame 51: Size of the image data does not match the expected size
+[2024-07-25 15:21:11,972]221INFO-Received data: {"frame":"W1tcXFpaXF1eXl1eXVxeX2BfXl5eYGFiYmFeX19fXl1fYGBhYmNiY2JiYmJiYGFiY2RjY2FiY2RmZmRkZGNiY2NkZW...
+[2024-07-25 15:21:11,973]121INFO-Processing frame 54
+[2024-07-25 15:21:11,976]144INFO-Array size: 921600
+[2024-07-25 15:21:11,976]145INFO-Expected size: 2764800
+[2024-07-25 15:21:11,976]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:11,976]212ERROR-Error processing frame 54: Size of the image data does not match the expected size
+[2024-07-25 15:21:12,287]221INFO-Received data: {"frame":"X19gYWFhYWFhYF5eX19gX15fXl5gYGBhYWFiYmFhYGBgYGJjYmBfYGFhYmJjY2JjYmFiY2NiYWJiYmNjZWZmZWVlZG...
+[2024-07-25 15:21:12,288]121INFO-Processing frame 60
+[2024-07-25 15:21:12,290]144INFO-Array size: 921600
+[2024-07-25 15:21:12,290]145INFO-Expected size: 2764800
+[2024-07-25 15:21:12,290]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:12,290]212ERROR-Error processing frame 60: Size of the image data does not match the expected size
+[2024-07-25 15:21:12,482]221INFO-Received data: {"frame":"X19hYWBfXl5fYGBhYGBgX2BjYmJhYGFgYWBgYWJiYmNjYWBiY2JiYmNiYWNkY2NjY2RjZGJhYmJjY2RlZWVlZGRlZG...
+[2024-07-25 15:21:12,484]121INFO-Processing frame 63
+[2024-07-25 15:21:12,487]144INFO-Array size: 921600
+[2024-07-25 15:21:12,488]145INFO-Expected size: 2764800
+[2024-07-25 15:21:12,488]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:12,488]212ERROR-Error processing frame 63: Size of the image data does not match the expected size
+[2024-07-25 15:21:12,671]221INFO-Received data: {"frame":"YGBgXl1dYWJiYmJiXl5fX19eYF9gYWBgYmBhX19gYF9fYGJjYmJiYWFgYmJgYWBhYGFhYmJiYmNkZGNkY2RjZGVkY2...
+[2024-07-25 15:21:12,672]121INFO-Processing frame 66
+[2024-07-25 15:21:12,675]144INFO-Array size: 921600
+[2024-07-25 15:21:12,676]145INFO-Expected size: 2764800
+[2024-07-25 15:21:12,676]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:12,676]212ERROR-Error processing frame 66: Size of the image data does not match the expected size
+[2024-07-25 15:21:12,956]221INFO-Received data: {"frame":"XV5gYGFgX19gYGBfX11cXV9gYGBhYmNkZmZjYmJiY2JiY2RkYmBgYGFhY2RkZmZlZWRjYmNjZGRlZWJiY2RmZmVlY2...
+[2024-07-25 15:21:12,957]121INFO-Processing frame 72
+[2024-07-25 15:21:12,959]144INFO-Array size: 921600
+[2024-07-25 15:21:12,959]145INFO-Expected size: 2764800
+[2024-07-25 15:21:12,959]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:12,959]212ERROR-Error processing frame 72: Size of the image data does not match the expected size
+[2024-07-25 15:21:13,169]221INFO-Received data: {"frame":"ub7FzM3FvreabF1gX2BhYmJgYWFhYWNkY2NjZWVlZWNjYmJiYmNiYmNiYmNjY2FhYWJjY2RkZmdmZmVkZGNjZWZnZW...
+[2024-07-25 15:21:13,170]121INFO-Processing frame 75
+[2024-07-25 15:21:13,172]144INFO-Array size: 921600
+[2024-07-25 15:21:13,172]145INFO-Expected size: 2764800
+[2024-07-25 15:21:13,172]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:13,172]212ERROR-Error processing frame 75: Size of the image data does not match the expected size
+[2024-07-25 15:21:13,349]221INFO-Received data: {"frame":"YGFiYmJjZGZnZ2dmZWRlZ2ZwgZm4ytjd5Ovr3Mm7p39lYmZqaGZkZ2ppamloaWhlZGRmZ2VlZ2doaWdnZmVmZWZnZm...
+[2024-07-25 15:21:13,350]121INFO-Processing frame 78
+[2024-07-25 15:21:13,352]144INFO-Array size: 921600
+[2024-07-25 15:21:13,352]145INFO-Expected size: 2764800
+[2024-07-25 15:21:13,352]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:13,352]212ERROR-Error processing frame 78: Size of the image data does not match the expected size
+[2024-07-25 15:21:13,620]221INFO-Received data: {"frame":"Z2hmZmVkZWdnZmdpZ2dnZmdmZ2hoZ2pra2poaWtsbm9vb25ub3BvcXmHpamqtdPj5enp5N/UnJmefXBvbnBycnFycn...
+[2024-07-25 15:21:13,620]121INFO-Processing frame 84
+[2024-07-25 15:21:13,623]144INFO-Array size: 921600
+[2024-07-25 15:21:13,623]145INFO-Expected size: 2764800
+[2024-07-25 15:21:13,624]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:13,624]212ERROR-Error processing frame 84: Size of the image data does not match the expected size
+[2024-07-25 15:21:13,826]221INFO-Received data: {"frame":"ZmVlZWdoaWhmZmdnaWppamlpaWlqampqa2tra2xqaWlpamlrbW5tbm9vb29wb3J2fYyfqK+ytrezr6uur6mNdXSKoq...
+[2024-07-25 15:21:13,827]121INFO-Processing frame 87
+[2024-07-25 15:21:13,829]144INFO-Array size: 921600
+[2024-07-25 15:21:13,829]145INFO-Expected size: 2764800
+[2024-07-25 15:21:13,829]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:13,829]212ERROR-Error processing frame 87: Size of the image data does not match the expected size
+[2024-07-25 15:21:14,024]221INFO-Received data: {"frame":"bG1tbG1ubGxsbGtqbG1uc3R3hY2WmJudn6Cenp6en5+foKCgoaCgoKGhpquppJ2QhX6GiYuKoLLD0N3q//////7+/v...
+[2024-07-25 15:21:14,025]121INFO-Processing frame 90
+[2024-07-25 15:21:14,027]144INFO-Array size: 921600
+[2024-07-25 15:21:14,027]145INFO-Expected size: 2764800
+[2024-07-25 15:21:14,027]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:14,027]212ERROR-Error processing frame 90: Size of the image data does not match the expected size
+[2024-07-25 15:21:14,230]221INFO-Received data: {"frame":"aWhpaWpra2tqamtsamppaWhoamtrbGlra2tqbGxrampoaWpqampoaWxramppamppa2tramlpamlpampoZ2lpaGdmZm...
+[2024-07-25 15:21:14,231]121INFO-Processing frame 93
+[2024-07-25 15:21:14,233]144INFO-Array size: 921600
+[2024-07-25 15:21:14,233]145INFO-Expected size: 2764800
+[2024-07-25 15:21:14,233]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:14,233]212ERROR-Error processing frame 93: Size of the image data does not match the expected size
+[2024-07-25 15:21:14,460]221INFO-Received data: {"frame":"dXVzcnJxcnJycXFxcXFwcHFwb29vb25tbnBwcHBwcHBwb21tbGxtbm1samppaWlpaWloZ2hnZGRlZGFgX15fYmNiYF...
+[2024-07-25 15:21:14,461]121INFO-Processing frame 96
+[2024-07-25 15:21:14,464]144INFO-Array size: 921600
+[2024-07-25 15:21:14,464]145INFO-Expected size: 2764800
+[2024-07-25 15:21:14,464]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:14,464]212ERROR-Error processing frame 96: Size of the image data does not match the expected size
+[2024-07-25 15:21:14,662]221INFO-Received data: {"frame":"eXd3d3Z1dHNxcXBwbm1tbW1vcXRybmloZmZnaWttbWtpaGhnZmNiYF9fXl5dW1tdXFpUVVNQSD9FTlppd3l8fX5+fn...
+[2024-07-25 15:21:14,663]121INFO-Processing frame 99
+[2024-07-25 15:21:14,667]144INFO-Array size: 921600
+[2024-07-25 15:21:14,667]145INFO-Expected size: 2764800
+[2024-07-25 15:21:14,667]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:14,667]212ERROR-Error processing frame 99: Size of the image data does not match the expected size
+[2024-07-25 15:21:14,861]221INFO-Received data: {"frame":"c3Nzc3N0dHR1dHNyb2xqamhmY2NiY2RmaGhpaGhpZ2ZoZ2NiY2BfXVpdXV1eXVtZV1BOST5HYGlwdHh6e3t7fX5+fn...
+[2024-07-25 15:21:14,863]121INFO-Processing frame 102
+[2024-07-25 15:21:14,867]144INFO-Array size: 921600
+[2024-07-25 15:21:14,867]145INFO-Expected size: 2764800
+[2024-07-25 15:21:14,867]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:14,868]212ERROR-Error processing frame 102: Size of the image data does not match the expected size
+[2024-07-25 15:21:15,034]221INFO-Received data: {"frame":"enp4dnNzdHRycXBwb29ubWtpZmRiZGZobG5ubm5tbGtpZmVjZGNjYmNhYmFhX11ZV1VQS1FbZ3N9foGBgYGBgYGAgI...
+[2024-07-25 15:21:15,035]121INFO-Processing frame 105
+[2024-07-25 15:21:15,037]144INFO-Array size: 921600
+[2024-07-25 15:21:15,037]145INFO-Expected size: 2764800
+[2024-07-25 15:21:15,037]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:15,037]212ERROR-Error processing frame 105: Size of the image data does not match the expected size
+[2024-07-25 15:21:15,220]221INFO-Received data: {"frame":"dXV0dHJyc3Nxcm9ua2hlZFtfZ2lsb3FycXBubWxraGZkY2JiYV9gYmFhXVtZVVBQUlJYY3Z+foCAf39/f39/gH9/f4...
+[2024-07-25 15:21:15,222]121INFO-Processing frame 108
+[2024-07-25 15:21:15,224]144INFO-Array size: 921600
+[2024-07-25 15:21:15,224]145INFO-Expected size: 2764800
+[2024-07-25 15:21:15,224]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:15,224]212ERROR-Error processing frame 108: Size of the image data does not match the expected size
+[2024-07-25 15:21:15,441]221INFO-Received data: {"frame":"c3V3dnZ3d3h4eHd3d3ZzcW1qaWZlZGhsb3Bwb29wcHFubWlmZmZkZWVkY2NjY2JeWFZWVFRRWGl6fX+Dg4ODgoKDg4...
+[2024-07-25 15:21:15,443]121INFO-Processing frame 111
+[2024-07-25 15:21:15,447]144INFO-Array size: 921600
+[2024-07-25 15:21:15,447]145INFO-Expected size: 2764800
+[2024-07-25 15:21:15,447]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:15,447]212ERROR-Error processing frame 111: Size of the image data does not match the expected size
+[2024-07-25 15:21:15,912]221INFO-Received data: {"frame":"eHp6eXl6e3t7eXh4eHh3d3d3dXNycnJxcXJxcHBwcG5samdnZWZmY2JiYmFgYGBfX15cXVxbWlZVUVNWWl9veX+ChI...
+[2024-07-25 15:21:15,914]121INFO-Processing frame 117
+[2024-07-25 15:21:15,918]144INFO-Array size: 921600
+[2024-07-25 15:21:15,918]145INFO-Expected size: 2764800
+[2024-07-25 15:21:15,918]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:15,918]212ERROR-Error processing frame 117: Size of the image data does not match the expected size
+[2024-07-25 15:21:16,186]221INFO-Received data: {"frame":"dnV1dXV0dHNxcW9wamVjY2Nob25ub29vb25ramlpaGdoaWlnZmVjZWJgXVdVU0hFVFllcHd5fH1+f359fX19fXx8e3...
+[2024-07-25 15:21:16,188]121INFO-Processing frame 126
+[2024-07-25 15:21:16,192]144INFO-Array size: 921600
+[2024-07-25 15:21:16,192]145INFO-Expected size: 2764800
+[2024-07-25 15:21:16,192]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:16,192]212ERROR-Error processing frame 126: Size of the image data does not match the expected size
+[2024-07-25 15:21:16,390]221INFO-Received data: {"frame":"amprbXFzdHRzdHZ3dnVycW9ra21sbGtsa2lmZF9bV1FQTlNYZ211e31+fXx8fHx7ent7e3t8fH5+fHl7bmJSOjEuLC...
+[2024-07-25 15:21:16,391]121INFO-Processing frame 129
+[2024-07-25 15:21:16,393]144INFO-Array size: 921600
+[2024-07-25 15:21:16,393]145INFO-Expected size: 2764800
+[2024-07-25 15:21:16,393]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:16,393]212ERROR-Error processing frame 129: Size of the image data does not match the expected size
+[2024-07-25 15:21:16,596]221INFO-Received data: {"frame":"eXl5eHd4dnV0c3NzcnFubWxtbGxpZV1ZVlNSWWFpdHt9fn+AgIB/f3+AgIB/fn5+gH97eHFpYFdAMCorLSwqKysrKy...
+[2024-07-25 15:21:16,598]121INFO-Processing frame 132
+[2024-07-25 15:21:16,600]144INFO-Array size: 921600
+[2024-07-25 15:21:16,600]145INFO-Expected size: 2764800
+[2024-07-25 15:21:16,600]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:16,600]212ERROR-Error processing frame 132: Size of the image data does not match the expected size
+[2024-07-25 15:21:16,771]221INFO-Received data: {"frame":"cnN0c3Jxb21ramhlY2FcWVRXanJ6foGCgoKDg4ODhISFhYSEg4KBgn14c29pWDkfKCssLC4uLzAwMDAvMzU4PT5APz...
+[2024-07-25 15:21:16,773]121INFO-Processing frame 135
+[2024-07-25 15:21:16,776]144INFO-Array size: 921600
+[2024-07-25 15:21:16,776]145INFO-Expected size: 2764800
+[2024-07-25 15:21:16,776]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:16,776]212ERROR-Error processing frame 135: Size of the image data does not match the expected size
+[2024-07-25 15:21:16,968]221INFO-Received data: {"frame":"bW5vcGxmYVxaW19jaXJ8f4GDg4KDhYWGhoWEg4SCgICAf317cV5YTz82MzAvMC8vLSwxMjI0NDY5PD4+Ozs9PDw6OT...
+[2024-07-25 15:21:16,969]121INFO-Processing frame 138
+[2024-07-25 15:21:16,972]144INFO-Array size: 921600
+[2024-07-25 15:21:16,972]145INFO-Expected size: 2764800
+[2024-07-25 15:21:16,972]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:16,972]212ERROR-Error processing frame 138: Size of the image data does not match the expected size
+[2024-07-25 15:21:17,269]221INFO-Received data: {"frame":"hISEhISEg4ODgoODg4OCgoOEgoB7dm5lW1E7LzIxLysrLSsrLC0uLy8wNzs7PDw9Ozc4OTs6OTk7PDw9Ozw6Oj1BRU...
+[2024-07-25 15:21:17,270]121INFO-Processing frame 144
+[2024-07-25 15:21:17,272]144INFO-Array size: 921600
+[2024-07-25 15:21:17,272]145INFO-Expected size: 2764800
+[2024-07-25 15:21:17,273]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:17,273]212ERROR-Error processing frame 144: Size of the image data does not match the expected size
+[2024-07-25 15:21:17,483]221INFO-Received data: {"frame":"XmFnam1wdHV1dnd5e3x+gISEhoaFhYWGgX59e3ZyamFeWllZSUlFPjUxLykkKiwuLzAwMC8wMjIzNDMzNDQ0MzQ1ND...
+[2024-07-25 15:21:17,485]121INFO-Processing frame 147
+[2024-07-25 15:21:17,487]144INFO-Array size: 921600
+[2024-07-25 15:21:17,487]145INFO-Expected size: 2764800
+[2024-07-25 15:21:17,487]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:17,487]212ERROR-Error processing frame 147: Size of the image data does not match the expected size
+[2024-07-25 15:21:17,699]221INFO-Received data: {"frame":"YmJiYWJjY2JiYWBfXVtYV1VUVFNTU1NSUU5NTE1OTUxKSUhJRkZERENAQkJAPj07PDw9PDgyS1lkcX2BhYeJiouMjI...
+[2024-07-25 15:21:17,701]121INFO-Processing frame 150
+[2024-07-25 15:21:17,703]144INFO-Array size: 921600
+[2024-07-25 15:21:17,704]145INFO-Expected size: 2764800
+[2024-07-25 15:21:17,704]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:17,704]212ERROR-Error processing frame 150: Size of the image data does not match the expected size
+[2024-07-25 15:21:17,904]221INFO-Received data: {"frame":"j42OjpGSk5SVlJORkI2Gfnl3cm5mXlhTTklDQ0RFRURHSEpLTExMTE5OT1BQT09LRkhHR0RFQ0FCRUhGQ0E/Pj49PD...
+[2024-07-25 15:21:17,905]121INFO-Processing frame 153
+[2024-07-25 15:21:17,907]144INFO-Array size: 921600
+[2024-07-25 15:21:17,907]145INFO-Expected size: 2764800
+[2024-07-25 15:21:17,907]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:17,907]212ERROR-Error processing frame 153: Size of the image data does not match the expected size
+[2024-07-25 15:21:18,180]221INFO-Received data: {"frame":"QkE+PDs8P0E8OTg5ODUyMTAvLywsKSgoJyYmJiUoJyclJiYnJygnJygnKCYlJCQiIyIgICAgISIlJCMkJScmKCgoKC...
+[2024-07-25 15:21:18,181]121INFO-Processing frame 159
+[2024-07-25 15:21:18,184]144INFO-Array size: 921600
+[2024-07-25 15:21:18,184]145INFO-Expected size: 2764800
+[2024-07-25 15:21:18,184]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:18,184]212ERROR-Error processing frame 159: Size of the image data does not match the expected size
+[2024-07-25 15:21:18,353]221INFO-Received data: {"frame":"ExMSEhESERAPDw8QERAPDw8PEBEQEBAQDw8PDw8QEBEPEBAQEREREA8PDg8QDxASEhIRERAQEBAREBESERESEhESEh...
+[2024-07-25 15:21:18,354]121INFO-Processing frame 162
+[2024-07-25 15:21:18,356]144INFO-Array size: 921600
+[2024-07-25 15:21:18,356]145INFO-Expected size: 2764800
+[2024-07-25 15:21:18,356]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:18,356]212ERROR-Error processing frame 162: Size of the image data does not match the expected size
+[2024-07-25 15:21:18,593]221INFO-Received data: {"frame":"ERERFRQTGRoXFxcZGRgZGRkZHSEiJCUlJigtMTIzNTQzNjs8PT1AQEFDTU1MSUNFRkVFQkBAPTg5PT9DSEJAPz48OT...
+[2024-07-25 15:21:18,594]121INFO-Processing frame 165
+[2024-07-25 15:21:18,596]144INFO-Array size: 921600
+[2024-07-25 15:21:18,596]145INFO-Expected size: 2764800
+[2024-07-25 15:21:18,596]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:18,597]212ERROR-Error processing frame 165: Size of the image data does not match the expected size
+[2024-07-25 15:21:18,801]221INFO-Received data: {"frame":"VFhaW1paWlpcXF1eXl5eX2BfX19fX19gYGBgYGBgYmJjZWRlZGJjYmFiZWVkZGNjYmJiY2JiYmRlZWVmZ2ZmZ2doZ2...
+[2024-07-25 15:21:18,802]121INFO-Processing frame 168
+[2024-07-25 15:21:18,805]144INFO-Array size: 921600
+[2024-07-25 15:21:18,805]145INFO-Expected size: 2764800
+[2024-07-25 15:21:18,805]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:18,805]212ERROR-Error processing frame 168: Size of the image data does not match the expected size
+[2024-07-25 15:21:18,997]221INFO-Received data: {"frame":"b21sbW1ub29ubm9wcHBvb3BwcHBvbm1tbm1tbG5ubGxtbWttbm1tbW1ubm5ubm1tbGxsa2trbG1sbGpqa2tramprbW...
+[2024-07-25 15:21:18,998]121INFO-Processing frame 171
+[2024-07-25 15:21:19,000]144INFO-Array size: 921600
+[2024-07-25 15:21:19,000]145INFO-Expected size: 2764800
+[2024-07-25 15:21:19,000]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:19,002]212ERROR-Error processing frame 171: Size of the image data does not match the expected size
+[2024-07-25 15:21:19,178]221INFO-Received data: {"frame":"gYOEhIWFhIOEg4ODg4KCgoKCgYGAf4CBgoODgoGAgICBgYKCg4OCgoGBgICBgYGBgoGBgoKCgoODg4KBgYKCgoKBgY...
+[2024-07-25 15:21:19,179]121INFO-Processing frame 174
+[2024-07-25 15:21:19,181]144INFO-Array size: 921600
+[2024-07-25 15:21:19,181]145INFO-Expected size: 2764800
+[2024-07-25 15:21:19,181]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:19,181]212ERROR-Error processing frame 174: Size of the image data does not match the expected size
+[2024-07-25 15:21:19,366]221INFO-Received data: {"frame":"dXV0dHRzcXF0dHRzc3JzcnJzdHV0dHV2dXV0dHNzc3JycnN0dHNzc3BvcHJ0dXZ2d3d2dXR0c3R0dXV1dXR1dXR0dH...
+[2024-07-25 15:21:19,367]121INFO-Processing frame 177
+[2024-07-25 15:21:19,370]144INFO-Array size: 921600
+[2024-07-25 15:21:19,370]145INFO-Expected size: 2764800
+[2024-07-25 15:21:19,370]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:19,370]212ERROR-Error processing frame 177: Size of the image data does not match the expected size
+[2024-07-25 15:21:19,570]221INFO-Received data: {"frame":"hYWFhYaFhISCg4WFhYWFhoWEhISEhIWFhYaGhoaGhIODg4SEhISDg4SDg4SGhIODg4SDg4ODg4SFhYSFhYWFhYaGho...
+[2024-07-25 15:21:19,571]121INFO-Processing frame 180
+[2024-07-25 15:21:19,572]144INFO-Array size: 921600
+[2024-07-25 15:21:19,572]145INFO-Expected size: 2764800
+[2024-07-25 15:21:19,572]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:19,573]212ERROR-Error processing frame 180: Size of the image data does not match the expected size
+[2024-07-25 15:21:19,771]221INFO-Received data: {"frame":"gIKDhIWFhISDg4SEg4KCgoOEhIODgoODg4KDhISFhYaFg4SEhYWGhoaFh4aFhISEgoODhISDg4SFhYSDg4SEhYaGhI...
+[2024-07-25 15:21:19,772]121INFO-Processing frame 183
+[2024-07-25 15:21:19,774]144INFO-Array size: 921600
+[2024-07-25 15:21:19,774]145INFO-Expected size: 2764800
+[2024-07-25 15:21:19,774]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:19,774]212ERROR-Error processing frame 183: Size of the image data does not match the expected size
+[2024-07-25 15:21:19,974]221INFO-Received data: {"frame":"goOEg4KCg4ODg4KCgYKAgICAf3+AgIGBgoKDgoODgoKAgIKBgYGAgICAgYKBgICAgIGCg4ODgoB/gH+AgICAgYCBgo...
+[2024-07-25 15:21:19,975]121INFO-Processing frame 186
+[2024-07-25 15:21:19,977]144INFO-Array size: 921600
+[2024-07-25 15:21:19,977]145INFO-Expected size: 2764800
+[2024-07-25 15:21:19,977]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:19,977]212ERROR-Error processing frame 186: Size of the image data does not match the expected size
+[2024-07-25 15:21:20,168]221INFO-Received data: {"frame":"gYJ/fn+AgYOEg4KCgoGAgIGBgH9+fX+BgYKCgYCAgIGBgYGBgYGBgH9/f4CAgYGBgICAf39/gYGAgICBgX9/fn1+f3...
+[2024-07-25 15:21:20,169]121INFO-Processing frame 189
+[2024-07-25 15:21:20,171]144INFO-Array size: 921600
+[2024-07-25 15:21:20,171]145INFO-Expected size: 2764800
+[2024-07-25 15:21:20,171]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:20,171]212ERROR-Error processing frame 189: Size of the image data does not match the expected size
+[2024-07-25 15:21:20,403]221INFO-Received data: {"frame":"cXFvcHJydHR1dHJxcnJzc3N0dHR0dXVzdHRzc3Rzc3R1dnZ3eHd3d3d3dnd3eHl5eHh3d3d2dnd5eXl5eHh5eXp5eX...
+[2024-07-25 15:21:20,403]121INFO-Processing frame 192
+[2024-07-25 15:21:20,403]144INFO-Array size: 921600
+[2024-07-25 15:21:20,403]145INFO-Expected size: 2764800
+[2024-07-25 15:21:20,403]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:20,403]212ERROR-Error processing frame 192: Size of the image data does not match the expected size
+[2024-07-25 15:21:20,643]221INFO-Received data: {"frame":"bXBxb2xrbGxra2xvbm1ramlnamprbW5vcG9saWpqam1sa2xtbGxra21ua2ppaWlqa2trbWxubW1sbW5tbG1ub25tbG...
+[2024-07-25 15:21:20,643]121INFO-Processing frame 195
+[2024-07-25 15:21:20,643]144INFO-Array size: 921600
+[2024-07-25 15:21:20,643]145INFO-Expected size: 2764800
+[2024-07-25 15:21:20,643]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:20,643]212ERROR-Error processing frame 195: Size of the image data does not match the expected size
+[2024-07-25 15:21:20,907]221INFO-Received data: {"frame":"EREQERERERAQEBAPDxAQEBARExQRERAREhMTEhITEhESEREREBARERAQERESEhISEREREhMSEBERERMUEhITFBQTEx...
+[2024-07-25 15:21:20,907]121INFO-Processing frame 198
+[2024-07-25 15:21:20,913]144INFO-Array size: 921600
+[2024-07-25 15:21:20,913]145INFO-Expected size: 2764800
+[2024-07-25 15:21:20,913]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:20,913]212ERROR-Error processing frame 198: Size of the image data does not match the expected size
+[2024-07-25 15:21:21,093]221INFO-Received data: {"frame":"AgICAgICAwMDAwMDAwMDAgICAgICAgICAgICAgIDAwMDAwIDAgICAwIDAwIDAwMDAwMCAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:21,093]121INFO-Processing frame 201
+[2024-07-25 15:21:21,103]144INFO-Array size: 921600
+[2024-07-25 15:21:21,103]145INFO-Expected size: 2764800
+[2024-07-25 15:21:21,103]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:21,103]212ERROR-Error processing frame 201: Size of the image data does not match the expected size
+[2024-07-25 15:21:21,308]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAwMCAgICAgICAgICAgICAgICAgICAgECAgICAgICAgICAgICAgICAgICAwMDAgICAg...
+[2024-07-25 15:21:21,308]121INFO-Processing frame 204
+[2024-07-25 15:21:21,313]144INFO-Array size: 921600
+[2024-07-25 15:21:21,313]145INFO-Expected size: 2764800
+[2024-07-25 15:21:21,313]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:21,313]212ERROR-Error processing frame 204: Size of the image data does not match the expected size
+[2024-07-25 15:21:21,493]221INFO-Received data: {"frame":"AgMDAwMDAwMCAgICAgICAgICAgICAgICAgICAgIDAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:21,493]121INFO-Processing frame 207
+[2024-07-25 15:21:21,500]144INFO-Array size: 921600
+[2024-07-25 15:21:21,500]145INFO-Expected size: 2764800
+[2024-07-25 15:21:21,500]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:21,500]212ERROR-Error processing frame 207: Size of the image data does not match the expected size
+[2024-07-25 15:21:21,693]221INFO-Received data: {"frame":"AgICAgICAgICAgMCAgICAwMCAgICAgICAgICAgICAgICAgMCAgICAgICAgICAgICAgICAgMCAgICAgICAgICAwMCAg...
+[2024-07-25 15:21:21,693]121INFO-Processing frame 210
+[2024-07-25 15:21:21,698]144INFO-Array size: 921600
+[2024-07-25 15:21:21,698]145INFO-Expected size: 2764800
+[2024-07-25 15:21:21,698]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:21,698]212ERROR-Error processing frame 210: Size of the image data does not match the expected size
+[2024-07-25 15:21:21,923]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgECAgICAgICAgICAwICAgICAgICAgICAgICAQICAgICAgICAgIBAgICAgICAgICAgICAg...
+[2024-07-25 15:21:21,923]121INFO-Processing frame 213
+[2024-07-25 15:21:21,933]144INFO-Array size: 921600
+[2024-07-25 15:21:21,933]145INFO-Expected size: 2764800
+[2024-07-25 15:21:21,933]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:21,933]212ERROR-Error processing frame 213: Size of the image data does not match the expected size
+[2024-07-25 15:21:22,083]221INFO-Received data: {"frame":"AwICAgICAgIBAQICAgICAgICAgMCAgICAgICAgICAgICAgICAgICAgIDAwICAwMDAgICAgICAgICAgICAgECAgICAg...
+[2024-07-25 15:21:22,083]121INFO-Processing frame 216
+[2024-07-25 15:21:22,083]144INFO-Array size: 921600
+[2024-07-25 15:21:22,083]145INFO-Expected size: 2764800
+[2024-07-25 15:21:22,083]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:22,083]212ERROR-Error processing frame 216: Size of the image data does not match the expected size
+[2024-07-25 15:21:22,353]221INFO-Received data: {"frame":"AgICAgMDAgICAgICAgICAgICAwMCAgICAgIDAgICAgICAgICAgICAgICAgICAgICAgEBAQECAgICAgICAgICAgICAg...
+[2024-07-25 15:21:22,353]121INFO-Processing frame 219
+[2024-07-25 15:21:22,353]144INFO-Array size: 921600
+[2024-07-25 15:21:22,353]145INFO-Expected size: 2764800
+[2024-07-25 15:21:22,353]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:22,353]212ERROR-Error processing frame 219: Size of the image data does not match the expected size
+[2024-07-25 15:21:22,520]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAQECAgICAgICAgICAgICAgICAgICAgICAgICAQECAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:22,520]121INFO-Processing frame 222
+[2024-07-25 15:21:22,524]144INFO-Array size: 921600
+[2024-07-25 15:21:22,524]145INFO-Expected size: 2764800
+[2024-07-25 15:21:22,524]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:22,524]212ERROR-Error processing frame 222: Size of the image data does not match the expected size
+[2024-07-25 15:21:22,733]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgICAgIBAQECAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:22,733]121INFO-Processing frame 225
+[2024-07-25 15:21:22,733]144INFO-Array size: 921600
+[2024-07-25 15:21:22,733]145INFO-Expected size: 2764800
+[2024-07-25 15:21:22,733]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:22,733]212ERROR-Error processing frame 225: Size of the image data does not match the expected size
+[2024-07-25 15:21:22,953]221INFO-Received data: {"frame":"AgICAgIDAgICAgICAgICAgEBAQICAgICAgICAgECAQICAgICAgICAgEBAgECAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:22,953]121INFO-Processing frame 228
+[2024-07-25 15:21:22,953]144INFO-Array size: 921600
+[2024-07-25 15:21:22,953]145INFO-Expected size: 2764800
+[2024-07-25 15:21:22,953]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:22,953]212ERROR-Error processing frame 228: Size of the image data does not match the expected size
+[2024-07-25 15:21:23,124]221INFO-Received data: {"frame":"AwMCAgICAgICAgICAgICAgIDAgMDAwMCAgICAgICAgICAgICAgICAQECAgICAgICAgICAgICAgMDAgICAgEBAQECAg...
+[2024-07-25 15:21:23,124]121INFO-Processing frame 231
+[2024-07-25 15:21:23,124]144INFO-Array size: 921600
+[2024-07-25 15:21:23,124]145INFO-Expected size: 2764800
+[2024-07-25 15:21:23,124]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:23,124]212ERROR-Error processing frame 231: Size of the image data does not match the expected size
+[2024-07-25 15:21:23,333]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgIDAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCAgICAg...
+[2024-07-25 15:21:23,333]121INFO-Processing frame 234
+[2024-07-25 15:21:23,343]144INFO-Array size: 921600
+[2024-07-25 15:21:23,343]145INFO-Expected size: 2764800
+[2024-07-25 15:21:23,343]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:23,343]212ERROR-Error processing frame 234: Size of the image data does not match the expected size
+[2024-07-25 15:21:23,513]221INFO-Received data: {"frame":"AgMCAgICAgICAgICAgICAgICAgICAgICAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQICAgICAg...
+[2024-07-25 15:21:23,518]121INFO-Processing frame 237
+[2024-07-25 15:21:23,518]144INFO-Array size: 921600
+[2024-07-25 15:21:23,518]145INFO-Expected size: 2764800
+[2024-07-25 15:21:23,518]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:23,518]212ERROR-Error processing frame 237: Size of the image data does not match the expected size
+[2024-07-25 15:21:23,723]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAQICAgICAgICAgICAgICAgICAgICAgICAgEBAQICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:23,723]121INFO-Processing frame 240
+[2024-07-25 15:21:23,723]144INFO-Array size: 921600
+[2024-07-25 15:21:23,723]145INFO-Expected size: 2764800
+[2024-07-25 15:21:23,723]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:23,723]212ERROR-Error processing frame 240: Size of the image data does not match the expected size
+[2024-07-25 15:21:23,973]221INFO-Received data: {"frame":"AgICAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAg...
+[2024-07-25 15:21:23,973]121INFO-Processing frame 243
+[2024-07-25 15:21:23,973]144INFO-Array size: 921600
+[2024-07-25 15:21:23,973]145INFO-Expected size: 2764800
+[2024-07-25 15:21:23,973]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:23,973]212ERROR-Error processing frame 243: Size of the image data does not match the expected size
+[2024-07-25 15:21:24,223]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgEBAQICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:24,233]121INFO-Processing frame 246
+[2024-07-25 15:21:24,233]144INFO-Array size: 921600
+[2024-07-25 15:21:24,233]145INFO-Expected size: 2764800
+[2024-07-25 15:21:24,233]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:24,233]212ERROR-Error processing frame 246: Size of the image data does not match the expected size
+[2024-07-25 15:21:29,552]221INFO-Received data: {"frame":"AgICAgICAgECAgICAgICAgICAgICAgICAgICAgIDAwICAgICAgICAgICAgICAgICAwICAwMDAgICAgICAwMCAgICAg...
+[2024-07-25 15:21:29,552]121INFO-Processing frame 249
+[2024-07-25 15:21:29,552]144INFO-Array size: 921600
+[2024-07-25 15:21:29,552]145INFO-Expected size: 2764800
+[2024-07-25 15:21:29,552]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:29,552]212ERROR-Error processing frame 249: Size of the image data does not match the expected size
+[2024-07-25 15:21:29,977]221INFO-Received data: {"frame":"BgYHBwcHBwcGBgYHBwcHBwYGBgcICAgIBwcICAgIBwgICAgHBgYGBwcHBwYGBwgJCQgHBwcICAcICAgICAgHCAkIBw...
+[2024-07-25 15:21:29,977]121INFO-Processing frame 258
+[2024-07-25 15:21:29,977]144INFO-Array size: 921600
+[2024-07-25 15:21:29,977]145INFO-Expected size: 2764800
+[2024-07-25 15:21:29,977]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:29,977]212ERROR-Error processing frame 258: Size of the image data does not match the expected size
+[2024-07-25 15:21:30,260]221INFO-Received data: {"frame":"CQgICAgICAkJCAgICAgICAkJCQkJCAcHBwcICAkJCQkICAcGBgYGBgYGBgcHBwcHCAcHCAgICAgICQkICAcHBwgIBw...
+[2024-07-25 15:21:30,260]121INFO-Processing frame 261
+[2024-07-25 15:21:30,276]144INFO-Array size: 921600
+[2024-07-25 15:21:30,276]145INFO-Expected size: 2764800
+[2024-07-25 15:21:30,276]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:30,276]212ERROR-Error processing frame 261: Size of the image data does not match the expected size
+[2024-07-25 15:21:30,592]221INFO-Received data: {"frame":"BwcHBwcHBwgJCQkIBwcHBwcHBwcICAgHBwcHBwcHBwcICAgICAcGBgYGBgcHBwcHCAgICAkKCgkJCQkICAgJCwsJCA...
+[2024-07-25 15:21:30,592]121INFO-Processing frame 264
+[2024-07-25 15:21:30,592]144INFO-Array size: 921600
+[2024-07-25 15:21:30,592]145INFO-Expected size: 2764800
+[2024-07-25 15:21:30,592]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:30,592]212ERROR-Error processing frame 264: Size of the image data does not match the expected size
+[2024-07-25 15:21:30,843]221INFO-Received data: {"frame":"CAgJCQgICQoIBwcHBwcHCAgICAgJCgkICAcGBgcICAcHBwcICAcHBgYGBgcHCAgIBwcHBwcHBwcHBgcHBwcHBwcICA...
+[2024-07-25 15:21:30,843]121INFO-Processing frame 267
+[2024-07-25 15:21:30,843]144INFO-Array size: 921600
+[2024-07-25 15:21:30,843]145INFO-Expected size: 2764800
+[2024-07-25 15:21:30,843]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:30,843]212ERROR-Error processing frame 267: Size of the image data does not match the expected size
+[2024-07-25 15:21:31,094]221INFO-Received data: {"frame":"BwcIBwcGBgYHBwcHBwgIBwcHBwgJCAgICAgHBwcICAgJCQkIBwcHBwcHCAgICQgHBwcGBgYHBwcHBwYHBgYHBwcHBw...
+[2024-07-25 15:21:31,094]121INFO-Processing frame 270
+[2024-07-25 15:21:31,110]144INFO-Array size: 921600
+[2024-07-25 15:21:31,110]145INFO-Expected size: 2764800
+[2024-07-25 15:21:31,110]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:31,110]212ERROR-Error processing frame 270: Size of the image data does not match the expected size
+[2024-07-25 15:21:31,391]221INFO-Received data: {"frame":"CgoICAcICAkKCgkJCQgHBwcICAgHBwcICQgHBwcHBwcHCAgHCQgHBwcICAgICAcHBwYHBwcHBwcHCAgICAcHBwgJCQ...
+[2024-07-25 15:21:31,391]121INFO-Processing frame 273
+[2024-07-25 15:21:31,408]144INFO-Array size: 921600
+[2024-07-25 15:21:31,408]145INFO-Expected size: 2764800
+[2024-07-25 15:21:31,408]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:31,408]212ERROR-Error processing frame 273: Size of the image data does not match the expected size
+[2024-07-25 15:21:31,662]221INFO-Received data: {"frame":"CgkHBwYGBwcHBwcHCQkHCAcHBwcHBwcICQkJCAgHBwcGBgcHCAgHBwcGBgYGBgYHCAgIBwcHBwgICAgHBgcHBwgICA...
+[2024-07-25 15:21:31,662]121INFO-Processing frame 276
+[2024-07-25 15:21:31,662]144INFO-Array size: 921600
+[2024-07-25 15:21:31,662]145INFO-Expected size: 2764800
+[2024-07-25 15:21:31,662]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:31,662]212ERROR-Error processing frame 276: Size of the image data does not match the expected size
+[2024-07-25 15:21:32,012]221INFO-Received data: {"frame":"BwcGBgcGBwkICAcGBgYHCAcGBgYGBgcICAcHBwgJCQoJCAkICAoJCAkJBwcICQcHBgYGBwYGBQYGBgYGBgYGBgYGBw...
+[2024-07-25 15:21:32,012]121INFO-Processing frame 279
+[2024-07-25 15:21:32,012]144INFO-Array size: 921600
+[2024-07-25 15:21:32,012]145INFO-Expected size: 2764800
+[2024-07-25 15:21:32,012]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:32,012]212ERROR-Error processing frame 279: Size of the image data does not match the expected size
+[2024-07-25 15:21:32,305]221INFO-Received data: {"frame":"CAgICAgIBwcHBwcGBgUFBQYHBwcHBwcHCAgHBwcHBgYGBgYGBwYHBwcGBgYHBwcHBwcHBwgICAkIBwcHCAgHBwcHBw...
+[2024-07-25 15:21:32,305]121INFO-Processing frame 282
+[2024-07-25 15:21:32,305]144INFO-Array size: 921600
+[2024-07-25 15:21:32,305]145INFO-Expected size: 2764800
+[2024-07-25 15:21:32,305]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:32,305]212ERROR-Error processing frame 282: Size of the image data does not match the expected size
+[2024-07-25 15:21:32,545]221INFO-Received data: {"frame":"BQUEBQUFBQUEBQUFBQUFBAUFBgYFBQUFBAQEBAUFBQYGBQUFBgYFBQUFBQUEBQUGBgUFBQUFBQUGBgcGBgUEBAUGBg...
+[2024-07-25 15:21:32,547]121INFO-Processing frame 285
+[2024-07-25 15:21:32,547]144INFO-Array size: 921600
+[2024-07-25 15:21:32,547]145INFO-Expected size: 2764800
+[2024-07-25 15:21:32,547]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:32,547]212ERROR-Error processing frame 285: Size of the image data does not match the expected size
+[2024-07-25 15:21:32,711]221INFO-Received data: {"frame":"AwMDBAQEAwMDAwMDAwMDAwMEBAUEBAMDAwQDBAQFBAQEAwMDAwMDAwMDBAQEBAUEBAQEBAQEBAQDAwMDAwMDAwMDAw...
+[2024-07-25 15:21:32,711]121INFO-Processing frame 288
+[2024-07-25 15:21:32,727]144INFO-Array size: 921600
+[2024-07-25 15:21:32,727]145INFO-Expected size: 2764800
+[2024-07-25 15:21:32,727]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:32,727]212ERROR-Error processing frame 288: Size of the image data does not match the expected size
+[2024-07-25 15:21:32,895]221INFO-Received data: {"frame":"AgMDAwMCAgMDAwMDAwMDAwMDAwMDAwMDAwMCAgMDAwMDAwMCAgICAgICAgICAwMDAwMDAwICAgIDAwMDAwMDAwMDAw...
+[2024-07-25 15:21:32,895]121INFO-Processing frame 291
+[2024-07-25 15:21:32,895]144INFO-Array size: 921600
+[2024-07-25 15:21:32,895]145INFO-Expected size: 2764800
+[2024-07-25 15:21:32,895]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:32,895]212ERROR-Error processing frame 291: Size of the image data does not match the expected size
+[2024-07-25 15:21:33,204]221INFO-Received data: {"frame":"AgIDAgICAgICAgICAgICAgECAgIDAgICAgICAgICAgICAgICAgICAQEBAQICAgICAgICAgICAgICAgICAgICAgICAQ...
+[2024-07-25 15:21:33,204]121INFO-Processing frame 294
+[2024-07-25 15:21:33,204]144INFO-Array size: 921600
+[2024-07-25 15:21:33,204]145INFO-Expected size: 2764800
+[2024-07-25 15:21:33,204]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:33,204]212ERROR-Error processing frame 294: Size of the image data does not match the expected size
+[2024-07-25 15:21:33,540]221INFO-Received data: {"frame":"AwMCAgMDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQICAgICAgMCAgIBAQ...
+[2024-07-25 15:21:33,540]121INFO-Processing frame 300
+[2024-07-25 15:21:33,540]144INFO-Array size: 921600
+[2024-07-25 15:21:33,540]145INFO-Expected size: 2764800
+[2024-07-25 15:21:33,540]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:33,540]212ERROR-Error processing frame 300: Size of the image data does not match the expected size
+[2024-07-25 15:21:33,752]221INFO-Received data: {"frame":"AgICAgMCAgICAgICAgICAgICAgIDAgICAgICAgICAgIBAQIBAQICAgICAgICAgIBAQECAgICAgICAgICAgICAgECAg...
+[2024-07-25 15:21:33,752]121INFO-Processing frame 303
+[2024-07-25 15:21:33,752]144INFO-Array size: 921600
+[2024-07-25 15:21:33,752]145INFO-Expected size: 2764800
+[2024-07-25 15:21:33,752]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:33,752]212ERROR-Error processing frame 303: Size of the image data does not match the expected size
+[2024-07-25 15:21:33,986]221INFO-Received data: {"frame":"AwICAgICAgECAgICAgICAgICAgICAgICAgICAgIDAwMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAwMDAw...
+[2024-07-25 15:21:33,986]121INFO-Processing frame 306
+[2024-07-25 15:21:33,986]144INFO-Array size: 921600
+[2024-07-25 15:21:33,986]145INFO-Expected size: 2764800
+[2024-07-25 15:21:33,986]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:33,986]212ERROR-Error processing frame 306: Size of the image data does not match the expected size
+[2024-07-25 15:21:34,231]221INFO-Received data: {"frame":"AgICAwICAgICAgICAgICAgICAgICAgICAgICAgMDAgICAgICAwICAgICAwICAgICAgICAgICAgICAwMDAgICAQECAg...
+[2024-07-25 15:21:34,231]121INFO-Processing frame 309
+[2024-07-25 15:21:34,231]144INFO-Array size: 921600
+[2024-07-25 15:21:34,231]145INFO-Expected size: 2764800
+[2024-07-25 15:21:34,231]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:34,231]212ERROR-Error processing frame 309: Size of the image data does not match the expected size
+[2024-07-25 15:21:34,418]221INFO-Received data: {"frame":"AQICAgICAgICAwICAgICAgIBAgICAgICAQICAgICAgICAgICAgICAgIBAgICAgICAgEBAgICAgICAgIBAQEBAQECAg...
+[2024-07-25 15:21:34,418]121INFO-Processing frame 312
+[2024-07-25 15:21:34,418]144INFO-Array size: 921600
+[2024-07-25 15:21:34,418]145INFO-Expected size: 2764800
+[2024-07-25 15:21:34,418]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:34,418]212ERROR-Error processing frame 312: Size of the image data does not match the expected size
+[2024-07-25 15:21:34,606]221INFO-Received data: {"frame":"AgICAwICAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgIBAQICAgICAg...
+[2024-07-25 15:21:34,619]121INFO-Processing frame 315
+[2024-07-25 15:21:34,620]144INFO-Array size: 921600
+[2024-07-25 15:21:34,620]145INFO-Expected size: 2764800
+[2024-07-25 15:21:34,620]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:34,620]212ERROR-Error processing frame 315: Size of the image data does not match the expected size
+[2024-07-25 15:21:34,847]221INFO-Received data: {"frame":"AgICAgICAgICAgMCAgICAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBAgEBAgICAgICAgICAgICAg...
+[2024-07-25 15:21:34,847]121INFO-Processing frame 318
+[2024-07-25 15:21:34,847]144INFO-Array size: 921600
+[2024-07-25 15:21:34,847]145INFO-Expected size: 2764800
+[2024-07-25 15:21:34,847]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:34,847]212ERROR-Error processing frame 318: Size of the image data does not match the expected size
+[2024-07-25 15:21:35,167]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQECAgICAgICAg...
+[2024-07-25 15:21:35,167]121INFO-Processing frame 321
+[2024-07-25 15:21:35,167]144INFO-Array size: 921600
+[2024-07-25 15:21:35,167]145INFO-Expected size: 2764800
+[2024-07-25 15:21:35,167]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:35,167]212ERROR-Error processing frame 321: Size of the image data does not match the expected size
+[2024-07-25 15:21:35,373]221INFO-Received data: {"frame":"AgICAgICAgICAQEBAgICAgEBAgICAgICAgIBAQICAgICAgICAQEBAQECAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:35,373]121INFO-Processing frame 324
+[2024-07-25 15:21:35,373]144INFO-Array size: 921600
+[2024-07-25 15:21:35,373]145INFO-Expected size: 2764800
+[2024-07-25 15:21:35,373]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:35,373]212ERROR-Error processing frame 324: Size of the image data does not match the expected size
+[2024-07-25 15:21:35,562]221INFO-Received data: {"frame":"AgICAgICAgMDAwICAgICAgICAgICAgICAgICAgICAgICAgIBAQEBAQECAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:35,562]121INFO-Processing frame 327
+[2024-07-25 15:21:35,562]144INFO-Array size: 921600
+[2024-07-25 15:21:35,562]145INFO-Expected size: 2764800
+[2024-07-25 15:21:35,562]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:35,562]212ERROR-Error processing frame 327: Size of the image data does not match the expected size
+[2024-07-25 15:21:35,804]221INFO-Received data: {"frame":"AgICAgIDAwICAgICAgICAgICAgICAgICAgICAgICAgICAgMDAwMCAgIBAgICAgICAgICAgIBAQEBAQICAgICAgICAg...
+[2024-07-25 15:21:35,805]121INFO-Processing frame 330
+[2024-07-25 15:21:35,807]144INFO-Array size: 921600
+[2024-07-25 15:21:35,807]145INFO-Expected size: 2764800
+[2024-07-25 15:21:35,807]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:35,807]212ERROR-Error processing frame 330: Size of the image data does not match the expected size
+[2024-07-25 15:21:36,038]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgMCAgICAgEBAQECAQECAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBAgICAg...
+[2024-07-25 15:21:36,038]121INFO-Processing frame 333
+[2024-07-25 15:21:36,038]144INFO-Array size: 921600
+[2024-07-25 15:21:36,038]145INFO-Expected size: 2764800
+[2024-07-25 15:21:36,038]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:36,038]212ERROR-Error processing frame 333: Size of the image data does not match the expected size
+[2024-07-25 15:21:36,224]221INFO-Received data: {"frame":"AQICAgICAgICAgMDAgICAgICAgICAgICAgIBAQICAQECAgICAgICAQECAgICAgICAgICAgICAgICAgICAQICAgICAg...
+[2024-07-25 15:21:36,224]121INFO-Processing frame 336
+[2024-07-25 15:21:36,224]144INFO-Array size: 921600
+[2024-07-25 15:21:36,224]145INFO-Expected size: 2764800
+[2024-07-25 15:21:36,224]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:36,224]212ERROR-Error processing frame 336: Size of the image data does not match the expected size
+[2024-07-25 15:21:36,474]221INFO-Received data: {"frame":"AQECAgICAgICAgICAgICAgEBAQIBAgICAgIBAgICAgICAgICAgIBAQECAgICAgEBAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:36,474]121INFO-Processing frame 339
+[2024-07-25 15:21:36,474]144INFO-Array size: 921600
+[2024-07-25 15:21:36,474]145INFO-Expected size: 2764800
+[2024-07-25 15:21:36,474]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:36,474]212ERROR-Error processing frame 339: Size of the image data does not match the expected size
+[2024-07-25 15:21:36,698]221INFO-Received data: {"frame":"AQICAgICAgICAQEBAQEBAgICAgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBAQEBAgICAgICAgICAg...
+[2024-07-25 15:21:36,698]121INFO-Processing frame 342
+[2024-07-25 15:21:36,698]144INFO-Array size: 921600
+[2024-07-25 15:21:36,698]145INFO-Expected size: 2764800
+[2024-07-25 15:21:36,698]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:36,698]212ERROR-Error processing frame 342: Size of the image data does not match the expected size
+[2024-07-25 15:21:36,895]221INFO-Received data: {"frame":"AwMDAwMCAgICAgICAgICAgICAgMCAgICAgICAgICAgICAgICAgICAgECAgICAgICAgICAgICAgECAgICAgEBAgICAg...
+[2024-07-25 15:21:36,897]121INFO-Processing frame 345
+[2024-07-25 15:21:36,899]144INFO-Array size: 921600
+[2024-07-25 15:21:36,899]145INFO-Expected size: 2764800
+[2024-07-25 15:21:36,899]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:36,899]212ERROR-Error processing frame 345: Size of the image data does not match the expected size
+[2024-07-25 15:21:37,121]221INFO-Received data: {"frame":"AQICAgICAgICAgICAgICAgICAgECAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAwICAwICAgICAg...
+[2024-07-25 15:21:37,121]121INFO-Processing frame 348
+[2024-07-25 15:21:37,121]144INFO-Array size: 921600
+[2024-07-25 15:21:37,121]145INFO-Expected size: 2764800
+[2024-07-25 15:21:37,121]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:37,121]212ERROR-Error processing frame 348: Size of the image data does not match the expected size
+[2024-07-25 15:21:37,314]221INFO-Received data: {"frame":"AgICAgICAgICAgIBAgICAgICAQICAQICAgICAgIDAgIBAQEBAQICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:37,314]121INFO-Processing frame 351
+[2024-07-25 15:21:37,314]144INFO-Array size: 921600
+[2024-07-25 15:21:37,314]145INFO-Expected size: 2764800
+[2024-07-25 15:21:37,314]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:37,314]212ERROR-Error processing frame 351: Size of the image data does not match the expected size
+[2024-07-25 15:21:37,533]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgEBAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:37,533]121INFO-Processing frame 354
+[2024-07-25 15:21:37,533]144INFO-Array size: 921600
+[2024-07-25 15:21:37,533]145INFO-Expected size: 2764800
+[2024-07-25 15:21:37,533]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:37,533]212ERROR-Error processing frame 354: Size of the image data does not match the expected size
+[2024-07-25 15:21:37,733]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:37,734]121INFO-Processing frame 357
+[2024-07-25 15:21:37,737]144INFO-Array size: 921600
+[2024-07-25 15:21:37,737]145INFO-Expected size: 2764800
+[2024-07-25 15:21:37,737]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:37,737]212ERROR-Error processing frame 357: Size of the image data does not match the expected size
+[2024-07-25 15:21:37,742]221INFO-Received data: ping...
+[2024-07-25 15:21:37,742]225ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 15:21:37,742]226ERROR-Received invalid JSON: ping...
+[2024-07-25 15:21:37,939]221INFO-Received data: {"frame":"AQEBAgICAgICAgICAgICAgICAgICAgICAgICAgIDAwICAgICAgICAQIBAQICAgICAgICAgIBAQECAgICAgICAgICAg...
+[2024-07-25 15:21:37,939]121INFO-Processing frame 360
+[2024-07-25 15:21:37,939]144INFO-Array size: 921600
+[2024-07-25 15:21:37,939]145INFO-Expected size: 2764800
+[2024-07-25 15:21:37,939]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:37,939]212ERROR-Error processing frame 360: Size of the image data does not match the expected size
+[2024-07-25 15:21:38,163]221INFO-Received data: {"frame":"AgICAgICAgICAgIDAgICAgICAgMCAgICAwMCAgICAgICAgICAgICAgICAgEBAgICAgICAgIDAgICAgICAgICAgICAg...
+[2024-07-25 15:21:38,163]121INFO-Processing frame 363
+[2024-07-25 15:21:38,163]144INFO-Array size: 921600
+[2024-07-25 15:21:38,163]145INFO-Expected size: 2764800
+[2024-07-25 15:21:38,163]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:38,163]212ERROR-Error processing frame 363: Size of the image data does not match the expected size
+[2024-07-25 15:21:38,432]221INFO-Received data: {"frame":"AwICAgIDAgICAgICAgICAgICAgICAgICAwMDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:38,433]121INFO-Processing frame 366
+[2024-07-25 15:21:38,436]144INFO-Array size: 921600
+[2024-07-25 15:21:38,437]145INFO-Expected size: 2764800
+[2024-07-25 15:21:38,437]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:38,437]212ERROR-Error processing frame 366: Size of the image data does not match the expected size
+[2024-07-25 15:21:38,618]221INFO-Received data: {"frame":"AwMCAgICAgICAgICAgICAgEBAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQ...
+[2024-07-25 15:21:38,618]121INFO-Processing frame 369
+[2024-07-25 15:21:38,618]144INFO-Array size: 921600
+[2024-07-25 15:21:38,618]145INFO-Expected size: 2764800
+[2024-07-25 15:21:38,618]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:38,618]212ERROR-Error processing frame 369: Size of the image data does not match the expected size
+[2024-07-25 15:21:38,837]221INFO-Received data: {"frame":"AwICAgICAgICAgICAgICAgEBAgICAgICAgICAgICAgICAQECAgICAgICAgICAgICAgICAgICAgEBAgICAgICAgICAg...
+[2024-07-25 15:21:38,837]121INFO-Processing frame 372
+[2024-07-25 15:21:38,837]144INFO-Array size: 921600
+[2024-07-25 15:21:38,837]145INFO-Expected size: 2764800
+[2024-07-25 15:21:38,837]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:38,837]212ERROR-Error processing frame 372: Size of the image data does not match the expected size
+[2024-07-25 15:21:39,066]221INFO-Received data: {"frame":"AwICAgICAgICAwMDAgICAgICAgICAgMDAwICAgICAgICAgMCAgICAgEBAgICAgMDAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:39,067]121INFO-Processing frame 375
+[2024-07-25 15:21:39,069]144INFO-Array size: 921600
+[2024-07-25 15:21:39,069]145INFO-Expected size: 2764800
+[2024-07-25 15:21:39,069]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:39,069]212ERROR-Error processing frame 375: Size of the image data does not match the expected size
+[2024-07-25 15:21:39,299]221INFO-Received data: {"frame":"AgICAgICAgICAgIDAwMCAgICAgICAgICAgICAgICAgICAgECAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:39,299]121INFO-Processing frame 378
+[2024-07-25 15:21:39,299]144INFO-Array size: 921600
+[2024-07-25 15:21:39,299]145INFO-Expected size: 2764800
+[2024-07-25 15:21:39,299]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:39,299]212ERROR-Error processing frame 378: Size of the image data does not match the expected size
+[2024-07-25 15:21:39,553]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQIBAQEBAQEBAQICAgICAgICAgICAgICAgICAgICAgMDAwMCAg...
+[2024-07-25 15:21:39,555]121INFO-Processing frame 381
+[2024-07-25 15:21:39,558]144INFO-Array size: 921600
+[2024-07-25 15:21:39,558]145INFO-Expected size: 2764800
+[2024-07-25 15:21:39,558]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:39,558]212ERROR-Error processing frame 381: Size of the image data does not match the expected size
+[2024-07-25 15:21:39,748]221INFO-Received data: {"frame":"AgICAgICAgICAwMCAgICAgICAgICAgICAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:39,749]121INFO-Processing frame 384
+[2024-07-25 15:21:39,751]144INFO-Array size: 921600
+[2024-07-25 15:21:39,751]145INFO-Expected size: 2764800
+[2024-07-25 15:21:39,751]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:39,751]212ERROR-Error processing frame 384: Size of the image data does not match the expected size
+[2024-07-25 15:21:39,986]221INFO-Received data: {"frame":"AwICAwICAgICAgICAgEBAQEBAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:39,986]121INFO-Processing frame 387
+[2024-07-25 15:21:39,986]144INFO-Array size: 921600
+[2024-07-25 15:21:39,986]145INFO-Expected size: 2764800
+[2024-07-25 15:21:39,986]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:39,986]212ERROR-Error processing frame 387: Size of the image data does not match the expected size
+[2024-07-25 15:21:40,235]221INFO-Received data: {"frame":"AwMCAgICAgICAgICAgECAgICAgICAgICAgIBAgICAgICAgICAgICAgICAgICAgICAgICAgICAgEBAQECAgICAgICAg...
+[2024-07-25 15:21:40,237]121INFO-Processing frame 390
+[2024-07-25 15:21:40,239]144INFO-Array size: 921600
+[2024-07-25 15:21:40,239]145INFO-Expected size: 2764800
+[2024-07-25 15:21:40,239]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:40,239]212ERROR-Error processing frame 390: Size of the image data does not match the expected size
+[2024-07-25 15:21:40,469]221INFO-Received data: {"frame":"AQICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMCAgICAgICAgEBAgICAgICAgICAg...
+[2024-07-25 15:21:40,469]121INFO-Processing frame 393
+[2024-07-25 15:21:40,469]144INFO-Array size: 921600
+[2024-07-25 15:21:40,469]145INFO-Expected size: 2764800
+[2024-07-25 15:21:40,469]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:40,469]212ERROR-Error processing frame 393: Size of the image data does not match the expected size
+[2024-07-25 15:21:40,832]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgIBAgICAgICAgICAgICAgICAQECAgICAgICAgICAgICAgICAgICAgIBAg...
+[2024-07-25 15:21:40,832]121INFO-Processing frame 396
+[2024-07-25 15:21:40,832]144INFO-Array size: 921600
+[2024-07-25 15:21:40,832]145INFO-Expected size: 2764800
+[2024-07-25 15:21:40,832]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:40,832]212ERROR-Error processing frame 396: Size of the image data does not match the expected size
+[2024-07-25 15:21:41,024]221INFO-Received data: {"frame":"AgICAgICAgICAgICAQEBAgEBAgICAgICAgECAQICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBAg...
+[2024-07-25 15:21:41,024]121INFO-Processing frame 399
+[2024-07-25 15:21:41,024]144INFO-Array size: 921600
+[2024-07-25 15:21:41,024]145INFO-Expected size: 2764800
+[2024-07-25 15:21:41,024]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:41,024]212ERROR-Error processing frame 399: Size of the image data does not match the expected size
+[2024-07-25 15:21:41,247]221INFO-Received data: {"frame":"AwMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:41,247]121INFO-Processing frame 402
+[2024-07-25 15:21:41,247]144INFO-Array size: 921600
+[2024-07-25 15:21:41,247]145INFO-Expected size: 2764800
+[2024-07-25 15:21:41,247]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:41,247]212ERROR-Error processing frame 402: Size of the image data does not match the expected size
+[2024-07-25 15:21:41,438]221INFO-Received data: {"frame":"AgICAgICAQICAwICAgICAQECAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:41,438]121INFO-Processing frame 405
+[2024-07-25 15:21:41,454]144INFO-Array size: 921600
+[2024-07-25 15:21:41,454]145INFO-Expected size: 2764800
+[2024-07-25 15:21:41,454]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:41,454]212ERROR-Error processing frame 405: Size of the image data does not match the expected size
+[2024-07-25 15:21:41,665]221INFO-Received data: {"frame":"AQICAgICAgICAgICAgEBAgICAgICAgICAgICAgICAgICAgIBAQEBAQICAgICAgICAgICAgEBAQICAQECAgEBAgIBAg...
+[2024-07-25 15:21:41,665]121INFO-Processing frame 408
+[2024-07-25 15:21:41,680]144INFO-Array size: 921600
+[2024-07-25 15:21:41,680]145INFO-Expected size: 2764800
+[2024-07-25 15:21:41,680]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:41,680]212ERROR-Error processing frame 408: Size of the image data does not match the expected size
+[2024-07-25 15:21:41,929]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAQECAgICAgICAgIBAQICAgICAgICAgICAQECAgICAgICAgICAgIBAgICAgICAgICAgICAg...
+[2024-07-25 15:21:41,930]121INFO-Processing frame 411
+[2024-07-25 15:21:41,933]144INFO-Array size: 921600
+[2024-07-25 15:21:41,933]145INFO-Expected size: 2764800
+[2024-07-25 15:21:41,933]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:41,934]212ERROR-Error processing frame 411: Size of the image data does not match the expected size
+[2024-07-25 15:21:42,147]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAwMDAgICAgICAgICAgICAgECAgICAQEBAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:42,147]121INFO-Processing frame 414
+[2024-07-25 15:21:42,147]144INFO-Array size: 921600
+[2024-07-25 15:21:42,147]145INFO-Expected size: 2764800
+[2024-07-25 15:21:42,147]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:42,147]212ERROR-Error processing frame 414: Size of the image data does not match the expected size
+[2024-07-25 15:21:42,390]221INFO-Received data: {"frame":"AgICAgIDAgICAwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBAgICAgECAQIBAgICAgICAgICAgICAg...
+[2024-07-25 15:21:42,390]121INFO-Processing frame 417
+[2024-07-25 15:21:42,390]144INFO-Array size: 921600
+[2024-07-25 15:21:42,390]145INFO-Expected size: 2764800
+[2024-07-25 15:21:42,390]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:42,390]212ERROR-Error processing frame 417: Size of the image data does not match the expected size
+[2024-07-25 15:21:42,683]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQEBAQEBAQECAgICAgICAgICAgICAgICAgIBAQICAgICAg...
+[2024-07-25 15:21:42,683]121INFO-Processing frame 420
+[2024-07-25 15:21:42,683]144INFO-Array size: 921600
+[2024-07-25 15:21:42,683]145INFO-Expected size: 2764800
+[2024-07-25 15:21:42,683]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:42,683]212ERROR-Error processing frame 420: Size of the image data does not match the expected size
+[2024-07-25 15:21:42,946]221INFO-Received data: {"frame":"AgICAwMCAwMCAgICAgICAgICAgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:42,946]121INFO-Processing frame 423
+[2024-07-25 15:21:42,953]144INFO-Array size: 921600
+[2024-07-25 15:21:42,953]145INFO-Expected size: 2764800
+[2024-07-25 15:21:42,953]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:42,953]212ERROR-Error processing frame 423: Size of the image data does not match the expected size
+[2024-07-25 15:21:43,259]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQEBAQECAgICAgEBAgICAgICAgMDAgICAgICAg...
+[2024-07-25 15:21:43,259]121INFO-Processing frame 426
+[2024-07-25 15:21:43,266]144INFO-Array size: 921600
+[2024-07-25 15:21:43,266]145INFO-Expected size: 2764800
+[2024-07-25 15:21:43,266]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:43,266]212ERROR-Error processing frame 426: Size of the image data does not match the expected size
+[2024-07-25 15:21:43,602]221INFO-Received data: {"frame":"AQICAQECAgICAgICAgICAgICAgICAgICAgICAgICAQICAgICAgICAQEBAgICAgICAgICAgICAgIBAQICAgICAgECAg...
+[2024-07-25 15:21:43,602]121INFO-Processing frame 432
+[2024-07-25 15:21:43,602]144INFO-Array size: 921600
+[2024-07-25 15:21:43,602]145INFO-Expected size: 2764800
+[2024-07-25 15:21:43,602]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:43,602]212ERROR-Error processing frame 432: Size of the image data does not match the expected size
+[2024-07-25 15:21:43,842]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgICAgMCAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:43,842]121INFO-Processing frame 435
+[2024-07-25 15:21:43,842]144INFO-Array size: 921600
+[2024-07-25 15:21:43,842]145INFO-Expected size: 2764800
+[2024-07-25 15:21:43,842]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:43,842]212ERROR-Error processing frame 435: Size of the image data does not match the expected size
+[2024-07-25 15:21:44,100]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgICAQICAgICAgICAgICAQICAgICAwICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:44,100]121INFO-Processing frame 438
+[2024-07-25 15:21:44,100]144INFO-Array size: 921600
+[2024-07-25 15:21:44,100]145INFO-Expected size: 2764800
+[2024-07-25 15:21:44,100]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:44,100]212ERROR-Error processing frame 438: Size of the image data does not match the expected size
+[2024-07-25 15:21:44,343]221INFO-Received data: {"frame":"AgICAgICAgECAgECAgEBAQECAgICAgICAgICAgICAgICAgICAgICAgEBAgICAgICAgICAgICAgICAgICAgICAgICAQ...
+[2024-07-25 15:21:44,344]121INFO-Processing frame 441
+[2024-07-25 15:21:44,346]144INFO-Array size: 921600
+[2024-07-25 15:21:44,346]145INFO-Expected size: 2764800
+[2024-07-25 15:21:44,346]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:44,346]212ERROR-Error processing frame 441: Size of the image data does not match the expected size
+[2024-07-25 15:21:44,634]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAQECAgICAgICAgICAgICAgICAgIDAgICAgICAgICAgICAgICAgICAgICAgICAgIBAgECAg...
+[2024-07-25 15:21:44,641]121INFO-Processing frame 444
+[2024-07-25 15:21:44,641]144INFO-Array size: 921600
+[2024-07-25 15:21:44,641]145INFO-Expected size: 2764800
+[2024-07-25 15:21:44,641]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:44,641]212ERROR-Error processing frame 444: Size of the image data does not match the expected size
+[2024-07-25 15:21:44,814]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgMDAgICAgICAgICAgICAgICAgICAgICAgEBAgICAgICAgIBAQEBAQEBAQICAgICAQECAgICAg...
+[2024-07-25 15:21:44,814]121INFO-Processing frame 447
+[2024-07-25 15:21:44,814]144INFO-Array size: 921600
+[2024-07-25 15:21:44,814]145INFO-Expected size: 2764800
+[2024-07-25 15:21:44,814]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:44,814]212ERROR-Error processing frame 447: Size of the image data does not match the expected size
+[2024-07-25 15:21:45,079]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAwICAgICAgICAQEBAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:45,079]121INFO-Processing frame 450
+[2024-07-25 15:21:45,085]144INFO-Array size: 921600
+[2024-07-25 15:21:45,085]145INFO-Expected size: 2764800
+[2024-07-25 15:21:45,085]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:45,085]212ERROR-Error processing frame 450: Size of the image data does not match the expected size
+[2024-07-25 15:21:45,404]221INFO-Received data: {"frame":"AwMCAgICAwMCAgICAgICAgICAgICAgEBAQICAgICAgECAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:45,404]121INFO-Processing frame 453
+[2024-07-25 15:21:45,411]144INFO-Array size: 921600
+[2024-07-25 15:21:45,411]145INFO-Expected size: 2764800
+[2024-07-25 15:21:45,411]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:45,411]212ERROR-Error processing frame 453: Size of the image data does not match the expected size
+[2024-07-25 15:21:45,684]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBAQICAgICAgICAgICAw...
+[2024-07-25 15:21:45,684]121INFO-Processing frame 456
+[2024-07-25 15:21:45,691]144INFO-Array size: 921600
+[2024-07-25 15:21:45,691]145INFO-Expected size: 2764800
+[2024-07-25 15:21:45,691]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:45,691]212ERROR-Error processing frame 456: Size of the image data does not match the expected size
+[2024-07-25 15:21:45,877]221INFO-Received data: {"frame":"AgICAgICAgICAgICAgICAgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg...
+[2024-07-25 15:21:45,877]121INFO-Processing frame 459
+[2024-07-25 15:21:45,877]144INFO-Array size: 921600
+[2024-07-25 15:21:45,877]145INFO-Expected size: 2764800
+[2024-07-25 15:21:45,877]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:45,877]212ERROR-Error processing frame 459: Size of the image data does not match the expected size
+[2024-07-25 15:21:46,094]221INFO-Received data: {"frame":"AgICAgICAgMDAgMCAgICAgICAgICAwICAgICAgICAgICAgICAgICAgICAgICAgICAgIBAQECAgEBAgICAgICAgICAg...
+[2024-07-25 15:21:46,094]121INFO-Processing frame 462
+[2024-07-25 15:21:46,109]144INFO-Array size: 921600
+[2024-07-25 15:21:46,109]145INFO-Expected size: 2764800
+[2024-07-25 15:21:46,109]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:21:46,109]212ERROR-Error processing frame 462: Size of the image data does not match the expected size

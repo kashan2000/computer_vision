@@ -1,0 +1,921 @@
+[2024-07-24 15:16:54,059]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D15E5B6A0>
+[2024-07-24 15:16:55,972]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:16:55,978]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:16:56,376]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D16CE54E0>
+[2024-07-24 15:16:56,379]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:16:56,380]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:16:56,880]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2181F470>
+[2024-07-24 15:16:56,880]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:16:56,880]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:16:57,546]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2183D800>
+[2024-07-24 15:16:57,549]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:16:57,549]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:16:58,110]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2183DB70>
+[2024-07-24 15:16:58,119]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:16:58,120]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:16:58,675]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2183D8F0>
+[2024-07-24 15:16:58,691]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:16:58,691]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:16:59,359]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2183F060>
+[2024-07-24 15:16:59,364]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:16:59,364]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:00,092]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2183F8D0>
+[2024-07-24 15:17:00,108]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:00,109]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:00,509]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2186C7C0>
+[2024-07-24 15:17:00,517]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:00,517]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:01,238]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2186CD10>
+[2024-07-24 15:17:01,249]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:01,249]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:01,955]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2186D580>
+[2024-07-24 15:17:01,959]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:01,959]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:02,369]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2186DEE0>
+[2024-07-24 15:17:02,374]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:02,375]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:02,825]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2186F010>
+[2024-07-24 15:17:02,831]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:02,831]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:03,207]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2186FA60>
+[2024-07-24 15:17:03,216]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:03,216]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:03,510]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218AC3B0>
+[2024-07-24 15:17:03,519]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:03,519]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:04,277]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218ACE50>
+[2024-07-24 15:17:04,290]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:04,291]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:05,249]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218AD670>
+[2024-07-24 15:17:05,253]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:05,253]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:05,943]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218AE200>
+[2024-07-24 15:17:05,952]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:05,953]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:06,572]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218AE660>
+[2024-07-24 15:17:06,579]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:06,580]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:07,103]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218AF600>
+[2024-07-24 15:17:07,224]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:07,224]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:07,589]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218DC310>
+[2024-07-24 15:17:07,589]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:07,589]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:07,882]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218DCF40>
+[2024-07-24 15:17:07,886]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:07,886]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:08,249]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218DCF40>
+[2024-07-24 15:17:08,250]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:08,250]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:08,613]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218DDF80>
+[2024-07-24 15:17:08,614]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:08,617]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:09,122]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218DDF80>
+[2024-07-24 15:17:09,132]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:09,132]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:09,494]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D218DDF80>
+[2024-07-24 15:17:09,498]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:09,499]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:09,849]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D21910270>
+[2024-07-24 15:17:09,849]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:09,849]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:10,207]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D21910270>
+[2024-07-24 15:17:10,212]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:10,212]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:10,573]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D21910270>
+[2024-07-24 15:17:10,578]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:10,582]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:10,899]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D21910270>
+[2024-07-24 15:17:10,904]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:10,904]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:11,249]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D21910270>
+[2024-07-24 15:17:11,249]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:11,249]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:11,590]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219130B0>
+[2024-07-24 15:17:11,597]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:11,597]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:12,180]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D21948040>
+[2024-07-24 15:17:12,182]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:12,182]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:12,510]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219486D0>
+[2024-07-24 15:17:12,511]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:12,518]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:13,249]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219486D0>
+[2024-07-24 15:17:13,255]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:13,255]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:13,756]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D21949F30>
+[2024-07-24 15:17:13,767]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:13,768]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:14,309]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2194A4D0>
+[2024-07-24 15:17:14,315]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:14,315]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:14,661]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2194A4D0>
+[2024-07-24 15:17:14,665]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:14,665]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:15,029]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2194A4D0>
+[2024-07-24 15:17:15,037]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:15,039]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:15,539]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2197C360>
+[2024-07-24 15:17:15,550]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:15,555]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:15,881]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2197C360>
+[2024-07-24 15:17:15,892]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:15,895]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:16,264]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2197DD00>
+[2024-07-24 15:17:16,275]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:16,276]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:16,622]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2197DD00>
+[2024-07-24 15:17:16,627]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:16,629]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:16,977]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2197DD00>
+[2024-07-24 15:17:16,982]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:16,982]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:17,358]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2197F8D0>
+[2024-07-24 15:17:17,362]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:17,363]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:17,706]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219B8040>
+[2024-07-24 15:17:17,716]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:17,716]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:18,331]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219B9080>
+[2024-07-24 15:17:18,331]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:18,331]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:18,768]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219B9080>
+[2024-07-24 15:17:18,779]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:18,779]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:19,308]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219BA610>
+[2024-07-24 15:17:19,319]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:19,319]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:19,724]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219B9080>
+[2024-07-24 15:17:19,732]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:19,732]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:20,322]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219B9080>
+[2024-07-24 15:17:20,327]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:20,330]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:20,699]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219EC270>
+[2024-07-24 15:17:20,707]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:20,707]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:21,108]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219EC270>
+[2024-07-24 15:17:21,118]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:21,118]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:22,639]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219EDC10>
+[2024-07-24 15:17:22,649]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:22,649]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:24,679]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219EDC10>
+[2024-07-24 15:17:24,689]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:24,695]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:25,066]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219EDC10>
+[2024-07-24 15:17:25,075]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:25,082]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:25,485]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D219EF880>
+[2024-07-24 15:17:25,493]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:25,494]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:25,926]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D242204F0>
+[2024-07-24 15:17:25,934]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:25,935]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:28,890]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24220950>
+[2024-07-24 15:17:28,905]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:28,906]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:29,470]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24220F40>
+[2024-07-24 15:17:29,504]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:29,507]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:30,523]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24220F40>
+[2024-07-24 15:17:30,542]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:30,547]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:30,939]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24220F40>
+[2024-07-24 15:17:30,947]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:30,947]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:31,395]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24220F40>
+[2024-07-24 15:17:31,402]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:31,405]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:31,795]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2425C0E0>
+[2024-07-24 15:17:31,816]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:31,816]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:32,204]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2425C220>
+[2024-07-24 15:17:32,216]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:32,217]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:32,671]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2425D530>
+[2024-07-24 15:17:32,675]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:32,675]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:33,055]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2425DF80>
+[2024-07-24 15:17:33,124]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:33,126]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:33,475]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2425DF80>
+[2024-07-24 15:17:33,486]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:33,486]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:33,847]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2425DF80>
+[2024-07-24 15:17:33,854]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:33,855]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:34,286]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2425FA10>
+[2024-07-24 15:17:34,290]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:34,290]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:34,680]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24294C20>
+[2024-07-24 15:17:34,689]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:34,689]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:35,310]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24295350>
+[2024-07-24 15:17:35,314]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:35,316]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:35,787]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24295350>
+[2024-07-24 15:17:35,801]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:35,802]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:36,195]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24295350>
+[2024-07-24 15:17:36,198]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:36,200]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:36,644]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24295350>
+[2024-07-24 15:17:36,649]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:36,649]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:36,984]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24295350>
+[2024-07-24 15:17:36,989]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:36,990]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:37,361]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D242D4450>
+[2024-07-24 15:17:37,369]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:37,371]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:37,722]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D242D4270>
+[2024-07-24 15:17:37,727]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:37,731]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:38,207]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D242D4270>
+[2024-07-24 15:17:38,218]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:38,219]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:38,587]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D242D4270>
+[2024-07-24 15:17:38,601]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:38,601]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:39,007]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D242D4270>
+[2024-07-24 15:17:39,011]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:39,011]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:39,445]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D242D6390>
+[2024-07-24 15:17:39,465]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:39,467]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:39,859]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24308360>
+[2024-07-24 15:17:39,865]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:39,865]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:40,193]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24308360>
+[2024-07-24 15:17:40,202]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:40,203]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:40,543]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24308EF0>
+[2024-07-24 15:17:40,552]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:40,553]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:40,932]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24308EF0>
+[2024-07-24 15:17:40,943]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:40,944]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:41,376]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2430AE80>
+[2024-07-24 15:17:41,387]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:41,387]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:41,757]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2430AE80>
+[2024-07-24 15:17:41,762]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:41,762]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:42,125]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24344040>
+[2024-07-24 15:17:42,129]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:42,130]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:42,523]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24344A90>
+[2024-07-24 15:17:42,535]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:42,536]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:42,987]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24344A90>
+[2024-07-24 15:17:42,991]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:42,991]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:43,472]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24346390>
+[2024-07-24 15:17:43,475]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:43,475]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:43,968]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24346390>
+[2024-07-24 15:17:43,972]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:43,972]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:44,261]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24347330>
+[2024-07-24 15:17:44,267]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:44,268]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:44,592]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24374180>
+[2024-07-24 15:17:44,604]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:44,607]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:45,314]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24374180>
+[2024-07-24 15:17:45,327]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:45,327]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:45,721]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24375620>
+[2024-07-24 15:17:45,723]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:45,724]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:46,400]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24375620>
+[2024-07-24 15:17:46,403]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:46,404]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:46,908]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24375620>
+[2024-07-24 15:17:46,914]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:46,916]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:47,385]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D24375620>
+[2024-07-24 15:17:47,387]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:47,388]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:47,952]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243776F0>
+[2024-07-24 15:17:47,962]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:47,962]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:48,433]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243B0AE0>
+[2024-07-24 15:17:48,436]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:48,437]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:48,787]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243B0AE0>
+[2024-07-24 15:17:48,790]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:48,790]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:49,179]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243B1E90>
+[2024-07-24 15:17:49,184]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:49,184]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:49,568]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243B1E90>
+[2024-07-24 15:17:49,571]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:49,572]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:49,929]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243B1E90>
+[2024-07-24 15:17:49,933]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:49,934]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:50,215]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243B3D30>
+[2024-07-24 15:17:50,219]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:50,220]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:50,709]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243E88B0>
+[2024-07-24 15:17:50,712]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:50,712]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:51,117]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243E8EF0>
+[2024-07-24 15:17:51,122]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:51,123]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:51,486]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243E9C10>
+[2024-07-24 15:17:51,491]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:51,492]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:51,799]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243E9C10>
+[2024-07-24 15:17:51,804]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:51,804]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:52,144]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243EB100>
+[2024-07-24 15:17:52,148]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:52,148]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:52,484]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D243EBBA0>
+[2024-07-24 15:17:52,487]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:52,487]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:52,970]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27420040>
+[2024-07-24 15:17:52,973]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:52,974]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:53,407]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27420040>
+[2024-07-24 15:17:53,410]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:53,411]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:53,840]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27421850>
+[2024-07-24 15:17:53,844]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:53,846]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:54,182]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274224D0>
+[2024-07-24 15:17:54,186]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:54,186]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:54,721]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274224D0>
+[2024-07-24 15:17:54,726]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:54,726]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:55,293]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27423C90>
+[2024-07-24 15:17:55,297]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:55,297]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:55,792]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27460040>
+[2024-07-24 15:17:55,796]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:55,798]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:56,354]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27460A90>
+[2024-07-24 15:17:56,358]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:56,359]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:56,871]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27461800>
+[2024-07-24 15:17:56,876]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:56,877]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:57,588]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274622A0>
+[2024-07-24 15:17:57,592]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:57,593]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:58,191]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27462DE0>
+[2024-07-24 15:17:58,195]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:58,195]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:59,026]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274622A0>
+[2024-07-24 15:17:59,055]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:17:59,058]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:59,604]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274950D0>
+[2024-07-24 15:17:59,607]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:17:59,609]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:00,048]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274950D0>
+[2024-07-24 15:18:00,054]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:00,054]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:00,525]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274952B0>
+[2024-07-24 15:18:00,529]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:00,529]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:01,313]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27496700>
+[2024-07-24 15:18:01,321]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:01,323]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:01,892]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27496A20>
+[2024-07-24 15:18:01,898]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:01,899]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:02,275]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27496A20>
+[2024-07-24 15:18:02,277]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:02,278]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:02,701]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274C4130>
+[2024-07-24 15:18:02,704]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:02,704]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:03,354]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274C4130>
+[2024-07-24 15:18:03,367]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:03,368]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:03,944]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274C52B0>
+[2024-07-24 15:18:03,948]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:03,948]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:04,561]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274C60C0>
+[2024-07-24 15:18:04,564]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:04,564]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:05,350]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274C6520>
+[2024-07-24 15:18:05,362]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:05,365]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:05,953]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274C6520>
+[2024-07-24 15:18:05,960]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:05,961]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:06,371]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D274C7A60>
+[2024-07-24 15:18:06,374]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:06,374]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:06,719]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27500540>
+[2024-07-24 15:18:06,722]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:06,722]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:07,187]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27500540>
+[2024-07-24 15:18:07,191]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:07,192]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:07,553]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27501D00>
+[2024-07-24 15:18:07,557]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:07,557]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:07,970]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27501D00>
+[2024-07-24 15:18:07,974]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:07,974]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:08,371]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27501D00>
+[2024-07-24 15:18:08,384]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:08,387]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:08,743]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27501D00>
+[2024-07-24 15:18:08,747]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:08,748]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:09,504]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2753C950>
+[2024-07-24 15:18:09,513]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:09,518]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:09,980]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2753CE50>
+[2024-07-24 15:18:09,984]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:09,984]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:10,342]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2753C220>
+[2024-07-24 15:18:10,345]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:10,346]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:10,712]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2753E610>
+[2024-07-24 15:18:10,781]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:10,783]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:11,161]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2753E610>
+[2024-07-24 15:18:11,165]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:11,166]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:11,541]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2753E610>
+[2024-07-24 15:18:11,545]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:11,545]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:11,927]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27574360>
+[2024-07-24 15:18:11,938]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:11,940]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:12,336]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27574360>
+[2024-07-24 15:18:12,350]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:12,351]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:12,780]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27575B70>
+[2024-07-24 15:18:12,789]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:12,790]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:13,391]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275763E0>
+[2024-07-24 15:18:13,397]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:13,399]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:13,829]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27576D40>
+[2024-07-24 15:18:13,834]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:13,835]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:14,534]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D27576D40>
+[2024-07-24 15:18:14,539]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:14,541]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:14,953]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275AC5E0>
+[2024-07-24 15:18:14,958]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:14,959]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:15,510]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275AC5E0>
+[2024-07-24 15:18:15,517]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:15,521]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:16,071]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275AC5E0>
+[2024-07-24 15:18:16,076]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:16,076]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:16,407]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275ADD50>
+[2024-07-24 15:18:16,412]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:16,414]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:17,452]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275ADD50>
+[2024-07-24 15:18:17,473]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:17,476]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:17,967]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275ADD50>
+[2024-07-24 15:18:17,981]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:17,982]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:18,321]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275EC090>
+[2024-07-24 15:18:18,325]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:18,327]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:18,657]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275EC090>
+[2024-07-24 15:18:18,663]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:18,663]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:19,233]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275ED5D0>
+[2024-07-24 15:18:19,249]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:19,255]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:19,552]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275ED5D0>
+[2024-07-24 15:18:19,557]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:19,557]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:19,985]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275ED5D0>
+[2024-07-24 15:18:19,996]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:19,996]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:20,303]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275ED5D0>
+[2024-07-24 15:18:20,312]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:20,313]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:20,637]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D275EFB00>
+[2024-07-24 15:18:20,642]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:20,643]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:21,218]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A818AE0>
+[2024-07-24 15:18:21,227]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:21,227]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:21,721]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A818AE0>
+[2024-07-24 15:18:21,725]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:21,726]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:22,319]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A819F30>
+[2024-07-24 15:18:22,323]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:22,323]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:22,688]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A81A930>
+[2024-07-24 15:18:22,691]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:22,692]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:22,983]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A81B3D0>
+[2024-07-24 15:18:22,986]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:22,986]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:23,387]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A81B920>
+[2024-07-24 15:18:23,393]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:23,394]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:23,734]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A85C180>
+[2024-07-24 15:18:23,738]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:23,738]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:23,976]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A85CEA0>
+[2024-07-24 15:18:23,984]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:23,985]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:24,736]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A85DC10>
+[2024-07-24 15:18:24,745]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:24,746]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:25,208]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A85DC10>
+[2024-07-24 15:18:25,214]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:25,214]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:25,652]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A85DC10>
+[2024-07-24 15:18:25,657]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:25,657]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:26,007]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A85DC10>
+[2024-07-24 15:18:26,014]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:26,014]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:26,286]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A894040>
+[2024-07-24 15:18:26,290]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:26,290]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:26,700]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A895170>
+[2024-07-24 15:18:26,704]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:26,704]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:27,129]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A895990>
+[2024-07-24 15:18:27,132]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:27,133]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:27,419]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A896070>
+[2024-07-24 15:18:27,423]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:27,423]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:28,033]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A896C00>
+[2024-07-24 15:18:28,040]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:28,042]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:28,496]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A896C00>
+[2024-07-24 15:18:28,498]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:28,499]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:29,040]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8CC090>
+[2024-07-24 15:18:29,045]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:29,046]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:29,394]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8CC090>
+[2024-07-24 15:18:29,398]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:29,399]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:29,773]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8CDA80>
+[2024-07-24 15:18:29,776]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:29,776]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:30,174]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8CD620>
+[2024-07-24 15:18:30,178]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:30,178]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:30,610]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8CD620>
+[2024-07-24 15:18:30,613]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:30,613]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:31,019]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8CFBA0>
+[2024-07-24 15:18:31,022]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:31,022]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:31,451]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8FC450>
+[2024-07-24 15:18:31,454]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:31,454]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:31,866]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8FC450>
+[2024-07-24 15:18:31,870]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:31,870]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:32,267]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8FD850>
+[2024-07-24 15:18:32,270]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:32,270]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:32,830]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8FE160>
+[2024-07-24 15:18:32,834]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:32,834]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:33,242]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8FE160>
+[2024-07-24 15:18:33,245]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:33,245]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:33,619]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8FE160>
+[2024-07-24 15:18:33,627]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:33,630]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:34,049]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A8FF7E0>
+[2024-07-24 15:18:34,061]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:34,063]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:34,603]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A93C6D0>
+[2024-07-24 15:18:34,611]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:34,612]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:35,014]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A93C6D0>
+[2024-07-24 15:18:35,019]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:35,019]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:35,440]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A93C6D0>
+[2024-07-24 15:18:35,444]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:35,444]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:35,773]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A93E980>
+[2024-07-24 15:18:35,777]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:35,777]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:36,126]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A93F100>
+[2024-07-24 15:18:36,129]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:36,130]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:36,446]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A93F9C0>
+[2024-07-24 15:18:36,448]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:36,449]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:37,019]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A974130>
+[2024-07-24 15:18:37,023]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:37,023]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:37,486]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A974130>
+[2024-07-24 15:18:37,490]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:37,491]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:38,116]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A976070>
+[2024-07-24 15:18:38,126]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:38,128]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:38,644]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A976A70>
+[2024-07-24 15:18:38,648]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:38,649]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:39,403]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A976A70>
+[2024-07-24 15:18:39,412]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:39,413]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:39,970]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A977C40>
+[2024-07-24 15:18:39,975]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:39,976]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:40,308]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9B0770>
+[2024-07-24 15:18:40,314]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:40,314]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:40,683]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9B0DB0>
+[2024-07-24 15:18:40,687]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:40,688]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:41,017]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9B1850>
+[2024-07-24 15:18:41,021]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:41,021]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:41,332]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9B1850>
+[2024-07-24 15:18:41,336]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:41,336]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:41,653]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9B2CF0>
+[2024-07-24 15:18:41,656]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:41,657]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:42,042]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9B2CF0>
+[2024-07-24 15:18:42,054]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:42,055]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:42,483]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9DC4A0>
+[2024-07-24 15:18:42,486]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:42,486]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:43,002]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9DCDB0>
+[2024-07-24 15:18:43,051]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:43,052]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:43,469]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9DD990>
+[2024-07-24 15:18:43,474]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:43,476]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:43,858]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9DE6B0>
+[2024-07-24 15:18:43,864]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:43,864]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:44,416]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9DE6B0>
+[2024-07-24 15:18:44,445]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:44,446]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:45,057]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2A9DF600>
+[2024-07-24 15:18:45,068]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:45,069]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:45,509]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2D824450>
+[2024-07-24 15:18:45,522]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:45,523]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:45,946]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2D824450>
+[2024-07-24 15:18:45,952]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:45,953]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:46,415]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2D825670>
+[2024-07-24 15:18:46,419]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:46,419]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:46,781]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2D825D00>
+[2024-07-24 15:18:46,786]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:46,788]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:47,332]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2D826A20>
+[2024-07-24 15:18:47,336]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:47,336]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:18:47,754]137ERROR-Failed to open image: cannot identify image file <_io.BytesIO object at 0x0000015D2D827A10>
+[2024-07-24 15:18:47,758]54ERROR-An error occurred in object detection: axes don't match array
+[2024-07-24 15:18:47,758]107ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-24 15:19:08,003]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,159]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,188]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,355]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,462]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,472]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,666]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,743]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,850]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:08,904]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,023]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,164]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,206]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,396]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,543]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,588]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,624]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,644]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,754]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,910]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,947]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:09,987]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,176]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,255]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,293]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,398]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,586]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,621]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,712]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,759]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,805]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,900]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:10,916]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,024]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,153]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,200]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,288]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,428]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,462]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,500]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,541]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,582]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,832]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,871]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,925]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:11,973]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,193]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,273]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,310]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,353]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,382]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,533]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,599]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,732]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,766]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,831]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,872]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:12,937]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,131]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,174]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,271]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,363]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,439]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,486]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,595]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,881]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:13,944]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,166]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,203]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,239]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,283]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,309]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,324]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,395]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,583]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,603]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,774]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,811]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,849]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:14,946]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,004]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,015]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,283]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,345]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,455]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,529]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,624]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,779]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,787]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,792]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,952]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:15,985]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,101]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,258]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,298]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,358]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,411]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,430]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,447]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,688]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,697]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,935]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,941]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,981]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:16,989]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,028]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,412]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,421]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,461]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,469]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,631]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,693]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,701]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,711]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:17,972]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,082]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,143]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,253]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,261]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,331]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,425]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,579]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,626]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,673]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,749]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:18,795]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,012]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,025]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,205]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,358]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,390]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,451]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,461]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,544]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,605]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,838]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,961]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,970]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:19,979]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,086]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,178]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,202]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,294]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,329]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,346]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,605]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,615]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,623]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,651]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,683]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,761]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:20,980]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,017]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,100]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,223]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,255]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,296]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,348]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,400]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,652]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,834]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,900]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:21,971]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,046]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,079]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,158]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,423]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,455]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,505]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,589]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,617]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,740]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,749]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,760]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,848]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,972]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,978]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:22,986]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,294]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,363]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,385]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,446]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,500]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,510]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,715]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,872]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,940]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,957]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:23,974]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:24,271]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:24,365]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:24,397]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:24,585]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:24,595]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:24,710]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:24,755]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,047]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,089]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,165]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,326]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,373]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,383]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,498]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,509]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,645]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,763]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:25,839]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,009]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,021]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,030]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,041]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,275]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,369]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,401]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,412]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,711]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,721]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,790]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,801]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,818]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,827]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,867]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,879]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,889]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,898]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,908]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,918]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,927]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,937]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,945]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-24 15:19:26,953]205ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)

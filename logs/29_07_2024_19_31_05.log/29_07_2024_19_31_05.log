@@ -1,0 +1,488 @@
+[2024-07-29 19:31:33,934]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:33,934]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:33,978]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:34,243]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:34,243]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:34,248]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:34,321]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:34,322]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:34,327]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:34,408]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:34,408]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:34,413]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:34,582]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:34,582]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:34,591]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:34,762]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:34,762]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:34,766]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:34,812]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:34,813]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:34,816]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:34,918]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:34,918]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:34,925]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,047]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,048]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,050]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,178]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,179]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,189]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,267]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,267]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,273]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,330]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,330]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,334]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,395]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,396]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,402]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,525]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,525]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,534]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,592]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,592]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,595]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,782]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,782]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,785]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:35,962]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:35,963]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:35,971]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,146]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,147]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,151]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,236]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,237]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,241]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,353]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,353]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,360]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,414]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,414]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,418]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,540]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,540]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,550]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,624]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,624]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,627]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,784]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,784]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,792]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:36,836]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:36,836]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:36,838]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:37,047]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:37,047]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:37,050]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:37,255]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:37,255]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:37,260]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:37,405]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:37,406]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:37,413]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:37,516]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:37,517]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:37,520]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:37,607]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:37,607]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:37,612]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:37,765]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:37,765]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:37,768]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:37,839]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:37,839]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:37,844]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,145]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,146]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,151]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,296]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,297]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,302]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,399]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,399]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,401]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,495]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,496]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,501]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,630]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,632]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,636]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,776]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,776]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,783]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,846]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,846]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,850]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:38,940]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:38,940]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:38,946]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,071]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,071]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,075]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,140]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,141]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,143]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,253]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,253]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,261]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,420]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,420]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,426]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,590]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,591]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,596]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,736]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,736]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,741]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,787]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,787]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,789]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:39,972]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:39,972]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:39,981]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,190]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,191]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,197]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,258]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,259]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,261]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,333]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,333]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,337]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,447]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,447]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,451]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,628]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,628]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,635]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,694]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,694]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,697]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,808]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,810]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,817]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:40,933]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:40,933]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:40,938]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:41,075]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:41,076]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:41,083]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:41,218]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:41,218]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:41,222]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:41,406]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:41,406]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:41,411]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:41,485]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:41,485]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:41,490]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:41,654]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:41,654]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:41,657]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:41,764]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:41,764]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:41,769]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:41,928]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:41,928]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:41,931]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:42,135]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:42,135]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:42,141]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:42,343]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:42,343]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:42,351]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:42,427]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:42,427]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:42,433]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:42,553]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:42,554]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:42,566]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:42,750]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:42,750]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:42,757]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:42,829]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:42,829]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:42,834]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:42,904]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:42,905]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:42,911]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:43,112]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:43,113]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:43,119]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:43,295]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:43,296]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:43,305]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:43,386]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:43,386]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:43,395]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:43,542]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:43,543]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:43,550]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:43,733]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:43,733]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:43,738]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:43,911]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:43,911]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:43,920]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,089]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:44,089]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:44,095]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,252]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:44,253]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:44,258]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,325]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:44,327]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:44,338]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,452]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:44,453]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:44,464]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,520]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:44,520]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:44,528]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,656]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:44,656]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:44,668]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,824]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:44,825]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:44,833]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:44,997]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:45,055]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:45,062]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:45,146]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:45,147]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:45,155]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:45,268]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:45,268]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:45,276]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:45,351]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:45,351]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:45,359]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:45,514]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:45,515]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:45,522]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:45,673]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:45,674]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:45,681]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:45,841]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:45,841]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:45,847]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,008]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,009]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,016]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,178]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,178]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,182]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,381]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,382]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,390]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,500]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,501]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,507]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,601]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,602]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,613]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,694]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,695]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,703]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,765]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,765]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,772]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:46,918]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:46,918]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:46,923]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,028]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,028]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,038]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,150]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,150]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,155]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,221]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,222]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,228]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,398]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,398]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,402]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,571]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,572]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,580]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,666]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,666]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,676]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,761]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,762]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,766]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:47,911]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:47,912]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:47,919]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,004]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,004]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,037]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,237]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,238]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,244]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,323]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,324]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,330]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,394]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,394]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,398]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,528]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,528]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,536]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,624]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,624]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,627]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,726]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,726]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,731]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,889]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,890]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,898]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:48,966]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:48,967]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:48,970]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:49,106]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:49,107]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:49,115]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:49,234]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:49,235]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:49,243]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:49,328]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:49,328]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:49,337]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:49,535]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:49,536]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:49,542]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:49,643]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:49,644]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:49,649]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:49,743]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:49,743]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:49,754]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:49,842]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:49,842]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:49,852]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,030]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,030]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,035]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,121]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,121]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,125]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,220]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,220]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,224]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,404]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,405]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,413]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,496]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,496]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,508]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,581]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,583]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,589]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,785]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,785]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,790]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:50,956]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:50,956]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:50,963]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:51,017]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:51,017]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:51,021]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:51,298]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:51,298]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:51,303]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:51,467]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:51,468]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:51,470]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:51,663]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:51,663]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:51,671]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:51,810]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:51,810]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:51,815]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:51,998]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:51,999]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:52,004]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:52,186]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:52,186]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:52,190]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:52,368]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:52,368]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:52,375]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:52,517]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:52,518]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:52,523]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:52,706]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:52,706]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:52,713]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:52,794]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:52,794]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:52,800]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,017]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,017]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,024]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,232]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,232]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,238]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,328]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,329]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,334]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,436]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,437]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,456]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,563]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,565]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,600]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,702]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,703]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,739]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,850]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,850]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,856]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:53,918]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:53,918]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:53,933]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,044]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,044]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,051]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,137]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,137]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,150]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,236]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,236]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,245]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,362]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,365]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,378]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,469]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,469]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,478]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,610]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,613]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,625]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,705]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,710]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,719]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,808]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,809]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,818]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,881]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,881]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,892]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:54,953]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:54,954]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:54,975]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:55,045]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:55,046]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:55,054]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:55,183]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:55,183]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:55,188]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:55,471]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:55,472]274INFO-Expected dimensions: 720x480
+[2024-07-29 19:31:55,475]320ERROR-Error processing frame: name 'trigger_result' is not defined
+[2024-07-29 19:31:56,591]273INFO-Image dimensions: 720x480x3
+[2024-07-29 19:31:56,594]274INFO-Expected dimensions: 720x480

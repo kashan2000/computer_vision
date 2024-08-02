@@ -1,0 +1,2494 @@
+[2024-07-25 15:22:29,376]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,382]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,382]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,382]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,412]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,432]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,432]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,452]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,462]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,462]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,472]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:22:29,482]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:24:08,791]237ERROR-WebSocket connection closed: (<CloseCode.ABNORMAL_CLOSURE: 1006>, None)
+[2024-07-25 15:24:09,526]221INFO-Received data: {"frame":"jYyNjY6PkJGQkZKVkpKTk5OSk5SUlJWVlpeWlZaVl5eZl5iZmJmZmJqZmZqampmZmpqcm5qam5ybm5ucnJydnZ6fnZ...
+[2024-07-25 15:24:09,526]121INFO-Processing frame 3
+[2024-07-25 15:24:09,541]144INFO-Array size: 921600
+[2024-07-25 15:24:09,541]145INFO-Expected size: 921600
+[2024-07-25 15:24:09,541]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:09,695]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:15,639]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:15,654]203INFO-Request processing time: 6.11 seconds
+[2024-07-25 15:24:15,941]221INFO-Received data: {"frame":"a2xra2xsbGlnZmloZ2VnaWddTktFPzo6NjU3Mjg8PkNDQ0ZESEdDTU1NTVdlb3J0dHNwcG5rb3BtbWxrbW9tbmhjXF...
+[2024-07-25 15:24:15,944]121INFO-Processing frame 186
+[2024-07-25 15:24:15,947]144INFO-Array size: 921600
+[2024-07-25 15:24:15,948]145INFO-Expected size: 921600
+[2024-07-25 15:24:15,948]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:15,952]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:15,954]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:15,955]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:16,148]221INFO-Received data: {"frame":"amprampqbGtra2xubm5ubWxtbGxqZWFjZGRiYV9gX15fYGJlZ2doaGtramprbHBwcnJ1eHqBlrXf+P///fny6+vu9P...
+[2024-07-25 15:24:16,150]121INFO-Processing frame 192
+[2024-07-25 15:24:16,153]144INFO-Array size: 921600
+[2024-07-25 15:24:16,154]145INFO-Expected size: 921600
+[2024-07-25 15:24:16,154]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:16,160]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:16,178]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:16,184]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:24:16,449]221INFO-Received data: {"frame":"GRcYGhoaGhkYFhYWFhYWFhUWFhYWFRcXGRkXFxgZGRoaGhoZGx0cFxgUHUODqra1r6qkoqOlqq6wpZBrMgsNFhobHh...
+[2024-07-25 15:24:16,451]121INFO-Processing frame 198
+[2024-07-25 15:24:16,456]144INFO-Array size: 921600
+[2024-07-25 15:24:16,456]145INFO-Expected size: 921600
+[2024-07-25 15:24:16,456]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:16,463]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:16,484]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:16,485]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:24:16,808]221INFO-Received data: {"frame":"EA0OERISEhEREBAQERERERERERETEhMUExEQERMSEhIUEhISEhMSEhIRExIUFxYYFRgZGRkZFxYWFRUWFhYXFhUVFR...
+[2024-07-25 15:24:16,809]121INFO-Processing frame 204
+[2024-07-25 15:24:16,812]144INFO-Array size: 921600
+[2024-07-25 15:24:16,812]145INFO-Expected size: 921600
+[2024-07-25 15:24:16,812]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:16,815]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:16,818]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:16,819]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:17,167]221INFO-Received data: {"frame":"HSIgICMlIiIeGx0bHx8eHyUiHBcbHSAlIxwbGRsbGx0dHBwdHR4dICQiKSEhISAgHx8hISEhIyAgIiIhICYiGRwdlG...
+[2024-07-25 15:24:17,169]121INFO-Processing frame 210
+[2024-07-25 15:24:17,171]144INFO-Array size: 921600
+[2024-07-25 15:24:17,171]145INFO-Expected size: 921600
+[2024-07-25 15:24:17,171]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:17,175]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:17,176]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:17,177]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:17,503]221INFO-Received data: {"frame":"paWnp6enp6amp6inqKmoqampqKmpqampqquqqqqqq6utraysrKuOSC9qjY2XbyQ5eoeIiYV4gJu4sa+wsLCysrGxsr...
+[2024-07-25 15:24:17,504]121INFO-Processing frame 216
+[2024-07-25 15:24:17,506]144INFO-Array size: 921600
+[2024-07-25 15:24:17,506]145INFO-Expected size: 921600
+[2024-07-25 15:24:17,506]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:17,509]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:17,511]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:17,512]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:17,877]221INFO-Received data: {"frame":"p6akpqaoqaqqqampqaqqqqusq6qqqqqqrKytrKytraytrq6ura2vrq6vsbCwr6+vr7CxsbGvsLGxsrCxtLS0s7O0tL...
+[2024-07-25 15:24:17,878]121INFO-Processing frame 222
+[2024-07-25 15:24:17,880]144INFO-Array size: 921600
+[2024-07-25 15:24:17,880]145INFO-Expected size: 921600
+[2024-07-25 15:24:17,880]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:17,882]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:17,882]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:17,882]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:18,161]221INFO-Received data: {"frame":"p6enqKeoqaioqKmpp6eoqqurq6urq6usrK2sq6usrK2trq6ur6+vrq+vr7CwsLCwr6+zs6mZobG0s7OzsrO0s7S0s7...
+[2024-07-25 15:24:18,161]121INFO-Processing frame 228
+[2024-07-25 15:24:18,163]144INFO-Array size: 921600
+[2024-07-25 15:24:18,164]145INFO-Expected size: 921600
+[2024-07-25 15:24:18,164]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:18,167]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:18,169]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:18,170]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:18,425]221INFO-Received data: {"frame":"paWlpaiopqeop6anqKampaGjp6moqamoqaqSjqOsqqutrKqsrq2srKyrra2vsbCvsLCwsLGwr7CysK6xs7OwsK+vrL...
+[2024-07-25 15:24:18,427]121INFO-Processing frame 231
+[2024-07-25 15:24:18,430]144INFO-Array size: 921600
+[2024-07-25 15:24:18,430]145INFO-Expected size: 921600
+[2024-07-25 15:24:18,432]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:18,437]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:18,442]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:18,443]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:18,793]221INFO-Received data: {"frame":"paSkpqWmp6ajoqGjpaepq6qrqpuHna2vrayrq6urq6qqq6ysraytraytrq6vsLCwr6+ur6+wsLCwr6+wsLGwsbKysr...
+[2024-07-25 15:24:18,793]121INFO-Processing frame 237
+[2024-07-25 15:24:18,796]144INFO-Array size: 921600
+[2024-07-25 15:24:18,796]145INFO-Expected size: 921600
+[2024-07-25 15:24:18,796]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:18,800]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:18,801]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:18,802]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:19,047]221INFO-Received data: {"frame":"p6enqKioqKmqq6qoqKqqqaurqquqq6urqqqsrKytq5SUrrCwr6+urq+xsbCwr7CwsLCwsK+vr7CwsbKxsbGzs7O0tb...
+[2024-07-25 15:24:19,047]121INFO-Processing frame 240
+[2024-07-25 15:24:19,050]144INFO-Array size: 921600
+[2024-07-25 15:24:19,050]145INFO-Expected size: 921600
+[2024-07-25 15:24:19,050]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:19,054]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:19,056]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:19,057]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:19,390]221INFO-Received data: {"frame":"qaepqqmpqampq6yrq6qrrKurq6usraysrK2urq+vr62urq6urq+xsbCwr7CxsLCys7OwrrCxsrWokK24t7Szs7Gztb...
+[2024-07-25 15:24:19,391]121INFO-Processing frame 246
+[2024-07-25 15:24:19,393]144INFO-Array size: 921600
+[2024-07-25 15:24:19,393]145INFO-Expected size: 921600
+[2024-07-25 15:24:19,394]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:19,396]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:19,396]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:19,396]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:19,663]221INFO-Received data: {"frame":"qqqoqampqauqq62srKytra2tra2sra2urq+vra2tr66ur7CwsLGwr6+vsrWhiq2zs66xsrKztLSztLSyrLSxr7Cxsr...
+[2024-07-25 15:24:19,665]121INFO-Processing frame 249
+[2024-07-25 15:24:19,667]144INFO-Array size: 921600
+[2024-07-25 15:24:19,667]145INFO-Expected size: 921600
+[2024-07-25 15:24:19,668]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:19,672]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:19,674]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:19,674]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:19,901]221INFO-Received data: {"frame":"qqmpqqmqq6urq6uqqqusrq+vrayrq62urq2trK6vr6+wsK+xsrCvr6+wsbKzrnqYoryzsrOysbG4wbSvsbS1tLW0tL...
+[2024-07-25 15:24:19,901]121INFO-Processing frame 252
+[2024-07-25 15:24:19,901]144INFO-Array size: 921600
+[2024-07-25 15:24:19,901]145INFO-Expected size: 921600
+[2024-07-25 15:24:19,901]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:19,901]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:19,901]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:19,901]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:20,161]221INFO-Received data: {"frame":"p6mrq6uqqaqqq6uqqaqsrK2trKysrK2sra2sq6uurq+vr6+vr6+ur7GxsbCysbGzqI+mrq+xsrSysrO0tbW0tLS1tb...
+[2024-07-25 15:24:20,167]121INFO-Processing frame 255
+[2024-07-25 15:24:20,171]144INFO-Array size: 921600
+[2024-07-25 15:24:20,171]145INFO-Expected size: 921600
+[2024-07-25 15:24:20,171]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:20,174]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:20,182]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:20,182]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:20,507]221INFO-Received data: {"frame":"rKupqa6tq6uqqqurq6qnp6emqamopqepqampqaqqqqiqqqurq6usqqurq6usra6vr66trq6urq6vra2urq6xsbCxsb...
+[2024-07-25 15:24:20,515]121INFO-Processing frame 261
+[2024-07-25 15:24:20,515]144INFO-Array size: 921600
+[2024-07-25 15:24:20,515]145INFO-Expected size: 921600
+[2024-07-25 15:24:20,515]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:20,522]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:20,524]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:20,524]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:20,861]221INFO-Received data: {"frame":"oqKlpKWjo6Wmp6enp6emp6epqampqampqampqqqpqqqqq6urraytra2srK2trq2trq6ur6+vr7Gxs7S2trW0tLe2tr...
+[2024-07-25 15:24:20,876]121INFO-Processing frame 267
+[2024-07-25 15:24:20,876]144INFO-Array size: 921600
+[2024-07-25 15:24:20,876]145INFO-Expected size: 921600
+[2024-07-25 15:24:20,876]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:20,876]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:20,876]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:20,876]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:21,155]221INFO-Received data: {"frame":"s7O0tbW1tbW2tbW2tra2tra3t7e2t7e4uLi5ubm5urm4ur2+v7+/vb+/v7+/v7+/v7/AwMDAwcHAwcLCvbq5v8HBwc...
+[2024-07-25 15:24:21,155]121INFO-Processing frame 273
+[2024-07-25 15:24:21,155]144INFO-Array size: 921600
+[2024-07-25 15:24:21,155]145INFO-Expected size: 921600
+[2024-07-25 15:24:21,155]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:21,155]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:21,155]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:21,155]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:21,401]221INFO-Received data: {"frame":"s7Ozs7Ozs7Ozs7S0tLW1tbW2trW1tra2t7a2tre4uLi5uLm5ubm6ubq5urq6uru8u7q7vb6/wMHBwcHBwcHCwsHCw8...
+[2024-07-25 15:24:21,408]121INFO-Processing frame 276
+[2024-07-25 15:24:21,411]144INFO-Array size: 921600
+[2024-07-25 15:24:21,411]145INFO-Expected size: 921600
+[2024-07-25 15:24:21,411]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:21,414]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:21,418]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:21,419]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:21,741]221INFO-Received data: {"frame":"s7OztLS0tbW1tbW2tbW2t7a3tre3tre4t7e3uLm5ubm5ubi4ubm6urq6u7u7vLy8vLu8vb/AxMLCwsPDwsLDxMLDw8...
+[2024-07-25 15:24:21,742]121INFO-Processing frame 282
+[2024-07-25 15:24:21,744]144INFO-Array size: 921600
+[2024-07-25 15:24:21,745]145INFO-Expected size: 921600
+[2024-07-25 15:24:21,745]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:21,748]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:21,749]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:21,750]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:22,096]221INFO-Received data: {"frame":"tLW1tba3tre2tre3t7e3tri5ubi5ubm5ubm5urq6urq6u7u8u7u8vLy7vb29vr6+vr++vb+/v8DAwMHDw8TExcTFxc...
+[2024-07-25 15:24:22,096]121INFO-Processing frame 288
+[2024-07-25 15:24:22,096]144INFO-Array size: 921600
+[2024-07-25 15:24:22,096]145INFO-Expected size: 921600
+[2024-07-25 15:24:22,096]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:22,096]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:22,111]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:22,111]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:22,444]221INFO-Received data: {"frame":"tba2t7i4uLm5uLm6urm6uru7uru7u7u8vL28vLq9vr28vLy9vsDBwcPCwsLDw8PDw8PExcXExMPExMTExMXFxsTAxM...
+[2024-07-25 15:24:22,444]121INFO-Processing frame 294
+[2024-07-25 15:24:22,444]144INFO-Array size: 921600
+[2024-07-25 15:24:22,444]145INFO-Expected size: 921600
+[2024-07-25 15:24:22,444]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:22,459]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:22,459]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:22,459]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:22,767]221INFO-Received data: {"frame":"uLi4uLi4uLm5ubi4uLq7u7q6u7y8vLy8vLy8vb29vr2+vb6/wMDCwsPDw8PDxMPDw8TFxcXFxcfGxsbGxsXFxMHDxM...
+[2024-07-25 15:24:22,768]121INFO-Processing frame 300
+[2024-07-25 15:24:22,771]144INFO-Array size: 921600
+[2024-07-25 15:24:22,771]145INFO-Expected size: 921600
+[2024-07-25 15:24:22,771]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:22,774]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:22,776]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:22,777]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:22,973]221INFO-Received data: {"frame":"uLi4uLi5ubm5ubm6urm5urq7vLu7u7y8vL6+vr29v76+v8HCw8PDw8PDw8PDxMTExcTExMXFxcXFxcfHv7/ExcXFxc...
+[2024-07-25 15:24:22,989]121INFO-Processing frame 303
+[2024-07-25 15:24:22,989]144INFO-Array size: 921600
+[2024-07-25 15:24:22,989]145INFO-Expected size: 921600
+[2024-07-25 15:24:22,989]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:22,989]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:22,989]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:22,989]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:23,301]221INFO-Received data: {"frame":"ubi4ubm5ubi5urm7u7q7u7y8vL28u7y8vb69vb29vr69vsXDw8PDxMTExMPDw8TFxcbFxcXFxsXGxsS/wMTFxcTFxM...
+[2024-07-25 15:24:23,301]121INFO-Processing frame 309
+[2024-07-25 15:24:23,301]144INFO-Array size: 921600
+[2024-07-25 15:24:23,301]145INFO-Expected size: 921600
+[2024-07-25 15:24:23,301]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:23,317]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:23,317]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:23,317]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:23,659]221INFO-Received data: {"frame":"uLm5uLi5ubq5uru7u7u7u7y8vby+vr6+vr6+vb+/wMLDw8PDw8PDw8TExMTFxcXFxsbFxcbGxcXDv8LExcXFxcXFxc...
+[2024-07-25 15:24:23,659]121INFO-Processing frame 315
+[2024-07-25 15:24:23,659]144INFO-Array size: 921600
+[2024-07-25 15:24:23,659]145INFO-Expected size: 921600
+[2024-07-25 15:24:23,659]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:23,659]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:23,675]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:23,675]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:23,967]221INFO-Received data: {"frame":"uLi3uLi5ubq6ubi6ubq7u7q7vLy8vLy9vb6+vr29vr6+vr/BwsPDxMPDw8TExMTExMXFxsbFxcXFxcbGxcDAxcXGxs...
+[2024-07-25 15:24:23,967]121INFO-Processing frame 321
+[2024-07-25 15:24:23,967]144INFO-Array size: 921600
+[2024-07-25 15:24:23,967]145INFO-Expected size: 921600
+[2024-07-25 15:24:23,967]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:23,967]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:23,967]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:23,967]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:24,279]221INFO-Received data: {"frame":"DgwUEgkUTcPlztre3L1HESOb2M7c6OWPDAgRDA8QEREQDxAPERAPDxAQEA4PEREREhISERAPDxEREBYODA0KCAQFBg...
+[2024-07-25 15:24:24,295]121INFO-Processing frame 324
+[2024-07-25 15:24:24,295]144INFO-Array size: 921600
+[2024-07-25 15:24:24,295]145INFO-Expected size: 921600
+[2024-07-25 15:24:24,295]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:24,295]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:24,311]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:24,311]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:24,594]221INFO-Received data: {"frame":"Y29+jJqbmZ2+6vnUlX9/gX97dGxjYF9dXFxbW1laWVlYWFlVVFVWVldXVFNTVFRWV1hYWFdXV1lZWFZWWVldY2Bmg5...
+[2024-07-25 15:24:24,594]121INFO-Processing frame 330
+[2024-07-25 15:24:24,609]144INFO-Array size: 921600
+[2024-07-25 15:24:24,609]145INFO-Expected size: 921600
+[2024-07-25 15:24:24,609]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:24,609]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:24,609]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:24,609]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:24,954]221INFO-Received data: {"frame":"VFNRU11jcoiWnsPzxIaRmZ+fnJWJc1VXWVdcXFlXVFZXVldXV1hYV1JMUFRWVlZWV1dVVVVVVVRUV1ZWVVRUVFZWVV...
+[2024-07-25 15:24:24,954]121INFO-Processing frame 336
+[2024-07-25 15:24:24,954]144INFO-Array size: 921600
+[2024-07-25 15:24:24,954]145INFO-Expected size: 921600
+[2024-07-25 15:24:24,954]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:24,969]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:24,969]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:24,969]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:25,219]221INFO-Received data: {"frame":"U1JTW1lbZGdvf6Tm8IBlYWZtdoSi0vyaUFNVU1BSVlZVVlhZVlRSUVJRU1RUU1FPUFFSUlBRVVVWVFBPTUxMTk5TUV...
+[2024-07-25 15:24:25,219]121INFO-Processing frame 342
+[2024-07-25 15:24:25,234]144INFO-Array size: 921600
+[2024-07-25 15:24:25,234]145INFO-Expected size: 921600
+[2024-07-25 15:24:25,234]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:25,234]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:25,234]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:25,234]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:25,547]221INFO-Received data: {"frame":"YmNkaGhZWFtWWF5cXF9iWVlWT01STlRWVlRSUFBSUVFRUVFSU1RRUFBRUVJUVVRTUU5LTlFQT09QUVFRUVNVU1FOUE...
+[2024-07-25 15:24:25,547]121INFO-Processing frame 348
+[2024-07-25 15:24:25,547]144INFO-Array size: 921600
+[2024-07-25 15:24:25,547]145INFO-Expected size: 921600
+[2024-07-25 15:24:25,547]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:25,547]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:25,547]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:25,547]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:25,781]221INFO-Received data: {"frame":"VVZWVVZjZGyBmYVXVU9YXGFlbXh5WFNXUlFQUVNTUVFSUVJUU1NSUlBPUFJTU1NRUVBRUVJQUFFQTk5OTU1PUFFSVF...
+[2024-07-25 15:24:25,781]121INFO-Processing frame 351
+[2024-07-25 15:24:25,797]144INFO-Array size: 921600
+[2024-07-25 15:24:25,797]145INFO-Expected size: 921600
+[2024-07-25 15:24:25,797]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:25,797]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:25,797]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:25,797]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:26,077]221INFO-Received data: {"frame":"UlBTU1JaYWCBwvP4+vr+/Pv8/v7+/fjwx3hUVlZZV1hYWFNWVVNSU1NTVFVUU1JSVFVWVFVWVVRUVFNTUVNVVVNSU1...
+[2024-07-25 15:24:26,077]121INFO-Processing frame 354
+[2024-07-25 15:24:26,077]144INFO-Array size: 921600
+[2024-07-25 15:24:26,077]145INFO-Expected size: 921600
+[2024-07-25 15:24:26,077]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:26,077]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:26,077]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:26,077]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:26,420]221INFO-Received data: {"frame":"UU5SVFVWVllfdp7Nx8Ti/sW4xsXDw8fJ5PupSFVZTk5QUVZUUlBPU1NRUFBTVVVTUlJRUlRUT05QUVBTUFNUU1FPUV...
+[2024-07-25 15:24:26,436]121INFO-Processing frame 360
+[2024-07-25 15:24:26,436]144INFO-Array size: 921600
+[2024-07-25 15:24:26,436]145INFO-Expected size: 921600
+[2024-07-25 15:24:26,436]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:26,436]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:26,436]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:26,436]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:26,737]221INFO-Received data: {"frame":"QkNGRUVEQ0NCQkRFR0ZFR0hHR0VDRERFREREREVHR0dGR0lKSklGREVISEZER0lISEdISUtKS0tMTEtMSUhISEdHR0...
+[2024-07-25 15:24:26,737]121INFO-Processing frame 366
+[2024-07-25 15:24:26,737]144INFO-Array size: 921600
+[2024-07-25 15:24:26,737]145INFO-Expected size: 921600
+[2024-07-25 15:24:26,737]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:26,743]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:26,743]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:26,743]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:26,968]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:26,968]121INFO-Processing frame 369
+[2024-07-25 15:24:26,983]144INFO-Array size: 921600
+[2024-07-25 15:24:26,983]145INFO-Expected size: 921600
+[2024-07-25 15:24:26,983]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:26,983]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:26,983]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:26,983]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:27,278]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:27,285]121INFO-Processing frame 375
+[2024-07-25 15:24:27,285]144INFO-Array size: 921600
+[2024-07-25 15:24:27,285]145INFO-Expected size: 921600
+[2024-07-25 15:24:27,285]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:27,292]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:27,292]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:27,292]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:27,574]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:27,574]121INFO-Processing frame 381
+[2024-07-25 15:24:27,574]144INFO-Array size: 921600
+[2024-07-25 15:24:27,574]145INFO-Expected size: 921600
+[2024-07-25 15:24:27,574]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:27,574]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:27,574]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:27,589]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:27,861]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:27,877]121INFO-Processing frame 387
+[2024-07-25 15:24:27,877]144INFO-Array size: 921600
+[2024-07-25 15:24:27,877]145INFO-Expected size: 921600
+[2024-07-25 15:24:27,877]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:27,877]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:27,877]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:27,877]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:28,196]221INFO-Received data: {"frame":"///////////////////////+//////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:28,196]121INFO-Processing frame 393
+[2024-07-25 15:24:28,196]144INFO-Array size: 921600
+[2024-07-25 15:24:28,196]145INFO-Expected size: 921600
+[2024-07-25 15:24:28,196]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:28,196]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:28,196]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:28,196]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:28,413]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:28,424]121INFO-Processing frame 396
+[2024-07-25 15:24:28,424]144INFO-Array size: 921600
+[2024-07-25 15:24:28,424]145INFO-Expected size: 921600
+[2024-07-25 15:24:28,424]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:28,424]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:28,424]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:28,439]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:28,696]221INFO-Received data: {"frame":"nZ6fnZuVmZmbmpianZ+hnpycn6GfnJudnJqZm5qYlJORjYmJiYqLjIyLioqKi4uMjpCVmZ2hp622vMLGy9DW2+Hm6+...
+[2024-07-25 15:24:28,696]121INFO-Processing frame 402
+[2024-07-25 15:24:28,712]144INFO-Array size: 921600
+[2024-07-25 15:24:28,712]145INFO-Expected size: 921600
+[2024-07-25 15:24:28,712]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:28,712]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:28,712]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:28,712]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:28,962]221INFO-Received data: {"frame":"npqYlpuen5+cnJmZmZucm5uam52enZ+gn5yamJeXlpiampWQi4qKi4yKiIiGg4KEh4mKi42QlZykq7O6wsnQ1tvd4e...
+[2024-07-25 15:24:28,962]121INFO-Processing frame 405
+[2024-07-25 15:24:28,962]144INFO-Array size: 921600
+[2024-07-25 15:24:28,962]145INFO-Expected size: 921600
+[2024-07-25 15:24:28,962]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:28,962]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:28,978]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:28,978]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:29,216]221INFO-Received data: {"frame":"lJOUlpaXl5mZmZqbl5qbmpyanJ+hoaGfn6KhnZudn6CenJ2dnZycm52foaGhoZ+enp6em5iVko+Mi4uJh4WEhYeHh4...
+[2024-07-25 15:24:29,216]121INFO-Processing frame 408
+[2024-07-25 15:24:29,216]144INFO-Array size: 921600
+[2024-07-25 15:24:29,216]145INFO-Expected size: 921600
+[2024-07-25 15:24:29,216]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:29,216]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:29,216]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:29,216]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:29,487]221INFO-Received data: {"frame":"kJGRkpKTlJWVlZaUkpOVmJmYmZSZnpycnJ2cn5uamZmbnp2Wl5ihn5ycnZ+gn6Cfn56enp2cm5ybmZaVlJSUlJKPiY...
+[2024-07-25 15:24:29,487]121INFO-Processing frame 414
+[2024-07-25 15:24:29,487]144INFO-Array size: 921600
+[2024-07-25 15:24:29,487]145INFO-Expected size: 921600
+[2024-07-25 15:24:29,487]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:29,502]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:29,502]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:29,502]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:29,717]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:29,717]121INFO-Processing frame 417
+[2024-07-25 15:24:29,717]144INFO-Array size: 921600
+[2024-07-25 15:24:29,717]145INFO-Expected size: 921600
+[2024-07-25 15:24:29,717]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:29,717]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:29,717]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:29,717]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:29,978]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:29,981]121INFO-Processing frame 420
+[2024-07-25 15:24:29,984]144INFO-Array size: 921600
+[2024-07-25 15:24:29,984]145INFO-Expected size: 921600
+[2024-07-25 15:24:29,985]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:29,991]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:29,993]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:29,993]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:30,276]221INFO-Received data: {"frame":"//////////////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:30,276]121INFO-Processing frame 426
+[2024-07-25 15:24:30,276]144INFO-Array size: 921600
+[2024-07-25 15:24:30,276]145INFO-Expected size: 921600
+[2024-07-25 15:24:30,276]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:30,276]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:30,291]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:30,291]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:30,623]221INFO-Received data: {"frame":"iIeHh4aHhoWDgoGBgYGEh4yOkJGTlpqgqK60t73CyM7U2d/k6u3w8vP19/j6/P3///////////////////////////...
+[2024-07-25 15:24:30,623]121INFO-Processing frame 432
+[2024-07-25 15:24:30,623]144INFO-Array size: 921600
+[2024-07-25 15:24:30,623]145INFO-Expected size: 921600
+[2024-07-25 15:24:30,623]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:30,638]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:30,638]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:30,638]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:30,943]221INFO-Received data: {"frame":"kpKPi4iHh4aEgoCAgYB/fHp6eXl3eH2ChoiMkZedpauws7q/xcnP1dzh5+vv8fP09/j6+/3///////////////////...
+[2024-07-25 15:24:30,943]121INFO-Processing frame 438
+[2024-07-25 15:24:30,943]144INFO-Array size: 921600
+[2024-07-25 15:24:30,943]145INFO-Expected size: 921600
+[2024-07-25 15:24:30,943]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:30,943]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:30,943]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:30,943]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:31,215]221INFO-Received data: {"frame":"fX6Bg4aKkZedoqius7a7wMfN1Nnd4OTn6u3x8/b5+/z+//////////////////////////////////////////////...
+[2024-07-25 15:24:31,215]121INFO-Processing frame 444
+[2024-07-25 15:24:31,215]144INFO-Array size: 921600
+[2024-07-25 15:24:31,215]145INFO-Expected size: 921600
+[2024-07-25 15:24:31,215]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:31,215]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:31,231]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:31,231]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:31,446]221INFO-Received data: {"frame":"kZGLh4yPjo2Kio2PkpOTkpCQjo2Nj5KUlZOSkY+NiYiHhoWFhYWDg4ODg4SGiIqKioySl56lq66ytru+wsXKz9TY29...
+[2024-07-25 15:24:31,453]121INFO-Processing frame 447
+[2024-07-25 15:24:31,453]144INFO-Array size: 921600
+[2024-07-25 15:24:31,453]145INFO-Expected size: 921600
+[2024-07-25 15:24:31,453]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:31,453]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:31,453]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:31,453]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:31,664]221INFO-Received data: {"frame":"hYSEhoiJiYiIiIqOjIyNjI2NjI2MjY6QkZGSkpGSlJGTkY+Qko6GkpSVlZWWl5aWl5eWl5eWlpeZl5ubmpqYlpaYmJ...
+[2024-07-25 15:24:31,666]121INFO-Processing frame 450
+[2024-07-25 15:24:31,667]144INFO-Array size: 921600
+[2024-07-25 15:24:31,667]145INFO-Expected size: 921600
+[2024-07-25 15:24:31,667]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:31,677]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:31,680]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:31,682]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:31,963]221INFO-Received data: {"frame":"iYuLjIqNj4+Oj5KSkpGQkZGSkpKTk5CRlJaWlZOSkZOWlpWRjoyNjYqIhoaFhIF/foCBgX99fX+ChIaJjpOZnKKosb...
+[2024-07-25 15:24:31,963]121INFO-Processing frame 456
+[2024-07-25 15:24:31,963]144INFO-Array size: 921600
+[2024-07-25 15:24:31,963]145INFO-Expected size: 921600
+[2024-07-25 15:24:31,963]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:31,978]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:31,978]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:31,978]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:32,249]221INFO-Received data: {"frame":"gX9+fHt6eXh2dHR1d3p+f4CBhYiLkZigqK60uL/Fy9DW2t3h5+ru8PT3+vz+//////////////////////////////...
+[2024-07-25 15:24:32,249]121INFO-Processing frame 462
+[2024-07-25 15:24:32,265]144INFO-Array size: 921600
+[2024-07-25 15:24:32,265]145INFO-Expected size: 921600
+[2024-07-25 15:24:32,265]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:32,265]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:32,265]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:32,265]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:32,612]221INFO-Received data: {"frame":"///////////////////////////////////////////////////////////+/v///////v////////////////////...
+[2024-07-25 15:24:32,612]121INFO-Processing frame 468
+[2024-07-25 15:24:32,612]144INFO-Array size: 921600
+[2024-07-25 15:24:32,612]145INFO-Expected size: 921600
+[2024-07-25 15:24:32,612]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:32,612]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:32,612]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:32,612]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:32,898]221INFO-Received data: {"frame":"/f39/f7+//////////////////////////////////////////////////////////////////////////////////...
+[2024-07-25 15:24:32,898]121INFO-Processing frame 474
+[2024-07-25 15:24:32,898]144INFO-Array size: 921600
+[2024-07-25 15:24:32,898]145INFO-Expected size: 921600
+[2024-07-25 15:24:32,898]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:32,913]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:32,913]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:32,913]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:33,118]221INFO-Received data: {"frame":"foF6foGDhoOChIWFh4SEhISFhoiGhYeIhIaFhYiIiIeKh4uKioqHhoqLioqKi42NjouGiYuMjYyMjIuMjI2PkpGQjo...
+[2024-07-25 15:24:33,119]121INFO-Processing frame 477
+[2024-07-25 15:24:33,122]144INFO-Array size: 921600
+[2024-07-25 15:24:33,122]145INFO-Expected size: 921600
+[2024-07-25 15:24:33,122]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:33,125]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:33,125]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:33,125]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:33,395]221INFO-Received data: {"frame":"aWxraWdlYmJjZGRjYGBgYFxdZGZlZWVmZ2hnZ2lqaWhoZ2dnaWpoaGprbGlub21saWtramtsbG1tbWxsbW1vbm5wcH...
+[2024-07-25 15:24:33,395]121INFO-Processing frame 480
+[2024-07-25 15:24:33,395]144INFO-Array size: 921600
+[2024-07-25 15:24:33,395]145INFO-Expected size: 921600
+[2024-07-25 15:24:33,395]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:33,395]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:33,395]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:33,395]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:33,614]221INFO-Received data: {"frame":"UVNTU1JSUlJTVFFSU1ZUVFRTUFBTVFRUVVVUVFVVU1JUVFNSU1RUU1RSUlNTUlJVWFdWV1VUV1ZXVlVWV1ZVWFlZWl...
+[2024-07-25 15:24:33,614]121INFO-Processing frame 483
+[2024-07-25 15:24:33,614]144INFO-Array size: 921600
+[2024-07-25 15:24:33,614]145INFO-Expected size: 921600
+[2024-07-25 15:24:33,614]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:33,628]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:33,631]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:33,632]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:33,974]221INFO-Received data: {"frame":"TlBRUlJTVVNPT1BRUlJPT01LTE5PUFBSUk9PUE1NTk5OUFNUVFRST09PUVJTUlVVU1JSUVNVWFZVUlBRUVBRUlJSUl...
+[2024-07-25 15:24:33,974]121INFO-Processing frame 489
+[2024-07-25 15:24:33,974]144INFO-Array size: 921600
+[2024-07-25 15:24:33,974]145INFO-Expected size: 921600
+[2024-07-25 15:24:33,974]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:33,974]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:33,974]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:33,974]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:34,216]221INFO-Received data: {"frame":"VVVUU1RST1FSTUxPT09TVVNSUVBQU1FSU1BRV1lXVlVWVlZWVlZTU1ZTVFRUU1RUVVNOTlFUVVZXVlVVVVNVVVVUVF...
+[2024-07-25 15:24:34,216]121INFO-Processing frame 495
+[2024-07-25 15:24:34,231]144INFO-Array size: 921600
+[2024-07-25 15:24:34,231]145INFO-Expected size: 921600
+[2024-07-25 15:24:34,231]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:34,236]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:34,237]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:34,237]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:34,530]221INFO-Received data: {"frame":"Xl1bW1tcXFxbW11cWVhaW1taW11cXV5fYGBgX19fXVxZW1xdXFtZWVpbXF5dXFpaWFpaXF1ZV1laWltbXFxdXV1dXV...
+[2024-07-25 15:24:34,530]121INFO-Processing frame 501
+[2024-07-25 15:24:34,530]144INFO-Array size: 921600
+[2024-07-25 15:24:34,530]145INFO-Expected size: 921600
+[2024-07-25 15:24:34,530]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:34,530]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:34,542]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:34,542]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:34,813]221INFO-Received data: {"frame":"WVhVVVVVV1lZWlhWVVRTVVdXVlRTVFVUVFVXVlZVVldXVlRVVFVUVFVTVFVWVVRUUVJTVFNUVVdZWFdYWFlZWFdXV1...
+[2024-07-25 15:24:34,813]121INFO-Processing frame 507
+[2024-07-25 15:24:34,813]144INFO-Array size: 921600
+[2024-07-25 15:24:34,813]145INFO-Expected size: 921600
+[2024-07-25 15:24:34,813]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:34,840]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:34,840]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:34,840]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:24:35,097]221INFO-Received data: {"frame":"TlBUVFNTUlJSUlFQTkxMTExOT1BPT1JTUk9QUFJTT01NTE9RUlJTVFNRUFBRU1NUU1RTUVFQT1FSUlRUUlRWUlJQUV...
+[2024-07-25 15:24:35,097]121INFO-Processing frame 513
+[2024-07-25 15:24:35,111]144INFO-Array size: 921600
+[2024-07-25 15:24:35,111]145INFO-Expected size: 921600
+[2024-07-25 15:24:35,111]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:35,111]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:35,111]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:35,118]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:35,433]221INFO-Received data: {"frame":"S0pLS0tLS0xNTk5OTU9OTk5OTk5OT01PT1FSUlNSUVBQT1FTVFJRUlNRUlJRUlBOT09PT05PUFJRUU5PUlNSUFBRUE...
+[2024-07-25 15:24:35,448]121INFO-Processing frame 519
+[2024-07-25 15:24:35,448]144INFO-Array size: 921600
+[2024-07-25 15:24:35,448]145INFO-Expected size: 921600
+[2024-07-25 15:24:35,448]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:35,448]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:35,448]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:35,448]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:35,715]221INFO-Received data: {"frame":"TU5NTExMTVBPT01MTU5PT01NTlBRUVBPUFJSUVBOTk9SUlRTUlNSUlNQUFBUVVJTUk9PUlNTUlBQUFBQUVFRU1RVVV...
+[2024-07-25 15:24:35,717]121INFO-Processing frame 525
+[2024-07-25 15:24:35,722]144INFO-Array size: 921600
+[2024-07-25 15:24:35,722]145INFO-Expected size: 921600
+[2024-07-25 15:24:35,722]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:35,731]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:35,736]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:35,738]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:35,994]221INFO-Received data: {"frame":"TU1PUVBPUVNSUlFTU1BRU1FQT05PUVBRUVJTVFJSUlFQTk5QUFFRUVFTUlNTVGJfT1JUU1JSUVFUUFBRUFJUUVBSU1...
+[2024-07-25 15:24:35,995]121INFO-Processing frame 528
+[2024-07-25 15:24:35,995]144INFO-Array size: 921600
+[2024-07-25 15:24:35,995]145INFO-Expected size: 921600
+[2024-07-25 15:24:35,995]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:35,995]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:35,995]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:35,995]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:36,213]221INFO-Received data: {"frame":"T09PTk5QUFBQUFFRUlJRUVFQUVJSU1NTT1BQT1BQUFJRTk9QUlJSUlJSU1NUVVVUVFZUU1NTUVJTU1RUVlZWVlZXVV...
+[2024-07-25 15:24:36,213]121INFO-Processing frame 531
+[2024-07-25 15:24:36,217]144INFO-Array size: 921600
+[2024-07-25 15:24:36,217]145INFO-Expected size: 921600
+[2024-07-25 15:24:36,217]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:36,222]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:36,226]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:36,226]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:36,536]221INFO-Received data: {"frame":"UlJSUVBQT09RUlFQUE9PUVFRUVBRUVBOT1NUUlJRT1BRUVFSUVBSUVBPUVJTU1BRUlJSUlFRUlJQT1FRUFBSU1RUVF...
+[2024-07-25 15:24:36,537]121INFO-Processing frame 534
+[2024-07-25 15:24:36,537]144INFO-Array size: 921600
+[2024-07-25 15:24:36,537]145INFO-Expected size: 921600
+[2024-07-25 15:24:36,537]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:36,545]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:36,551]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:36,551]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:36,841]221INFO-Received data: {"frame":"UlBRUE9NTU1LTFBRU1VWVFJPT1BRUU9RUlJQUFFPT1FTU1JTVFVUU1FUVFRTU1NUVFNRUlFTUE5QUlRTU1NTU1VVVV...
+[2024-07-25 15:24:36,843]121INFO-Processing frame 540
+[2024-07-25 15:24:36,843]144INFO-Array size: 921600
+[2024-07-25 15:24:36,843]145INFO-Expected size: 921600
+[2024-07-25 15:24:36,843]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:36,849]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:36,849]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:36,849]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:37,143]221INFO-Received data: {"frame":"UE5QUVFPTk5OTUtMTU5QUE5KS01QUE9QUVJQT1BQUFBSUlBPUFFSU1JUU1RUUlJUVVVWVVVUUlNTVFRTU1JQU1VXV1...
+[2024-07-25 15:24:37,147]121INFO-Processing frame 546
+[2024-07-25 15:24:37,149]144INFO-Array size: 921600
+[2024-07-25 15:24:37,149]145INFO-Expected size: 921600
+[2024-07-25 15:24:37,149]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:37,156]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:37,161]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:37,162]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:37,446]221INFO-Received data: {"frame":"UVBQUFBRUVFSUlJRTk5NTlBPUVFPTlBRUFFRUVBRU1JTU1FSU1NTU1JSUVBRUFJSU1RUU1NUUlNVVFJTVVVTUlBRVF...
+[2024-07-25 15:24:37,462]121INFO-Processing frame 552
+[2024-07-25 15:24:37,462]144INFO-Array size: 921600
+[2024-07-25 15:24:37,462]145INFO-Expected size: 921600
+[2024-07-25 15:24:37,462]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:37,462]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:37,473]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:37,474]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:37,672]221INFO-Received data: {"frame":"TVBSUVFSUlNUU1FRUlJSUU9OUVJRUFBRUlFSU1NSUVJSUlJTUlFPTlNTUVJSUlNSU1JTUlVUU1VYWFlZWFhYV1ZZXV...
+[2024-07-25 15:24:37,672]121INFO-Processing frame 555
+[2024-07-25 15:24:37,672]144INFO-Array size: 921600
+[2024-07-25 15:24:37,672]145INFO-Expected size: 921600
+[2024-07-25 15:24:37,672]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:37,687]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:37,687]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:37,687]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:37,965]221INFO-Received data: {"frame":"RkxNUFJSTk5QTExOUlNTUlJQTk9RUVBQUlNUUk1PU1NSUFJVVlRTVVVTU1NSUVJVVVVVVFVVVldZWVdWVlVVV1ZXWF...
+[2024-07-25 15:24:37,965]121INFO-Processing frame 561
+[2024-07-25 15:24:37,981]144INFO-Array size: 921600
+[2024-07-25 15:24:37,981]145INFO-Expected size: 921600
+[2024-07-25 15:24:37,981]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:37,981]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:37,981]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:37,981]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:38,190]221INFO-Received data: {"frame":"TU1NT09NTU1NTU5OT05MTE5NT1BPTk9RU1FNTlBSUlJTU1NTU1NTU1RTU1NTVlZUVVRVVVdYWFhXWFZXWlpbWllZWl...
+[2024-07-25 15:24:38,192]121INFO-Processing frame 564
+[2024-07-25 15:24:38,195]144INFO-Array size: 921600
+[2024-07-25 15:24:38,195]145INFO-Expected size: 921600
+[2024-07-25 15:24:38,195]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:38,208]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:38,212]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:38,217]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:38,507]221INFO-Received data: {"frame":"TkpOTk5RUVJSU1NPUFJUVVRTVFRWVVJSUU5PUVNUU1RVVFRUVFRVVlZUUU9QU1JSUVNXV1ZVVFZUT0tSVVhYV1dZWl...
+[2024-07-25 15:24:38,507]121INFO-Processing frame 570
+[2024-07-25 15:24:38,514]144INFO-Array size: 921600
+[2024-07-25 15:24:38,514]145INFO-Expected size: 921600
+[2024-07-25 15:24:38,514]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:38,514]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:38,514]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:38,514]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:38,846]221INFO-Received data: {"frame":"UU5QU1NRUVFSUlNSUlJRUVJSVFRTUU9RUlBQUlNUVVZWVFNUUlJUVFJTVFVWV1dVVVVVVlZXWFdWVVdUVFZYWFpaWF...
+[2024-07-25 15:24:38,862]121INFO-Processing frame 576
+[2024-07-25 15:24:38,862]144INFO-Array size: 921600
+[2024-07-25 15:24:38,862]145INFO-Expected size: 921600
+[2024-07-25 15:24:38,862]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:38,862]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:38,862]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:38,862]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:38,862]221INFO-Received data: ping...
+[2024-07-25 15:24:38,862]225ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 15:24:38,862]226ERROR-Received invalid JSON: ping...
+[2024-07-25 15:24:39,156]221INFO-Received data: {"frame":"VFJSUlJRUlJSUlFQUVFUU1NSU1RUVVZVUlJQUFNUVFVVVFZYV1dVVVRUVldWVlRUVVZUVFVVVFVYWFlaWVpbW1paW1...
+[2024-07-25 15:24:39,171]121INFO-Processing frame 582
+[2024-07-25 15:24:39,171]144INFO-Array size: 921600
+[2024-07-25 15:24:39,171]145INFO-Expected size: 921600
+[2024-07-25 15:24:39,171]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:39,171]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:39,171]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:39,171]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:39,447]221INFO-Received data: {"frame":"UlJTVVVUVVRSVVRUUlFRUVNTVFRUUlJTV1ZUUlNUU1NUU1NUVVVWVFVXWFZVVVVVVVVXVlVUVldWVlZWVlhWVVdaWl...
+[2024-07-25 15:24:39,449]121INFO-Processing frame 588
+[2024-07-25 15:24:39,452]144INFO-Array size: 921600
+[2024-07-25 15:24:39,452]145INFO-Expected size: 921600
+[2024-07-25 15:24:39,452]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:39,452]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:39,459]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:39,460]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:39,750]221INFO-Received data: {"frame":"T09RUlNTUlJTU1NTU1JSUlFPUVFRU1RTVVVVU1JUU1NTU1FUVVVWWFhXU1NVVFVWV1dYWFRTVFRTVlhYV1dXV1dWVV...
+[2024-07-25 15:24:39,750]121INFO-Processing frame 594
+[2024-07-25 15:24:39,757]144INFO-Array size: 921600
+[2024-07-25 15:24:39,757]145INFO-Expected size: 921600
+[2024-07-25 15:24:39,757]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:39,757]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:39,757]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:39,757]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:40,041]221INFO-Received data: {"frame":"Tk5OUVNUU1FRUE5QUlFRUlFTVFRUVFZVVFRUU1NSUVBTUlJUVlVWVlZWVVRUU1RWV1dWVlVUU1RWVlZVVlhWVVRUU1...
+[2024-07-25 15:24:40,042]121INFO-Processing frame 600
+[2024-07-25 15:24:40,045]144INFO-Array size: 921600
+[2024-07-25 15:24:40,045]145INFO-Expected size: 921600
+[2024-07-25 15:24:40,045]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:40,049]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:40,049]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:40,049]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:40,389]221INFO-Received data: {"frame":"T09MTlBQT1BRUlNSU1RUVFNRUVFQUFFQUVJUVFJTU1NUVlZUU1RVVVVVVFRTVFRXWFhSUVNUVlZWVVZWVlZVV1hYVV...
+[2024-07-25 15:24:40,389]121INFO-Processing frame 606
+[2024-07-25 15:24:40,389]144INFO-Array size: 921600
+[2024-07-25 15:24:40,389]145INFO-Expected size: 921600
+[2024-07-25 15:24:40,389]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:40,389]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:40,389]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:40,389]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:40,599]221INFO-Received data: {"frame":"VFNQT1BSU1RTVFRTU1JQUlBOUFJTUFFTU1NQU1RTU1JTVFVUVFRUU1ZXV1hVU1RVVlZWVlVWV1dXWFhXV1hYWlhWVl...
+[2024-07-25 15:24:40,601]121INFO-Processing frame 609
+[2024-07-25 15:24:40,605]144INFO-Array size: 921600
+[2024-07-25 15:24:40,605]145INFO-Expected size: 921600
+[2024-07-25 15:24:40,605]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:40,610]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:40,614]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:40,614]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:40,937]221INFO-Received data: {"frame":"UlFRUUtRUFJWVVVVVlVVVFNSUVFQUlJTVVVUVVRUUlFTUlJUVlVSUlNSVFRUVFdYWVpaWVdXV1dWVlZXV1dXWFlYVl...
+[2024-07-25 15:24:40,952]121INFO-Processing frame 615
+[2024-07-25 15:24:40,952]144INFO-Array size: 921600
+[2024-07-25 15:24:40,952]145INFO-Expected size: 921600
+[2024-07-25 15:24:40,952]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:40,959]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:40,960]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:40,960]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:41,224]221INFO-Received data: {"frame":"UlFRUlJRT01OUVFQT1BSUlJSUlRTUlFTVFNTVFVUVVZVVVVUU1RUUlFUVVVUVFZVUE5QVFhZWl1gZWVjY2hlXlhYWF...
+[2024-07-25 15:24:41,224]121INFO-Processing frame 621
+[2024-07-25 15:24:41,224]144INFO-Array size: 921600
+[2024-07-25 15:24:41,224]145INFO-Expected size: 921600
+[2024-07-25 15:24:41,224]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:41,224]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:41,224]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:41,224]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:41,450]221INFO-Received data: {"frame":"UFFQT09PUFBRUlRUVVVVVFNTVVRUVFNUVlZVVlZWVVRUVFRUVFRWVldXV1dWVlZWWVlWV1hWVldZWVlZWFhXWFlYWF...
+[2024-07-25 15:24:41,453]121INFO-Processing frame 624
+[2024-07-25 15:24:41,453]144INFO-Array size: 921600
+[2024-07-25 15:24:41,453]145INFO-Expected size: 921600
+[2024-07-25 15:24:41,453]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:41,473]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:41,478]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:41,481]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:24:41,803]221INFO-Received data: {"frame":"UlJSVFRTUVJTU1JRUVFRU1NUV1VUVFRVVlZVVFVUUlJUU1RUUlFQUFJRUlNRUVFSU1JSU1NTUVJVVFNUVVRWV1ZTU1...
+[2024-07-25 15:24:41,803]121INFO-Processing frame 630
+[2024-07-25 15:24:41,803]144INFO-Array size: 921600
+[2024-07-25 15:24:41,803]145INFO-Expected size: 921600
+[2024-07-25 15:24:41,803]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:41,803]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:41,819]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:41,819]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:42,126]221INFO-Received data: {"frame":"UFBQT1BQUVNVVFNRUFFNTVBSUVFQUVRVU1FSUU9RUFFUUlFPUFFUVVRUVVRRUVRUUlFSVFZWVVVVVVVVUVFRU1JUVl...
+[2024-07-25 15:24:42,126]121INFO-Processing frame 636
+[2024-07-25 15:24:42,126]144INFO-Array size: 921600
+[2024-07-25 15:24:42,126]145INFO-Expected size: 921600
+[2024-07-25 15:24:42,126]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:42,142]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:42,142]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:42,142]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:42,473]221INFO-Received data: {"frame":"U1NQUVBOTlFTU1NTUlJTUlFRUlVTUVBTVFZYV1RUVVRUU1JUU1NTVFNUVVVVVlRTUlNZWltZWlteWldXV1ZWWFhXVl...
+[2024-07-25 15:24:42,473]121INFO-Processing frame 642
+[2024-07-25 15:24:42,481]144INFO-Array size: 921600
+[2024-07-25 15:24:42,481]145INFO-Expected size: 921600
+[2024-07-25 15:24:42,481]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:42,494]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:42,501]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:42,501]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:24:42,752]221INFO-Received data: {"frame":"UU9OUE9QUE9PT1FRUFBQUlNRUVJSUFBRUlJSUlNXYGVkYl9cVVFVVlZTVVZVVVZXVVRVVVRWVlZUUlNUVVZXV1ZWV1...
+[2024-07-25 15:24:42,752]121INFO-Processing frame 648
+[2024-07-25 15:24:42,759]144INFO-Array size: 921600
+[2024-07-25 15:24:42,760]145INFO-Expected size: 921600
+[2024-07-25 15:24:42,760]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:42,766]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:42,772]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:42,772]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:43,014]221INFO-Received data: {"frame":"VVNTU1RVVVVTUVFSU1JQUVFQUVBSU1FSUlBQT1FSVFNTUk9PUFFRU1NTVFNTVFVTVFVUX2JkZ2lrbGZfWFRUU1RTVV...
+[2024-07-25 15:24:43,016]121INFO-Processing frame 651
+[2024-07-25 15:24:43,021]144INFO-Array size: 921600
+[2024-07-25 15:24:43,022]145INFO-Expected size: 921600
+[2024-07-25 15:24:43,022]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:43,030]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:43,040]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:43,041]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:24:43,357]221INFO-Received data: {"frame":"Tk1OUVFQTk1MT09QUFBQUVFPT09RUVBSUFBQUVNSUU9QUVNRUFBQUVNSUlJRUlNVVlZXV1RUU1VXVldXV1hZWFlYVl...
+[2024-07-25 15:24:43,357]121INFO-Processing frame 657
+[2024-07-25 15:24:43,357]144INFO-Array size: 921600
+[2024-07-25 15:24:43,357]145INFO-Expected size: 921600
+[2024-07-25 15:24:43,357]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:43,357]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:43,357]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:43,357]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:43,680]221INFO-Received data: {"frame":"TU1PT1BQUFBQUVJSUVBPUVJUU1NRUFBPUE9SUlBRUlNSUFBQU1RWXWBhYWNjZ2VjXlxYVlNUVldYWVlbXF5iYmFfX1...
+[2024-07-25 15:24:43,680]121INFO-Processing frame 663
+[2024-07-25 15:24:43,680]144INFO-Array size: 921600
+[2024-07-25 15:24:43,680]145INFO-Expected size: 921600
+[2024-07-25 15:24:43,680]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:43,696]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:43,696]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:43,696]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:43,901]221INFO-Received data: {"frame":"Xl5dX19fYmRjXllaZGtlWF9ZVVRSVFZVVFRUVFVWVFNVVVZWVlZXWVlXVlZXV1dXVVJVVlZWV1lcW1xcYWJcWl1eYW...
+[2024-07-25 15:24:43,901]121INFO-Processing frame 666
+[2024-07-25 15:24:43,901]144INFO-Array size: 921600
+[2024-07-25 15:24:43,901]145INFO-Expected size: 921600
+[2024-07-25 15:24:43,901]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:43,916]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:43,916]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:43,916]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:44,160]221INFO-Received data: {"frame":"VFZVQzA3OEZZX2lzfYaEeWRYXVxdX2JmamxucICQhGVdXl5gXl1bWltaWltcXFpYV1lZWltaXF1eXFpaWltcXFxdXV...
+[2024-07-25 15:24:44,160]121INFO-Processing frame 669
+[2024-07-25 15:24:44,160]144INFO-Array size: 921600
+[2024-07-25 15:24:44,160]145INFO-Expected size: 921600
+[2024-07-25 15:24:44,160]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:44,175]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:44,175]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:44,175]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:44,502]221INFO-Received data: {"frame":"z4BMVmJug5m83ufBYE9QVVZTVFRVVldYWFZXVldYWFVTU1RVV1ZVVVdXV1dYWFhYV1hbX15cWVpdXmFlaW1oYVhXXV...
+[2024-07-25 15:24:44,502]121INFO-Processing frame 675
+[2024-07-25 15:24:44,514]144INFO-Array size: 921600
+[2024-07-25 15:24:44,514]145INFO-Expected size: 921600
+[2024-07-25 15:24:44,514]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:44,514]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:44,521]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:44,521]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:44,806]221INFO-Received data: {"frame":"Tk5NS0tMTk1NTEtJSUhKTU9OSkpJS01OTk1MTExMTU1NTE5OTFJXWX286+bj39GIR1BWVlVWVlZXV1daVlFRUFRVTU...
+[2024-07-25 15:24:44,807]121INFO-Processing frame 681
+[2024-07-25 15:24:44,807]144INFO-Array size: 921600
+[2024-07-25 15:24:44,807]145INFO-Expected size: 921600
+[2024-07-25 15:24:44,807]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:44,813]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:44,813]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:44,813]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:45,133]221INFO-Received data: {"frame":"bIKktsTL0NXUzruaV1ZSTk9MTU5PT1BPUE9NTU5QT1BPTU1NTk1PUVJRVFNVVFNSUVJTU1NWVVlja2ldVllZWVhbWV...
+[2024-07-25 15:24:45,133]121INFO-Processing frame 687
+[2024-07-25 15:24:45,140]144INFO-Array size: 921600
+[2024-07-25 15:24:45,140]145INFO-Expected size: 921600
+[2024-07-25 15:24:45,140]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:45,140]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:45,146]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:45,148]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:45,378]221INFO-Received data: {"frame":"zcrQzsjFx9OiSU5TT01QUlNTUE5OT1FRUVBRUU9OTlBQUVJTU1NSUVJRU1VVVVZWVFRUVFVUV1pUXmuHxNjd2tTP0d...
+[2024-07-25 15:24:45,380]121INFO-Processing frame 690
+[2024-07-25 15:24:45,380]144INFO-Array size: 921600
+[2024-07-25 15:24:45,384]145INFO-Expected size: 921600
+[2024-07-25 15:24:45,384]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:45,392]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:45,393]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:45,393]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:45,660]221INFO-Received data: {"frame":"T09PT1BSUlFQT09QUU9PUFBNTVBQTk5PT0xMT09PUVJSUVJTVFNTUlFTU1VVV2Nue8P21s29VVFXVVRTVFRUUVRTU1...
+[2024-07-25 15:24:45,660]121INFO-Processing frame 696
+[2024-07-25 15:24:45,660]144INFO-Array size: 921600
+[2024-07-25 15:24:45,660]145INFO-Expected size: 921600
+[2024-07-25 15:24:45,660]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:45,667]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:45,667]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:45,674]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:45,906]221INFO-Received data: {"frame":"U1JQUVJRUVFRUVBPTU5OTk9PUFJPTU9QUVBQUFFSU1JNTVJUU1FPUVNRUVBQUlNTUFJTU1VXV1Zlb53o8vPmnERUVV...
+[2024-07-25 15:24:45,906]121INFO-Processing frame 699
+[2024-07-25 15:24:45,911]144INFO-Array size: 921600
+[2024-07-25 15:24:45,911]145INFO-Expected size: 921600
+[2024-07-25 15:24:45,911]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:45,912]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:45,919]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:45,919]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:46,209]221INFO-Received data: {"frame":"3OK6b2Saz79fQ1hTT09NTU5PUE5RU1NTUFBQUE9QUFBNTU5QUVJQUE9QU1NSVFRTUVNXVGKK0+3Zip/j4ODf4OHh4N...
+[2024-07-25 15:24:46,209]121INFO-Processing frame 705
+[2024-07-25 15:24:46,209]144INFO-Array size: 921600
+[2024-07-25 15:24:46,209]145INFO-Expected size: 921600
+[2024-07-25 15:24:46,209]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:46,217]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:46,217]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:46,222]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:46,467]221INFO-Received data: {"frame":"Tk5QT1FQUFBQUFFSUlNTU1BOTlFNVVtrfm1HUlVVUlBPTk9RUlJSU1NSUlJSU1RUVFNTVFRVVFRWV1dYWllgaYXP/9...
+[2024-07-25 15:24:46,467]121INFO-Processing frame 711
+[2024-07-25 15:24:46,474]144INFO-Array size: 921600
+[2024-07-25 15:24:46,474]145INFO-Expected size: 921600
+[2024-07-25 15:24:46,474]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:46,481]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:46,481]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:46,481]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:46,724]221INFO-Received data: {"frame":"KS02QUVIT1FNTU5PTk1RUlFTU1NRTkpSV1laVl9wtuzVY0pWU1RSU1RTVFRUVVVUVFRUVFNTVFVVVVVWVldWWFdYWF...
+[2024-07-25 15:24:46,724]121INFO-Processing frame 714
+[2024-07-25 15:24:46,731]144INFO-Array size: 921600
+[2024-07-25 15:24:46,731]145INFO-Expected size: 921600
+[2024-07-25 15:24:46,731]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:46,739]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:46,758]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:46,787]203INFO-Request processing time: 0.06 seconds
+[2024-07-25 15:24:47,045]221INFO-Received data: {"frame":"Iig8SVJSUlBNUk9MbWlTVlJohlJQUWOhnn5OTVJTUVBQUFBRUFBQUFBRUVFRUVJSUlNUVFZXUVBTVFRUVVNSY3iIl5...
+[2024-07-25 15:24:47,046]121INFO-Processing frame 720
+[2024-07-25 15:24:47,049]144INFO-Array size: 921600
+[2024-07-25 15:24:47,050]145INFO-Expected size: 921600
+[2024-07-25 15:24:47,050]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:47,054]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:47,056]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:47,057]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:47,337]221INFO-Received data: {"frame":"U1JSUVFTa5jJ2eTq7ezn4+Hh4+bq7Ojgv4hHTFNVUlRTWn3U7u3BiVhQT1FTUlVVUExWXV1bWV1jZU9SUVBSUlBPTk...
+[2024-07-25 15:24:47,338]121INFO-Processing frame 726
+[2024-07-25 15:24:47,342]144INFO-Array size: 921600
+[2024-07-25 15:24:47,342]145INFO-Expected size: 921600
+[2024-07-25 15:24:47,343]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:47,348]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:47,351]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:47,351]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:47,594]221INFO-Received data: {"frame":"s7WuopKKhHxtWU1QUlJTUU9PTk1KSUlKS0tLS01NTktISEpLSEdLS0pMTlFjcHdzampiV1FMTExISldTUVBOTU1NTU...
+[2024-07-25 15:24:47,594]121INFO-Processing frame 729
+[2024-07-25 15:24:47,610]144INFO-Array size: 921600
+[2024-07-25 15:24:47,610]145INFO-Expected size: 921600
+[2024-07-25 15:24:47,610]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:47,610]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:47,610]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:47,610]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:47,903]221INFO-Received data: {"frame":"TUtKSUpKS0pKSkxMTEpKTExNTE5OTk5OTU1PT1BQUE9RT1JkXk5UiXBSWltWUlJQUlReYFlVU1RTVFVXVVZbaszc49...
+[2024-07-25 15:24:47,903]121INFO-Processing frame 735
+[2024-07-25 15:24:47,903]144INFO-Array size: 921600
+[2024-07-25 15:24:47,903]145INFO-Expected size: 921600
+[2024-07-25 15:24:47,903]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:47,903]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:47,903]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:47,903]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:48,103]221INFO-Received data: {"frame":"UVBPT1BZWVldX3+80sfBv8LHztPW1s67gWBZVVFRUE5PT1BQUFBQT1BRUE5OUFFSUU9QU1JQU1VVVFNUVVZWV1ZXVV...
+[2024-07-25 15:24:48,103]121INFO-Processing frame 738
+[2024-07-25 15:24:48,103]144INFO-Array size: 921600
+[2024-07-25 15:24:48,103]145INFO-Expected size: 921600
+[2024-07-25 15:24:48,103]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:48,118]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:48,118]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:48,118]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:48,403]221INFO-Received data: {"frame":"lFFFSkxSUVNST1NTVVtyrNzT0ce+u7e2trW4n0NRXVZTUE1JTk5NT1BRT05RUlJTU1JQT1FTU1RVVVRRUlNUVFRUUl...
+[2024-07-25 15:24:48,403]121INFO-Processing frame 744
+[2024-07-25 15:24:48,410]144INFO-Array size: 921600
+[2024-07-25 15:24:48,410]145INFO-Expected size: 921600
+[2024-07-25 15:24:48,410]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:48,410]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:48,410]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:48,417]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:48,730]221INFO-Received data: {"frame":"UVFSUVJXWXJ1d32Bh5CcprS6sVhOSkpPUlBPT1FRUVBNTU1OT1BQUE9NUFFSVFRST05RVFRTUlBRU1JSVFVUU1NSU1...
+[2024-07-25 15:24:48,730]121INFO-Processing frame 750
+[2024-07-25 15:24:48,737]144INFO-Array size: 921600
+[2024-07-25 15:24:48,737]145INFO-Expected size: 921600
+[2024-07-25 15:24:48,737]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:48,737]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:48,743]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:48,743]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:48,983]221INFO-Received data: {"frame":"Tk5RT0xSYIG+1eHj29DAsp2LcmBBTFFRUk9QUVBPT1FSUVJSUFFPTlBQUVJSUVFQT09RUU1NT1BRU1VWV1dVVlZXWV...
+[2024-07-25 15:24:48,983]121INFO-Processing frame 753
+[2024-07-25 15:24:48,990]144INFO-Array size: 921600
+[2024-07-25 15:24:48,990]145INFO-Expected size: 921600
+[2024-07-25 15:24:48,990]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:48,995]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:48,998]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:48,998]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:49,258]221INFO-Received data: {"frame":"SElIRkVFR0lOTlBPUlNNXYqirq+sppqPiY2XnZ6PeWlWSENOUlJPTk5SU1NQT1FSUlJRUlFQU1NSVFNSU1NQUVJQVV...
+[2024-07-25 15:24:49,258]121INFO-Processing frame 759
+[2024-07-25 15:24:49,274]144INFO-Array size: 921600
+[2024-07-25 15:24:49,274]145INFO-Expected size: 921600
+[2024-07-25 15:24:49,274]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:49,274]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:49,274]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:49,274]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:49,480]221INFO-Received data: {"frame":"V1FPUExMSj0vLS01PEBNTE9LTk9NTk1PUVNUVGeNwtjZyMLEzNXb1Lh3S05VV1VSTk9QT1BSVVVSUlBQUFFSU1JRUV...
+[2024-07-25 15:24:49,480]121INFO-Processing frame 762
+[2024-07-25 15:24:49,480]144INFO-Array size: 921600
+[2024-07-25 15:24:49,480]145INFO-Expected size: 921600
+[2024-07-25 15:24:49,480]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:49,480]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:49,480]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:49,480]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:49,764]221INFO-Received data: {"frame":"VVZYaZ3c8XZDSjkvMTA1QFBOTU5PTkxOT1RTU1VYYWN1rsDGw7ysnIiQn5ltUEtUU09TU1NVV1ZVVlVVVFNSUlNVUV...
+[2024-07-25 15:24:49,764]121INFO-Processing frame 768
+[2024-07-25 15:24:49,764]144INFO-Array size: 921600
+[2024-07-25 15:24:49,764]145INFO-Expected size: 921600
+[2024-07-25 15:24:49,764]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:49,764]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:49,780]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:49,780]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:50,110]221INFO-Received data: {"frame":"VlZUUU9NS0UoHCUuPkVRUEpMTU1MTU1PUlFWU150td7Fs63F4NnT2eLjyF9LUVVVU1JSU1NUU1FPUFBRUlBTVVZXWl...
+[2024-07-25 15:24:50,110]121INFO-Processing frame 774
+[2024-07-25 15:24:50,110]144INFO-Array size: 921600
+[2024-07-25 15:24:50,110]145INFO-Expected size: 921600
+[2024-07-25 15:24:50,110]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:50,110]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:50,110]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:50,110]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:50,461]221INFO-Received data: {"frame":"wtDg59dzT1VSTk5QSjcdJS0wRFBQTE9QUVJRTlFSUlRSVWJ9uNPl7O/v6ePZy6uWTExUVVRVU1JTU1NSUFBPUlNTUl...
+[2024-07-25 15:24:50,461]121INFO-Processing frame 780
+[2024-07-25 15:24:50,461]144INFO-Array size: 921600
+[2024-07-25 15:24:50,461]145INFO-Expected size: 921600
+[2024-07-25 15:24:50,461]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:50,477]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:50,477]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:50,477]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:50,809]221INFO-Received data: {"frame":"UlBQUE9OTlFQWXqs+M49S0YwHiYtMjxKSEtNT1FQUE5RUlFRSUtNZ8O7d1iV48uEdonlxDtOVExWV1RTUlRWVlRVVF...
+[2024-07-25 15:24:50,810]121INFO-Processing frame 786
+[2024-07-25 15:24:50,813]144INFO-Array size: 921600
+[2024-07-25 15:24:50,813]145INFO-Expected size: 921600
+[2024-07-25 15:24:50,813]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:50,816]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:50,818]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:50,818]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:51,079]221INFO-Received data: {"frame":"UFBSU1VVVFRZaIrB/sNFTkYoKS43PEZVV05QTk5PUVJRU1VZXGBmbm9sZVxVW3OisKyDXk5STlJWVlZVVFRSU1VVU1...
+[2024-07-25 15:24:51,079]121INFO-Processing frame 792
+[2024-07-25 15:24:51,084]144INFO-Array size: 921600
+[2024-07-25 15:24:51,084]145INFO-Expected size: 921600
+[2024-07-25 15:24:51,084]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:51,092]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:51,093]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:51,093]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:51,377]221INFO-Received data: {"frame":"VVFQUFBXXmiV0PuvP05DNTc6LDJBS1FTUE9KSU5QU1ZaXWBfgMPg6O7x7OHMuqiZgE9HU1FOT1FTUlFSUlNTU1VXVl...
+[2024-07-25 15:24:51,377]121INFO-Processing frame 798
+[2024-07-25 15:24:51,383]144INFO-Array size: 921600
+[2024-07-25 15:24:51,384]145INFO-Expected size: 921600
+[2024-07-25 15:24:51,384]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:51,386]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:51,391]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:51,392]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:51,716]221INFO-Received data: {"frame":"9/jx4plUTUpck45TTk04JygsNj9ITE9JSkdNT09STlBRVl1flcXErYJ+g4ycqr7Hy31RXFlWUlRVVFRVU1JUVFNUU1...
+[2024-07-25 15:24:51,722]121INFO-Processing frame 804
+[2024-07-25 15:24:51,724]144INFO-Array size: 921600
+[2024-07-25 15:24:51,724]145INFO-Expected size: 921600
+[2024-07-25 15:24:51,724]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:51,730]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:51,730]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:51,730]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:51,962]221INFO-Received data: {"frame":"3+/6++u8V0hQTk5PUE1EOiUnKTZTYIaUT1JTU1FTUlNRUlRYV12ezuO+i3dqZWl9tOeoQk9VVFBSUlFRUVBQUVBQUE...
+[2024-07-25 15:24:51,964]121INFO-Processing frame 810
+[2024-07-25 15:24:51,966]144INFO-Array size: 921600
+[2024-07-25 15:24:51,966]145INFO-Expected size: 921600
+[2024-07-25 15:24:51,966]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:51,974]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:51,980]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:51,980]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:52,264]221INFO-Received data: {"frame":"VlhUWq/S4d6BW3Om5evWVEpSUU1GRUlEKyUhJTpHSkZQU1JSU1NUVFNQV2BogLDI5eLk6O3u3LVeRklGSlNTUVNVVV...
+[2024-07-25 15:24:52,265]121INFO-Processing frame 816
+[2024-07-25 15:24:52,265]144INFO-Array size: 921600
+[2024-07-25 15:24:52,265]145INFO-Expected size: 921600
+[2024-07-25 15:24:52,265]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:52,272]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:52,272]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:52,272]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:52,487]221INFO-Received data: {"frame":"o6rc8Pz++/S5YUdLSUVERUdFNywrLjAyNTpARk5RT09OSVFVVVZda6nE1siScmNmcXyLl4d1XVlZW1ZRUFFSUFJUVV...
+[2024-07-25 15:24:52,487]121INFO-Processing frame 819
+[2024-07-25 15:24:52,487]144INFO-Array size: 921600
+[2024-07-25 15:24:52,493]145INFO-Expected size: 921600
+[2024-07-25 15:24:52,493]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:52,494]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:52,502]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:52,502]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:52,764]221INFO-Received data: {"frame":"1vT8+/v5sV5HTkxHQj9EQiolMDM1OD5ESU1QT0xNTlBUVVhZW2CV1NfUpodxZ2hwfYh8VFRcVVNRUE9OUFNUVlVUU1...
+[2024-07-25 15:24:52,764]121INFO-Processing frame 825
+[2024-07-25 15:24:52,764]144INFO-Array size: 921600
+[2024-07-25 15:24:52,764]145INFO-Expected size: 921600
+[2024-07-25 15:24:52,764]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:52,780]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:52,780]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:52,780]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:53,126]221INFO-Received data: {"frame":"R0lHR0hJSUlLTE1NSktMSUpDPURWXHe41JRXZHSCk6K40ebMVEJQUVBPTU5RUU9MTU1NTU1MTExOUFBOTVBQUFFRU1...
+[2024-07-25 15:24:53,126]121INFO-Processing frame 831
+[2024-07-25 15:24:53,126]144INFO-Array size: 921600
+[2024-07-25 15:24:53,126]145INFO-Expected size: 921600
+[2024-07-25 15:24:53,126]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:53,133]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:53,133]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:53,133]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:53,404]221INFO-Received data: {"frame":"S1BRVFRUUlRVU1BNS0tLS0xMTUxMUl9ugJFjO0pMTUpMTVBQTkxMTE1NUE9PT09PTk9OTlBRUE1QUVNTUk1PUE5YVV...
+[2024-07-25 15:24:53,410]121INFO-Processing frame 837
+[2024-07-25 15:24:53,411]144INFO-Array size: 921600
+[2024-07-25 15:24:53,411]145INFO-Expected size: 921600
+[2024-07-25 15:24:53,411]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:53,411]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:53,417]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:53,417]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:53,619]221INFO-Received data: {"frame":"SktLSklIRUlCRlZ0rNTo6+Xcz8Ozp5ySeFRASE1PSElOTU5PUFBOT09OUFFPTU1NTU5NTU9QT05PT1BSUVJTVFRTU1...
+[2024-07-25 15:24:53,619]121INFO-Processing frame 840
+[2024-07-25 15:24:53,619]144INFO-Array size: 921600
+[2024-07-25 15:24:53,625]145INFO-Expected size: 921600
+[2024-07-25 15:24:53,625]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:53,626]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:53,634]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:53,634]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:53,834]221INFO-Received data: {"frame":"S0tMTUtSVVdVUU5OT1BSTUhHR0dHTV1xh5inr1U/SEZQTk5QTUtNTEpITExNTlBSUU5QT05PTlBQUFBQUVNUVFRUVF...
+[2024-07-25 15:24:53,834]121INFO-Processing frame 843
+[2024-07-25 15:24:53,834]144INFO-Array size: 921600
+[2024-07-25 15:24:53,834]145INFO-Expected size: 921600
+[2024-07-25 15:24:53,834]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:53,842]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:53,848]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:53,848]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:54,141]221INFO-Received data: {"frame":"SkpLSk1KS0xUfcHa0pWBwObr7e7u7Orm4dXl12FFS01NS0tMTlBQTkxLTE1OTk5PT09PTU1NTUxOUlNTU1VXV1dUU1...
+[2024-07-25 15:24:54,143]121INFO-Processing frame 849
+[2024-07-25 15:24:54,144]144INFO-Array size: 921600
+[2024-07-25 15:24:54,144]145INFO-Expected size: 921600
+[2024-07-25 15:24:54,144]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:54,149]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:54,150]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:54,151]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:54,459]221INFO-Received data: {"frame":"SUlJSUtLS0tMSklMS0tNTE1OT01NTUtJSklLTExKSkpMTExNTk9OT1FUYWJXUVBQT1BOT09QUU9PT05OUFJSU1VUVF...
+[2024-07-25 15:24:54,459]121INFO-Processing frame 855
+[2024-07-25 15:24:54,459]144INFO-Array size: 921600
+[2024-07-25 15:24:54,459]145INFO-Expected size: 921600
+[2024-07-25 15:24:54,459]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:54,465]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:54,465]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:54,465]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:54,702]221INFO-Received data: {"frame":"TEtMTUtLSktMTElLSEhSWW6X3NFpbYWj0eKbZa3mv6jH39SzTEVPT09PUFBOTE1NTE5NT1RUU1BOTE1QUVJTU1JTU1...
+[2024-07-25 15:24:54,704]121INFO-Processing frame 858
+[2024-07-25 15:24:54,704]144INFO-Array size: 921600
+[2024-07-25 15:24:54,704]145INFO-Expected size: 921600
+[2024-07-25 15:24:54,704]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:54,715]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:54,720]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:54,722]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:55,105]221INFO-Received data: {"frame":"S0xLSktKUE5lg6bRuFNVW3eVhFJLVFBNS01VfoBWT1JRTk1UUlBNS0xPUFBQUVBNTk9PT1FRUE9PUFFSVFRWU1JTVl...
+[2024-07-25 15:24:55,105]121INFO-Processing frame 864
+[2024-07-25 15:24:55,105]144INFO-Array size: 921600
+[2024-07-25 15:24:55,105]145INFO-Expected size: 921600
+[2024-07-25 15:24:55,105]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:55,112]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:55,112]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:55,118]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:55,415]221INFO-Received data: {"frame":"S0tKS0tLS0pLTE1NTk5PUEtKaqTY5ebg3NnkvKegmI59bWVdUUxQUFFQT0xNTlFRUE9QUlJRUVBTU1RTT1BRUVNSUE...
+[2024-07-25 15:24:55,417]121INFO-Processing frame 870
+[2024-07-25 15:24:55,417]144INFO-Array size: 921600
+[2024-07-25 15:24:55,417]145INFO-Expected size: 921600
+[2024-07-25 15:24:55,417]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:55,417]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:55,417]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:55,417]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:55,715]221INFO-Received data: {"frame":"TEtMTEtLS01OT05OTEtMTlBOTEtKSUtNTk1MTE1NTU1OTU5OT1FSUVJSUFFOTVBQUlJPTUpSVlZUUk9OTk5MT1BPTU...
+[2024-07-25 15:24:55,718]121INFO-Processing frame 876
+[2024-07-25 15:24:55,718]144INFO-Array size: 921600
+[2024-07-25 15:24:55,722]145INFO-Expected size: 921600
+[2024-07-25 15:24:55,722]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:55,731]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:55,732]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:55,732]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:56,049]221INFO-Received data: {"frame":"6ufWdUxSUlFMSkhFKigoKTM8R0lMTVBTUlBPTk1NTk1PUVJST1BPTUtQVVVTU1NVZoaovM+eP0xSUFBRUFFTUlNSUF...
+[2024-07-25 15:24:56,049]121INFO-Processing frame 882
+[2024-07-25 15:24:56,049]144INFO-Array size: 921600
+[2024-07-25 15:24:56,049]145INFO-Expected size: 921600
+[2024-07-25 15:24:56,049]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:56,057]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:56,057]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:56,063]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:56,333]221INFO-Received data: {"frame":"T1BQT05PTC8kKy80P0hLSkxNS0pKTU5OTExNTk5OTExLTU9RUFBQTktQUlBQT09PT1BPT05OTkxMTE9QUE5LTUxOUV...
+[2024-07-25 15:24:56,333]121INFO-Processing frame 888
+[2024-07-25 15:24:56,333]144INFO-Array size: 921600
+[2024-07-25 15:24:56,333]145INFO-Expected size: 921600
+[2024-07-25 15:24:56,333]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:56,333]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:56,349]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:56,349]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:56,635]221INFO-Received data: {"frame":"QDooKSwuPEhRUExMTU5OTk1MTE1NTlFWVlBikKa93fTf4Obs7/H09vTnvGJFUFJTUFBQUVBQUFFPTExOUE5NTU9PTU...
+[2024-07-25 15:24:56,635]121INFO-Processing frame 894
+[2024-07-25 15:24:56,635]144INFO-Array size: 921600
+[2024-07-25 15:24:56,635]145INFO-Expected size: 921600
+[2024-07-25 15:24:56,635]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:56,650]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:56,650]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:56,650]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:56,842]221INFO-Received data: {"frame":"UkoeIScpOUVKS0tMTExMTE5PTk9QUFFTVFZPYXuTt+nlvcvU3ePn6+vntHxAT1NUUlBPUFBPTk5OTk5OT1BQUE9OTk...
+[2024-07-25 15:24:56,842]121INFO-Processing frame 897
+[2024-07-25 15:24:56,848]144INFO-Array size: 921600
+[2024-07-25 15:24:56,848]145INFO-Expected size: 921600
+[2024-07-25 15:24:56,849]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:56,855]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:56,857]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:56,857]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:57,147]221INFO-Received data: {"frame":"T0opGSErOkdMR0lMTU1NTU1PT05PT05OS0xPTE5TT2iea0dPU1NRTkxOUlRUUlBQT05QUVJTUVJRUFBRUFFRUVFRUV...
+[2024-07-25 15:24:57,154]121INFO-Processing frame 903
+[2024-07-25 15:24:57,154]144INFO-Array size: 921600
+[2024-07-25 15:24:57,154]145INFO-Expected size: 921600
+[2024-07-25 15:24:57,154]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:57,160]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:57,161]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:57,161]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:57,417]221INFO-Received data: {"frame":"WlI6HictMzxFSE1NTk1MSktNTU5OTk9QUVFPT1BPT01MT05QUFBQUVBRU1NQT1BSU09NT1BRUVFRUk9PT01QUVFRUV...
+[2024-07-25 15:24:57,417]121INFO-Processing frame 906
+[2024-07-25 15:24:57,417]144INFO-Array size: 921600
+[2024-07-25 15:24:57,417]145INFO-Expected size: 921600
+[2024-07-25 15:24:57,417]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:57,424]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:57,424]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:57,424]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:57,689]221INFO-Received data: {"frame":"UTslKSgrOkROTktJSUtLTE1NTUxMTUtOUFFTUkxMhdKDSUxOTEdEQkRHSU5RU1RSU1JQUFBSU1NSUVFSUVBPUFJPTk...
+[2024-07-25 15:24:57,689]121INFO-Processing frame 912
+[2024-07-25 15:24:57,696]144INFO-Array size: 921600
+[2024-07-25 15:24:57,696]145INFO-Expected size: 921600
+[2024-07-25 15:24:57,696]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:57,702]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:57,703]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:57,703]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:57,973]221INFO-Received data: {"frame":"S1FKOB4hKzpISE1NTk5PTk1MTk9QUFBQTk1OT1BQUFFRUVFPTk9RUlVUVVNSUE9PUFFRUlJRUU9QUVFRUVFSUVBQUV...
+[2024-07-25 15:24:57,979]121INFO-Processing frame 918
+[2024-07-25 15:24:57,980]144INFO-Array size: 921600
+[2024-07-25 15:24:57,980]145INFO-Expected size: 921600
+[2024-07-25 15:24:57,980]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:57,980]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:57,988]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:57,988]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:58,224]221INFO-Received data: {"frame":"VFJNUE4xHyUrNEZJSktMTUxMTk9QUE9RUlBPTlBUVldYWFdXW19ma3J3e3x9e3hQT1JRUFJTUE1MTE9PTk5OT09QU1...
+[2024-07-25 15:24:58,230]121INFO-Processing frame 921
+[2024-07-25 15:24:58,232]144INFO-Array size: 921600
+[2024-07-25 15:24:58,232]145INFO-Expected size: 921600
+[2024-07-25 15:24:58,232]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:58,238]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:58,240]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:58,241]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:58,535]221INFO-Received data: {"frame":"WE1NTE5FJhkmLTdCSUpMT05PUVFOTVFTU1FRUE9QTU5QUVFST0hKS09RU1RSUE5OUE9PT01OTU1PTlFRUVFQUlJRUF...
+[2024-07-25 15:24:58,535]121INFO-Processing frame 927
+[2024-07-25 15:24:58,535]144INFO-Array size: 921600
+[2024-07-25 15:24:58,535]145INFO-Expected size: 921600
+[2024-07-25 15:24:58,535]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:58,535]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:58,535]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:58,535]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:24:58,862]221INFO-Received data: {"frame":"VlBOT05HExwkKDtFSktMTE1OT09PUFJSUU9PUFJQTk5MTU1NTlFOUVFRUlJTVVNSUE9OTExQT1BTUU9RUU9OTkxOUF...
+[2024-07-25 15:24:58,863]121INFO-Processing frame 933
+[2024-07-25 15:24:58,866]144INFO-Array size: 921600
+[2024-07-25 15:24:58,866]145INFO-Expected size: 921600
+[2024-07-25 15:24:58,866]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:58,870]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:58,872]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:58,872]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:24:59,165]221INFO-Received data: {"frame":"TEhDPTAlJCstMz5GTU9Vi31ZWlhOSExQTUpMT1JST05SfeixQUdHR0hKTElISU5OT05OUE5NTEtNTU5OTk5MTUxMTk...
+[2024-07-25 15:24:59,165]121INFO-Processing frame 939
+[2024-07-25 15:24:59,165]144INFO-Array size: 921600
+[2024-07-25 15:24:59,165]145INFO-Expected size: 921600
+[2024-07-25 15:24:59,165]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:59,181]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:59,184]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:59,185]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:59,442]221INFO-Received data: {"frame":"SElJSkpMTUtKRklMSUpLS0tMTU1PUU5OTktKTUxMSktMTEtNTUxLTFRWVFVQUE9OTU9NT1BPT09PUVFRUE9RUlJRUl...
+[2024-07-25 15:24:59,442]121INFO-Processing frame 942
+[2024-07-25 15:24:59,442]144INFO-Array size: 921600
+[2024-07-25 15:24:59,442]145INFO-Expected size: 921600
+[2024-07-25 15:24:59,442]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:59,442]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:59,458]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:59,458]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:24:59,760]221INFO-Received data: {"frame":"Tk1LS0pMT09LTlFNT1RQV3qSoKartMnRxcLk5N7VzadDUFBMTU9QT1BPTk9PUE9OTU1PTk1NT1BQUVFRUE9QUlJUVF...
+[2024-07-25 15:24:59,760]121INFO-Processing frame 948
+[2024-07-25 15:24:59,760]144INFO-Array size: 921600
+[2024-07-25 15:24:59,760]145INFO-Expected size: 921600
+[2024-07-25 15:24:59,760]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:24:59,760]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:24:59,792]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:24:59,792]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:25:00,040]221INFO-Received data: {"frame":"v8Ctrrq/uWA/TlFNSkxLSUlKTUtJSElOUFBZmp2Xko6ysFiLr7rJeDlITkxIS1FSUlFRUlJQTk9QUE9OTU5PUE5PUV...
+[2024-07-25 15:25:00,044]121INFO-Processing frame 954
+[2024-07-25 15:25:00,049]144INFO-Array size: 921600
+[2024-07-25 15:25:00,049]145INFO-Expected size: 921600
+[2024-07-25 15:25:00,050]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:00,057]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:00,057]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:00,057]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:00,318]221INFO-Received data: {"frame":"Pz47PD09PDw7PDo7PT08PDk4Ozw8Pj8+PDw/P0BAPj09Ozs7Ozw7Ozw8PTo6Ozw9PDw8PD4/Pj47PT08PT07Ozo6Oz...
+[2024-07-25 15:25:00,318]121INFO-Processing frame 957
+[2024-07-25 15:25:00,334]144INFO-Array size: 921600
+[2024-07-25 15:25:00,334]145INFO-Expected size: 921600
+[2024-07-25 15:25:00,334]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:00,334]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:00,334]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:00,334]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:00,634]221INFO-Received data: {"frame":"NjU1Njc1NTUzMzU2NTQ2Nzc3NTU1NTc2Nzg3ODc3NzY4NzY1NjY3ODg5ODo4Nzk3Nzk3Nzg4NzY4ODg4Nzg5ODY3Nz...
+[2024-07-25 15:25:00,634]121INFO-Processing frame 963
+[2024-07-25 15:25:00,634]144INFO-Array size: 921600
+[2024-07-25 15:25:00,634]145INFO-Expected size: 921600
+[2024-07-25 15:25:00,634]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:00,634]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:00,634]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:00,634]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:00,880]221INFO-Received data: {"frame":"ODtARTgxMjQzMzMzMzM0MzU2NzxDRUR9z9vMpqqurrPHy7uijIeGhXt3fHd1eX5+gHyYwdLSuollb3R0eoNvTCQoMj...
+[2024-07-25 15:25:00,880]121INFO-Processing frame 966
+[2024-07-25 15:25:00,880]144INFO-Array size: 921600
+[2024-07-25 15:25:00,880]145INFO-Expected size: 921600
+[2024-07-25 15:25:00,880]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:00,880]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:00,895]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:00,895]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:01,166]221INFO-Received data: {"frame":"paWlpKWmpqalpaWkpaanqKempqanpqWlpqanpqWmpqWlpqalpaWlpaampqalpaWlpaampaWmpqempqWlpaWlpaWmpq...
+[2024-07-25 15:25:01,166]121INFO-Processing frame 969
+[2024-07-25 15:25:01,166]144INFO-Array size: 921600
+[2024-07-25 15:25:01,166]145INFO-Expected size: 921600
+[2024-07-25 15:25:01,166]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:01,166]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:01,181]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:01,181]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:01,557]221INFO-Received data: {"frame":"KCkqKyspKiopKSopKiopKSgpKSorKykpKSgoKSoqKSorKiorKispKisrKioqKSoqKisrKyorLSwuLi4tLTAxMTEwMj...
+[2024-07-25 15:25:01,557]121INFO-Processing frame 975
+[2024-07-25 15:25:01,557]144INFO-Array size: 921600
+[2024-07-25 15:25:01,557]145INFO-Expected size: 921600
+[2024-07-25 15:25:01,557]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:01,566]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:01,568]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:01,569]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:01,930]221INFO-Received data: {"frame":"LC0tLi8uLC0tLC4wLy4uLjAvLi4tLC0vMDAvMC4tLSwtLjAwMTAtLS8vLzAwLi8vLi4wMDAvMDAwMS8wLzAwMDAvMD...
+[2024-07-25 15:25:01,931]121INFO-Processing frame 981
+[2024-07-25 15:25:01,931]144INFO-Array size: 921600
+[2024-07-25 15:25:01,931]145INFO-Expected size: 921600
+[2024-07-25 15:25:01,931]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:01,931]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:01,931]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:01,931]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:02,165]221INFO-Received data: {"frame":"KiopKissLCwsLCwsKissKysrKysqKysrKywsKyssLS4tLSwsLSwqKioqLC0tLCwqKiwsLCwrKyssLS4uLSwuLSwsLS...
+[2024-07-25 15:25:02,167]121INFO-Processing frame 984
+[2024-07-25 15:25:02,167]144INFO-Array size: 921600
+[2024-07-25 15:25:02,167]145INFO-Expected size: 921600
+[2024-07-25 15:25:02,167]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:02,178]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:02,183]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:02,184]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:02,522]221INFO-Received data: {"frame":"TUpJSUpKSkpKS05OTk5QVFRQUFJSUVBQT1BQUU9QTk1NTk9QT1BPT05OT09NTU5QUFJRT01MTk1OT09NS01QT05OUF...
+[2024-07-25 15:25:02,522]121INFO-Processing frame 990
+[2024-07-25 15:25:02,522]144INFO-Array size: 921600
+[2024-07-25 15:25:02,522]145INFO-Expected size: 921600
+[2024-07-25 15:25:02,522]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:02,529]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:02,529]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:02,535]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:02,856]221INFO-Received data: {"frame":"traITEVOTk1LS0pISElMT1JMWYeovcjEvLm8vLu6uLW0uMLEsnpKRUpMT1FQUU9MTE1KSUhOU1RTWHGQqbK3vcnGpW...
+[2024-07-25 15:25:02,857]121INFO-Processing frame 993
+[2024-07-25 15:25:02,859]144INFO-Array size: 921600
+[2024-07-25 15:25:02,859]145INFO-Expected size: 921600
+[2024-07-25 15:25:02,859]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:02,861]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:02,861]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:02,861]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:03,066]221INFO-Received data: {"frame":"S2eIh1BCRklGRERFRUZISUhHTExcfq+5wMO/tbO1trWxtbvGzMWsZUJATUxMSU1MS0xPUE9WW2JteGtpbHJ/kKOuq4...
+[2024-07-25 15:25:03,066]121INFO-Processing frame 996
+[2024-07-25 15:25:03,066]144INFO-Array size: 921600
+[2024-07-25 15:25:03,066]145INFO-Expected size: 921600
+[2024-07-25 15:25:03,066]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:03,082]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:03,082]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:03,082]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:03,380]221INFO-Received data: {"frame":"qa6nd0FES0lGRUZISUhHSEhFRElPT1JXd5OfoqGguMPHs3lTUVBMSUhHRUFKTUxLRlFidqLAy83N0c3Bvby9ydPRv6...
+[2024-07-25 15:25:03,380]121INFO-Processing frame 1002
+[2024-07-25 15:25:03,380]144INFO-Array size: 921600
+[2024-07-25 15:25:03,380]145INFO-Expected size: 921600
+[2024-07-25 15:25:03,380]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:03,380]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:03,397]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:03,397]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:03,631]221INFO-Received data: {"frame":"elBGRkVFR0RDRkRERUVHSkpOcpKxv8jLv7m0sLG0vcXFvKCHcEM/R0pITEtISU1OTE1PT1FTXHGKmaaoqq26xsm+ik...
+[2024-07-25 15:25:03,633]121INFO-Processing frame 1005
+[2024-07-25 15:25:03,635]144INFO-Array size: 921600
+[2024-07-25 15:25:03,636]145INFO-Expected size: 921600
+[2024-07-25 15:25:03,636]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:03,641]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:03,643]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:03,644]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:03,949]221INFO-Received data: {"frame":"pXA4QUNFRUNDREREREZFRVNtjKS5t6yknZePh5CcpKaqm15KPUVGRkhKS0RDSUpNRkpgiq6riHtnXmiGq7e6u8DJzc...
+[2024-07-25 15:25:03,949]121INFO-Processing frame 1011
+[2024-07-25 15:25:03,949]144INFO-Array size: 921600
+[2024-07-25 15:25:03,949]145INFO-Expected size: 921600
+[2024-07-25 15:25:03,949]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:03,949]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:03,949]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:03,964]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:04,269]221INFO-Received data: {"frame":"RkZEREFDRkVDQkJDRkxPTGqYzsrIyLy3t7m6u7q9xdDTvntEQUFEREZGRURFRUVITUxbboaao6eknYZ0YVVKRVBgbW...
+[2024-07-25 15:25:04,269]121INFO-Processing frame 1017
+[2024-07-25 15:25:04,269]144INFO-Array size: 921600
+[2024-07-25 15:25:04,269]145INFO-Expected size: 921600
+[2024-07-25 15:25:04,269]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:04,285]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:04,285]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:04,285]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:04,607]221INFO-Received data: {"frame":"l7nLvnhDPkVFREVFRURFQ0NGT1hvlbTJwb2yqquurLnBvrevpn5GOkJISEpLSUhHR0ZISEtLapeok3xXUU1UbJmyv8...
+[2024-07-25 15:25:04,607]121INFO-Processing frame 1023
+[2024-07-25 15:25:04,607]144INFO-Array size: 921600
+[2024-07-25 15:25:04,607]145INFO-Expected size: 921600
+[2024-07-25 15:25:04,607]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:04,622]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:04,622]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:04,622]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:04,943]221INFO-Received data: {"frame":"1dW4mouTtMK8kk1AQENGREZFQ0NDRUZLTVd9mbK7ta+il42QmqOloqqgYk9DRERGSEhERUdHR0hFR2uQtrWOf1dUZI...
+[2024-07-25 15:25:04,944]121INFO-Processing frame 1029
+[2024-07-25 15:25:04,944]144INFO-Array size: 921600
+[2024-07-25 15:25:04,944]145INFO-Expected size: 921600
+[2024-07-25 15:25:04,944]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:04,944]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:04,944]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:04,944]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:05,271]221INFO-Received data: {"frame":"rK6zvMXFu6uxs7W4zs2VT0RGR0RGR0ZERURHRUVJaZi/0sWxsrKzusXLzMnAuq6aZz1GSklKSkpHSEhIS05HSWd8n5...
+[2024-07-25 15:25:05,271]121INFO-Processing frame 1035
+[2024-07-25 15:25:05,271]144INFO-Array size: 921600
+[2024-07-25 15:25:05,278]145INFO-Expected size: 921600
+[2024-07-25 15:25:05,278]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:05,280]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:05,285]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:05,285]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:05,612]221INFO-Received data: {"frame":"lMTQxbKwsrW8w8fEvbqypHtNRENER0lJR0dHRUVHSkpLUWOMpJd2Tk1NT1JYZoyxwLRsREZJRkVEQUVGR0hLT05fmL...
+[2024-07-25 15:25:05,612]121INFO-Processing frame 1041
+[2024-07-25 15:25:05,612]144INFO-Array size: 921600
+[2024-07-25 15:25:05,612]145INFO-Expected size: 921600
+[2024-07-25 15:25:05,612]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:05,618]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:05,618]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:05,618]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:05,880]221INFO-Received data: {"frame":"RD9FVIamsrKwu8bFvK2uqq240smGT0RCSUdGSEZFR0VGR0dLbKbBzse5uLK4v8HIzMi/uaiHTUJHR0lJSkpJSUlLTk...
+[2024-07-25 15:25:05,882]121INFO-Processing frame 1047
+[2024-07-25 15:25:05,884]144INFO-Array size: 921600
+[2024-07-25 15:25:05,884]145INFO-Expected size: 921600
+[2024-07-25 15:25:05,884]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:05,887]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:05,889]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:05,889]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:06,101]221INFO-Received data: {"frame":"RkhJRUJtpK+pqK69ydHDqaCLj7LNx5FUP0FARENFR0ZEQkdJTk9ukrbJysC3rqGkrLa7urOqiVpGP0ZFRklLS0hJSU...
+[2024-07-25 15:25:06,101]121INFO-Processing frame 1050
+[2024-07-25 15:25:06,101]144INFO-Array size: 921600
+[2024-07-25 15:25:06,101]145INFO-Expected size: 921600
+[2024-07-25 15:25:06,101]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:06,101]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:06,116]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:06,116]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:06,409]221INFO-Received data: {"frame":"rauxxsysXT1BQkRERkdIRkRERkhGVImlw8vCvLy+w8bIx66lmnxNPkJERUVGRkZGR0dFRUBBR0hNSEZHSktNSlBMSU...
+[2024-07-25 15:25:06,410]121INFO-Processing frame 1056
+[2024-07-25 15:25:06,410]144INFO-Array size: 921600
+[2024-07-25 15:25:06,410]145INFO-Expected size: 921600
+[2024-07-25 15:25:06,410]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:06,426]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:06,426]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:06,426]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:06,730]221INFO-Received data: {"frame":"vLi1r6SAVkk/PERIQ0NEREM/Q0ZLTUxchqqsrrCzucHM0JNjZ5W2v5pUQ0lGRUZFRUdKTE1OR0h0n7/PzMnOzs3LwL...
+[2024-07-25 15:25:06,730]121INFO-Processing frame 1062
+[2024-07-25 15:25:06,730]144INFO-Array size: 921600
+[2024-07-25 15:25:06,730]145INFO-Expected size: 921600
+[2024-07-25 15:25:06,730]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:06,746]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:06,746]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:06,746]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:07,050]221INFO-Received data: {"frame":"urWZfEhFQj9ERURDRkVHR0dHRERGRkVGSU1GQ0VCQ0RFQ0JDQ0NCQ0RERURHSElIR0ZFRUVFRUVFREVFRkZFQ0NERk...
+[2024-07-25 15:25:07,050]121INFO-Processing frame 1068
+[2024-07-25 15:25:07,050]144INFO-Array size: 921600
+[2024-07-25 15:25:07,050]145INFO-Expected size: 921600
+[2024-07-25 15:25:07,050]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:07,066]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:07,066]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:07,066]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:07,271]221INFO-Received data: {"frame":"YFpJQUNFQ0JDQ0JBQkNDREVDQ0NERUZERENBQUFBQEBBQEFDQ0RDQkJFRUVGRUZIRkZFQ0RFRERERUVERURDRUZFRk...
+[2024-07-25 15:25:07,271]121INFO-Processing frame 1071
+[2024-07-25 15:25:07,271]144INFO-Array size: 921600
+[2024-07-25 15:25:07,271]145INFO-Expected size: 921600
+[2024-07-25 15:25:07,271]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:07,286]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:07,286]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:07,286]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:07,590]221INFO-Received data: {"frame":"QUJCQkBAQkJBQEFBQkA/QEJCQEBAQUNEREFBQ0JBQ0JDQUNBQUNCQkJCQkJCQUJCQkJBQkJBQ0REQkJCQkFDQkRFQ0...
+[2024-07-25 15:25:07,590]121INFO-Processing frame 1077
+[2024-07-25 15:25:07,590]144INFO-Array size: 921600
+[2024-07-25 15:25:07,590]145INFO-Expected size: 921600
+[2024-07-25 15:25:07,590]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:07,605]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:07,605]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:07,605]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:07,941]221INFO-Received data: {"frame":"QT8/QEA/P0FBPz9BQUFAP0FBQD9AQkI/PT4+QUJBQEBBQEBBQUJBQEBBQUFBQUJDQ0JCQkNDQkFDQ0RCP0BBQkVEQ0...
+[2024-07-25 15:25:07,956]121INFO-Processing frame 1083
+[2024-07-25 15:25:07,956]144INFO-Array size: 921600
+[2024-07-25 15:25:07,956]145INFO-Expected size: 921600
+[2024-07-25 15:25:07,956]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:07,956]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:07,956]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:07,956]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:08,302]221INFO-Received data: {"frame":"P0FAQD9AQUBAP0A/QEBBQ0NBQD4/P0FCQUFAQD49PD0/QEBBQUJDQ0E/Pj5AQkJCQUA/Pz5AP0BAQUBBQkBCQ0JCQk...
+[2024-07-25 15:25:08,302]121INFO-Processing frame 1089
+[2024-07-25 15:25:08,317]144INFO-Array size: 921600
+[2024-07-25 15:25:08,317]145INFO-Expected size: 921600
+[2024-07-25 15:25:08,317]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:08,317]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:08,317]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:08,317]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:08,606]221INFO-Received data: {"frame":"Pz9AQTk4Pj5BQkE9PEFNUEpDREhPVFxcXFxhX2dlZGVpamtpampmZGlsb29sa2tpYV1cXl1cVlJPTEtJT09OUE1HRE...
+[2024-07-25 15:25:08,606]121INFO-Processing frame 1095
+[2024-07-25 15:25:08,621]144INFO-Array size: 921600
+[2024-07-25 15:25:08,621]145INFO-Expected size: 921600
+[2024-07-25 15:25:08,621]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:08,621]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:08,621]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:08,621]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:08,826]221INFO-Received data: {"frame":"QkBBQT8/Pz49PUFAP0BBQ0ZGSUlHSElNVFhXV1lgYWNmYGBkZGNgZWdobGptbGpvcG5ra2pmXltWU1hYUU9OUVNTTE...
+[2024-07-25 15:25:08,826]121INFO-Processing frame 1098
+[2024-07-25 15:25:08,826]144INFO-Array size: 921600
+[2024-07-25 15:25:08,826]145INFO-Expected size: 921600
+[2024-07-25 15:25:08,826]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:08,841]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:08,841]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:08,841]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:08,841]221INFO-Received data: ping...
+[2024-07-25 15:25:08,841]225ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 15:25:08,841]226ERROR-Received invalid JSON: ping...
+[2024-07-25 15:25:09,052]221INFO-Received data: {"frame":"Pj4+Pz9AP0A/Pz8+Pjw+Pz4/QD8+PT5AP0A/Pz9BQkA/Pj48P0FCQUJCQkJCQkJERUNDQj07PkA/QENITEZITU9SWV...
+[2024-07-25 15:25:09,052]121INFO-Processing frame 1101
+[2024-07-25 15:25:09,052]144INFO-Array size: 921600
+[2024-07-25 15:25:09,052]145INFO-Expected size: 921600
+[2024-07-25 15:25:09,052]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:09,067]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:09,067]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:09,067]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:09,290]221INFO-Received data: {"frame":"QT8+QUNCQD8+QUJAQEA+Pz4+Pj8/Pz4/Pz8/Pj9AQUFBQUJCQEFBQD4/Q0E+QUFBRUdHR0lOT0xRUlZaXlxZXGRoZ2...
+[2024-07-25 15:25:09,290]121INFO-Processing frame 1104
+[2024-07-25 15:25:09,290]144INFO-Array size: 921600
+[2024-07-25 15:25:09,290]145INFO-Expected size: 921600
+[2024-07-25 15:25:09,290]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:09,290]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:09,290]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:09,290]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:09,512]221INFO-Received data: {"frame":"QEFBQkA/Pz8/P0A/P0A/Pz4+Pj4/QEFBQkE9Pj0/QUFAP0FEQ0I7O0E9Oz9CQUFOTU5WWFdZWF9jZmppZ2Zoa2prbG...
+[2024-07-25 15:25:09,515]121INFO-Processing frame 1107
+[2024-07-25 15:25:09,515]144INFO-Array size: 921600
+[2024-07-25 15:25:09,515]145INFO-Expected size: 921600
+[2024-07-25 15:25:09,515]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:09,523]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:09,526]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:09,528]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:09,935]221INFO-Received data: {"frame":"Ojs9P0A/QEJBQD8+PD4/QkE/P0BCQkBDQ0JBQEFEQjo8QUNAP0JEREVGSEpQVVtfY15eYGBiam9rbGxpaW1wcHBycm...
+[2024-07-25 15:25:09,935]121INFO-Processing frame 1113
+[2024-07-25 15:25:09,935]144INFO-Array size: 921600
+[2024-07-25 15:25:09,935]145INFO-Expected size: 921600
+[2024-07-25 15:25:09,935]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:09,935]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:09,950]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:09,950]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:10,254]221INFO-Received data: {"frame":"REA/QEJBPz84O0BBOz1FR0VBR0hLVWJpY2JcXFtcYGJhZWlqa2poY2FjZ2xmZmltbGplY2FeXFdVWVlSSUNBS0pHRU...
+[2024-07-25 15:25:10,254]121INFO-Processing frame 1119
+[2024-07-25 15:25:10,254]144INFO-Array size: 921600
+[2024-07-25 15:25:10,254]145INFO-Expected size: 921600
+[2024-07-25 15:25:10,254]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:10,254]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:10,270]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:10,270]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:10,558]221INFO-Received data: {"frame":"ZGRkZ2pkYF9fYGJiYmRkZWJlaGZiYGNiYmNZU1FQT01GSEE9RkVCQURDRUM/QkRFQ0NDQD4/P0FAP0E7PDo7QEFBP0...
+[2024-07-25 15:25:10,558]121INFO-Processing frame 1125
+[2024-07-25 15:25:10,558]144INFO-Array size: 921600
+[2024-07-25 15:25:10,558]145INFO-Expected size: 921600
+[2024-07-25 15:25:10,558]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:10,573]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:10,573]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:10,573]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:10,796]221INFO-Received data: {"frame":"YV9fYGBbVVldWExDREZGTEdBREFBQ0REREI/P0BBQD8/PT8/Pj4+Pjw8PD0+PTw+PT0+Pj8/QEFCQD4/QD8+PkBAPz...
+[2024-07-25 15:25:10,796]121INFO-Processing frame 1128
+[2024-07-25 15:25:10,796]144INFO-Array size: 921600
+[2024-07-25 15:25:10,796]145INFO-Expected size: 921600
+[2024-07-25 15:25:10,796]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:10,796]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:10,796]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:10,796]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:11,067]221INFO-Received data: {"frame":"QUFAQUFBQkFAQEA/Pj07PT4+PT09PT0+Pz4/QUA9PDw/Pj08PD09Pz06Ojw8PD49PkBBPz8/Pj4+Pj4/Pj9AQEBBQU...
+[2024-07-25 15:25:11,067]121INFO-Processing frame 1131
+[2024-07-25 15:25:11,083]144INFO-Array size: 921600
+[2024-07-25 15:25:11,083]145INFO-Expected size: 921600
+[2024-07-25 15:25:11,083]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:11,083]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:11,083]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:11,083]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:11,310]221INFO-Received data: {"frame":"PD09Pz8/Pz49PT8+Pj49Pj4+Pj4+Pz8/Pjw9PT09PDw9PDw9PTw9Pj0+PkBAQUFBQUE/PT09PkBAPz49Pz4/Pj4+PD...
+[2024-07-25 15:25:11,310]121INFO-Processing frame 1134
+[2024-07-25 15:25:11,310]144INFO-Array size: 921600
+[2024-07-25 15:25:11,310]145INFO-Expected size: 921600
+[2024-07-25 15:25:11,310]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:11,310]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:11,325]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:11,325]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:11,583]221INFO-Received data: {"frame":"Oj09PD0/Pz8/Pj0+Pj49PD0+Pz4+Pj89PT07Oj4/Pz8+PT09QD8/QD4/PTw8P0FAQD9APjo7PT5AQEBAQEA/QD8+Pz...
+[2024-07-25 15:25:11,583]121INFO-Processing frame 1137
+[2024-07-25 15:25:11,583]144INFO-Array size: 921600
+[2024-07-25 15:25:11,583]145INFO-Expected size: 921600
+[2024-07-25 15:25:11,583]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:11,598]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:11,598]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:11,598]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:11,801]221INFO-Received data: {"frame":"PDw9PDw9Pj07Ozs8PDs9PT09PT4/P0A+PT88PDw8Pj4+Pj8/PTw9QEFAQEBAPz4+QEFBPz89PT0+Pz8/Pz4/QEFAPz...
+[2024-07-25 15:25:11,801]121INFO-Processing frame 1140
+[2024-07-25 15:25:11,801]144INFO-Array size: 921600
+[2024-07-25 15:25:11,801]145INFO-Expected size: 921600
+[2024-07-25 15:25:11,801]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:11,801]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:11,801]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:11,801]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:12,098]221INFO-Received data: {"frame":"Nzc6PDw9Pj0+Pj08Pj4+Pj49P0A/Pj4/P0BAQD8+Pj4+PDw+Pz09PT0+PkBBQD4/QUBAQ0FAPz8/Pz8/Pz9AQEFBQk...
+[2024-07-25 15:25:12,113]121INFO-Processing frame 1146
+[2024-07-25 15:25:12,113]144INFO-Array size: 921600
+[2024-07-25 15:25:12,113]145INFO-Expected size: 921600
+[2024-07-25 15:25:12,113]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:12,113]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:12,113]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:12,113]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:12,391]221INFO-Received data: {"frame":"PDw+Pj4+P0A+Pj0/Pj49Pj4+Pz48PT9APz4+Pz49PT09Oz09Pj08PD09Pz5AQUFCQUA/Pz9AQUBAQD4+PT0+P0A/QE...
+[2024-07-25 15:25:12,407]121INFO-Processing frame 1152
+[2024-07-25 15:25:12,407]144INFO-Array size: 921600
+[2024-07-25 15:25:12,407]145INFO-Expected size: 921600
+[2024-07-25 15:25:12,407]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:12,407]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:12,407]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:12,407]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:12,721]221INFO-Received data: {"frame":"Pj0+Ozs8PT8/Pj49Pj4/Pz8/Pz89PUBBPz8+Pz4/Pz4/QEFBQD8/QD89PT49PT9AQkVDQ0FAPz8/QEFBQEA+PT9BQE...
+[2024-07-25 15:25:12,721]121INFO-Processing frame 1158
+[2024-07-25 15:25:12,721]144INFO-Array size: 921600
+[2024-07-25 15:25:12,721]145INFO-Expected size: 921600
+[2024-07-25 15:25:12,721]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:12,721]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:12,721]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:12,721]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:13,015]221INFO-Received data: {"frame":"QDw8PT4+Pj4+Pj08Pj8/QUBAQEFBQEBCQUA+Pj4+PTw9PT08PT8+Pj0/QkNDQD8/Q0FAP0FBQEFBQkVBOTY0OTo6Oz...
+[2024-07-25 15:25:13,016]121INFO-Processing frame 1164
+[2024-07-25 15:25:13,016]144INFO-Array size: 921600
+[2024-07-25 15:25:13,016]145INFO-Expected size: 921600
+[2024-07-25 15:25:13,016]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:13,025]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:13,029]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:13,030]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:13,261]221INFO-Received data: {"frame":"PT09P0A/PT4+P0A9PD09Pj09QT9AP0BAP0A/Ozs+QUJCQj8+Oz4/Pz09Ozs+PTo4ODdBSU1PVV1obnZ+h46WnKOorr...
+[2024-07-25 15:25:13,261]121INFO-Processing frame 1167
+[2024-07-25 15:25:13,276]144INFO-Array size: 921600
+[2024-07-25 15:25:13,276]145INFO-Expected size: 921600
+[2024-07-25 15:25:13,276]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:13,276]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:13,276]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:13,276]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:13,536]221INFO-Received data: {"frame":"pIiAmKmqp6eoqJd3UEFCQ0NBREVFQ0BAQkREQ0VBNzxAPzo7QkE/QEA9Pz06ODYxKSgmKCouNjk8QTU8QUFAQUFAQT...
+[2024-07-25 15:25:13,536]121INFO-Processing frame 1170
+[2024-07-25 15:25:13,536]144INFO-Array size: 921600
+[2024-07-25 15:25:13,536]145INFO-Expected size: 921600
+[2024-07-25 15:25:13,536]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:13,536]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:13,536]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:13,536]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:13,799]221INFO-Received data: {"frame":"OENIQGWsuri5sqehm5iZlIdXOz9DQj88Pj0iHRwlLDI4PD9APz0/QUJCPjs3NTtCPzw8QjcyP0VHRkhNTVBUWV5ka3...
+[2024-07-25 15:25:13,799]121INFO-Processing frame 1173
+[2024-07-25 15:25:13,814]144INFO-Array size: 921600
+[2024-07-25 15:25:13,814]145INFO-Expected size: 921600
+[2024-07-25 15:25:13,814]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:13,814]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:13,814]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:13,814]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:14,136]221INFO-Received data: {"frame":"KCksLzM1Nzk5OTo5Ojs6PDs9PT07Ojo6Ozo7PDs6ODo6Ojo6OTo6ODc5Ozo6Ojs9Pj06Ojw6Ozs7PDs5Oz0+Pj08PT...
+[2024-07-25 15:25:14,146]121INFO-Processing frame 1179
+[2024-07-25 15:25:14,147]144INFO-Array size: 921600
+[2024-07-25 15:25:14,147]145INFO-Expected size: 921600
+[2024-07-25 15:25:14,147]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:14,147]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:14,147]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:14,147]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:14,432]221INFO-Received data: {"frame":"PT0+Pj09PTs5OTw9PDw9PTw8PT48PDs9PT49PT0+Pj4+Pz4/QD88UJmpt7izrKKakYqEhZi+3cx4QT5DQURGRUJFSU...
+[2024-07-25 15:25:14,432]121INFO-Processing frame 1185
+[2024-07-25 15:25:14,432]144INFO-Array size: 921600
+[2024-07-25 15:25:14,432]145INFO-Expected size: 921600
+[2024-07-25 15:25:14,432]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:14,448]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:14,448]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:14,448]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:14,743]221INFO-Received data: {"frame":"Ozw8PDo7Ozs9Pjw7Ojc2Oj4/QUREYKm9xMTAvr6+wMHAuqtfNz1BP0BAQUFBQkRFQkFDREdBYrXOh1pNhNK7d4CZv9...
+[2024-07-25 15:25:14,744]121INFO-Processing frame 1191
+[2024-07-25 15:25:14,745]144INFO-Array size: 921600
+[2024-07-25 15:25:14,745]145INFO-Expected size: 921600
+[2024-07-25 15:25:14,745]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:14,753]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:14,759]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:14,760]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:15,034]221INFO-Received data: {"frame":"RFJbW1tbXmBka3V9h4d9cWNdVlZbV0k/QEBAQEA/OTpCUV1kb29kTjw7PTs6Ojo6PDw9PTw8PT0+Pz1BSlp+iFZIS2...
+[2024-07-25 15:25:15,034]121INFO-Processing frame 1197
+[2024-07-25 15:25:15,042]144INFO-Array size: 921600
+[2024-07-25 15:25:15,042]145INFO-Expected size: 921600
+[2024-07-25 15:25:15,042]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:15,042]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:15,042]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:15,042]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:15,343]221INFO-Received data: {"frame":"PTw7PDo9PTs6Oj09PT09PTw7PDw9Ozs9Pz89Ozw8Ozo8PkE+QEJBQUhKgqzBycnDoX5panePuM3Nv4FBQEdCQkVHQk...
+[2024-07-25 15:25:15,345]121INFO-Processing frame 1203
+[2024-07-25 15:25:15,350]144INFO-Array size: 921600
+[2024-07-25 15:25:15,350]145INFO-Expected size: 921600
+[2024-07-25 15:25:15,350]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:15,355]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:15,360]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:15,360]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:15,598]221INFO-Received data: {"frame":"PTtIUVlsnrnHy8rHvbGeim5bTUlGQj87Qks5PDxAPz49Ozw7PD09PTs6PT49PT0/QEA+PD4/Pz4+Pj9BQT8/P0BAQU...
+[2024-07-25 15:25:15,614]121INFO-Processing frame 1206
+[2024-07-25 15:25:15,614]144INFO-Array size: 921600
+[2024-07-25 15:25:15,614]145INFO-Expected size: 921600
+[2024-07-25 15:25:15,614]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:15,614]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:15,614]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:15,614]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:15,820]221INFO-Received data: {"frame":"PTo8PkBCRERCS4PO09XT0M7Er5l+a1xTTkxMRENCOzk/Pz8/Pj5AQEA/QUNBQUJCQD5BQUBAQUBBQUNDQUFBQ0RDQk...
+[2024-07-25 15:25:15,820]121INFO-Processing frame 1209
+[2024-07-25 15:25:15,836]144INFO-Array size: 921600
+[2024-07-25 15:25:15,836]145INFO-Expected size: 921600
+[2024-07-25 15:25:15,836]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:15,836]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:15,836]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:15,836]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:16,162]221INFO-Received data: {"frame":"QkNDQ0FCQ0hNWoacqbG8wsjN1Nrf4N3Z1dDDrIFfNT5CRENBPz9AQD9AQUFDQD8/QT9AQEFDRURDQ0FAQEFCQkBBQk...
+[2024-07-25 15:25:16,162]121INFO-Processing frame 1215
+[2024-07-25 15:25:16,162]144INFO-Array size: 921600
+[2024-07-25 15:25:16,162]145INFO-Expected size: 921600
+[2024-07-25 15:25:16,162]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:16,162]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:16,162]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:16,177]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:16,429]221INFO-Received data: {"frame":"QEBBQUBAQUFDRERCQj9IUV2U2NHIt5mEZVRMSklKRD5IR0hHRUNEQ0NCQ0REQ0NDQ0VGRkdHRkNEREVFR0lISElKSk...
+[2024-07-25 15:25:16,429]121INFO-Processing frame 1221
+[2024-07-25 15:25:16,429]144INFO-Array size: 921600
+[2024-07-25 15:25:16,429]145INFO-Expected size: 921600
+[2024-07-25 15:25:16,429]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:16,429]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:16,445]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:16,445]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:16,654]221INFO-Received data: {"frame":"QUFAQUJEQkNFRURCQkVEREVHS0tIRUJDSEdDQUBBQ0NCRElKUXyXmGtNabTZ0aigqKyws7m9xM/Y0XBDSk9LTk1OTE...
+[2024-07-25 15:25:16,654]121INFO-Processing frame 1224
+[2024-07-25 15:25:16,654]144INFO-Array size: 921600
+[2024-07-25 15:25:16,654]145INFO-Expected size: 921600
+[2024-07-25 15:25:16,654]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:16,654]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:16,654]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:16,654]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:16,876]221INFO-Received data: {"frame":"Q0JDQ0NDQkJBQkVFRUVFREZHSEdGR0lIS0xLSUlJSUpLTE5MTU1NTk1NTU1NTUxLS0tLS05PT1BRUFZWUk5NTVJYXF...
+[2024-07-25 15:25:16,876]121INFO-Processing frame 1227
+[2024-07-25 15:25:16,876]144INFO-Array size: 921600
+[2024-07-25 15:25:16,876]145INFO-Expected size: 921600
+[2024-07-25 15:25:16,876]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:16,891]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:16,891]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:16,891]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:17,188]221INFO-Received data: {"frame":"Q0JCQ0RERURFRkZKTUpKUlyO2eeEZq7TlkBESEVHSktLS0tLS0xNTU5PTExOUFNUVFRTcWxQWmeRzOby7dihXUxSVV...
+[2024-07-25 15:25:17,188]121INFO-Processing frame 1233
+[2024-07-25 15:25:17,204]144INFO-Array size: 921600
+[2024-07-25 15:25:17,204]145INFO-Expected size: 921600
+[2024-07-25 15:25:17,204]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:17,204]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:17,204]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:17,204]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:17,488]221INFO-Received data: {"frame":"lVY7RkZJSkpIRkdJSkpIRUdISUhGRUZGSEhISUlJSUhGRUVHR0hHR0lJSktMTEpIS01NTU5MSkxOT1FRUVBQUlBQUV...
+[2024-07-25 15:25:17,488]121INFO-Processing frame 1239
+[2024-07-25 15:25:17,488]144INFO-Array size: 921600
+[2024-07-25 15:25:17,488]145INFO-Expected size: 921600
+[2024-07-25 15:25:17,488]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:17,503]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:17,503]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:17,503]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:17,843]221INFO-Received data: {"frame":"gYODgH5+fX5+enRzb2ldVVVTSkRBRkdHTVFZX211enp8fHp2bmVeXWRseoaTm56bkYZ3a2JfXV1ianiGkpqdm5ubmJ...
+[2024-07-25 15:25:17,843]121INFO-Processing frame 1245
+[2024-07-25 15:25:17,848]144INFO-Array size: 921600
+[2024-07-25 15:25:17,848]145INFO-Expected size: 921600
+[2024-07-25 15:25:17,848]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:17,854]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:17,857]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:17,858]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:18,166]221INFO-Received data: {"frame":"ODg5Ozs7PDo3ODo6PkJNYXR/jJSXlI2HhYSEiY2OkJSWmJygo6ClrrKyrqurrayuqqmlo6mkm5eZmpWOhH1ydGdUQD...
+[2024-07-25 15:25:18,166]121INFO-Processing frame 1251
+[2024-07-25 15:25:18,166]144INFO-Array size: 921600
+[2024-07-25 15:25:18,166]145INFO-Expected size: 921600
+[2024-07-25 15:25:18,166]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:18,166]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:18,166]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:18,166]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:18,492]221INFO-Received data: {"frame":"PD08Ojk7Ojk9Pj8+PT4+QD8/QD8+QD4+QEA/P0JCQj4/Q0NDRTpDXJOquLG4ubi1mYFlW1pbVEtAPkNFO0BAPTc0Mz...
+[2024-07-25 15:25:18,492]121INFO-Processing frame 1257
+[2024-07-25 15:25:18,492]144INFO-Array size: 921600
+[2024-07-25 15:25:18,492]145INFO-Expected size: 921600
+[2024-07-25 15:25:18,492]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:18,511]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:18,514]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:18,515]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:18,808]221INFO-Received data: {"frame":"ODY3OTo6OTY2Nzk5Oz9CPk5keXqhxNjf0MPF09zXuLW3qptrNjs2MS0rKykjLDk4MjQ7SGuFinxrXF9ZWGCClJ+gcG...
+[2024-07-25 15:25:18,810]121INFO-Processing frame 1263
+[2024-07-25 15:25:18,812]144INFO-Array size: 921600
+[2024-07-25 15:25:18,813]145INFO-Expected size: 921600
+[2024-07-25 15:25:18,813]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:18,818]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:18,820]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:18,821]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:19,119]221INFO-Received data: {"frame":"Ojg4ODw9Ozk8Oz09PDs6Ozw9Pz5BQ0JDQ0ZIQkVLaK/b29HQ0NDPz8/NztOjRTg5OkFHQDwyFx0kKjY1PD1BQ0NDQ0...
+[2024-07-25 15:25:19,119]121INFO-Processing frame 1269
+[2024-07-25 15:25:19,119]144INFO-Array size: 921600
+[2024-07-25 15:25:19,119]145INFO-Expected size: 921600
+[2024-07-25 15:25:19,119]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:19,119]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:19,119]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:19,119]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:19,337]221INFO-Received data: {"frame":"PDw8PTs5Ojs9PT09PDw9PD08PT8+Ozw/QD8+QEFBQD8/Pz5AQEFEQ0NCR05NTE1KS1/A0T5ETUhESEtJSEZEQkREQ0...
+[2024-07-25 15:25:19,337]121INFO-Processing frame 1272
+[2024-07-25 15:25:19,337]144INFO-Array size: 921600
+[2024-07-25 15:25:19,337]145INFO-Expected size: 921600
+[2024-07-25 15:25:19,337]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:19,337]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:19,353]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:19,353]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:19,599]221INFO-Received data: {"frame":"Ojk7Ozs5OTk8PT09PT09PD4+PD0+Pz8+Pj8+P0BCQUFDQ0RHWprZ2dbOwrzP4di0npqUkIyKgnhnSURFQUE/QEE3Hi...
+[2024-07-25 15:25:19,605]121INFO-Processing frame 1275
+[2024-07-25 15:25:19,609]144INFO-Array size: 921600
+[2024-07-25 15:25:19,610]145INFO-Expected size: 921600
+[2024-07-25 15:25:19,610]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:19,616]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:19,619]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:19,620]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:19,932]221INFO-Received data: {"frame":"PDw6OTs8PT08PTw8Oz09PT4/QD47PkBGTGvM78CujpKP0uyEaG9rZmFeWlZLQUNFQT8+Pj8+IxwiIictOD1CQkA/PU...
+[2024-07-25 15:25:19,932]121INFO-Processing frame 1281
+[2024-07-25 15:25:19,938]144INFO-Array size: 921600
+[2024-07-25 15:25:19,939]145INFO-Expected size: 921600
+[2024-07-25 15:25:19,939]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:19,943]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:19,947]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:19,947]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:20,184]221INFO-Received data: {"frame":"PTs7PD08Ojs8Ozs8Ojk5Ojs8P0BCQUFCQUFFSUpnmJVnTkJDSEk6PD9BQ0VGQTY5QENFR0pMRkFCOxgaHR4mMjk8Pj...
+[2024-07-25 15:25:20,185]121INFO-Processing frame 1284
+[2024-07-25 15:25:20,188]144INFO-Array size: 921600
+[2024-07-25 15:25:20,188]145INFO-Expected size: 921600
+[2024-07-25 15:25:20,188]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:20,192]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:20,194]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:20,195]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:20,490]221INFO-Received data: {"frame":"PTs7PD08PD4+Pjw8PDs8PT08PDs8PD0+QEBAPT5BQ0NBQkRFR0lFRkpGQUFNb5GfoqCTflRIQD9CQ0ZHRkJDQRkXIi...
+[2024-07-25 15:25:20,490]121INFO-Processing frame 1290
+[2024-07-25 15:25:20,490]144INFO-Array size: 921600
+[2024-07-25 15:25:20,490]145INFO-Expected size: 921600
+[2024-07-25 15:25:20,490]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:20,490]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:20,490]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:20,501]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:20,781]221INFO-Received data: {"frame":"QT48PUBAQD89PTw+Pz08PD4/PT89PD09Pj9AQUJBPz8+PD0/QEJBPz4/QkNBQUVFQkRISk1KYJy9zuTm3tjX3+ve2d...
+[2024-07-25 15:25:20,781]121INFO-Processing frame 1296
+[2024-07-25 15:25:20,781]144INFO-Array size: 921600
+[2024-07-25 15:25:20,781]145INFO-Expected size: 921600
+[2024-07-25 15:25:20,781]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:20,781]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:20,781]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:20,781]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:21,021]221INFO-Received data: {"frame":"LSs4QUo+MzQzMDQ1NDQ0MzI0MzQ0MzAxMzQzMzMzMS8vMDAwMDMzMjIzNDMyMDAzMzI0NDU1NTU3Njc2Njk6Ojw9QU...
+[2024-07-25 15:25:21,021]121INFO-Processing frame 1299
+[2024-07-25 15:25:21,021]144INFO-Array size: 921600
+[2024-07-25 15:25:21,021]145INFO-Expected size: 921600
+[2024-07-25 15:25:21,021]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:21,037]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:21,037]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:21,037]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:21,275]221INFO-Received data: {"frame":"UlBQUVFSUVBPUFBQT1BOT09QT01NT1FRTElHRUM/Pjo2NDIwLS0nJyEoKSssMDU4Ozo5Ozw7Ozw7Pz01O0NEREhlbm...
+[2024-07-25 15:25:21,275]121INFO-Processing frame 1302
+[2024-07-25 15:25:21,275]144INFO-Array size: 921600
+[2024-07-25 15:25:21,275]145INFO-Expected size: 921600
+[2024-07-25 15:25:21,275]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:21,275]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:21,275]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:21,275]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:21,635]221INFO-Received data: {"frame":"Q0FAQUBBQkFAQkVEQkA/Pj8/QEFBQEFAPy8mKSosKCMiIB8eHh8hIyMnNDQzNDU2NjU2Njc2Nzg5OjY1NTg+QEFNoN...
+[2024-07-25 15:25:21,639]121INFO-Processing frame 1308
+[2024-07-25 15:25:21,642]144INFO-Array size: 921600
+[2024-07-25 15:25:21,643]145INFO-Expected size: 921600
+[2024-07-25 15:25:21,643]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:21,646]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:21,649]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:21,650]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:21,970]221INFO-Received data: {"frame":"ODc1NTQzMjI2RoOzvLy3tre2uLi6vL65dCUuMy8wMDIxMDEyMC4tLi4uKzNAQj4yKTAuLCwtLS8uLSwtLS0uLi0tLS...
+[2024-07-25 15:25:21,973]121INFO-Processing frame 1314
+[2024-07-25 15:25:21,974]144INFO-Array size: 921600
+[2024-07-25 15:25:21,974]145INFO-Expected size: 921600
+[2024-07-25 15:25:21,974]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:21,980]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:21,982]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:21,984]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:22,309]221INFO-Received data: {"frame":"PkBBQUFBQUJCQUE8PD06ODk7Ozs6OUJbf4SDiIyMkJ2npZOUnqy8xszJvr27tLKpk3M2Lzw7Mjo8Ozs5PD09S01NUF...
+[2024-07-25 15:25:22,311]121INFO-Processing frame 1320
+[2024-07-25 15:25:22,315]144INFO-Array size: 921600
+[2024-07-25 15:25:22,315]145INFO-Expected size: 921600
+[2024-07-25 15:25:22,315]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:22,319]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:22,319]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:22,319]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:22,552]221INFO-Received data: {"frame":"SGKXrLCurKyxt8bJvbSzuaRtRUY0Mjo5OjEzNTQ2NTQ2Njg4OTtMWWNeUUlESUdGS0tLS0xMRExUarXLwNHc1cnBuL...
+[2024-07-25 15:25:22,552]121INFO-Processing frame 1323
+[2024-07-25 15:25:22,552]144INFO-Array size: 921600
+[2024-07-25 15:25:22,552]145INFO-Expected size: 921600
+[2024-07-25 15:25:22,552]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:22,552]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:22,568]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:22,568]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:22,894]221INFO-Received data: {"frame":"zudtJzM6NzU1NTY3NjMzMzIyOTk1NFNqZEpARERFR0dIRkFIS01LR1hvwvrawr7u7dbj7fX1uUJNSUVKSEhHSEhHSE...
+[2024-07-25 15:25:22,894]121INFO-Processing frame 1329
+[2024-07-25 15:25:22,894]144INFO-Array size: 921600
+[2024-07-25 15:25:22,894]145INFO-Expected size: 921600
+[2024-07-25 15:25:22,894]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:22,894]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:22,894]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:22,894]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:23,138]221INFO-Received data: {"frame":"OTE1NTM0NTM0NTU2NTY2NTU0MzlKYWBWQEREQ0JDQ0NDSUdHSUxOVFt6lKGvuMXQ3ufv7+NxPEdKRkZHSUhJSkhISU...
+[2024-07-25 15:25:23,138]121INFO-Processing frame 1332
+[2024-07-25 15:25:23,147]144INFO-Array size: 921600
+[2024-07-25 15:25:23,147]145INFO-Expected size: 921600
+[2024-07-25 15:25:23,147]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:23,154]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:23,156]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:23,157]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:23,458]221INFO-Received data: {"frame":"PDc2NTUzNDQ1Njc4NzQzNDMyLiozOV5lW0hCQ0FCQ0NAQV1oyf771Fhuw9nRxLSok4R1aFpZSExMP0RGRUVGR0dIRk...
+[2024-07-25 15:25:23,458]121INFO-Processing frame 1338
+[2024-07-25 15:25:23,458]144INFO-Array size: 921600
+[2024-07-25 15:25:23,458]145INFO-Expected size: 921600
+[2024-07-25 15:25:23,458]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:23,468]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:23,469]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:23,469]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:23,681]221INFO-Received data: {"frame":"ZWRXRzM0LzczMCsxMjMyMjEyNDM0NDA3XWNWSkJDQkJERUNBQkRGS0hJWXvK6fP19vb08u/r595IOUlMRkZGQ0REQk...
+[2024-07-25 15:25:23,681]121INFO-Processing frame 1341
+[2024-07-25 15:25:23,688]144INFO-Array size: 921600
+[2024-07-25 15:25:23,689]145INFO-Expected size: 921600
+[2024-07-25 15:25:23,689]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:23,695]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:23,698]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:23,698]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:24,008]221INFO-Received data: {"frame":"MTQzND1Toe7CLC4vLzIyNDIwLy8yMjM1NEVhX1RFQDxBQ0NDRUpESUlTXVR0vfXZx7etscnj+PO+XEBFRD88QUZHR0...
+[2024-07-25 15:25:24,008]121INFO-Processing frame 1347
+[2024-07-25 15:25:24,018]144INFO-Array size: 921600
+[2024-07-25 15:25:24,018]145INFO-Expected size: 921600
+[2024-07-25 15:25:24,018]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:24,018]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:24,018]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:24,018]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:24,333]221INFO-Received data: {"frame":"NTY5Uoff4EcsMjQzLS4vMTExMTExMTI3Y2RcSD1BQ0REQUREQ0NDT1dXWoDT4O3v7/Dv69zHZTtDSUM8e1k3RUpISU...
+[2024-07-25 15:25:24,333]121INFO-Processing frame 1353
+[2024-07-25 15:25:24,338]144INFO-Array size: 921600
+[2024-07-25 15:25:24,338]145INFO-Expected size: 921600
+[2024-07-25 15:25:24,338]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:24,342]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:24,344]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:24,344]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:24,638]221INFO-Received data: {"frame":"MzMzMzI1Nklhju3fJykwMjEwMjIyMTAwLy8uMEdjWkxCPj1BPkBCQENERERHSE9VXXaCh4eCdGRPRkFER0dGcOPvPD...
+[2024-07-25 15:25:24,645]121INFO-Processing frame 1359
+[2024-07-25 15:25:24,648]144INFO-Array size: 921600
+[2024-07-25 15:25:24,648]145INFO-Expected size: 921600
+[2024-07-25 15:25:24,648]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:24,648]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:24,648]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:24,648]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:24,938]221INFO-Received data: {"frame":"0MmzhSszNDQ1NDAwMDAyMjAuLzE1ODNEZWdRPUBBQkRERERERERERD5GR0xRUlFQdKza7O/iwJ5zWT5ARUVHREJERk...
+[2024-07-25 15:25:24,938]121INFO-Processing frame 1365
+[2024-07-25 15:25:24,938]144INFO-Array size: 921600
+[2024-07-25 15:25:24,938]145INFO-Expected size: 921600
+[2024-07-25 15:25:24,938]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:24,938]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:24,948]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:24,948]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:25,239]221INFO-Received data: {"frame":"yMbCrC00NzMxMjMzMzQzMjIxMTI1ODtHZ2FSQUNFRENERUZFRkdHSEtLSk1XY3eJorrR3+Le1sOcdVBIRkZESEVCRE...
+[2024-07-25 15:25:25,239]121INFO-Processing frame 1371
+[2024-07-25 15:25:25,239]144INFO-Array size: 921600
+[2024-07-25 15:25:25,239]145INFO-Expected size: 921600
+[2024-07-25 15:25:25,239]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:25,243]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:25,243]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:25,248]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:25,572]221INFO-Received data: {"frame":"OzYxLy8yJSoxMTEzMjM0MzEvMTMyNDMwPFRfXUw+QEZGRUNDQkNERUI8QkhMUEhKSktJSEdFRENCQj9DREVGRkVERk...
+[2024-07-25 15:25:25,572]121INFO-Processing frame 1377
+[2024-07-25 15:25:25,578]144INFO-Array size: 921600
+[2024-07-25 15:25:25,578]145INFO-Expected size: 921600
+[2024-07-25 15:25:25,578]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:25,578]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:25,578]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:25,578]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:25,888]221INFO-Received data: {"frame":"29mBMzU2MjEyMzIzMzIxMjIyNDIvOVdeWEtHRUNEREJJU5PX6uTAg0U+PUFCVaLO6eHOoF1BRUVGRUVGRERHR0dHR0...
+[2024-07-25 15:25:25,894]121INFO-Processing frame 1383
+[2024-07-25 15:25:25,896]144INFO-Array size: 921600
+[2024-07-25 15:25:25,896]145INFO-Expected size: 921600
+[2024-07-25 15:25:25,896]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:25,898]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:25,898]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:25,903]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:26,195]221INFO-Received data: {"frame":"6Ojn4bxAKzM2NTU0MTExMi8vMTIzMi4sRmBgTTtBQUBDRktPcsjt7dCcRTtISkRBZKvm8+OiUjxAQEFER0dHRkVHSk...
+[2024-07-25 15:25:26,196]121INFO-Processing frame 1389
+[2024-07-25 15:25:26,199]144INFO-Array size: 921600
+[2024-07-25 15:25:26,199]145INFO-Expected size: 921600
+[2024-07-25 15:25:26,200]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:26,204]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:26,206]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:26,206]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:26,448]221INFO-Received data: {"frame":"LDQ6PlOu68ihf2JXUU5HPjQwNTMvMzQ0NDQzMjExLzAxMTM1QmRkU0NCRUNCQEJDRkZGRUhDQ0hOUUtGQj9BQ0REQk...
+[2024-07-25 15:25:26,448]121INFO-Processing frame 1395
+[2024-07-25 15:25:26,448]144INFO-Array size: 921600
+[2024-07-25 15:25:26,448]145INFO-Expected size: 921600
+[2024-07-25 15:25:26,448]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:26,458]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:26,460]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:26,460]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:26,668]221INFO-Received data: {"frame":"NDE1MjA1O2SQYUaS4urn4tu+Ny00NTIwMjEwMjIxMTExMjY2NU9gXkhDR0ZGSEhOSUlQTlZpkLPY7PPloWBAOTtDRk...
+[2024-07-25 15:25:26,668]121INFO-Processing frame 1398
+[2024-07-25 15:25:26,678]144INFO-Array size: 921600
+[2024-07-25 15:25:26,678]145INFO-Expected size: 921600
+[2024-07-25 15:25:26,678]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:26,678]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:26,678]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:26,678]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:26,973]221INFO-Received data: {"frame":"M26Wi4aUuK6nrsbDt6yyo4yAgIiEWx8pMi4uLSwtLi85P0FDREREREZHR0NBP0BAQUA7PkBCQ0A9PkBCQ0JAPURFRE...
+[2024-07-25 15:25:26,973]121INFO-Processing frame 1404
+[2024-07-25 15:25:26,980]144INFO-Array size: 921600
+[2024-07-25 15:25:26,980]145INFO-Expected size: 921600
+[2024-07-25 15:25:26,980]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:26,984]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:26,986]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:26,988]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:27,323]221INFO-Received data: {"frame":"MTI1NTg/Vnmgubu9v7q1nHllQzGAo4NFKi8wMC4zOzUwLy8qKEheX1JBQENDQ0JCQERAPkVCPDk5OTw8Ozw/QUBDQE...
+[2024-07-25 15:25:27,323]121INFO-Processing frame 1410
+[2024-07-25 15:25:27,326]144INFO-Array size: 921600
+[2024-07-25 15:25:27,327]145INFO-Expected size: 921600
+[2024-07-25 15:25:27,327]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:27,331]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:27,335]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:27,336]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:27,578]221INFO-Received data: {"frame":"PT5FcrvMvYdHOkFfi7HIuK+81drDo3M3Jy8vLTMuMDEyNDtHVl1aU0RARUVAQWKTyNTU0tzWq3hUSk1SXmyYwdfXt3...
+[2024-07-25 15:25:27,578]121INFO-Processing frame 1416
+[2024-07-25 15:25:27,578]144INFO-Array size: 921600
+[2024-07-25 15:25:27,578]145INFO-Expected size: 921600
+[2024-07-25 15:25:27,578]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:27,578]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:27,578]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:27,588]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:27,898]221INFO-Received data: {"frame":"LC42OVaa7s5AKDM6PkF9w9eaaaPm5b5aJzM0Mi4wMjM0My8zQlVZWUlCRkVGSEJEY6Tb5Njb3aFXXVJOUlxticbl2a...
+[2024-07-25 15:25:27,898]121INFO-Processing frame 1422
+[2024-07-25 15:25:27,907]144INFO-Array size: 921600
+[2024-07-25 15:25:27,907]145INFO-Expected size: 921600
+[2024-07-25 15:25:27,907]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:27,909]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:27,909]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:27,909]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:28,239]221INFO-Received data: {"frame":"MC8wLi0wMjM0NC84Qn7szpBTPTxDTGKq+48xT3rV5lIoMjUzMDMzMTIzLS9MY2VVPD1ER0tIQENNXKLX4ODe3drVz8...
+[2024-07-25 15:25:28,239]121INFO-Processing frame 1428
+[2024-07-25 15:25:28,239]144INFO-Array size: 921600
+[2024-07-25 15:25:28,239]145INFO-Expected size: 921600
+[2024-07-25 15:25:28,239]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:28,248]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:28,248]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:28,248]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:28,518]221INFO-Received data: {"frame":"NTIyMTEyMTAvKjIzODxJZ9P0Yj46Oz5GW4vd0l12xt/ikyMxMTI0MzArNTQ2OjlVbGdPRkdJRklOTFiV1tbd4NmfZF...
+[2024-07-25 15:25:28,519]121INFO-Processing frame 1434
+[2024-07-25 15:25:28,522]144INFO-Array size: 921600
+[2024-07-25 15:25:28,522]145INFO-Expected size: 921600
+[2024-07-25 15:25:28,522]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:28,522]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:28,522]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:28,528]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:28,768]221INFO-Received data: {"frame":"KSwtMDExLysrLC42QEdRWVtaVlFMTlNUTkdBOS8qKiwwMC4uMTIxNjw/QUJAP0FIcZOjm4d9eICFgJeyu7/Eyc7S2N...
+[2024-07-25 15:25:28,773]121INFO-Processing frame 1437
+[2024-07-25 15:25:28,774]144INFO-Array size: 921600
+[2024-07-25 15:25:28,774]145INFO-Expected size: 921600
+[2024-07-25 15:25:28,774]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:28,778]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:28,778]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:28,778]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:29,055]221INFO-Received data: {"frame":"KisuMTEwOUZlstjNwMnbZDhcpbahNS43NTIuMDMzMS8yMjEtMTIvNmJnZU5ESEhIRUpnjsPX0c/X19C9vLy8vb6/wM...
+[2024-07-25 15:25:29,058]121INFO-Processing frame 1440
+[2024-07-25 15:25:29,058]144INFO-Array size: 921600
+[2024-07-25 15:25:29,058]145INFO-Expected size: 921600
+[2024-07-25 15:25:29,058]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:29,058]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:29,058]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:29,068]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:29,268]221INFO-Received data: {"frame":"MDAsKCYqMDM0NkJWcoBxaneIoaOYjYBybXF3ZEInJy40Nzo9Pj89PEJGSUdKRzk6PkdJRkRDQ0JESlRUS0NCQEBESU...
+[2024-07-25 15:25:29,268]121INFO-Processing frame 1443
+[2024-07-25 15:25:29,270]144INFO-Array size: 921600
+[2024-07-25 15:25:29,270]145INFO-Expected size: 921600
+[2024-07-25 15:25:29,270]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:29,270]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:29,270]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:29,270]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:29,608]221INFO-Received data: {"frame":"MjIvMTU1MS8xMDEzOkJJaHpyRztomt3vUik2MjEzLSwtKzAyLjhlZFlFO0BCQ0JEQ0RGQkFHQD1FTEpEQUNARkdJTU...
+[2024-07-25 15:25:29,608]121INFO-Processing frame 1449
+[2024-07-25 15:25:29,608]144INFO-Array size: 921600
+[2024-07-25 15:25:29,608]145INFO-Expected size: 921600
+[2024-07-25 15:25:29,608]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:29,618]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:29,620]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:29,620]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:29,878]221INFO-Received data: {"frame":"NDIxMS4uLy4qMzc1ODo7QE5aY2FFSJa1tXshLUJzbDclLDQ4NDUxMzQ0NDBFXGhZRT9DQ0NBREhTW2qHpquil5GNhX...
+[2024-07-25 15:25:29,878]121INFO-Processing frame 1455
+[2024-07-25 15:25:29,888]144INFO-Array size: 921600
+[2024-07-25 15:25:29,888]145INFO-Expected size: 921600
+[2024-07-25 15:25:29,888]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:29,892]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:29,892]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:29,892]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:30,102]221INFO-Received data: {"frame":"MzIxMC4vLy4xLjAvMDdHf/LVV2nj6DxFV5b7rSctMjA0MzMxMzMzMS8vMDExM0NdZ18+PElNTliIvubeoGN/s+PEiF...
+[2024-07-25 15:25:30,108]121INFO-Processing frame 1458
+[2024-07-25 15:25:30,108]144INFO-Array size: 921600
+[2024-07-25 15:25:30,108]145INFO-Expected size: 921600
+[2024-07-25 15:25:30,108]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:30,113]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:30,113]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:30,118]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:30,370]221INFO-Received data: {"frame":"Li0tLS4uLC0tLzI2QlB52tmsnNnaVEGFwNOULjI6MjI0MzIxMTMwMzIyNDEvQGZlW0RLS0xLUVl2ruPitMLW34h0cn...
+[2024-07-25 15:25:30,370]121INFO-Processing frame 1461
+[2024-07-25 15:25:30,370]144INFO-Array size: 921600
+[2024-07-25 15:25:30,378]145INFO-Expected size: 921600
+[2024-07-25 15:25:30,378]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:30,378]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:30,378]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:30,378]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:30,638]221INFO-Received data: {"frame":"KiotMDAwLzAvMTM1N2KjytPC69qVosXa44EoMzQ0LyYuLzAxMC4sLC4rLzRHZGVcQUJCQD8/QUJCQ0VGRkZERERERU...
+[2024-07-25 15:25:30,639]121INFO-Processing frame 1464
+[2024-07-25 15:25:30,639]144INFO-Array size: 921600
+[2024-07-25 15:25:30,639]145INFO-Expected size: 921600
+[2024-07-25 15:25:30,639]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:30,639]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:30,648]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:30,648]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:30,908]221INFO-Received data: {"frame":"LCwuLjAuMzg4NjMxMzQ6PkZddmZKQ3Go3d82IzU2MC8vMC8uLCwtQltfVURCQ0RDQEFAQUJDQ0NERENCQUBBQ0NCQk...
+[2024-07-25 15:25:30,908]121INFO-Processing frame 1467
+[2024-07-25 15:25:30,908]144INFO-Array size: 921600
+[2024-07-25 15:25:30,908]145INFO-Expected size: 921600
+[2024-07-25 15:25:30,908]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:30,917]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:30,917]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:30,917]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:31,159]221INFO-Received data: {"frame":"N2DG4cpkO2zFxL20qJyRiH96cWlaWFdcNicwMS8vLi4nJCssMS1GYmJURUNAQEBAPz48PkBBQEFCQEFERERGRkZGRE...
+[2024-07-25 15:25:31,159]121INFO-Processing frame 1470
+[2024-07-25 15:25:31,168]144INFO-Array size: 921600
+[2024-07-25 15:25:31,168]145INFO-Expected size: 921600
+[2024-07-25 15:25:31,168]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:31,168]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:31,175]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:31,175]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:31,478]221INFO-Received data: {"frame":"Nzlht9SldUtCQU1iiNnYWS02NC8nJykuMS0rLC0sLDEvKVJpX0k8Oz8+QEBAP0A+P0FBQUBAQUBAP0FCQEBCREZHRU...
+[2024-07-25 15:25:31,478]121INFO-Processing frame 1476
+[2024-07-25 15:25:31,478]144INFO-Array size: 921600
+[2024-07-25 15:25:31,478]145INFO-Expected size: 921600
+[2024-07-25 15:25:31,478]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:31,478]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:31,489]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:31,489]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:31,707]221INFO-Received data: {"frame":"U3airrO0sJ57Qzc5VKSoiCslLC4uLy4tLi4qLTA5W1pTREVCPj9AQD49P0BAQD8/QUJAQUFCQkFCQkA/QUFBQ0VFR0...
+[2024-07-25 15:25:31,707]121INFO-Processing frame 1479
+[2024-07-25 15:25:31,707]144INFO-Array size: 921600
+[2024-07-25 15:25:31,707]145INFO-Expected size: 921600
+[2024-07-25 15:25:31,707]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:31,718]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:31,718]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:31,718]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:32,048]221INFO-Received data: {"frame":"PFGoz8toarbd3JsoKDEwLCwrKiksLisoUGRaTEBAPz9AQUJCQT8+Pz89PkBAQT8+QEFBQUJDQUJDQ0BDRURGSFRytO...
+[2024-07-25 15:25:32,050]121INFO-Processing frame 1485
+[2024-07-25 15:25:32,050]144INFO-Array size: 921600
+[2024-07-25 15:25:32,050]145INFO-Expected size: 921600
+[2024-07-25 15:25:32,050]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:32,060]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:32,063]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:32,064]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:32,398]221INFO-Received data: {"frame":"uLGqr7/P1b6QNS4zLzAsLC4tLjAwLi8uLiwwJk9oYEs9QEJERUZGRUVFREZJT09Zb3+Plai+2eDn6ufFQzw/RkhLUE...
+[2024-07-25 15:25:32,398]121INFO-Processing frame 1491
+[2024-07-25 15:25:32,401]144INFO-Array size: 921600
+[2024-07-25 15:25:32,401]145INFO-Expected size: 921600
+[2024-07-25 15:25:32,401]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:32,401]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:32,401]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:32,408]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:32,708]221INFO-Received data: {"frame":"TXSor6iflIuBeXBpY2BeXVxbMyYtMTAtLy4tLS8sMDQ9Xl9aRTw9P0JCRERCRUZISURLY8Tl5eLd2c7BrJ6GZj1CR0...
+[2024-07-25 15:25:32,714]121INFO-Processing frame 1497
+[2024-07-25 15:25:32,714]144INFO-Array size: 921600
+[2024-07-25 15:25:32,714]145INFO-Expected size: 921600
+[2024-07-25 15:25:32,714]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:32,718]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:32,718]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:32,718]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:33,034]221INFO-Received data: {"frame":"Vq/h5OLe2tjZ3eDZw7WsqpqKXDEyMCwtLy8uLSwrNDdRZltIOz1BQUJCQkNDQUBISEpVV1tgfI+txNzo6OTQnEBASk...
+[2024-07-25 15:25:33,034]121INFO-Processing frame 1503
+[2024-07-25 15:25:33,038]144INFO-Array size: 921600
+[2024-07-25 15:25:33,038]145INFO-Expected size: 921600
+[2024-07-25 15:25:33,038]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:33,038]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:33,038]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:33,038]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:33,368]221INFO-Received data: {"frame":"397a0rubWjUsMTIwMC8tKywrLC0sLC0wLSs/YGdgSTw5PkBCQ0RFQ0JFSUxTUlZvkazI2OPk3dK/qGxAQEVGSktMU2...
+[2024-07-25 15:25:33,368]121INFO-Processing frame 1509
+[2024-07-25 15:25:33,368]144INFO-Array size: 921600
+[2024-07-25 15:25:33,368]145INFO-Expected size: 921600
+[2024-07-25 15:25:33,368]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:33,377]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:33,377]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:33,377]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:33,658]221INFO-Received data: {"frame":"jYZqSzMzKkt8h1wyMC4rKy0vMC0sLikpVmBXRzxEQUFBQkJCQ0hIQkVIU47V49rKrpaJemZXS0dLTU1JSEhBR3G7vI...
+[2024-07-25 15:25:33,658]121INFO-Processing frame 1515
+[2024-07-25 15:25:33,658]144INFO-Array size: 921600
+[2024-07-25 15:25:33,658]145INFO-Expected size: 921600
+[2024-07-25 15:25:33,658]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:33,658]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:33,668]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:33,670]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:33,937]221INFO-Received data: {"frame":"KCssLCwsLSwuMDM0NDc0NU6U19JpPi41PViTy86hgbni3KJLKTg0MS0uMjEqKisuV2RcUUVAQEFCQkRGR0hDSVRcgc...
+[2024-07-25 15:25:33,937]121INFO-Processing frame 1521
+[2024-07-25 15:25:33,942]144INFO-Array size: 921600
+[2024-07-25 15:25:33,942]145INFO-Expected size: 921600
+[2024-07-25 15:25:33,942]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:33,942]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:33,948]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:33,948]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:34,301]221INFO-Received data: {"frame":"PDs6Ojw5PD8/QEVHR0ZQlc7Gjmp1jKe5ycvHiVA9O0JEQUNGOk2jhCksOTc8QEFAP0FFRUZHR0dFSlJWXmySyN7c29...
+[2024-07-25 15:25:34,301]121INFO-Processing frame 1527
+[2024-07-25 15:25:34,307]144INFO-Array size: 921600
+[2024-07-25 15:25:34,307]145INFO-Expected size: 921600
+[2024-07-25 15:25:34,307]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:34,307]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:34,314]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:34,314]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:34,624]221INFO-Received data: {"frame":"MC5EXV1YOzw+QD8/Pz08PT4/Q0JET4PM6t/Bsq6zvsbN26VCQkNCPzw9SnSvubRpKDc9PkFDREZLRk1NSUZESE9WX3...
+[2024-07-25 15:25:34,624]121INFO-Processing frame 1533
+[2024-07-25 15:25:34,628]144INFO-Array size: 921600
+[2024-07-25 15:25:34,628]145INFO-Expected size: 921600
+[2024-07-25 15:25:34,628]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:34,628]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:34,628]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:34,628]203INFO-Request processing time: 0.00 seconds
+[2024-07-25 15:25:34,908]221INFO-Received data: {"frame":"MjM8P0JPmMnRztjvx7DM3OTiWDVDQ0RGRDs6UotVLyUvNzo6PD1EQkNDRERERUVERE9djfbtmpax4f/eeWWIz/mIMk...
+[2024-07-25 15:25:34,908]121INFO-Processing frame 1539
+[2024-07-25 15:25:34,913]144INFO-Array size: 921600
+[2024-07-25 15:25:34,913]145INFO-Expected size: 921600
+[2024-07-25 15:25:34,913]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:34,913]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:34,917]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:34,917]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:35,108]221INFO-Received data: {"frame":"OTk7Ozo8PT0/QURESEqHxL+9wMbRzry3u8mVOztDQEBARUZIiaqikUMdMjY3Oj0+Pj5AQUNBQT5CQUVHe622yNPX19...
+[2024-07-25 15:25:35,108]121INFO-Processing frame 1542
+[2024-07-25 15:25:35,115]144INFO-Array size: 921600
+[2024-07-25 15:25:35,115]145INFO-Expected size: 921600
+[2024-07-25 15:25:35,115]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:35,117]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:35,117]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:35,117]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:35,358]221INFO-Received data: {"frame":"rMLCSSgyLy4wMS4vLjAvNT1WYlpAQUBAQD9BQkRKR0hFREhJSEQ/QUJGSEVJT0dEQ0JBQEJFSEdGW6bfzFklMzo8Pz...
+[2024-07-25 15:25:35,362]121INFO-Processing frame 1545
+[2024-07-25 15:25:35,362]144INFO-Array size: 921600
+[2024-07-25 15:25:35,362]145INFO-Expected size: 921600
+[2024-07-25 15:25:35,362]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:35,368]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:35,368]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:35,368]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:35,668]221INFO-Received data: {"frame":"LklgOS0zLy4vLicpKy8wKTxcWllEPUVGRkJKS1txoLnHzce/uLm4trCtrayHcj4/REFCRkRFQkBBSGFzUiolLjxAQU...
+[2024-07-25 15:25:35,668]121INFO-Processing frame 1551
+[2024-07-25 15:25:35,668]144INFO-Array size: 921600
+[2024-07-25 15:25:35,668]145INFO-Expected size: 921600
+[2024-07-25 15:25:35,668]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:35,677]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:35,677]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:35,677]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:36,030]221INFO-Received data: {"frame":"ODk4Ojs8OkhaUzw5Ojo5Ojo4Ozo4Oz48Ozs8PDw8PUFCQ3bIv6SXlauwsrGooZ+hrLdKIzc8Ozo7Ozs7PDw7Ozo7Oz...
+[2024-07-25 15:25:36,030]121INFO-Processing frame 1557
+[2024-07-25 15:25:36,038]144INFO-Array size: 921600
+[2024-07-25 15:25:36,038]145INFO-Expected size: 921600
+[2024-07-25 15:25:36,038]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:36,038]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:36,038]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:36,038]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:36,413]221INFO-Received data: {"frame":"m5qampubnJybnJybm5ybm5qampqbm5ycnJ2cmpqampucnJucnJycnJ2dnJubm5ubnJ2bm5ycm5ubm5ubm5uampydnZ...
+[2024-07-25 15:25:36,417]121INFO-Processing frame 1563
+[2024-07-25 15:25:36,417]144INFO-Array size: 921600
+[2024-07-25 15:25:36,417]145INFO-Expected size: 921600
+[2024-07-25 15:25:36,417]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:36,417]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:36,417]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:36,426]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:36,768]221INFO-Received data: {"frame":"m5ucnJycnJ2fnp2dm5ydnZ2dnZ2cnJ2cnJudnZ6dnJybm5uampqamZmZmZmamZqZmZqampmZmpubm5ycnJ2cnJubm5...
+[2024-07-25 15:25:36,768]121INFO-Processing frame 1569
+[2024-07-25 15:25:36,777]144INFO-Array size: 921600
+[2024-07-25 15:25:36,777]145INFO-Expected size: 921600
+[2024-07-25 15:25:36,777]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:36,780]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:36,780]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:36,780]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:37,148]221INFO-Received data: {"frame":"KCgoKSoqKisqKyopKSopKCgqKysrKysrKy0tLC0uLi0tLi4vLzAvLzAwMTIyMjMzMzU1NDMyMTEzMjIzMTEyMjM1ND...
+[2024-07-25 15:25:37,148]121INFO-Processing frame 1575
+[2024-07-25 15:25:37,148]144INFO-Array size: 921600
+[2024-07-25 15:25:37,148]145INFO-Expected size: 921600
+[2024-07-25 15:25:37,148]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:37,156]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:37,157]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:37,158]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:37,483]221INFO-Received data: {"frame":"LS0tLi8vLy4vLSwuLS0uMC8uLSwtLS0vMS8vMDAxMDExLzAwMDExLzExMC8wLy8vLzAxMTExMjEzMjEyMjExMTAwMT...
+[2024-07-25 15:25:37,483]121INFO-Processing frame 1581
+[2024-07-25 15:25:37,488]144INFO-Array size: 921600
+[2024-07-25 15:25:37,488]145INFO-Expected size: 921600
+[2024-07-25 15:25:37,488]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:37,493]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:37,495]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:37,495]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:37,760]221INFO-Received data: {"frame":"LS4tLi8tLS0uLiwtLS0vLy8tLS4vLi8wMTEwMDAwMjExMS8vMC8wMTEwLy4vLi4tLS8uLzAvLS0vLy4vMTMzMjAwLj...
+[2024-07-25 15:25:37,766]121INFO-Processing frame 1584
+[2024-07-25 15:25:37,771]144INFO-Array size: 921600
+[2024-07-25 15:25:37,771]145INFO-Expected size: 921600
+[2024-07-25 15:25:37,771]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:37,778]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:37,778]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:37,786]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:38,120]221INFO-Received data: {"frame":"ODc2NzY2NDU2NjY3ODc2ODg3ODc3ODk5OTk5ODs7Ozw9PDs5Ojk6OTg4OTg4OTk5ODc1Nzo5OTo5OTo6Ojk6Ojo6OT...
+[2024-07-25 15:25:38,121]121INFO-Processing frame 1590
+[2024-07-25 15:25:38,124]144INFO-Array size: 921600
+[2024-07-25 15:25:38,124]145INFO-Expected size: 921600
+[2024-07-25 15:25:38,124]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:38,126]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:38,128]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:38,129]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:38,426]221INFO-Received data: {"frame":"NTQ0MzMyNDQ1NDU1NDU1MzIyNDU1NDU1NjY1NTY1NDQzNDQzNTU1NTMzNTYzMjMzMzIyNDY0MzM0MTI0NDU1NjY1NT...
+[2024-07-25 15:25:38,428]121INFO-Processing frame 1596
+[2024-07-25 15:25:38,430]144INFO-Array size: 921600
+[2024-07-25 15:25:38,430]145INFO-Expected size: 921600
+[2024-07-25 15:25:38,430]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:38,435]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:38,436]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:38,438]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:38,648]221INFO-Received data: {"frame":"R0VPXG2Cqbm2pZSSiIaOkJCWo626uLCYW0JLS0dISEhJSUhHSUpNTU5tm7Wxo5aVlpWWlZKLm6O3wbyicVFES0xLSU...
+[2024-07-25 15:25:38,649]121INFO-Processing frame 1599
+[2024-07-25 15:25:38,649]144INFO-Array size: 921600
+[2024-07-25 15:25:38,649]145INFO-Expected size: 921600
+[2024-07-25 15:25:38,649]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:38,649]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:38,657]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:38,657]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:38,768]221INFO-Received data: ping...
+[2024-07-25 15:25:38,768]225ERROR-JSON decode error: Expecting value: line 1 column 1 (char 0)
+[2024-07-25 15:25:38,768]226ERROR-Received invalid JSON: ping...
+[2024-07-25 15:25:38,968]221INFO-Received data: {"frame":"UFBPTE5RUVBRU1NSUlFRUVFQUFFRUlJRUlNSUlJUVFVUU1NTVFRUUlFRVFVWWFhXV1VVV1VUU1NUVVRVVFRVVVNTU1...
+[2024-07-25 15:25:38,968]121INFO-Processing frame 1605
+[2024-07-25 15:25:38,968]144INFO-Array size: 921600
+[2024-07-25 15:25:38,968]145INFO-Expected size: 921600
+[2024-07-25 15:25:38,968]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:38,991]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:38,991]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:38,991]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:39,300]221INFO-Received data: {"frame":"WVhXV1dWVlZXWFdVVlhZWFdQVXikxdSya1VZXGBiZWp5jNLq255aZWZmYF5fX19fYGBfX2FiYHGVwsfAtKyjnI1+eX...
+[2024-07-25 15:25:39,301]121INFO-Processing frame 1611
+[2024-07-25 15:25:39,304]144INFO-Array size: 921600
+[2024-07-25 15:25:39,304]145INFO-Expected size: 921600
+[2024-07-25 15:25:39,304]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:39,310]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:39,312]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:39,312]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:39,513]221INFO-Received data: {"frame":"UE9NTU9RUFBRUU9QUVBQUE5LS05QUVJVVFBOUFFSUlJSUVBSVlVUUlNSUlRUVVVUVVVTVFZWV1hWVFNRUFFQUVVXV1...
+[2024-07-25 15:25:39,515]121INFO-Processing frame 1614
+[2024-07-25 15:25:39,517]144INFO-Array size: 921600
+[2024-07-25 15:25:39,517]145INFO-Expected size: 921600
+[2024-07-25 15:25:39,517]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:39,528]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:39,532]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:39,533]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:39,768]221INFO-Received data: {"frame":"RkZHSEpLS0pKSkpHRUZJSkpJSkxMTEpJSkxMSktLSkpNTU5MS0pKTE1OTkxKSkpISUpJSUlLTExLS0hIS0pJSktNS0...
+[2024-07-25 15:25:39,768]121INFO-Processing frame 1617
+[2024-07-25 15:25:39,768]144INFO-Array size: 921600
+[2024-07-25 15:25:39,768]145INFO-Expected size: 921600
+[2024-07-25 15:25:39,768]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:39,778]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:39,781]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:39,781]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:40,144]221INFO-Received data: {"frame":"WVpaWlhaXFxeX2NiXF1hYWJjYWNmZWNkZGNobWxpcXJyc3R2dHRzcHV1dnd2dnV0dHV3eHh4d3x7eHh6e3t7enl6en...
+[2024-07-25 15:25:40,147]121INFO-Processing frame 1623
+[2024-07-25 15:25:40,150]144INFO-Array size: 921600
+[2024-07-25 15:25:40,150]145INFO-Expected size: 921600
+[2024-07-25 15:25:40,150]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:40,157]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:40,159]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:40,160]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:40,468]221INFO-Received data: {"frame":"Wl1eYGBgYGFjY2FgYWJhYmRkZGNiY2ZpZmRjZWZnaWlramlpaGhpamtpaWlqa2hpaGlpaWlra2xtbW1tbGxra2ttbm...
+[2024-07-25 15:25:40,468]121INFO-Processing frame 1629
+[2024-07-25 15:25:40,472]144INFO-Array size: 921600
+[2024-07-25 15:25:40,472]145INFO-Expected size: 921600
+[2024-07-25 15:25:40,472]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:40,479]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:40,479]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:40,479]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:40,711]221INFO-Received data: {"frame":"VVVXWFdWVlZXVlRWVlVYV1hXV1dXWFlYWFdaXFpcW1tbXFxbXFxcW1tdXl1bWl1eX19dXl9dXV9eXV1fXl5eXl1dXV...
+[2024-07-25 15:25:40,711]121INFO-Processing frame 1632
+[2024-07-25 15:25:40,718]144INFO-Array size: 921600
+[2024-07-25 15:25:40,718]145INFO-Expected size: 921600
+[2024-07-25 15:25:40,718]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:40,726]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:40,739]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:40,740]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:25:40,948]221INFO-Received data: {"frame":"z8zOz9DQ0NLd3NTErpRzcXVvj6e/vLmwk4R4d3yBi5isvMzIs7LH2OPl5+nk39PJu6yVfWlgWVldZGlramtrbGtoaG...
+[2024-07-25 15:25:40,957]121INFO-Processing frame 1635
+[2024-07-25 15:25:40,961]144INFO-Array size: 921600
+[2024-07-25 15:25:40,961]145INFO-Expected size: 921600
+[2024-07-25 15:25:40,961]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:40,961]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:40,967]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:40,967]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:41,238]221INFO-Received data: {"frame":"Q0NCQ0RGR0ZGRkZFRkZGQ0NGSElISUxOTUtLTU9OT1BQUlJRUlJSVVVVWVhkeJ+53vT8/fz69/b29vXy8O3k27VqU1...
+[2024-07-25 15:25:41,239]121INFO-Processing frame 1641
+[2024-07-25 15:25:41,242]144INFO-Array size: 921600
+[2024-07-25 15:25:41,242]145INFO-Expected size: 921600
+[2024-07-25 15:25:41,242]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:41,247]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:41,248]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:41,249]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:41,552]221INFO-Received data: {"frame":"P0A/P0BBQEBCQ0NDRUVEQ0FBQ0ZHR0dDQ0NDREdJR0ZFR0hKS0tIR0dHSkpKSUlIR0lISUpKSktJR0VGSEtMT09OTU...
+[2024-07-25 15:25:41,553]121INFO-Processing frame 1647
+[2024-07-25 15:25:41,555]144INFO-Array size: 921600
+[2024-07-25 15:25:41,555]145INFO-Expected size: 921600
+[2024-07-25 15:25:41,555]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:41,559]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:41,560]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:41,561]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:41,783]221INFO-Received data: {"frame":"Q0FDQ0VDQ0NDQ0BAQUFDREJCRENDREdGRUZGRkZHRkRFRkdHR0dHR0hLTExLS0tLSUdISUtNTEtKSkpMTUxKSktLTU...
+[2024-07-25 15:25:41,784]121INFO-Processing frame 1650
+[2024-07-25 15:25:41,788]144INFO-Array size: 921600
+[2024-07-25 15:25:41,788]145INFO-Expected size: 921600
+[2024-07-25 15:25:41,788]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:41,797]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:41,801]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:41,802]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:42,108]221INFO-Received data: {"frame":"REZFQT8/QUNCQkNCQkFBQUFDQ0NDREVFRkZFRERGRkVFRUVFRkZGSUlLSklLSkpKR0VHSktLS0tKTE5MTEtJSUtOUE...
+[2024-07-25 15:25:42,113]121INFO-Processing frame 1656
+[2024-07-25 15:25:42,113]144INFO-Array size: 921600
+[2024-07-25 15:25:42,113]145INFO-Expected size: 921600
+[2024-07-25 15:25:42,113]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:42,127]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:42,128]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:42,128]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:42,440]221INFO-Received data: {"frame":"RUVEQkBCREREREVFRURCREdGRkVGRkZHSEdGRUVFRkdHSkxLS0lJSktMTU1MS0xNTEpKS0tKS0tMS0tMS0xMTlBPUV...
+[2024-07-25 15:25:42,440]121INFO-Processing frame 1662
+[2024-07-25 15:25:42,445]144INFO-Array size: 921600
+[2024-07-25 15:25:42,446]145INFO-Expected size: 921600
+[2024-07-25 15:25:42,446]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:42,451]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:42,455]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:42,456]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:42,771]221INFO-Received data: {"frame":"o6SajHRnZnWZlIN0S0VYaXd6VEdLS0tISElIR05QUVRST01LQ0NJTE9aXFZVTkpMTEtLTlNedYB4b2RRUlNSUFFSUl...
+[2024-07-25 15:25:42,773]121INFO-Processing frame 1668
+[2024-07-25 15:25:42,778]144INFO-Array size: 921600
+[2024-07-25 15:25:42,778]145INFO-Expected size: 921600
+[2024-07-25 15:25:42,778]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:42,779]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:42,785]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:42,786]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:43,112]221INFO-Received data: {"frame":"R0tNTElHRkdJSEhHRUZGR0dGSEZEREVFRUVGRkhIRkZGRkdGRUZHRkdGSUlJSEZHSEhGR0hKS0xKS0tLTEtMTE1NTE...
+[2024-07-25 15:25:43,118]121INFO-Processing frame 1674
+[2024-07-25 15:25:43,119]144INFO-Array size: 921600
+[2024-07-25 15:25:43,119]145INFO-Expected size: 921600
+[2024-07-25 15:25:43,119]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:43,126]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:43,128]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:43,128]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:43,409]221INFO-Received data: {"frame":"R0dHR0dHRkdHR0dIR0hIR0dJSkpKSUlKS0tMTExMSktMS0lJSUhHSEpKSktKSkpKSEpLTE1OTUxLSkxMTU9QTk1MS0...
+[2024-07-25 15:25:43,411]121INFO-Processing frame 1680
+[2024-07-25 15:25:43,413]144INFO-Array size: 921600
+[2024-07-25 15:25:43,414]145INFO-Expected size: 921600
+[2024-07-25 15:25:43,414]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:43,417]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:43,418]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:43,419]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:43,709]221INFO-Received data: {"frame":"TExKSkpKSklJSUhISkpLS0hGSUpJS0tMS0tMTEpKSEdKTE1NS0xMTE5PT1BRUFJSUlNRUFBQTk9QTU1QUFBRUlNTUE...
+[2024-07-25 15:25:43,709]121INFO-Processing frame 1686
+[2024-07-25 15:25:43,718]144INFO-Array size: 921600
+[2024-07-25 15:25:43,718]145INFO-Expected size: 921600
+[2024-07-25 15:25:43,718]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:43,718]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:43,718]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:43,718]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:43,943]221INFO-Received data: {"frame":"R0ZHR0dHSUtMTUtLSktMTk1MS0xNTU1NTk9NTExMS09QUFFST09QT1BQUVBQUVFQUlBVVFNQTkxPUlRWU1BQU1JSU1...
+[2024-07-25 15:25:43,943]121INFO-Processing frame 1689
+[2024-07-25 15:25:43,949]144INFO-Array size: 921600
+[2024-07-25 15:25:43,949]145INFO-Expected size: 921600
+[2024-07-25 15:25:43,949]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:43,953]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:43,958]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:43,958]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:44,245]221INFO-Received data: {"frame":"TEpKSUlLS0xNTExMTUtKS0tLTEtLTU5MTE1NTExMTlBTUlBPUFBPTk5RUlJRUFBQUVFSU1NRUVJTU1NVXFpTUlNWV1...
+[2024-07-25 15:25:44,246]121INFO-Processing frame 1695
+[2024-07-25 15:25:44,249]144INFO-Array size: 921600
+[2024-07-25 15:25:44,249]145INFO-Expected size: 921600
+[2024-07-25 15:25:44,249]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:44,252]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:44,252]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:44,252]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:44,579]221INFO-Received data: {"frame":"S0pKSktLSUpMTEpLTEpISktKSklKS01MTE1PTk5PTk9QT1JWXGR4rejGnqauwevl1tbX1XlSU1dXV1hXVlVUVFRUVF...
+[2024-07-25 15:25:44,581]121INFO-Processing frame 1701
+[2024-07-25 15:25:44,584]144INFO-Array size: 921600
+[2024-07-25 15:25:44,585]145INFO-Expected size: 921600
+[2024-07-25 15:25:44,585]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:44,592]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:44,595]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:44,595]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:44,838]221INFO-Received data: {"frame":"cHR/kqiqm5OSkpCgwsO4q6Gkq7C0ub+/sp2boKGirbO9wsG+vb26ub/I0tPOycnJzNjk3cG1qaSfn56zsIx7dneAl7...
+[2024-07-25 15:25:44,840]121INFO-Processing frame 1707
+[2024-07-25 15:25:44,842]144INFO-Array size: 921600
+[2024-07-25 15:25:44,842]145INFO-Expected size: 921600
+[2024-07-25 15:25:44,842]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:44,851]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:44,856]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:44,858]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:45,166]221INFO-Received data: {"frame":"TEpLS0xMS0tOTk5NT1BOTk1OUFFOTU5PTUtNT1RVVlhkc4eRjoJjb4OQlJCLiIeIiIJ/jp+jk31jXXyRi3NdUVVTUF...
+[2024-07-25 15:25:45,166]121INFO-Processing frame 1713
+[2024-07-25 15:25:45,182]144INFO-Array size: 921600
+[2024-07-25 15:25:45,182]145INFO-Expected size: 921600
+[2024-07-25 15:25:45,182]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:45,186]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:45,189]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:45,189]203INFO-Request processing time: 0.02 seconds
+[2024-07-25 15:25:45,442]221INFO-Received data: {"frame":"vb68uLWmdE5JTU1LTE5NTk5NTk1OT09NTE1OTU1NS0tLTU5PTkxMTUxNTk5RUU5PTk5QVFVRT09QUVFSUVFPUE5NT1...
+[2024-07-25 15:25:45,443]121INFO-Processing frame 1719
+[2024-07-25 15:25:45,445]144INFO-Array size: 921600
+[2024-07-25 15:25:45,445]145INFO-Expected size: 921600
+[2024-07-25 15:25:45,445]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:45,452]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:45,455]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:45,455]203INFO-Request processing time: 0.01 seconds
+[2024-07-25 15:25:45,722]221INFO-Received data: {"frame":"S0tMTEtOTktKSUtLTUxLS0tMTk1LTE5RUlFNTlxihLzb5uvt7/Dx8u/luIBUVlJTU1FSU1NTU1JSU1JPT09RUVFQUE...
+[2024-07-25 15:25:45,722]121INFO-Processing frame 1725
+[2024-07-25 15:25:45,735]144INFO-Array size: 921600
+[2024-07-25 15:25:45,735]145INFO-Expected size: 921600
+[2024-07-25 15:25:45,735]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:45,754]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:45,754]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:45,754]203INFO-Request processing time: 0.03 seconds
+[2024-07-25 15:25:46,070]221INFO-Received data: {"frame":"boeqr62rqqyvtcbQ0s/Gw77BxsbGwrm0q6CZlY2EcGBbW1xhdImru8zZ3dzR0tPT1dXT09ba3uHj4t3XxLB1R1JWWl...
+[2024-07-25 15:25:46,070]121INFO-Processing frame 1731
+[2024-07-25 15:25:46,070]144INFO-Array size: 921600
+[2024-07-25 15:25:46,070]145INFO-Expected size: 921600
+[2024-07-25 15:25:46,070]146INFO-Image dimensions: 1280x720
+[2024-07-25 15:25:46,070]165INFO-Saved image to debug_image.jpg in greyscale format
+[2024-07-25 15:25:46,086]109ERROR-An error occurred in processing the video: axes don't match array
+[2024-07-25 15:25:46,086]203INFO-Request processing time: 0.02 seconds
