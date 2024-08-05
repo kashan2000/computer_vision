@@ -125,12 +125,13 @@ async def websocket_endpoint(websocket: WebSocket):
             result = await process_frame(frame_data)
             await websocket.send_text(json.dumps(result))
     except WebSocketDisconnect:
-        logger.info("WebSocket disconnected")
+        print("WebSocket disconnected")
     except Exception as e:
-        logger.error(f"An error occurred: {e}")
+        print(f"An error occurred: {e}")
     finally:
         # Attempt to close the connection if it's still open
         try:
+            print("closing connection ")
             await websocket.close()
         except RuntimeError:
             pass
