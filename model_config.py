@@ -74,7 +74,7 @@ def get_pose_from_frame(frame):
         pose_results = yolo_model_pose(frame)
 
         for pr in pose_results:
-            # print(f"pose results>> ${pr}")
+            print(f"pose results>> ${pr}")
             if pr.keypoints is not None and len(pr.keypoints) > 0:
                 keypoint_mapping = {
                     'nose': 0, 'r_eye': 1, 'l_eye': 2, 'r_ear': 3, 'l_ear': 4,
