@@ -12,8 +12,8 @@ import traceback
 # Load models
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
-yolo_model_detection = YOLO("yolov8n.pt").to(device)  # YOLOv8 for object detection
-yolo_model_pose = YOLO("yolov8n-pose.pt").to(device)  # YOLOv8 for pose estimation
+yolo_model_detection = YOLO("yolov8s.pt").to(device)  # YOLOv8 for object detection
+yolo_model_pose = YOLO("yolov8s-pose.pt").to(device)  # YOLOv8 for pose estimation
 
 
 # Global variables
