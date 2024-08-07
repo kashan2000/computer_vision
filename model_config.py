@@ -73,7 +73,7 @@ def get_pose_from_frame(frame):
         pose_results = yolo_model_pose(frame)
 
         for pr in pose_results:
-            print(f"pose results>> ${pr}")
+            # print(f"pose results>> ${pr}")
             if pr.keypoints is not None and len(pr.keypoints) > 0:
                 keypoint_mapping = {
                     'nose': 0, 'r_eye': 1, 'l_eye': 2, 'r_ear': 3, 'l_ear': 4,
@@ -86,19 +86,19 @@ def get_pose_from_frame(frame):
                         keypoint_list = pr.keypoints.xyn[0][idx].tolist()
                         results[key] = keypoint_list
                         
-                # Calculate neck point
-                if 'r_shoulder' in results and 'l_shoulder' in results:
-                    neck_x = (results['r_shoulder'][0] + results['l_shoulder'][0]) // 2
-                    neck_y = (results['r_shoulder'][1] + results['l_shoulder'][1]) // 2
-                    results['neck'] = [neck_x, neck_y]
-                # Calculate head point
-                if 'nose' in results and 'l_ear' in results and 'r_eye' in results:
-                    l_ear = results['l_ear']
-                    r_eye = results['r_eye']
-                    distance_between_ears = np.linalg.norm(np.array(l_ear) - np.array(r_eye))
-                    head_x = results['nose'][0]
-                    head_y = results['nose'][1] - int(distance_between_ears)
-                    results['head'] = [head_x, head_y]
+                # # Calculate neck point
+                # if 'r_shoulder' in results and 'l_shoulder' in results:
+                #     neck_x = (results['r_shoulder'][0] + results['l_shoulder'][0]) // 2
+                #     neck_y = (results['r_shoulder'][1] + results['l_shoulder'][1]) // 2
+                #     results['neck'] = [neck_x, neck_y]
+                # # Calculate head point
+                # if 'nose' in results and 'l_ear' in results and 'r_eye' in results:
+                #     l_ear = results['l_ear']
+                #     r_eye = results['r_eye']
+                #     distance_between_ears = np.linalg.norm(np.array(l_ear) - np.array(r_eye))
+                #     head_x = results['nose'][0]
+                #     head_y = results['nose'][1] - int(distance_between_ears)
+                #     results['head'] = [head_x, head_y]
 
         if 'r_ankle' not in results:
             results['r_ankle'] = [None, None]
