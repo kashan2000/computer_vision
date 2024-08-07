@@ -114,11 +114,11 @@ def get_pose_from_frame(frame):
                 #     head_y = results['nose'][1] - int(distance_between_ears)
                 #     results['head'] = [head_x, head_y]
 
-        if 'r_ankle' not in results:
-            results['r_ankle'] = [None, None]
+        # if 'r_ankle' not in results:
+        #     results['r_ankle'] = [None, None]
         
-        if 'l_ankle' not in results:
-            results['l_ankle'] = [None, None]
+        # if 'l_ankle' not in results:
+        #     results['l_ankle'] = [None, None]
 
         print(f"retuning pose result: ${results}")    
 
