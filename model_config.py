@@ -88,6 +88,8 @@ def get_pose_from_frame(frame):
                     #     results[key] = keypoint_list
 
                     if len(pr.keypoints.xyn) > 0:
+                        print(f"value of idx> {idx}")
+                        print(f"length of list is {len(pr.keypoints.xyn)}")
                         keypoint_list = pr.keypoints.xyn[0][idx].tolist()
                         confidence = pr.keypoints.conf[0][idx] if hasattr(pr.keypoints, 'conf') else 1.0
                         print(f"Detected {key}: {keypoint_list} with confidence {confidence}")
