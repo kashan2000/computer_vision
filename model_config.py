@@ -74,7 +74,7 @@ def get_pose_from_frame(frame):
         pose_results = yolo_model_pose(frame)
 
         for pr in pose_results:
-            print(f"pose results>> ${pr.keypoints.xyn[0]}")
+            # print(f"pose results>> ${pr.keypoints.xyn[0]}")
             if pr.keypoints is not None and len(pr.keypoints) > 0:
                 keypoint_mapping = {
                     'nose': 0, 'r_eye': 1, 'l_eye': 2, 'r_ear': 3, 'l_ear': 4,
@@ -87,7 +87,7 @@ def get_pose_from_frame(frame):
                     #     keypoint_list = pr.keypoints.xyn[0][idx].tolist()
                     #     results[key] = keypoint_list
 
-                    if len(pr.keypoints.xyn) > 0:
+                    if len(pr.keypoints.xyn[0]) > 0:
                         print(f"value of idx> {idx}")
                         print(f"length of list is {len(pr.keypoints.xyn[0])}")
                         keypoint_list = pr.keypoints.xyn[0][idx].tolist()
