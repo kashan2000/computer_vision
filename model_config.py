@@ -83,22 +83,24 @@ def get_pose_from_frame(frame):
                     'r_knee': 13, 'l_knee': 14, 'r_ankle': 15, 'l_ankle': 16
                 }
                 for key, idx in keypoint_mapping.items():
-                    # if pr.keypoints.xyn[0][idx][0] != 0 and pr.keypoints.xyn[0][idx][1] != 0:
-                    #     keypoint_list = pr.keypoints.xyn[0][idx].tolist()
-                    #     results[key] = keypoint_list
 
-                    if len(pr.keypoints.xyn[0]) > 0:
-                        print(f"value of idx> {idx}")
-                        print(f"length of list is {len(pr.keypoints.xyn[0])}")
-                        keypoint_list = pr.keypoints.xyn[0][idx].tolist()
-                        confidence = pr.keypoints.conf[0][idx] if hasattr(pr.keypoints, 'conf') else 1.0
-                        print(f"Detected {key}: {keypoint_list} with confidence {confidence}")
-                        if keypoint_list[0] != 0 and keypoint_list[1] != 0:
+                    # if len(pr.keypoints.xyn[0]) > 0:
+                        if pr.keypoints.xyn[0][idx][0] != 0 and pr.keypoints.xyn[0][idx][1] != 0:
+                            keypoint_list = pr.keypoints.xyn[0][idx].tolist()
                             results[key] = keypoint_list
-                        else:
-                            print(f"{key} coordinates are zero.")
-                    else:
-                        print(f"{key} not detected or keypoints array is empty.")        
+
+                    # if len(pr.keypoints.xyn[0]) > 0:
+                    #     print(f"value of idx> {idx}")
+                    #     print(f"length of list is {len(pr.keypoints.xyn[0])}")
+                    #     keypoint_list = pr.keypoints.xyn[0][idx].tolist()
+                    #     confidence = pr.keypoints.conf[0][idx] if hasattr(pr.keypoints, 'conf') else 1.0
+                    #     # print(f"Detected {key}: {keypoint_list} with confidence {confidence}")
+                    #     if keypoint_list[0] != 0 and keypoint_list[1] != 0:
+                    #         results[key] = keypoint_list
+                    #     else:
+                    #         print(f"{key} coordinates are zero.")
+                    # else:
+                        # print(f"{key} not detected or keypoints array is empty.")        
                         
                 # # Calculate neck point
                 # if 'r_shoulder' in results and 'l_shoulder' in results:
@@ -114,11 +116,11 @@ def get_pose_from_frame(frame):
                 #     head_y = results['nose'][1] - int(distance_between_ears)
                 #     results['head'] = [head_x, head_y]
 
-        # if 'r_ankle' not in results:
-        #     results['r_ankle'] = [None, None]
+        if 'r_ankle' not in results:
+            results['r_ankle'] = [None, None]
         
-        # if 'l_ankle' not in results:
-        #     results['l_ankle'] = [None, None]
+        if 'l_ankle' not in results:
+            results['l_ankle'] = [None, None]
 
         print(f"retuning pose result: ${results}")    
 
