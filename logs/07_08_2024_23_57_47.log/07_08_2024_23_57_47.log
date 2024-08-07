@@ -1,0 +1,1540 @@
+[2024-08-07 23:59:40,115]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:40,116]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:40,116]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:40,119]75INFO-Resized image to 720x480
+[2024-08-07 23:59:42,930]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:42,930]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:42,930]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:42,931]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,003]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,004]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,005]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,006]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,148]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,148]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,148]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,149]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,240]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,240]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,241]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,242]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,350]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,350]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,350]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,351]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,474]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,475]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,475]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,478]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,681]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,681]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,681]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,684]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,838]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,838]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,838]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,840]75INFO-Resized image to 720x480
+[2024-08-07 23:59:43,979]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:43,979]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:43,979]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:43,981]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,080]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,080]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,080]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,082]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,191]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,191]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,191]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,193]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,335]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,336]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,336]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,339]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,462]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,463]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,463]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,468]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,588]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,588]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,588]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,590]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,695]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,695]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,695]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,697]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,807]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,807]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,807]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,809]75INFO-Resized image to 720x480
+[2024-08-07 23:59:44,953]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:44,953]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:44,954]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:44,957]75INFO-Resized image to 720x480
+[2024-08-07 23:59:45,152]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:45,152]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:45,152]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:45,155]75INFO-Resized image to 720x480
+[2024-08-07 23:59:45,403]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:45,403]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:45,404]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:45,409]75INFO-Resized image to 720x480
+[2024-08-07 23:59:45,537]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:45,537]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:45,537]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:45,540]75INFO-Resized image to 720x480
+[2024-08-07 23:59:45,735]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:45,735]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:45,736]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:45,737]75INFO-Resized image to 720x480
+[2024-08-07 23:59:45,933]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:45,934]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:45,934]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:45,937]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,043]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,043]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,043]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,045]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,174]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,174]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,174]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,176]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,275]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,276]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,276]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,278]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,399]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,400]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,400]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,402]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,499]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,499]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,499]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,500]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,609]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,609]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,609]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,611]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,686]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,686]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,686]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,687]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,770]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,770]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,770]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,771]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,861]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,861]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,861]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,862]75INFO-Resized image to 720x480
+[2024-08-07 23:59:46,932]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:46,932]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:46,932]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:46,933]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,084]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,084]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,085]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,090]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,193]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,193]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,194]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,196]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,304]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,304]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,304]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,306]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,413]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,414]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,414]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,416]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,559]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,559]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,559]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,562]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,681]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,681]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,681]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,682]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,784]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,784]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,784]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,785]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,854]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,854]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,854]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,856]75INFO-Resized image to 720x480
+[2024-08-07 23:59:47,954]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:47,954]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:47,954]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:47,956]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,043]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,043]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,043]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,044]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,123]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,123]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,123]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,125]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,227]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,227]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,227]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,228]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,302]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,302]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,303]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,305]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,411]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,411]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,411]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,414]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,558]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,559]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,559]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,560]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,660]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,660]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,660]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,661]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,844]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,845]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,845]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:48,846]75INFO-Resized image to 720x480
+[2024-08-07 23:59:48,998]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:48,999]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:48,999]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:49,001]75INFO-Resized image to 720x480
+[2024-08-07 23:59:49,236]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:49,238]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:49,238]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:49,238]75INFO-Resized image to 720x480
+[2024-08-07 23:59:49,420]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:49,420]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:49,420]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:49,421]75INFO-Resized image to 720x480
+[2024-08-07 23:59:49,548]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:49,548]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:49,548]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:49,550]75INFO-Resized image to 720x480
+[2024-08-07 23:59:49,761]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:49,761]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:49,761]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:49,762]75INFO-Resized image to 720x480
+[2024-08-07 23:59:49,957]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:49,957]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:49,957]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:49,958]75INFO-Resized image to 720x480
+[2024-08-07 23:59:50,129]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:50,129]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:50,129]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:50,136]75INFO-Resized image to 720x480
+[2024-08-07 23:59:50,267]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:50,267]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:50,267]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:50,267]75INFO-Resized image to 720x480
+[2024-08-07 23:59:50,455]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:50,455]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:50,455]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:50,455]75INFO-Resized image to 720x480
+[2024-08-07 23:59:50,625]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:50,625]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:50,625]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:50,625]75INFO-Resized image to 720x480
+[2024-08-07 23:59:50,818]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:50,818]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:50,818]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:50,818]75INFO-Resized image to 720x480
+[2024-08-07 23:59:51,016]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:51,016]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:51,016]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:51,018]75INFO-Resized image to 720x480
+[2024-08-07 23:59:51,237]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:51,237]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:51,237]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:51,237]75INFO-Resized image to 720x480
+[2024-08-07 23:59:51,368]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:51,368]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:51,368]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:51,368]75INFO-Resized image to 720x480
+[2024-08-07 23:59:51,577]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:51,577]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:51,577]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:51,578]75INFO-Resized image to 720x480
+[2024-08-07 23:59:51,713]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:51,714]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:51,714]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:51,715]75INFO-Resized image to 720x480
+[2024-08-07 23:59:51,909]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:51,909]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:51,909]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:51,909]75INFO-Resized image to 720x480
+[2024-08-07 23:59:52,100]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:52,101]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:52,101]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:52,103]75INFO-Resized image to 720x480
+[2024-08-07 23:59:52,294]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:52,294]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:52,294]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:52,294]75INFO-Resized image to 720x480
+[2024-08-07 23:59:52,491]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:52,491]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:52,491]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:52,491]75INFO-Resized image to 720x480
+[2024-08-07 23:59:52,667]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:52,667]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:52,667]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:52,667]75INFO-Resized image to 720x480
+[2024-08-07 23:59:52,832]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:52,832]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:52,832]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:52,832]75INFO-Resized image to 720x480
+[2024-08-07 23:59:52,982]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:52,982]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:52,983]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:52,984]75INFO-Resized image to 720x480
+[2024-08-07 23:59:53,191]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:53,191]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:53,191]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:53,191]75INFO-Resized image to 720x480
+[2024-08-07 23:59:53,340]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:53,340]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:53,340]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:53,340]75INFO-Resized image to 720x480
+[2024-08-07 23:59:53,573]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:53,573]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:53,573]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:53,573]75INFO-Resized image to 720x480
+[2024-08-07 23:59:53,709]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:53,709]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:53,709]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:53,710]75INFO-Resized image to 720x480
+[2024-08-07 23:59:53,876]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:53,876]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:53,876]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:53,876]75INFO-Resized image to 720x480
+[2024-08-07 23:59:54,065]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:54,065]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:54,065]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:54,067]75INFO-Resized image to 720x480
+[2024-08-07 23:59:54,253]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:54,253]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:54,253]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:54,254]75INFO-Resized image to 720x480
+[2024-08-07 23:59:54,423]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:54,423]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:54,423]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:54,424]75INFO-Resized image to 720x480
+[2024-08-07 23:59:54,581]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:54,581]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:54,581]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:54,581]75INFO-Resized image to 720x480
+[2024-08-07 23:59:54,800]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:54,800]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:54,800]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:54,800]75INFO-Resized image to 720x480
+[2024-08-07 23:59:55,002]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:55,002]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:55,002]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:55,004]75INFO-Resized image to 720x480
+[2024-08-07 23:59:55,134]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:55,134]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:55,134]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:55,135]75INFO-Resized image to 720x480
+[2024-08-07 23:59:55,312]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:55,312]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:55,312]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:55,313]75INFO-Resized image to 720x480
+[2024-08-07 23:59:55,505]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:55,505]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:55,505]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:55,506]75INFO-Resized image to 720x480
+[2024-08-07 23:59:55,726]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:55,726]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:55,726]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:55,726]75INFO-Resized image to 720x480
+[2024-08-07 23:59:55,963]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:55,963]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:55,963]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:55,965]75INFO-Resized image to 720x480
+[2024-08-07 23:59:56,108]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:56,108]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:56,108]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:56,108]75INFO-Resized image to 720x480
+[2024-08-07 23:59:56,327]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:56,327]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:56,327]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:56,327]75INFO-Resized image to 720x480
+[2024-08-07 23:59:56,458]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:56,458]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:56,458]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:56,458]75INFO-Resized image to 720x480
+[2024-08-07 23:59:56,677]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:56,677]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:56,678]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:56,680]75INFO-Resized image to 720x480
+[2024-08-07 23:59:56,774]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:56,774]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:56,774]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:56,775]75INFO-Resized image to 720x480
+[2024-08-07 23:59:57,012]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:57,012]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:57,012]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:57,012]75INFO-Resized image to 720x480
+[2024-08-07 23:59:57,135]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:57,135]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:57,135]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:57,135]75INFO-Resized image to 720x480
+[2024-08-07 23:59:57,352]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:57,352]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:57,352]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:57,353]75INFO-Resized image to 720x480
+[2024-08-07 23:59:57,529]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:57,529]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:57,529]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:57,529]75INFO-Resized image to 720x480
+[2024-08-07 23:59:57,707]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:57,707]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:57,707]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:57,707]75INFO-Resized image to 720x480
+[2024-08-07 23:59:57,849]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:57,849]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:57,849]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:57,849]75INFO-Resized image to 720x480
+[2024-08-07 23:59:58,072]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:58,072]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:58,072]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:58,072]75INFO-Resized image to 720x480
+[2024-08-07 23:59:58,208]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:58,208]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:58,208]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:58,208]75INFO-Resized image to 720x480
+[2024-08-07 23:59:58,385]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:58,385]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:58,385]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:58,401]75INFO-Resized image to 720x480
+[2024-08-07 23:59:58,606]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:58,606]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:58,606]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:58,606]75INFO-Resized image to 720x480
+[2024-08-07 23:59:58,762]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:58,762]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:58,762]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:58,762]75INFO-Resized image to 720x480
+[2024-08-07 23:59:58,942]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:58,942]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:58,942]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:58,943]75INFO-Resized image to 720x480
+[2024-08-07 23:59:59,208]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:59,208]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:59,208]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:59,208]75INFO-Resized image to 720x480
+[2024-08-07 23:59:59,306]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:59,306]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:59,306]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:59,306]75INFO-Resized image to 720x480
+[2024-08-07 23:59:59,500]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:59,501]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:59,501]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:59,502]75INFO-Resized image to 720x480
+[2024-08-07 23:59:59,692]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:59,692]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:59,692]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:59,693]75INFO-Resized image to 720x480
+[2024-08-07 23:59:59,894]69INFO-Image dimensions: 480x720x3
+[2024-08-07 23:59:59,894]70INFO-Expected dimensions: 720x480
+[2024-08-07 23:59:59,894]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-07 23:59:59,894]75INFO-Resized image to 720x480
+[2024-08-08 00:00:00,055]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:00,055]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:00,055]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:00,056]75INFO-Resized image to 720x480
+[2024-08-08 00:00:00,256]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:00,256]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:00,256]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:00,257]75INFO-Resized image to 720x480
+[2024-08-08 00:00:00,378]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:00,378]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:00,378]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:00,379]75INFO-Resized image to 720x480
+[2024-08-08 00:00:00,571]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:00,571]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:00,571]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:00,574]75INFO-Resized image to 720x480
+[2024-08-08 00:00:00,776]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:00,776]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:00,776]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:00,777]75INFO-Resized image to 720x480
+[2024-08-08 00:00:00,896]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:00,896]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:00,896]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:00,896]75INFO-Resized image to 720x480
+[2024-08-08 00:00:01,183]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:01,183]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:01,183]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:01,183]75INFO-Resized image to 720x480
+[2024-08-08 00:00:01,298]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:01,298]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:01,298]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:01,299]75INFO-Resized image to 720x480
+[2024-08-08 00:00:01,508]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:01,508]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:01,508]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:01,508]75INFO-Resized image to 720x480
+[2024-08-08 00:00:01,689]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:01,689]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:01,690]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:01,691]75INFO-Resized image to 720x480
+[2024-08-08 00:00:01,850]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:01,850]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:01,850]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:01,850]75INFO-Resized image to 720x480
+[2024-08-08 00:00:02,032]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:02,032]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:02,032]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:02,032]75INFO-Resized image to 720x480
+[2024-08-08 00:00:02,229]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:02,229]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:02,229]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:02,229]75INFO-Resized image to 720x480
+[2024-08-08 00:00:02,346]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:02,346]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:02,346]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:02,346]75INFO-Resized image to 720x480
+[2024-08-08 00:00:02,587]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:02,587]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:02,587]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:02,589]75INFO-Resized image to 720x480
+[2024-08-08 00:00:02,767]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:02,767]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:02,767]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:02,769]75INFO-Resized image to 720x480
+[2024-08-08 00:00:02,909]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:02,909]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:02,909]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:02,910]75INFO-Resized image to 720x480
+[2024-08-08 00:00:03,073]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:03,074]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:03,074]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:03,076]75INFO-Resized image to 720x480
+[2024-08-08 00:00:03,322]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:03,322]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:03,322]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:03,322]75INFO-Resized image to 720x480
+[2024-08-08 00:00:03,459]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:03,459]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:03,459]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:03,459]75INFO-Resized image to 720x480
+[2024-08-08 00:00:03,624]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:03,624]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:03,624]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:03,640]75INFO-Resized image to 720x480
+[2024-08-08 00:00:03,875]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:03,875]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:03,875]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:03,875]75INFO-Resized image to 720x480
+[2024-08-08 00:00:04,018]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:04,018]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:04,018]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:04,018]75INFO-Resized image to 720x480
+[2024-08-08 00:00:04,213]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:04,213]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:04,213]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:04,213]75INFO-Resized image to 720x480
+[2024-08-08 00:00:04,397]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:04,397]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:04,397]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:04,400]75INFO-Resized image to 720x480
+[2024-08-08 00:00:04,581]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:04,581]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:04,581]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:04,581]75INFO-Resized image to 720x480
+[2024-08-08 00:00:04,795]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:04,801]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:04,801]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:04,803]75INFO-Resized image to 720x480
+[2024-08-08 00:00:05,032]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:05,032]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:05,032]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:05,032]75INFO-Resized image to 720x480
+[2024-08-08 00:00:05,126]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:05,126]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:05,126]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:05,130]75INFO-Resized image to 720x480
+[2024-08-08 00:00:05,416]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:05,416]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:05,416]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:05,416]75INFO-Resized image to 720x480
+[2024-08-08 00:00:05,652]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:05,652]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:05,652]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:05,654]75INFO-Resized image to 720x480
+[2024-08-08 00:00:05,793]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:05,793]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:05,793]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:05,794]75INFO-Resized image to 720x480
+[2024-08-08 00:00:05,990]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:05,990]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:05,990]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:05,991]75INFO-Resized image to 720x480
+[2024-08-08 00:00:06,114]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:06,114]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:06,114]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:06,114]75INFO-Resized image to 720x480
+[2024-08-08 00:00:06,333]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:06,333]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:06,333]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:06,335]75INFO-Resized image to 720x480
+[2024-08-08 00:00:06,528]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:06,528]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:06,528]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:06,528]75INFO-Resized image to 720x480
+[2024-08-08 00:00:06,683]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:06,683]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:06,683]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:06,683]75INFO-Resized image to 720x480
+[2024-08-08 00:00:06,885]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:06,885]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:06,885]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:06,886]75INFO-Resized image to 720x480
+[2024-08-08 00:00:07,027]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:07,027]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:07,027]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:07,027]75INFO-Resized image to 720x480
+[2024-08-08 00:00:07,211]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:07,211]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:07,211]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:07,211]75INFO-Resized image to 720x480
+[2024-08-08 00:00:07,378]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:07,378]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:07,378]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:07,380]75INFO-Resized image to 720x480
+[2024-08-08 00:00:07,616]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:07,616]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:07,616]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:07,616]75INFO-Resized image to 720x480
+[2024-08-08 00:00:07,866]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:07,867]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:07,867]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:07,868]75INFO-Resized image to 720x480
+[2024-08-08 00:00:07,943]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:07,943]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:07,943]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:07,943]75INFO-Resized image to 720x480
+[2024-08-08 00:00:08,147]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:08,147]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:08,147]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:08,163]75INFO-Resized image to 720x480
+[2024-08-08 00:00:08,319]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:08,319]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:08,319]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:08,320]75INFO-Resized image to 720x480
+[2024-08-08 00:00:08,468]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:08,468]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:08,468]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:08,468]75INFO-Resized image to 720x480
+[2024-08-08 00:00:08,679]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:08,679]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:08,679]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:08,682]75INFO-Resized image to 720x480
+[2024-08-08 00:00:08,882]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:08,883]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:08,883]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:08,884]75INFO-Resized image to 720x480
+[2024-08-08 00:00:09,013]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:09,013]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:09,013]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:09,013]75INFO-Resized image to 720x480
+[2024-08-08 00:00:09,214]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:09,214]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:09,214]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:09,214]75INFO-Resized image to 720x480
+[2024-08-08 00:00:09,428]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:09,429]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:09,429]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:09,431]75INFO-Resized image to 720x480
+[2024-08-08 00:00:09,631]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:09,631]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:09,631]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:09,631]75INFO-Resized image to 720x480
+[2024-08-08 00:00:09,765]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:09,765]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:09,765]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:09,765]75INFO-Resized image to 720x480
+[2024-08-08 00:00:10,013]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:10,013]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:10,013]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:10,013]75INFO-Resized image to 720x480
+[2024-08-08 00:00:10,105]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:10,105]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:10,105]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:10,106]75INFO-Resized image to 720x480
+[2024-08-08 00:00:10,277]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:10,277]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:10,277]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:10,277]75INFO-Resized image to 720x480
+[2024-08-08 00:00:10,510]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:10,510]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:10,510]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:10,510]75INFO-Resized image to 720x480
+[2024-08-08 00:00:10,692]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:10,692]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:10,692]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:10,692]75INFO-Resized image to 720x480
+[2024-08-08 00:00:10,871]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:10,871]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:10,871]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:10,872]75INFO-Resized image to 720x480
+[2024-08-08 00:00:11,065]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:11,065]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:11,065]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:11,065]75INFO-Resized image to 720x480
+[2024-08-08 00:00:11,270]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:11,270]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:11,270]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:11,271]75INFO-Resized image to 720x480
+[2024-08-08 00:00:11,411]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:11,411]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:11,411]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:11,411]75INFO-Resized image to 720x480
+[2024-08-08 00:00:11,536]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:11,536]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:11,536]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:11,536]75INFO-Resized image to 720x480
+[2024-08-08 00:00:11,724]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:11,724]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:11,724]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:11,739]75INFO-Resized image to 720x480
+[2024-08-08 00:00:11,938]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:11,938]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:11,938]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:11,950]75INFO-Resized image to 720x480
+[2024-08-08 00:00:12,855]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:12,855]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:12,855]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:12,858]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,041]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,041]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,041]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,045]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,173]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,173]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,173]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,175]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,296]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,296]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,296]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,302]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,391]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,391]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,391]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,392]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,492]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,492]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,492]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,494]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,582]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,582]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,582]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,584]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,683]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,684]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,684]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,685]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,769]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,769]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,769]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,769]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,867]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,867]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,867]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,867]75INFO-Resized image to 720x480
+[2024-08-08 00:00:13,986]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:13,986]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:13,986]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:13,987]75INFO-Resized image to 720x480
+[2024-08-08 00:00:14,117]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:14,118]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:14,118]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:14,119]75INFO-Resized image to 720x480
+[2024-08-08 00:00:14,295]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:14,295]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:14,295]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:14,301]75INFO-Resized image to 720x480
+[2024-08-08 00:00:14,499]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:14,499]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:14,499]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:14,500]75INFO-Resized image to 720x480
+[2024-08-08 00:00:14,656]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:14,656]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:14,656]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:14,656]75INFO-Resized image to 720x480
+[2024-08-08 00:00:14,858]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:14,858]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:14,858]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:14,862]75INFO-Resized image to 720x480
+[2024-08-08 00:00:15,022]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:15,022]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:15,022]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:15,024]75INFO-Resized image to 720x480
+[2024-08-08 00:00:15,152]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:15,153]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:15,153]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:15,154]75INFO-Resized image to 720x480
+[2024-08-08 00:00:15,381]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:15,381]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:15,381]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:15,381]75INFO-Resized image to 720x480
+[2024-08-08 00:00:15,638]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:15,638]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:15,638]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:15,638]75INFO-Resized image to 720x480
+[2024-08-08 00:00:15,761]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:15,761]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:15,761]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:15,762]75INFO-Resized image to 720x480
+[2024-08-08 00:00:16,012]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:16,012]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:16,012]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:16,012]75INFO-Resized image to 720x480
+[2024-08-08 00:00:16,107]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:16,107]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:16,107]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:16,108]75INFO-Resized image to 720x480
+[2024-08-08 00:00:16,232]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:16,232]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:16,232]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:16,238]75INFO-Resized image to 720x480
+[2024-08-08 00:00:16,414]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:16,414]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:16,414]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:16,415]75INFO-Resized image to 720x480
+[2024-08-08 00:00:16,615]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:16,615]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:16,615]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:16,616]75INFO-Resized image to 720x480
+[2024-08-08 00:00:16,797]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:16,797]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:16,797]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:16,798]75INFO-Resized image to 720x480
+[2024-08-08 00:00:16,977]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:16,977]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:16,977]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:16,978]75INFO-Resized image to 720x480
+[2024-08-08 00:00:17,179]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:17,179]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:17,179]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:17,180]75INFO-Resized image to 720x480
+[2024-08-08 00:00:17,311]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:17,311]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:17,311]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:17,312]75INFO-Resized image to 720x480
+[2024-08-08 00:00:17,565]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:17,565]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:17,565]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:17,565]75INFO-Resized image to 720x480
+[2024-08-08 00:00:17,733]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:17,733]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:17,733]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:17,733]75INFO-Resized image to 720x480
+[2024-08-08 00:00:17,984]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:17,984]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:17,984]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:17,984]75INFO-Resized image to 720x480
+[2024-08-08 00:00:18,121]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:18,121]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:18,121]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:18,122]75INFO-Resized image to 720x480
+[2024-08-08 00:00:18,284]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:18,284]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:18,284]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:18,284]75INFO-Resized image to 720x480
+[2024-08-08 00:00:18,453]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:18,453]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:18,453]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:18,454]75INFO-Resized image to 720x480
+[2024-08-08 00:00:18,657]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:18,657]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:18,657]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:18,658]75INFO-Resized image to 720x480
+[2024-08-08 00:00:18,835]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:18,836]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:18,836]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:18,838]75INFO-Resized image to 720x480
+[2024-08-08 00:00:18,945]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:18,945]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:18,945]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:18,945]75INFO-Resized image to 720x480
+[2024-08-08 00:00:19,166]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:19,166]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:19,166]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:19,166]75INFO-Resized image to 720x480
+[2024-08-08 00:00:19,312]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:19,312]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:19,312]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:19,312]75INFO-Resized image to 720x480
+[2024-08-08 00:00:19,529]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:19,529]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:19,529]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:19,529]75INFO-Resized image to 720x480
+[2024-08-08 00:00:19,670]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:19,671]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:19,671]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:19,672]75INFO-Resized image to 720x480
+[2024-08-08 00:00:19,890]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:19,890]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:19,890]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:19,890]75INFO-Resized image to 720x480
+[2024-08-08 00:00:20,088]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:20,088]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:20,088]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:20,088]75INFO-Resized image to 720x480
+[2024-08-08 00:00:20,228]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:20,228]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:20,228]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:20,228]75INFO-Resized image to 720x480
+[2024-08-08 00:00:20,388]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:20,388]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:20,388]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:20,395]75INFO-Resized image to 720x480
+[2024-08-08 00:00:20,588]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:20,588]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:20,588]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:20,588]75INFO-Resized image to 720x480
+[2024-08-08 00:00:20,807]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:20,808]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:20,808]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:20,810]75INFO-Resized image to 720x480
+[2024-08-08 00:00:21,044]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:21,044]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:21,044]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:21,044]75INFO-Resized image to 720x480
+[2024-08-08 00:00:21,130]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:21,130]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:21,130]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:21,130]75INFO-Resized image to 720x480
+[2024-08-08 00:00:21,339]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:21,339]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:21,339]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:21,339]75INFO-Resized image to 720x480
+[2024-08-08 00:00:21,574]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:21,574]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:21,574]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:21,574]75INFO-Resized image to 720x480
+[2024-08-08 00:00:21,669]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:21,670]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:21,670]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:21,671]75INFO-Resized image to 720x480
+[2024-08-08 00:00:21,838]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:21,838]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:21,838]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:21,838]75INFO-Resized image to 720x480
+[2024-08-08 00:00:22,085]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:22,085]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:22,085]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:22,101]75INFO-Resized image to 720x480
+[2024-08-08 00:00:22,183]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:22,183]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:22,183]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:22,184]75INFO-Resized image to 720x480
+[2024-08-08 00:00:22,367]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:22,367]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:22,367]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:22,367]75INFO-Resized image to 720x480
+[2024-08-08 00:00:22,618]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:22,619]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:22,619]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:22,620]75INFO-Resized image to 720x480
+[2024-08-08 00:00:22,846]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:22,846]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:22,846]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:22,846]75INFO-Resized image to 720x480
+[2024-08-08 00:00:22,984]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:22,984]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:22,984]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:22,984]75INFO-Resized image to 720x480
+[2024-08-08 00:00:23,161]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:23,161]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:23,161]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:23,161]75INFO-Resized image to 720x480
+[2024-08-08 00:00:23,323]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:23,323]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:23,323]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:23,323]75INFO-Resized image to 720x480
+[2024-08-08 00:00:23,564]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:23,564]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:23,564]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:23,564]75INFO-Resized image to 720x480
+[2024-08-08 00:00:23,687]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:23,687]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:23,687]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:23,687]75INFO-Resized image to 720x480
+[2024-08-08 00:00:23,838]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:23,838]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:23,838]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:23,839]75INFO-Resized image to 720x480
+[2024-08-08 00:00:24,043]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:24,043]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:24,043]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:24,044]75INFO-Resized image to 720x480
+[2024-08-08 00:00:24,192]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:24,192]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:24,192]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:24,192]75INFO-Resized image to 720x480
+[2024-08-08 00:00:24,398]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:24,398]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:24,398]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:24,398]75INFO-Resized image to 720x480
+[2024-08-08 00:00:24,557]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:24,557]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:24,557]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:24,558]75INFO-Resized image to 720x480
+[2024-08-08 00:00:24,775]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:24,775]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:24,775]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:24,775]75INFO-Resized image to 720x480
+[2024-08-08 00:00:24,965]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:24,965]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:24,965]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:24,965]75INFO-Resized image to 720x480
+[2024-08-08 00:00:25,096]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:25,096]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:25,096]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:25,096]75INFO-Resized image to 720x480
+[2024-08-08 00:00:25,313]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:25,313]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:25,313]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:25,313]75INFO-Resized image to 720x480
+[2024-08-08 00:00:25,451]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:25,451]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:25,451]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:25,451]75INFO-Resized image to 720x480
+[2024-08-08 00:00:25,684]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:25,684]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:25,684]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:25,689]75INFO-Resized image to 720x480
+[2024-08-08 00:00:25,801]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:25,801]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:25,801]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:25,801]75INFO-Resized image to 720x480
+[2024-08-08 00:00:26,058]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:26,058]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:26,058]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:26,058]75INFO-Resized image to 720x480
+[2024-08-08 00:00:26,261]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:26,261]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:26,261]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:26,267]75INFO-Resized image to 720x480
+[2024-08-08 00:00:26,345]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:26,345]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:26,345]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:26,350]75INFO-Resized image to 720x480
+[2024-08-08 00:00:26,583]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:26,583]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:26,583]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:26,583]75INFO-Resized image to 720x480
+[2024-08-08 00:00:26,780]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:26,780]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:26,780]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:26,793]75INFO-Resized image to 720x480
+[2024-08-08 00:00:26,912]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:26,912]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:26,912]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:26,913]75INFO-Resized image to 720x480
+[2024-08-08 00:00:27,181]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:27,181]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:27,181]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:27,181]75INFO-Resized image to 720x480
+[2024-08-08 00:00:27,294]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:27,294]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:27,294]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:27,294]75INFO-Resized image to 720x480
+[2024-08-08 00:00:27,492]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:27,492]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:27,492]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:27,492]75INFO-Resized image to 720x480
+[2024-08-08 00:00:27,699]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:27,699]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:27,699]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:27,699]75INFO-Resized image to 720x480
+[2024-08-08 00:00:27,794]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:27,795]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:27,795]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:27,795]75INFO-Resized image to 720x480
+[2024-08-08 00:00:27,982]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:27,982]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:27,982]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:27,988]75INFO-Resized image to 720x480
+[2024-08-08 00:00:28,131]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:28,131]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:28,131]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:28,131]75INFO-Resized image to 720x480
+[2024-08-08 00:00:28,346]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:28,346]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:28,346]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:28,347]75INFO-Resized image to 720x480
+[2024-08-08 00:00:28,522]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:28,522]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:28,522]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:28,530]75INFO-Resized image to 720x480
+[2024-08-08 00:00:28,730]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:28,730]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:28,730]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:28,730]75INFO-Resized image to 720x480
+[2024-08-08 00:00:28,948]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:28,955]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:28,955]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:28,956]75INFO-Resized image to 720x480
+[2024-08-08 00:00:29,115]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:29,116]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:29,116]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:29,117]75INFO-Resized image to 720x480
+[2024-08-08 00:00:29,344]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:29,344]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:29,344]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:29,344]75INFO-Resized image to 720x480
+[2024-08-08 00:00:29,454]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:29,454]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:29,454]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:29,454]75INFO-Resized image to 720x480
+[2024-08-08 00:00:29,619]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:29,619]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:29,619]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:29,619]75INFO-Resized image to 720x480
+[2024-08-08 00:00:29,825]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:29,825]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:29,825]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:29,825]75INFO-Resized image to 720x480
+[2024-08-08 00:00:29,993]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:29,993]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:29,993]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:29,993]75INFO-Resized image to 720x480
+[2024-08-08 00:00:30,152]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:30,152]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:30,152]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:30,155]75INFO-Resized image to 720x480
+[2024-08-08 00:00:30,314]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:30,314]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:30,314]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:30,314]75INFO-Resized image to 720x480
+[2024-08-08 00:00:30,517]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:30,517]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:30,517]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:30,517]75INFO-Resized image to 720x480
+[2024-08-08 00:00:30,737]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:30,737]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:30,737]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:30,737]75INFO-Resized image to 720x480
+[2024-08-08 00:00:30,918]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:30,918]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:30,918]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:30,918]75INFO-Resized image to 720x480
+[2024-08-08 00:00:31,139]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:31,139]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:31,139]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:31,140]75INFO-Resized image to 720x480
+[2024-08-08 00:00:31,233]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:31,233]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:31,233]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:31,233]75INFO-Resized image to 720x480
+[2024-08-08 00:00:31,439]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:31,439]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:31,439]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:31,439]75INFO-Resized image to 720x480
+[2024-08-08 00:00:31,652]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:31,652]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:31,652]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:31,652]75INFO-Resized image to 720x480
+[2024-08-08 00:00:31,816]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:31,816]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:31,816]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:31,816]75INFO-Resized image to 720x480
+[2024-08-08 00:00:32,050]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:32,050]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:32,050]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:32,050]75INFO-Resized image to 720x480
+[2024-08-08 00:00:32,133]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:32,134]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:32,134]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:32,136]75INFO-Resized image to 720x480
+[2024-08-08 00:00:32,300]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:32,300]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:32,300]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:32,300]75INFO-Resized image to 720x480
+[2024-08-08 00:00:32,485]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:32,485]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:32,485]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:32,487]75INFO-Resized image to 720x480
+[2024-08-08 00:00:32,715]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:32,715]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:32,715]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:32,716]75INFO-Resized image to 720x480
+[2024-08-08 00:00:32,886]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:32,886]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:32,887]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:32,888]75INFO-Resized image to 720x480
+[2024-08-08 00:00:33,019]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:33,019]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:33,019]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:33,019]75INFO-Resized image to 720x480
+[2024-08-08 00:00:33,234]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:33,234]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:33,234]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:33,236]75INFO-Resized image to 720x480
+[2024-08-08 00:00:33,446]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:33,446]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:33,446]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:33,446]75INFO-Resized image to 720x480
+[2024-08-08 00:00:33,629]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:33,629]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:33,629]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:33,629]75INFO-Resized image to 720x480
+[2024-08-08 00:00:33,839]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:33,839]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:33,839]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:33,839]75INFO-Resized image to 720x480
+[2024-08-08 00:00:33,930]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:33,930]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:33,930]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:33,935]75INFO-Resized image to 720x480
+[2024-08-08 00:00:34,131]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:34,131]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:34,131]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:34,131]75INFO-Resized image to 720x480
+[2024-08-08 00:00:34,372]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:34,373]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:34,373]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:34,375]75INFO-Resized image to 720x480
+[2024-08-08 00:00:34,534]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:34,534]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:34,534]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:34,536]75INFO-Resized image to 720x480
+[2024-08-08 00:00:34,660]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:34,660]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:34,660]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:34,660]75INFO-Resized image to 720x480
+[2024-08-08 00:00:34,886]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:34,886]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:34,886]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:34,887]75INFO-Resized image to 720x480
+[2024-08-08 00:00:35,076]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:35,076]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:35,076]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:35,079]75INFO-Resized image to 720x480
+[2024-08-08 00:00:35,306]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:35,306]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:35,306]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:35,306]75INFO-Resized image to 720x480
+[2024-08-08 00:00:35,379]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:35,379]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:35,379]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:35,379]75INFO-Resized image to 720x480
+[2024-08-08 00:00:35,617]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:35,617]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:35,617]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:35,617]75INFO-Resized image to 720x480
+[2024-08-08 00:00:35,742]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:35,742]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:35,742]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:35,742]75INFO-Resized image to 720x480
+[2024-08-08 00:00:35,957]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:35,957]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:35,957]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:35,972]75INFO-Resized image to 720x480
+[2024-08-08 00:00:36,128]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:36,128]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:36,128]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:36,130]75INFO-Resized image to 720x480
+[2024-08-08 00:00:36,293]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:36,293]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:36,293]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:36,294]75INFO-Resized image to 720x480
+[2024-08-08 00:00:36,511]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:36,511]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:36,511]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:36,511]75INFO-Resized image to 720x480
+[2024-08-08 00:00:36,701]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:36,701]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:36,701]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:36,702]75INFO-Resized image to 720x480
+[2024-08-08 00:00:36,829]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:36,829]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:36,829]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:36,830]75INFO-Resized image to 720x480
+[2024-08-08 00:00:37,064]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:37,064]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:37,064]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:37,065]75INFO-Resized image to 720x480
+[2024-08-08 00:00:37,255]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:37,255]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:37,255]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:37,256]75INFO-Resized image to 720x480
+[2024-08-08 00:00:37,357]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:37,357]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:37,357]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:37,358]75INFO-Resized image to 720x480
+[2024-08-08 00:00:37,605]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:37,605]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:37,605]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:37,605]75INFO-Resized image to 720x480
+[2024-08-08 00:00:37,772]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:37,772]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:37,772]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:37,772]75INFO-Resized image to 720x480
+[2024-08-08 00:00:37,996]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:37,997]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:37,997]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:37,998]75INFO-Resized image to 720x480
+[2024-08-08 00:00:38,140]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:38,140]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:38,140]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:38,141]75INFO-Resized image to 720x480
+[2024-08-08 00:00:38,336]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:38,336]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:38,336]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:38,336]75INFO-Resized image to 720x480
+[2024-08-08 00:00:38,442]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:38,442]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:38,442]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:38,446]75INFO-Resized image to 720x480
+[2024-08-08 00:00:38,658]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:38,658]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:38,658]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:38,658]75INFO-Resized image to 720x480
+[2024-08-08 00:00:38,811]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:38,811]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:38,811]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:38,811]75INFO-Resized image to 720x480
+[2024-08-08 00:00:39,070]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:39,070]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:39,070]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:39,070]75INFO-Resized image to 720x480
+[2024-08-08 00:00:39,227]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:39,227]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:39,227]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:39,227]75INFO-Resized image to 720x480
+[2024-08-08 00:00:39,395]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:39,395]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:39,395]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:39,395]75INFO-Resized image to 720x480
+[2024-08-08 00:00:39,585]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:39,585]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:39,585]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:39,585]75INFO-Resized image to 720x480
+[2024-08-08 00:00:39,760]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:39,760]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:39,760]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:39,761]75INFO-Resized image to 720x480
+[2024-08-08 00:00:39,886]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:39,886]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:39,886]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:39,887]75INFO-Resized image to 720x480
+[2024-08-08 00:00:40,132]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:40,132]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:40,132]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:40,132]75INFO-Resized image to 720x480
+[2024-08-08 00:00:40,306]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:40,306]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:40,306]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:40,306]75INFO-Resized image to 720x480
+[2024-08-08 00:00:40,503]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:40,503]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:40,503]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:40,504]75INFO-Resized image to 720x480
+[2024-08-08 00:00:40,668]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:40,668]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:40,668]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:40,669]75INFO-Resized image to 720x480
+[2024-08-08 00:00:40,876]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:40,876]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:40,876]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:40,876]75INFO-Resized image to 720x480
+[2024-08-08 00:00:41,029]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:41,029]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:41,029]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:41,044]75INFO-Resized image to 720x480
+[2024-08-08 00:00:41,222]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:41,222]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:41,222]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:41,223]75INFO-Resized image to 720x480
+[2024-08-08 00:00:41,327]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:41,327]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:41,327]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:41,327]75INFO-Resized image to 720x480
+[2024-08-08 00:00:41,549]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:41,549]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:41,549]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:41,549]75INFO-Resized image to 720x480
+[2024-08-08 00:00:41,686]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:41,686]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:41,686]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:41,686]75INFO-Resized image to 720x480
+[2024-08-08 00:00:41,922]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:41,922]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:41,922]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:41,922]75INFO-Resized image to 720x480
+[2024-08-08 00:00:42,126]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:42,126]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:42,126]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:42,127]75INFO-Resized image to 720x480
+[2024-08-08 00:00:42,230]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:42,230]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:42,230]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:42,234]75INFO-Resized image to 720x480
+[2024-08-08 00:00:42,508]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:42,508]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:42,508]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:42,508]75INFO-Resized image to 720x480
+[2024-08-08 00:00:42,648]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:42,648]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:42,648]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:42,649]75INFO-Resized image to 720x480
+[2024-08-08 00:00:42,791]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:42,791]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:42,791]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:42,791]75INFO-Resized image to 720x480
+[2024-08-08 00:00:43,030]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:43,030]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:43,030]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:43,032]75INFO-Resized image to 720x480
+[2024-08-08 00:00:43,208]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:43,209]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:43,209]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:43,210]75INFO-Resized image to 720x480
+[2024-08-08 00:00:43,394]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:43,395]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:43,395]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:43,395]75INFO-Resized image to 720x480
+[2024-08-08 00:00:43,498]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:43,498]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:43,498]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:43,499]75INFO-Resized image to 720x480
+[2024-08-08 00:00:43,699]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:43,699]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:43,699]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:43,699]75INFO-Resized image to 720x480
+[2024-08-08 00:00:43,846]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:43,846]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:43,846]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:43,846]75INFO-Resized image to 720x480
+[2024-08-08 00:00:44,082]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:44,082]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:44,082]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:44,082]75INFO-Resized image to 720x480
+[2024-08-08 00:00:44,260]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:44,260]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:44,260]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:44,260]75INFO-Resized image to 720x480
+[2024-08-08 00:00:44,419]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:44,419]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:44,419]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:44,419]75INFO-Resized image to 720x480
+[2024-08-08 00:00:44,561]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:44,561]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:44,561]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:44,561]75INFO-Resized image to 720x480
+[2024-08-08 00:00:44,782]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:44,782]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:44,782]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:44,783]75INFO-Resized image to 720x480
+[2024-08-08 00:00:45,016]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:45,016]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:45,016]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:45,016]75INFO-Resized image to 720x480
+[2024-08-08 00:00:45,135]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:45,135]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:45,135]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:45,135]75INFO-Resized image to 720x480
+[2024-08-08 00:00:45,395]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:45,395]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:45,395]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:45,395]75INFO-Resized image to 720x480
+[2024-08-08 00:00:45,490]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:45,490]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:45,490]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:45,491]75INFO-Resized image to 720x480
+[2024-08-08 00:00:45,775]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:45,775]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:45,775]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:45,775]75INFO-Resized image to 720x480
+[2024-08-08 00:00:45,907]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:45,907]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:45,907]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:45,908]75INFO-Resized image to 720x480
+[2024-08-08 00:00:46,083]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:46,083]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:46,083]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:46,083]75INFO-Resized image to 720x480
+[2024-08-08 00:00:46,290]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:46,290]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:46,290]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:46,292]75INFO-Resized image to 720x480
+[2024-08-08 00:00:46,383]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:46,384]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:46,384]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:46,385]75INFO-Resized image to 720x480
+[2024-08-08 00:00:46,647]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:46,647]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:46,647]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:46,647]75INFO-Resized image to 720x480
+[2024-08-08 00:00:46,805]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:46,805]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:46,805]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:46,805]75INFO-Resized image to 720x480
+[2024-08-08 00:00:46,991]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:46,991]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:46,991]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:46,991]75INFO-Resized image to 720x480
+[2024-08-08 00:00:47,207]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:47,207]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:47,207]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:47,209]75INFO-Resized image to 720x480
+[2024-08-08 00:00:47,291]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:47,292]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:47,292]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:47,293]75INFO-Resized image to 720x480
+[2024-08-08 00:00:47,509]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:47,509]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:47,509]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:47,509]75INFO-Resized image to 720x480
+[2024-08-08 00:00:47,686]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:47,686]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:47,686]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:47,686]75INFO-Resized image to 720x480
+[2024-08-08 00:00:47,814]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:47,814]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:47,814]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:47,814]75INFO-Resized image to 720x480
+[2024-08-08 00:00:48,082]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:48,082]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:48,082]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:48,082]75INFO-Resized image to 720x480
+[2024-08-08 00:00:48,228]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:48,228]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:48,228]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:48,228]75INFO-Resized image to 720x480
+[2024-08-08 00:00:48,404]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:48,404]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:48,404]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:48,404]75INFO-Resized image to 720x480
+[2024-08-08 00:00:48,624]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:48,624]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:48,624]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:48,626]75INFO-Resized image to 720x480
+[2024-08-08 00:00:48,736]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:48,736]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:48,736]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:48,737]75INFO-Resized image to 720x480
+[2024-08-08 00:00:48,929]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:48,929]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:48,929]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:48,929]75INFO-Resized image to 720x480
+[2024-08-08 00:00:49,148]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:49,148]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:49,148]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:49,149]75INFO-Resized image to 720x480
+[2024-08-08 00:00:49,316]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:49,316]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:49,316]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:49,316]75INFO-Resized image to 720x480
+[2024-08-08 00:00:49,897]69INFO-Image dimensions: 480x720x3
+[2024-08-08 00:00:49,897]70INFO-Expected dimensions: 720x480
+[2024-08-08 00:00:49,897]73WARNING-Image dimensions do not match expected dimensions
+[2024-08-08 00:00:49,897]75INFO-Resized image to 720x480
