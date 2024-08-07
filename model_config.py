@@ -7,6 +7,7 @@ from cv2 import rectangle
 from log import logging
 from ultralytics import YOLO
 import torch
+import traceback
 
 # Load models
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -112,4 +113,5 @@ def get_pose_from_frame(frame):
 
     except Exception as e:
         print("An error occurred in processing the video: %s", str(e))
+        traceback.print_exc()
         return {'r_ankle' : [None, None], 'l_ankle' : [None, None]}

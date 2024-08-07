@@ -46,7 +46,7 @@ def get_trigger(drill_type, detection_results_dict, pose_results_dict, frame_cou
         if count > 0:
             prev_count = count    
 
-        print(f"Count is {count} Trigger is {trigger} Frame Count is {frame_count}")
+        print(f"Count is {prev_count} Trigger is {trigger} Frame Count is {frame_count}")
         return prev_count, trigger
    
     return prev_count, False
