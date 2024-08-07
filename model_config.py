@@ -32,7 +32,7 @@ def get_coordinates_from_frame(frame):
     Returns:
         tuple: A tuple containing the results and frame.
     """
-    print(f"shape : {frame.shape}")
+    print(f"yolo detect shape : {frame.shape}")
     try:
         results = {}
         color = (0, 255, 0)  # Green for bounding boxes
@@ -65,7 +65,7 @@ def get_pose_from_frame(frame):
     Returns:
         dict: A dictionary containing the pose data.
     """
-
+    print(f"yolo pose shape : {frame.shape}")
     try:
         results = {}
         color = (0, 0, 255)  # Red for keypoints
@@ -73,6 +73,7 @@ def get_pose_from_frame(frame):
         pose_results = yolo_model_pose(frame)
 
         for pr in pose_results:
+            print(f"pose results>> ${pr}")
             if pr.keypoints is not None and len(pr.keypoints) > 0:
                 keypoint_mapping = {
                     'nose': 0, 'r_eye': 1, 'l_eye': 2, 'r_ear': 3, 'l_ear': 4,
@@ -104,6 +105,8 @@ def get_pose_from_frame(frame):
         
         if 'l_ankle' not in results:
             results['l_ankle'] = [None, None]
+
+        print(f"retuning pose result: ${results}")    
 
         return results
 
