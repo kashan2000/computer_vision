@@ -57,7 +57,7 @@ def get_coordinates_from_frame(frame):
     except Exception as e:
         print("An error occurred in object detection: %s", str(e))
         return {'ball': [None, None, None, None]}
-
+    
 def get_pose_from_frame(frame):
     """
     Process pose estimation from the given frame using YOLOv8-pose.
