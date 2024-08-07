@@ -1,0 +1,15 @@
+# Ignore the virtual environment directory
+flick/
+cv/logs/
+models/
+logs/
+analyzed_videos/
+csv/
+
+# Other files and directories to ignore can be added here
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pt
