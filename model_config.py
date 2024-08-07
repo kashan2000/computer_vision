@@ -84,23 +84,10 @@ def get_pose_from_frame(frame):
                 }
                 for key, idx in keypoint_mapping.items():
 
-                    # if len(pr.keypoints.xyn[0]) > 0:
+                    if len(pr.keypoints.xyn[0]) > 0:
                         if pr.keypoints.xyn[0][idx][0] != 0 and pr.keypoints.xyn[0][idx][1] != 0:
                             keypoint_list = pr.keypoints.xyn[0][idx].tolist()
-                            results[key] = keypoint_list
-
-                    # if len(pr.keypoints.xyn[0]) > 0:
-                    #     print(f"value of idx> {idx}")
-                    #     print(f"length of list is {len(pr.keypoints.xyn[0])}")
-                    #     keypoint_list = pr.keypoints.xyn[0][idx].tolist()
-                    #     confidence = pr.keypoints.conf[0][idx] if hasattr(pr.keypoints, 'conf') else 1.0
-                    #     # print(f"Detected {key}: {keypoint_list} with confidence {confidence}")
-                    #     if keypoint_list[0] != 0 and keypoint_list[1] != 0:
-                    #         results[key] = keypoint_list
-                    #     else:
-                    #         print(f"{key} coordinates are zero.")
-                    # else:
-                        # print(f"{key} not detected or keypoints array is empty.")        
+                            results[key] = keypoint_list  
                         
                 # # Calculate neck point
                 # if 'r_shoulder' in results and 'l_shoulder' in results:
@@ -130,3 +117,20 @@ def get_pose_from_frame(frame):
         print("An error occurred in processing the video: %s", str(e))
         traceback.print_exc()
         return {'r_ankle' : [None, None], 'l_ankle' : [None, None]}
+    
+
+
+
+
+# if len(pr.keypoints.xyn[0]) > 0:
+#     print(f"value of idx> {idx}")
+#     print(f"length of list is {len(pr.keypoints.xyn[0])}")
+#     keypoint_list = pr.keypoints.xyn[0][idx].tolist()
+#     confidence = pr.keypoints.conf[0][idx] if hasattr(pr.keypoints, 'conf') else 1.0
+#     # print(f"Detected {key}: {keypoint_list} with confidence {confidence}")
+#     if keypoint_list[0] != 0 and keypoint_list[1] != 0:
+#         results[key] = keypoint_list
+#     else:
+#         print(f"{key} coordinates are zero.")
+# else:
+    # print(f"{key} not detected or keypoints array is empty.")          
