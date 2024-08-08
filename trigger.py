@@ -10,11 +10,12 @@ from counts import (
 #         "func": toe_tap_trigger
 #     }
 # ]
+prev_count = 0
 
 
 def get_trigger(drill_type, detection_results_dict, pose_results_dict, frame_count):
 
-    prev_count = 0
+    global prev_count    
     if frame_count in detection_results_dict and frame_count in pose_results_dict:
         merged_data = {
             'frame_count': frame_count,
