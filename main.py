@@ -61,7 +61,7 @@ async def process_frame(frame_data: FrameData):
         # Convert BGR to RGB
         frame_np = cv2.cvtColor(frame_np, cv2.COLOR_BGR2RGB)
 
-        frame_np = cv2.rotate(frame_np, cv2.ROTATE_90_COUNTERCLOCKWISE)
+        # frame_np = cv2.rotate(frame_np, cv2.ROTATE_90_COUNTERCLOCKWISE)
 
 
         height, width, channels = frame_np.shape
