@@ -109,7 +109,8 @@ def toe_tap_trigger(data, frame_count):
     if PREV_LEFT_ANKLE_Y is None:
         PREV_LEFT_ANKLE_Y = left_ankle_y
 
-    MIN_DISTANCE_THRESHOLD = 0.70 * (ball_w + ball_h)
+    # MIN_DISTANCE_THRESHOLD = 0.70 * (ball_w + ball_h)
+    MIN_DISTANCE_THRESHOLD =  0.90 (ball_w + ball_h)
 
     # Determine the active ankle through y condition
     if left_ankle_y < right_ankle_y:
