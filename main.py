@@ -109,7 +109,8 @@ async def process_frame(frame_data: FrameData):
         return {
             "message": "Image processed successfully", 
             "count": frame_count, 
-            "trigger_result": trigger_result[0]   
+            "trigger_result": trigger_result[0],
+            "trigger_bool": trigger_result[1]   
         }
     except Exception as e:
         logger.error(f"Error processing frame: {e}")
